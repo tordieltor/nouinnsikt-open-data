@@ -1,0 +1,35 @@
+# Open Licensing & Attribution Notice — NOUinnsikt Open Raw-Data Archive
+
+This repository and its accompanying GitHub Release archives contain three distinct layers of open public knowledge and software, each licensed permissively for academic, journalistic, public-sector, civic, and commercial reuse:
+
+---
+
+## 1. Official Norwegian Public-Sector Documents & Parliamentary Records — NLOD 2.0 / Public Domain
+
+All underlying official texts of *Norges offentlige utredninger* (NOUs, 1972–2026), Royal Decree (*Statsråd*) appointment records, public consultation metadata (*høringer*), Government White Papers and Bills (*Meld. St.*, *Prop. L*, *Prop. S*), Stortinget roll-call votes and resolutions (*voteringer* and *stortingsvedtak*), and enacted statutory references originate from official Norwegian public institutions:
+
+- **Regjeringen.no** (Departementenes sikkerhets- og serviceorganisasjon / Ministries)
+- **Nasjonalbiblioteket (`nb.no`)** & **UiO DUO Vitenarkiv** (historical digitized NOUs 1972–1993)
+- **Stortinget (`data.stortinget.no`)** (open parliamentary proceedings and voting API)
+- **Lovdata (`lovdata.no`)** (promulgated statutory identifiers and enactment dates)
+
+Under the Norwegian Copyright Act (*Åndsverkloven § 14*), laws, regulations, court decisions, and official public deliberations/commission inquiries published by public authorities are exempt from copyright protection. Re-use of structured public-sector datasets follows the **Norwegian Licence for Open Government Data (NLOD 2.0)** (`https://data.norge.no/nlod/no/2.0`), which is compatible with **CC BY 4.0**. Please attribute the originating official source when quoting verbatim NOU passages.
+
+---
+
+## 2. NOUinnsikt Curated Datasets, Enrichments & Audio Overviews — CC BY 4.0
+
+All value-added structured datasets, OCR-washed text normalizations, scrubbed 20,250-record committee & organizational rosters, 2-tier public administration taxonomy classifications, 626-item minority dissent catalog, 54-year corporatist & gender diversity metrics, inter-NOU citation graphs, legislative measure-to-statute alignments, Nynorsk executive summaries, 768-dimensional vector embeddings, and 758 synthesized dual-host audio overviews (MP3) are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**:
+
+- License text: https://creativecommons.org/licenses/by/4.0/
+- Required attribution: **"NOUinnsikt Open Archive (1972–2026)"** with a link to this GitHub repository.
+
+---
+
+## 3. Helper Scripts, Schemas & Static Archive Landing Page — MIT License
+
+Copyright (c) 2026 NOUinnsikt Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the software, SQL schemas, loader examples, and static HTML/CSS/JS files in this repository, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the above copyright notice and this permission notice being included in all copies or substantial portions of the Software.
+
+THE SOFTWARE AND DATASETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. ALWAYS VERIFY STATUTORY OR LEGAL CITATIONS AGAINST PRIMARY OFFICIAL SOURCES AT REGJERINGEN.NO, STORTINGET.NO, AND LOVDATA.NO.

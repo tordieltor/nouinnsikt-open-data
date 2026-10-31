@@ -1,0 +1,1997 @@
+[
+  {
+    "id": "utvalg-3110382",
+    "slug": "ekspropriasjonsavklaringsutvalget",
+    "title": "Ekspropriasjonsavklaringsutvalget",
+    "ministry": "Justis- og beredskapsdepartementet",
+    "ministry_code": "JD",
+    "appointed_date": "2025-06-20",
+    "deadline": "2026-06-20",
+    "deadline_display": "Sommaren 2026",
+    "expected_delivery_year": 2026,
+    "leader": {
+      "name": "Jussi Erik Pedersen",
+      "title": "Lagdommer",
+      "location": "Tromsø",
+      "affiliation": "Gulating lagmannsrett"
+    },
+    "members": [
+      {
+        "name": "Birgitte Bie Mørkved",
+        "title": "Advokat",
+        "location": "Hamar",
+        "affiliation": null
+      },
+      {
+        "name": "Sven Ole Fagernes",
+        "title": "Pensjonert regjeringsadvokat",
+        "location": "Oslo",
+        "affiliation": null
+      }
+    ],
+    "members_count": 3,
+    "mandate_summary": "Utvalet skal utreie endringar i prosessreglane for å oppnå tidlegare rettsleg avklaring av ugyldigheitsanførsler i ekspropriasjonssaker, særleg ved kraft- og infrastrukturutbygging, for å sikre betre prosessar og rettstryggleik for partane.",
+    "source_url": "https://www.regjeringen.no/no/dep/jd/org/styre-rad-og-utval/tidsbegrensede-styrer-rad-og-utvalg/utvalg-som-skal-utrede-tidligere-rettslig-avklaring-i-ekspropriasjonssaker/id3110382/",
+    "external_url": "https://nettsteder.regjeringen.no/ekspropriasjonsavklaringsutvalget/",
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00Z"
+  },
+  {
+    "id": "utvalg-3144542",
+    "slug": "skattekommisjonen",
+    "title": "Skattekommisjonen",
+    "ministry": "Finansdepartementet",
+    "ministry_code": "FIN",
+    "appointed_date": "2025-12-19",
+    "deadline": "2026-07-01",
+    "deadline_display": "1. juli 2026",
+    "expected_delivery_year": 2026,
+    "leader": {
+      "name": "Eigil Knutsen",
+      "title": "Tidligere stortingsrepresentant",
+      "location": "Bergen",
+      "affiliation": null
+    },
+    "members": [
+      {
+        "name": "Lars Erik Bartnes",
+        "title": "Daglig leder",
+        "location": "Bærum",
+        "affiliation": null
+      },
+      {
+        "name": "Jan Joachim Meidell Bjerke",
+        "title": "Advokat",
+        "location": "Oslo",
+        "affiliation": null
+      },
+      {
+        "name": "Ole-Andreas Elvik Næss",
+        "title": "Førsteamanuensis",
+        "location": "Bergen",
+        "affiliation": "NHH"
+      },
+      {
+        "name": "Ingrid Nergaard Fjeldstad",
+        "title": "Gruppesekretær",
+        "location": "Bergen",
+        "affiliation": null
+      },
+      {
+        "name": "Jon Gunnar Pedersen",
+        "title": "Partner",
+        "location": "Larvik",
+        "affiliation": null
+      },
+      {
+        "name": "Astrid-Kristine Hauge Rambøl",
+        "title": "Analytiker",
+        "location": "Oslo",
+        "affiliation": null
+      },
+      {
+        "name": "Ragnhild Camilla Schreiner",
+        "title": "Førsteamanuensis",
+        "location": "Oslo",
+        "affiliation": "Universitetet i Oslo"
+      },
+      {
+        "name": "Hans Olav Syversen",
+        "title": "Leder myndighetskontakt",
+        "location": "Oslo",
+        "affiliation": null
+      },
+      {
+        "name": "Hilde Thorstad",
+        "title": "Advokat",
+        "location": "Oslo",
+        "affiliation": null
+      },
+      {
+        "name": "Torkil Vederhus",
+        "title": "IT-utvikler",
+        "location": "Oslo",
+        "affiliation": null
+      },
+      {
+        "name": "Camilla Bakken Øvald",
+        "title": "Førsteamanuensis",
+        "location": "Oslo",
+        "affiliation": "Høyskolen Kristiania"
+      }
+    ],
+    "members_count": 12,
+    "mandate_summary": "Kommisjonen skal gi tilrådingar til ei heilskapleg skattereform som sikrar eit konkurransedyktig skattenivå for norsk næringsliv, vurderer balansen mellom ulike skattar og avgifter, og bidreg til eit føreseieleg skattesystem med brei politisk forankring.",
+    "source_url": "https://www.regjeringen.no/no/dep/fin/org/styrer-rad-og-utvalg-oppnevnt-av-finansdepartementet2/skattekommisjonen/id3144542/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00Z"
+  },
+  {
+    "id": "utvalg-3158080",
+    "slug": "tidlig-tilgang-legemidler",
+    "title": "Ekspertgruppe om tidlig tilgang til legemidler",
+    "ministry": "Helse- og omsorgsdepartementet",
+    "ministry_code": "HOD",
+    "appointed_date": "2026-05-02",
+    "deadline": "2026-10-02",
+    "deadline_display": "Høsten 2026",
+    "expected_delivery_year": 2026,
+    "leader": {
+      "name": "Bjørn Henning Østenstad",
+      "title": "Professor i rettsvitenskap ved UiB",
+      "location": "Øygarden"
+    },
+    "members": [
+      {
+        "name": "Tove Bergh",
+        "title": "Styreleder i ALS Norge",
+        "location": "Oslo"
+      },
+      {
+        "name": "Morten Magelssen",
+        "title": "Professor i medisinsk etikk ved UiO",
+        "location": "Oslo"
+      },
+      {
+        "name": "Liv Mathiesen",
+        "title": "Professor i farmasi ved UiO",
+        "location": "Oslo"
+      },
+      {
+        "name": "Cathrine Nordstrand",
+        "title": "Styremedlem i ALS-foreningen Alltid Litt Sterkere",
+        "location": "Oslo"
+      }
+    ],
+    "members_count": 5,
+    "mandate_summary": "Ekspertgruppen skal utrede hvordan pasienter med alvorlig og livstruende sykdom, kort forventet levetid og uten tilgjengelige behandlingsalternativer kan få tidligere tilgang til legemidler med begrenset dokumentasjon utenfor kliniske studier, herunder gi et kunnskapsbasert grunnlag for å vurdere endringer i ordningen for godkjenningsfritak.",
+    "source_url": "https://www.regjeringen.no/no/aktuelt/regjeringen-setter-ned-ekspertgruppe-om-tidlig-tilgang-til-legemidler/id3158080/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3138380",
+    "slug": "etikkutvalget-spu",
+    "title": "Etikkutvalget for Statens pensjonsfond utland",
+    "ministry": "Finansdepartementet",
+    "ministry_code": "FIN",
+    "appointed_date": "2025-11-07",
+    "deadline": "2026-10-15",
+    "deadline_display": "15. oktober 2026",
+    "expected_delivery_year": 2026,
+    "leader": {
+      "name": "Svein Gjedrem",
+      "title": "Samfunnsøkonom og tidl. sentralbanksjef",
+      "location": "Oslo"
+    },
+    "members": [
+      {
+        "name": "Annie Bersagel",
+        "title": "Direktør for ansvarlige investeringer",
+        "location": "Oslo"
+      },
+      {
+        "name": "Alexander Wright Cappelen",
+        "title": "Professor i økonomi ved NHH",
+        "location": "Bergen"
+      },
+      {
+        "name": "Marius Emberland",
+        "title": "Professor i rettsvitenskap ved UiO",
+        "location": "Oslo"
+      },
+      {
+        "name": "Gunhild Hoogensen Gjørv",
+        "title": "Professor i sikkerhetsstudier ved UiT",
+        "location": "Tromsø"
+      },
+      {
+        "name": "Hanne Eggen Røislien",
+        "title": "Forsker",
+        "location": "Oslo"
+      },
+      {
+        "name": "Arthur Sletteberg",
+        "title": "Administrerende direktør",
+        "location": "Oslo"
+      },
+      {
+        "name": "Ulf Sverdrup",
+        "title": "Professor ved Handelshøyskolen BI",
+        "location": "Bærum"
+      },
+      {
+        "name": "Karen Helene Ulltveit-Moe",
+        "title": "Professor i samfunnsøkonomi ved UiO",
+        "location": "Oslo"
+      }
+    ],
+    "members_count": 9,
+    "mandate_summary": "Utvalget skal vurdere utformingen av og foreslå endringer i det etiske rammeverket for Statens pensjonsfond utland (SPU). Utvalget skal gjennomgå de etiske retningslinjene, kriteriene for utelukkelse og observasjon av selskaper, samt virkemidler for ansvarlig forvaltning i lys av globale utviklingstrekk og geopolitiske endringer.",
+    "source_url": "https://www.regjeringen.no/no/dep/fin/org/styrer-rad-og-utvalg-oppnevnt-av-finansdepartementet2/utvalg-skal-vurdere-det-etiske-rammeverket-for-statens-pensjonsfond-utland/id3138380/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3148088",
+    "slug": "matsystemutvalget",
+    "title": "Matsystemutvalget",
+    "ministry": "Landbruks- og matdepartementet",
+    "ministry_code": "LMD",
+    "appointed_date": "2025-02-07",
+    "deadline": "2026-11-01",
+    "deadline_display": "1. november 2026",
+    "expected_delivery_year": 2026,
+    "leader": {
+      "name": "Bent Høie",
+      "title": "Statsforvalter i Rogaland",
+      "location": "Stavanger"
+    },
+    "members": [
+      {
+        "name": "Lene Frost Andersen",
+        "title": "Professor ved Universitetet i Oslo",
+        "location": "Oslo"
+      },
+      {
+        "name": "Dagmar Hagen",
+        "title": "Forskningsdirektør ved NINA",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Ruth Haug",
+        "title": "Professor ved NMBU",
+        "location": "Oslo"
+      },
+      {
+        "name": "Audun Korsæth",
+        "title": "Divisjonsdirektør ved NIBIO",
+        "location": "Ringsaker"
+      },
+      {
+        "name": "Maria Malene Kvalevåg",
+        "title": "Nestleder i AMAP-sekretariatet",
+        "location": "Tromsø"
+      },
+      {
+        "name": "Helle Margrete Meltzer",
+        "title": "Forsker og dr.philos.",
+        "location": "Oslo"
+      },
+      {
+        "name": "Amund Måge",
+        "title": "Forskningssjef ved Havforskningsinstituttet",
+        "location": "Ullensvang"
+      },
+      {
+        "name": "Ivar Pettersen",
+        "title": "Samfunnsøkonom",
+        "location": "Sandefjord"
+      },
+      {
+        "name": "Ulf Sverdrup",
+        "title": "Professor ved Handelshøyskolen BI",
+        "location": "Bærum"
+      },
+      {
+        "name": "Bente Torstensen",
+        "title": "Administrerende direktør i Nofima",
+        "location": "Bergen"
+      },
+      {
+        "name": "Yngvild Wasteson",
+        "title": "Professor ved NMBU",
+        "location": "Oslo"
+      },
+      {
+        "name": "Ola T. Westengen",
+        "title": "Professor ved NMBU",
+        "location": "Ås"
+      }
+    ],
+    "members_count": 13,
+    "mandate_summary": "Matsystemutvalget skal gjøre rede for muligheter, utfordringer og dilemmaer i fremtidens matsystem. Utvalget skal komme med anbefalinger og tiltak som kan styrke bærekraften i det norske matsystemet på tvers av blå og grønn sektor, samt bidra til at det globale matsystemet blir mer bærekraftig.",
+    "source_url": "https://www.regjeringen.no/no/aktuelt/matsystemutvalget-arrangerer-innspillsmote-i-trondheim-10.-februar/id3148088/",
+    "external_url": "https://nettsteder.regjeringen.no/matsystemutvalget/",
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3111755",
+    "slug": "rusbehandlingsutvalget",
+    "title": "Rusbehandlingsutvalget",
+    "ministry": "Helse- og omsorgsdepartementet",
+    "ministry_code": "HOD",
+    "appointed_date": "2025-06-20",
+    "deadline": "2026-12-01",
+    "deadline_display": "1. desember 2026",
+    "expected_delivery_year": 2026,
+    "leader": {
+      "name": "Guri Spilhaug",
+      "title": "Spesialist i rus- og avhengighetsmedisin",
+      "location": "Nittedal"
+    },
+    "members": [
+      {
+        "name": "Espen Ajo Arnevik",
+        "title": "Avdelingsleder",
+        "location": "Bærum"
+      },
+      {
+        "name": "Stian Nissen Biong",
+        "title": "Fagsjef",
+        "location": "Asker"
+      },
+      {
+        "name": "Jørgen Gustav Bramness",
+        "title": "Professor og seniorforsker",
+        "location": "Oslo"
+      },
+      {
+        "name": "Per Gunnar Karstenson Dahl",
+        "title": "Bransjedirektør",
+        "location": "Oslo"
+      },
+      {
+        "name": "Minna Kuoppamäki Hansen",
+        "title": "Avdelingsoverlege",
+        "location": "Tromsø"
+      },
+      {
+        "name": "Kine Haugen",
+        "title": "Seksjonsleder",
+        "location": "Frogn"
+      },
+      {
+        "name": "Marianne Hindrum Hyldmo",
+        "title": "Kommunaldirektør",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Dagfinn Haarr",
+        "title": "Spesialist i allmennmedisin og samfunnsmedisin",
+        "location": "Kristiansand"
+      },
+      {
+        "name": "Dani Kabole Kalenga",
+        "title": "Seksjonsleder",
+        "location": "Oslo"
+      },
+      {
+        "name": "Kristin Johannessen Kirsebom",
+        "title": "Kommunedirektør",
+        "location": "Tønsberg"
+      },
+      {
+        "name": "Marianne Cook Pierron",
+        "title": "Daglig leder",
+        "location": "Bergen"
+      },
+      {
+        "name": "Åse Prestvik",
+        "title": "Fagsjef",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Ragnhild Torvik Refsnes",
+        "title": "Psykolog",
+        "location": "Molde"
+      },
+      {
+        "name": "Espen Gade Rolland",
+        "title": "Førstelektor",
+        "location": "Drammen"
+      },
+      {
+        "name": "Tommy Sjåfjell",
+        "title": "Rådgiver",
+        "location": "Larvik"
+      },
+      {
+        "name": "Marianne Melås Solberg",
+        "title": "Forbundsleder",
+        "location": "Drammen"
+      },
+      {
+        "name": "Karl Harald Søvig",
+        "title": "Professor i rettsvitenskap ved UiB",
+        "location": "Bergen"
+      },
+      {
+        "name": "Lars Ravn Øhlckers",
+        "title": "Assisterende fagdirektør",
+        "location": "Stavanger"
+      },
+      {
+        "name": "Hanne Lorimer Aamodt",
+        "title": "Fag- og forskningsleder",
+        "location": "Oslo"
+      }
+    ],
+    "members_count": 20,
+    "mandate_summary": "Rusbehandlingsutvalget skal utrede og foreslå helhetlige tiltak for å styrke behandlingen og oppfølgingen av personer med rusmiddelproblemer og avhengighet. Utvalget følger opp Forebyggings- og behandlingsreformen (Meld. St. 5 (2024–2025)) og skal vurdere samhandlingen mellom spesialisthelsetjenesten og den kommunale helse- og omsorgstjenesten.",
+    "source_url": "https://www.regjeringen.no/no/dep/hod/organiseringen-av-helse-og-omsorgsdepartementet/styrer-rad-og-utvalg/rusbehandlingsutvalget/id3111755/",
+    "external_url": "https://nettsteder.regjeringen.no/rusbehandlingsutvalget/",
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3168365",
+    "slug": "fiskerpensjon-utvalget",
+    "title": "Utvalg for modernisering av fiskerpensjonen",
+    "ministry": "Arbeids- og inkluderingsdepartementet",
+    "ministry_code": "AID",
+    "appointed_date": "2026-07-02",
+    "deadline": "2026-12-22",
+    "deadline_display": "22. desember 2026",
+    "expected_delivery_year": 2026,
+    "leader": {
+      "name": "Åmund T. Lunde",
+      "title": "Direktør i Maritim pensjonskasse",
+      "location": "Oslo"
+    },
+    "members": [
+      {
+        "name": "Sturla Roald",
+        "title": "Assisterende direktør i Fiskebåt",
+        "location": "Ålesund"
+      },
+      {
+        "name": "Line Gråwe",
+        "title": "Rådgiver i Norges Fiskarlag (Mannskapsseksjonen)",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Heidi Rånes",
+        "title": "Seksjonsleder i Norges Fiskarlag (Båteierseksjonen)",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Hanna Arctander",
+        "title": "Daglig leder i Norges Kystfiskarlag",
+        "location": "Vestvågøy"
+      },
+      {
+        "name": "Ann Jorunn Olsen",
+        "title": "Leder for fiskeriavdelingen i Norsk Sjømannsforbund",
+        "location": "Vågan"
+      },
+      {
+        "name": "Ask Økland",
+        "title": "Advokat i Pelagisk Forening",
+        "location": "Bergen"
+      },
+      {
+        "name": "Trond Løfgren",
+        "title": "Avdelingsleder i Norsk Sjøoffisersforbund",
+        "location": "Oslo"
+      },
+      {
+        "name": "Rune H. Kristoffersen",
+        "title": "Juridisk direktør i Statens pensjonskasse",
+        "location": "Oslo"
+      }
+    ],
+    "members_count": 9,
+    "mandate_summary": "Utvalget skal vurdere og komme med forslag til framtidens pensjonsordning for fiskere. Utvalget skal blant annet utrede en modernisering av fiskerpensjonen etter mønster av pensjonsordningen for arbeidstakere til sjøs (PAS), vurdere dette opp mot videreføring eller justering av dagens ordning, vurdere behovet for overgangsordninger for dagens medlemmer, samt utrede de økonomiske og administrative konsekvensene av de ulike alternativene.",
+    "source_url": "https://www.regjeringen.no/no/aktuelt/utvalg-skal-vurdere-modernisering-av-fiskerpensjonen/id3168365/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3144145",
+    "slug": "bostotteutvalget",
+    "title": "Bostøtteutvalget",
+    "ministry": "Kommunal- og distriktsdepartementet",
+    "ministry_code": "KDD",
+    "appointed_date": "2025-12-19",
+    "deadline": "2026-12-31",
+    "deadline_display": "31. desember 2026",
+    "expected_delivery_year": 2026,
+    "leader": {
+      "name": "Kristin Aarland",
+      "title": "Forsker I ved OsloMet",
+      "location": "Bærum"
+    },
+    "members": [
+      {
+        "name": "André Kallåk Anundsen",
+        "title": "Analytiker og forsker",
+        "location": "Porsgrunn"
+      },
+      {
+        "name": "Parminder Kaur Bisal",
+        "title": "Rådgiver",
+        "location": "Drammen"
+      },
+      {
+        "name": "Øystein Nilsen",
+        "title": "Spesialrådgiver",
+        "location": "Nordre Follo"
+      },
+      {
+        "name": "Axel West Pedersen",
+        "title": "Professor ved OsloMet",
+        "location": "Bærum"
+      },
+      {
+        "name": "Marianne Pleym",
+        "title": "Enhetsleder",
+        "location": "Tromsø"
+      },
+      {
+        "name": "Kjell Vaage",
+        "title": "Professor ved Universitetet i Bergen",
+        "location": "Bergen"
+      },
+      {
+        "name": "Kjell Gunnar Salvanes",
+        "title": "Professor ved NHH",
+        "location": "Bergen"
+      }
+    ],
+    "members_count": 8,
+    "mandate_summary": "Bostøtteutvalget skal foreta en bred vurdering av bostøtteordningens formål og rolle for husholdningene og som en del av bolig- og sosialpolitikken. Utvalget skal blant annet vurdere hvilken rolle bostøtten spiller for husholdningenes bosituasjon, hvordan bostøtten henger sammen med andre offentlige ytelser og arbeidslinjen, samt legge særlig vekt på leieres situasjon på boligmarkedet.",
+    "source_url": "https://www.regjeringen.no/no/aktuelt/utvalg-skal-vurdere-bostottens-rolle/id3144145/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3148010",
+    "slug": "lesekommisjonen",
+    "title": "Lesekommisjonen",
+    "ministry": "Kunnskapsdepartementet",
+    "ministry_code": "KD",
+    "appointed_date": "2026-02-05",
+    "deadline": "2026-12-31",
+    "deadline_display": "Utgangen av 2026",
+    "expected_delivery_year": 2026,
+    "leader": {
+      "name": "Marte Blikstad-Balas",
+      "title": "Professor",
+      "location": "Oslo",
+      "affiliation": "Universitetet i Oslo"
+    },
+    "members": [
+      {
+        "name": "Arne Johannes Aasen",
+        "title": "Senterleder",
+        "location": "Trondheim",
+        "affiliation": "Nasjonalt senter for skriveopplæring og skriveforskning, NTNU"
+      },
+      {
+        "name": "Terje Eide",
+        "title": "Rektor",
+        "location": "Fiksdal",
+        "affiliation": "Fiksdal Friskule"
+      },
+      {
+        "name": "Bjarte Furnes",
+        "title": "Førsteamanuensis i spesialpedagogikk",
+        "location": "Bergen",
+        "affiliation": "Universitetet i Bergen"
+      },
+      {
+        "name": "Karianne Megard Grønli",
+        "title": "Postdoktor",
+        "location": "Stavanger",
+        "affiliation": "Nasjonalt senter for leseopplæring og leseforskning, UiS"
+      },
+      {
+        "name": "Line H. Hjellup",
+        "title": "Lærer og skolebibliotekar",
+        "location": "Lindesnes",
+        "affiliation": "Spangereid skole"
+      },
+      {
+        "name": "Trond Johnsen",
+        "title": "Spesialrådgiver",
+        "location": "Lillehammer",
+        "affiliation": "Lillehammer kommune"
+      },
+      {
+        "name": "Alexander Øverås Karlsen",
+        "title": "Avdelingsleder og norsklektor",
+        "location": "Trondheim",
+        "affiliation": "Rosenborg skole"
+      },
+      {
+        "name": "Veslemøy Rydland",
+        "title": "Professor",
+        "location": "Oslo",
+        "affiliation": "Universitetet i Oslo"
+      },
+      {
+        "name": "Veronica Salinas",
+        "title": "Forfatter og forsker",
+        "location": "Oslo",
+        "affiliation": "Norsk barnebokinstitutt"
+      },
+      {
+        "name": "Annette Dorthea Steinmo",
+        "title": "Leseløftlærer",
+        "location": "Sandnes",
+        "affiliation": "Hana barneskole"
+      },
+      {
+        "name": "Arne Svingen",
+        "title": "Forfatter",
+        "location": "Oslo",
+        "affiliation": null
+      },
+      {
+        "name": "Marianne Texmo",
+        "title": "Lektor",
+        "location": "Bodø",
+        "affiliation": "Bodin videregående skole"
+      }
+    ],
+    "members_count": 13,
+    "mandate_summary": "Kommisjonen skal gi forskingsbaserte råd om god leseopplæring og styrkt leselyst blant barn og unge, med konkrete tilrådingar til korleis barnehagar, skular, lærarutdanningar og heimen kan samarbeide strategisk for å utvikle gode lesarar.",
+    "source_url": "https://www.regjeringen.no/no/aktuelt/ny-lesekommisjon-skal-gi-nasjonale-rad-om-lesing/id3148010/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00Z"
+  },
+  {
+    "id": "utvalg-3110413",
+    "slug": "salaersatsutvalget",
+    "title": "Salærsatsutvalget (Godtgjørelse til forsvarere)",
+    "ministry": "Justis- og beredskapsdepartementet",
+    "ministry_code": "JD",
+    "appointed_date": "2025-06-20",
+    "deadline": "2026-12-31",
+    "deadline_display": "31. desember 2026",
+    "expected_delivery_year": 2026,
+    "leader": {
+      "name": "Ivar K. Iversen",
+      "title": "Sorenskriver i Trøndelag tingrett",
+      "location": "Trondheim"
+    },
+    "members": [
+      {
+        "name": "Hege Skaanes Nyhus",
+        "title": "Avdelingsdirektør i Domstoladministrasjonen",
+        "location": "Oslo"
+      },
+      {
+        "name": "Jann Ola Berget",
+        "title": "Avdelingsdirektør",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Oddvar Martin Kaarbøe",
+        "title": "Professor i helse- og samfunnsøkonomi ved UiB",
+        "location": "Bergen"
+      },
+      {
+        "name": "Mette Yvonne Larsen",
+        "title": "Advokat",
+        "location": "Nesodden"
+      }
+    ],
+    "members_count": 5,
+    "mandate_summary": "Salærsatsutvalget skal foreta en helhetlig gjennomgang av salærordningen og regelverket knyttet til godtgjøring til advokater, sakkyndige og tolker i offentlige oppdrag ved fri rettshjelp og straffesaker. Utvalget skal foreslå en helhetlig regulering og organisering som sikrer rettssikkerhet og kvalitet samtidig som statens ressurser benyttes kostnadseffektivt.",
+    "source_url": "https://www.regjeringen.no/no/dep/jd/org/styre-rad-og-utval/tidsbegrensede-styrer-rad-og-utvalg/offentlig-utvalg-som-skal-utrede-ordningen-med-godtgjoring-til-advokater-sakkyndige-og-tolker-i-offentlige-oppdrag/id3110413/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3114028",
+    "slug": "kommunekommisjonen",
+    "title": "Kommunekommisjonen (Statlig styring av kommunene)",
+    "ministry": "Kommunal- og distriktsdepartementet",
+    "ministry_code": "KDD",
+    "appointed_date": "2025-05-23",
+    "deadline": null,
+    "deadline_display": "I løpet av 2026",
+    "expected_delivery_year": 2026,
+    "leader": {
+      "name": "Eivind Dale",
+      "title": "Spesialrådgiver og tidligere departementsråd",
+      "location": "Ås"
+    },
+    "members": [
+      {
+        "name": "Mette Nord",
+        "title": "Forbundsleder i Fagforbundet (LO)",
+        "location": "Porsgrunn"
+      },
+      {
+        "name": "Geir Røsvoll",
+        "title": "Forbundsleder i Utdanningsforbundet (Unio)",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Helge Eide",
+        "title": "Områdedirektør samfunn, velferd og demokrati i KS",
+        "location": "Lillestrøm"
+      },
+      {
+        "name": "Ivar Bühring Prestbakmo",
+        "title": "Selvstendig næringsdrivende og tidligere statssekretær",
+        "location": "Salangen"
+      },
+      {
+        "name": "Rita Irene Ottervik",
+        "title": "Tidligere ordfører",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Monica Mæland",
+        "title": "Administrerende direktør i Bergen Næringsråd",
+        "location": "Bergen"
+      },
+      {
+        "name": "Anna Camilla Mattsdotter Bruno Dunsæd",
+        "title": "Kommunedirektør i Kristiansand kommune",
+        "location": "Kristiansand"
+      },
+      {
+        "name": "Jørgen Holten Jørgensen",
+        "title": "Kommunedirektør i Tana kommune",
+        "location": "Tana"
+      },
+      {
+        "name": "Signy Irene Vabo",
+        "title": "Professor i statsvitenskap ved UiO",
+        "location": "Oslo"
+      },
+      {
+        "name": "Lars-Erik Borge",
+        "title": "Professor i samfunnsøkonomi ved NTNU",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Heidi Merete Rudi",
+        "title": "Pasient- og brukerombud og sosial- og eldreombud",
+        "location": "Nordre Follo"
+      }
+    ],
+    "members_count": 12,
+    "mandate_summary": "Kommunekommisjonen skal foreslå endringer i statens styring av kommunesektoren som legger til rette for god ressursbruk, fleksibel bruk av personell og effektiv oppgaveløsning i kommuner og fylkeskommuner, herunder redusere unødvendig detaljstyring og rapporteringskrav.",
+    "source_url": "https://www.regjeringen.no/no/dep/kdd/org/styrer-rad-og-utvalg/kommunekommisjonen/id3114028/",
+    "external_url": "https://nettsteder.regjeringen.no/kommunekommisjonen/",
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3111352",
+    "slug": "politirolleutvalget",
+    "title": "Politirolleutvalget (Politiets rolle i samfunnet)",
+    "ministry": "Justis- og beredskapsdepartementet",
+    "ministry_code": "JD",
+    "appointed_date": "2025-06-24",
+    "deadline": "2027-02-15",
+    "deadline_display": "15. februar 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Geir Sverre Braut",
+      "title": "Professor og spesialrådgiver",
+      "location": "Time"
+    },
+    "members": [
+      {
+        "name": "Nils Kalstad",
+        "title": "Direktør",
+        "location": "Gausdal"
+      },
+      {
+        "name": "Marianne Haraldsvik",
+        "title": "Samfunnsøkonom",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Ole Bredrup Sæverud",
+        "title": "Politimester i Troms politidistrikt",
+        "location": "Tromsø"
+      },
+      {
+        "name": "Masood Fazal",
+        "title": "Politioverbetjent",
+        "location": "Oslo"
+      },
+      {
+        "name": "Janne By Vollset",
+        "title": "Politiførstebetjent",
+        "location": "Halden"
+      },
+      {
+        "name": "Lise Hellebø Rykkja",
+        "title": "Professor i statsvitenskap ved UiB",
+        "location": "Bergen"
+      },
+      {
+        "name": "Tom Cato Karlsen",
+        "title": "Statsforvalter i Nordland",
+        "location": "Bodø"
+      },
+      {
+        "name": "Vivi Lassen",
+        "title": "Seniorrådgiver",
+        "location": "Oslo"
+      }
+    ],
+    "members_count": 9,
+    "mandate_summary": "Politirolleutvalget skal utrede politiets rolle i samfunnet i et 10–20 års perspektiv. Utvalget skal vurdere relevansen av de ti grunnprinsippene for politiet fra 1981, definere og presisere politiets kjerneoppgaver opp mot andre samfunnsaktører, vurdere politiets forebyggende arbeid, vurdere endringsbehov i rekruttering og kompetanseutvikling, samt foreslå tiltak for mer effektiv oppgaveløsning og prioritering.",
+    "source_url": "https://www.regjeringen.no/no/dep/jd/org/styre-rad-og-utval/tidsbegrensede-styrer-rad-og-utvalg/utvalg-som-skal-utrede-politiets-rolle-i-samfunnet/id3111352/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3158708",
+    "slug": "doktorgradsutdanning",
+    "title": "Ekspertgruppe for fremtidens doktorgradsutdanning",
+    "ministry": "Kunnskapsdepartementet",
+    "ministry_code": "KD",
+    "appointed_date": "2026-02-02",
+    "deadline": "2027-03-01",
+    "deadline_display": "1. mars 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Silje Haus-Reve",
+      "title": "Professor i innovasjon ved UiS og forsker II ved NORCE",
+      "location": "Stavanger"
+    },
+    "members": [
+      {
+        "name": "Jonas Stein",
+        "title": "Viserektor ved UiT (nestleder)",
+        "location": "Tromsø"
+      },
+      {
+        "name": "Jan Magnus Aronsen",
+        "title": "Førsteamanuensis ved UiO / OUS",
+        "location": "Oslo"
+      },
+      {
+        "name": "Asgeir J. Sørensen",
+        "title": "Professor ved NTNU",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Linn Merete Sandvold",
+        "title": "Leder og nærings-PhD-kandidat i Kongsberg Defence & Aerospace",
+        "location": "Kongsberg"
+      },
+      {
+        "name": "Lise Rye",
+        "title": "Professor ved NTNU",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Taran Thune",
+        "title": "Professor ved UiO og forsker I ved NIFU",
+        "location": "Oslo"
+      },
+      {
+        "name": "Bjarte Bye Løfaldli",
+        "title": "Forskningsleder i Kristiansund kommune og førsteamanuensis ved HiMolde",
+        "location": "Kristiansund"
+      },
+      {
+        "name": "Lene Tanggaard Pedersen",
+        "title": "Professor ved Aalborg Universitet",
+        "location": "Aalborg"
+      }
+    ],
+    "members_count": 9,
+    "mandate_summary": "Ekspertgruppen skal gi konkrete tilrådninger til myndigheter, forskningsinstitusjoner og arbeidsliv om tiltak som kan styrke kvalitet, relevans og innovasjon i doktorgradsutdanningen. Gruppen skal vurdere de nåværende rammene for forskerutdannelsen og gi råd om tiltak separat for fagområdene helse, samfunnsfag/humaniora og teknologi/naturvitenskap.",
+    "source_url": "https://www.regjeringen.no/no/dep/kd/org/styrer-rad-og-utvalg/ekspertgruppe-om-doktorgradsutdanning/id3158708/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3157081",
+    "slug": "rastoffkvalitet-fiskeri",
+    "title": "Ekspertgruppe om råstoffkvalitet i fiskerinæringen",
+    "ministry": "Nærings- og fiskeridepartementet",
+    "ministry_code": "NFD",
+    "appointed_date": "2026-04-22",
+    "deadline": "2027-03-01",
+    "deadline_display": "1. mars 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Kristina Sigurdsdottir Hansen",
+      "title": "Statssekretær i Nærings- og fiskeridepartementet",
+      "location": "Oslo"
+    },
+    "members": [
+      {
+        "name": "Jonette N. Braathen",
+        "title": "Rådgiver i Norges Råfisklag",
+        "location": "Tromsø"
+      },
+      {
+        "name": "Fredrik Greger",
+        "title": "Daglig leder i John Greger AS",
+        "location": "Røst"
+      },
+      {
+        "name": "Natalie Hagemann",
+        "title": "Fisker",
+        "location": "Ålesund"
+      },
+      {
+        "name": "Alice Helleberg",
+        "title": "Fisker",
+        "location": "Sola"
+      },
+      {
+        "name": "Morten Hyllborg Jensen",
+        "title": "Administrerende direktør i Nordic Group",
+        "location": "Oslo"
+      },
+      {
+        "name": "Arve Myklebust",
+        "title": "Fisker",
+        "location": "Herøy"
+      },
+      {
+        "name": "Anne-Beth Skrede",
+        "title": "Spesialrådgiver i LO",
+        "location": "Nordre Follo"
+      },
+      {
+        "name": "Victoria Solaas",
+        "title": "Kvalitetssjef i Lerøy Norway Seafoods",
+        "location": "Sortland"
+      },
+      {
+        "name": "Bård Thomas Østvang",
+        "title": "Divisjonsdirektør i Nofima",
+        "location": "Tromsø"
+      }
+    ],
+    "members_count": 10,
+    "mandate_summary": "Ekspertgruppen skal komme med råd og konkrete forslag til Nærings- og fiskeridepartementet om hvordan kvaliteten kan forbedres i verdikjeden for villfisk. Gruppen skal primært rette søkelyset mot primærleddet (fangstreguleringer og fartøyutforming) og førstehåndsomsetningen (kvalitetsdifferensiert prising og standarder) for å redusere kvalitetstap og øke verdiskapingen.",
+    "source_url": "https://www.regjeringen.no/no/aktuelt/ekspertgruppe-skal-gi-rad-om-bedre-rastoffkvalitet-i-fiskerinaringen/id3157081/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3170976",
+    "slug": "norske-lonnsvilkar-pa-cruiseskip",
+    "title": "Utvalg om norske lønnsvilkår på cruiseskip",
+    "ministry": "Nærings- og fiskeridepartementet",
+    "ministry_code": "NFD",
+    "appointed_date": "2026-08-21",
+    "deadline": "2027-03-19",
+    "deadline_display": "19. mars 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Liv Kristin Holmefjord",
+      "title": "Fagdirektør i Fiskeridirektoratet",
+      "location": "Bergen"
+    },
+    "members": [
+      {
+        "name": "Ingerid Marie Utvik",
+        "title": "Representant for LO",
+        "location": "Oslo"
+      },
+      {
+        "name": "Lena Dyring",
+        "title": "Representant for Norsk Sjømannsforbund",
+        "location": "Oslo"
+      },
+      {
+        "name": "Hans Sande",
+        "title": "Representant for Norsk Sjøoffisersforbund",
+        "location": "Oslo"
+      },
+      {
+        "name": "Hege Bengtsson",
+        "title": "Representant for Det norske maskinistforbund",
+        "location": "Oslo"
+      },
+      {
+        "name": "Frode Sund",
+        "title": "Representant for NHO Sjøfart",
+        "location": "Oslo"
+      },
+      {
+        "name": "Thomas Aa. Rasmussen",
+        "title": "Representant for Norges Rederiforbund",
+        "location": "Oslo"
+      },
+      {
+        "name": "Selma Jakobsen",
+        "title": "Representant for Kystrederiene",
+        "location": "Bergen"
+      },
+      {
+        "name": "Morten Skauge",
+        "title": "Representant for Virke",
+        "location": "Oslo"
+      },
+      {
+        "name": "Henriette Bismo Eilertsen",
+        "title": "Representant for NHO Reiseliv",
+        "location": "Oslo"
+      },
+      {
+        "name": "Niels Wammen-Jensen",
+        "title": "Representant for Cruise Lines International Association (CLIA)",
+        "location": "Oslo"
+      },
+      {
+        "name": "Karin Strand",
+        "title": "Representant for AECO",
+        "location": "Tromsø"
+      },
+      {
+        "name": "Jon Mørland",
+        "title": "Representant for Viking Cruises",
+        "location": "Oslo"
+      },
+      {
+        "name": "Arnt-Einar Litsheim",
+        "title": "Representant for Norske Havner",
+        "location": "Oslo"
+      },
+      {
+        "name": "Jan Morten Hansen",
+        "title": "Representant for Vest-Finnmark Råd",
+        "location": "Alta"
+      },
+      {
+        "name": "Jessica Gärtner",
+        "title": "Representant for Sunnmøre regionråd",
+        "location": "Ålesund"
+      },
+      {
+        "name": "Vidar Thom Benjaminsen",
+        "title": "Representant for Lofotrådet",
+        "location": "Svolvær"
+      }
+    ],
+    "members_count": 17,
+    "mandate_summary": "Regjeringen har oppnevnt et bredt sammensatt partssammensatt utvalg som skal vurdere hvordan det kan stilles krav om norske lønnsvilkår på cruiseskip som har fastlands-Norge som hoveddestinasjon. Utvalget skal utrede handlingsrommet innenfor folkeretten og EØS-retten, samt vurdere konsekvenser for reiseliv, havner og kystsamfunn.",
+    "source_url": "https://www.regjeringen.no/no/aktuelt/regjeringen-setter-ned-utvalg-om-norske-lonnsvilkar-pa-cruiseskip/id3170976/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3153197",
+    "slug": "cmdi-utvalget",
+    "title": "CMDI-utvalget (Bankkrisehåndtering og innskuddsgaranti)",
+    "ministry": "Finansdepartementet",
+    "ministry_code": "FIN",
+    "appointed_date": "2026-03-20",
+    "deadline": "2027-03-30",
+    "deadline_display": "30. mars 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Birger Vikøren",
+      "title": "Førsteamanuensis II ved UiO",
+      "location": "Oslo"
+    },
+    "members": [
+      {
+        "name": "Ingrid Margrethe Halvorsen Barlund",
+        "title": "Førsteamanuensis i rettsvitenskap ved UiB",
+        "location": "Bergen"
+      },
+      {
+        "name": "Fredrik Bystedt",
+        "title": "Avdelingschef i Riksgälden",
+        "location": "Stockholm"
+      },
+      {
+        "name": "Malgorzata Agnieszka Cyndecka",
+        "title": "Professor i rettsvitenskap ved UiB",
+        "location": "Bergen"
+      },
+      {
+        "name": "Sjur Swensen Ellingsæter",
+        "title": "Førsteamanuensis ved Handelshøyskolen BI",
+        "location": "Oslo"
+      }
+    ],
+    "members_count": 5,
+    "mandate_summary": "CMDI-utvalget skal utrede behovet for endringer i regelverket om bankkrisehåndtering og innskuddsgaranti, blant annet for å gjennomføre kommende endringer i EU/EØS-regelverket (Crisis Management and Deposit Insurance). Utvalget skal vurdere endrede rammer for krisehåndtering av små og mellomstore banker, utvidet adgang til innskuddsgaranti- og krisetiltaksfond, samt nasjonal organisering.",
+    "source_url": "https://www.regjeringen.no/no/dep/fin/org/styrer-rad-og-utvalg-oppnevnt-av-finansdepartementet2/cmdi-utvalget/id3153197/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3139316",
+    "slug": "pasient-og-brukerrettighetslovutvalget",
+    "title": "Pasient- og brukerrettighetslovutvalget",
+    "ministry": "Helse- og omsorgsdepartementet",
+    "ministry_code": "HOD",
+    "appointed_date": "2025-11-14",
+    "deadline": "2027-05-14",
+    "deadline_display": "14. mai 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Karl Harald Søvig",
+      "title": "Professor",
+      "location": "Bergen",
+      "affiliation": "Universitetet i Bergen"
+    },
+    "members": [
+      {
+        "name": "Anne Kjersti Cecelia Befring",
+        "title": "Professor",
+        "location": "Bærum",
+        "affiliation": "Universitetet i Oslo"
+      },
+      {
+        "name": "Gudrun Maria Waaler Bjørnelv",
+        "title": "Førsteamanuensis",
+        "location": "Stjørdal",
+        "affiliation": "NTNU"
+      },
+      {
+        "name": "Marta Ebbing",
+        "title": "Fagdirektør",
+        "location": "Bergen",
+        "affiliation": "Helse Bergen"
+      },
+      {
+        "name": "Bushra Ishaq",
+        "title": "Lege og forsker",
+        "location": "Oslo",
+        "affiliation": "Universitetet i Oslo"
+      },
+      {
+        "name": "Jonas Minet Kinge",
+        "title": "Professor",
+        "location": "Oslo",
+        "affiliation": "Universitetet i Oslo"
+      },
+      {
+        "name": "Nils Kristian Klev",
+        "title": "Spesialist i allmennmedisin",
+        "location": "Asker",
+        "affiliation": "Legeforeningen"
+      },
+      {
+        "name": "Atle Larsen",
+        "title": "Juridisk rådgiver",
+        "location": "Oslo",
+        "affiliation": "Funksjonshemmedes Fellesorganisasjon"
+      },
+      {
+        "name": "Iren Mari Luther",
+        "title": "Sykepleier",
+        "location": "Bærum",
+        "affiliation": "Fagforbundet"
+      },
+      {
+        "name": "Anette Olsen",
+        "title": "Advokat",
+        "location": "Narvik",
+        "affiliation": null
+      },
+      {
+        "name": "Marius Storvik",
+        "title": "Førsteamanuensis",
+        "location": "Tromsø",
+        "affiliation": "UiT Norges arktiske universitet"
+      },
+      {
+        "name": "Vibeke Blaker Strand",
+        "title": "Professor",
+        "location": "Oslo",
+        "affiliation": "Universitetet i Oslo"
+      },
+      {
+        "name": "Ingelin Testad",
+        "title": "Professor",
+        "location": "Sel",
+        "affiliation": "Universitetet i Stavanger"
+      }
+    ],
+    "members_count": 13,
+    "mandate_summary": "Utvalet skal gjennomføre ein fullstendig revisjon av pasient- og brukerrettighetsloven for å sikre eit meir oversiktleg, forståeleg og brukarvenleg regelverk for pasientar, pårørande og helsepersonell, og fremje likeverdig tilgang til helse- og omsorgstenester i heile landet.",
+    "source_url": "https://www.regjeringen.no/no/dep/hod/organiseringen-av-helse-og-omsorgsdepartementet/styrer-rad-og-utvalg/pasient-og-brukerrettighetslovutvalget/id3139316/",
+    "external_url": "https://nettsteder.regjeringen.no/pbrlovutvalget/",
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00Z"
+  },
+  {
+    "id": "utvalg-3145428",
+    "slug": "partilovutvalget",
+    "title": "Partilovutvalget",
+    "ministry": "Kommunal- og distriktsdepartementet",
+    "ministry_code": "KDD",
+    "appointed_date": "2025-12-19",
+    "deadline": "2027-06-01",
+    "deadline_display": "1. juni 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Bård Vegar Solhjell",
+      "title": "Administrerende direktør i Norad",
+      "location": "Oslo"
+    },
+    "members": [
+      {
+        "name": "Eirik Holmøyvik",
+        "title": "Professor i rettsvitenskap ved UiB",
+        "location": "Bergen"
+      },
+      {
+        "name": "Ola Johan Settem",
+        "title": "Professor ved Universitetet i Stavanger",
+        "location": "Stavanger"
+      },
+      {
+        "name": "Gunnar Holm Ringen",
+        "title": "Avdelingsdirektør i Riksrevisjonen",
+        "location": "Nesodden"
+      },
+      {
+        "name": "Toril Aalberg",
+        "title": "Professor i mediesosiologi ved NTNU",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Saira Hamid Basit",
+        "title": "Dekan ved Forsvarets høgskole",
+        "location": "Oslo"
+      },
+      {
+        "name": "Ruben Berge Mathisen",
+        "title": "Postdoktor i statsvitenskap ved UiB",
+        "location": "Bergen"
+      },
+      {
+        "name": "Tone Angell Jensen",
+        "title": "Pensjonert journalist og kommentator",
+        "location": "Tromsø"
+      },
+      {
+        "name": "Ragnhild Bjørkum Vassbotn",
+        "title": "Generalsekretær i Senterpartiet",
+        "location": "Oslo"
+      },
+      {
+        "name": "Mari Aaby West",
+        "title": "Assisterende partisekretær i Arbeiderpartiet",
+        "location": "Oslo"
+      },
+      {
+        "name": "Helge Fossum",
+        "title": "Assisterende generalsekretær i FrP",
+        "location": "Nittedal"
+      },
+      {
+        "name": "Tom Erlend Skaug",
+        "title": "Generalsekretær i Høyre",
+        "location": "Oslo"
+      },
+      {
+        "name": "Ketil Raknes",
+        "title": "Førsteamanuensis ved Kristiania (SV)",
+        "location": "Oslo"
+      },
+      {
+        "name": "Knut Magnus Olsen",
+        "title": "Generalsekretær i Rødt",
+        "location": "Oslo"
+      },
+      {
+        "name": "Trine Elisabeth Skaug Martinsen",
+        "title": "Økonomiansvarlig i KrF",
+        "location": "Fredrikstad"
+      },
+      {
+        "name": "Kristin Antun",
+        "title": "Partisekretær i MDG",
+        "location": "Nannestad"
+      },
+      {
+        "name": "Ingunn Elisabeth Jarness Ulfsten",
+        "title": "Generalsekretær i KrF",
+        "location": "Oslo"
+      },
+      {
+        "name": "Sveinung Rotevatn",
+        "title": "Daglig leder og nestleder i Venstre",
+        "location": "Oslo"
+      }
+    ],
+    "members_count": 18,
+    "mandate_summary": "Partilovutvalget skal gjennomføre en helhetlig revisjon av partiloven for å bidra til økt åpenhet rundt finansiering av politiske partier og sikre gode rammevilkår for demokratiet. Utvalget skal vurdere regler for registrering, offentliggjøring av inntekter, private bidrag, anonyme tredjepartskampanjer og digital valgkamp.",
+    "source_url": "https://www.regjeringen.no/no/dep/kdd/org/styrer-rad-og-utvalg/partilovutvalget/id3145428/",
+    "external_url": "https://nettsteder.regjeringen.no/partilovutvalget/",
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3157571",
+    "slug": "norskopplaeringsutvalget",
+    "title": "Ekspertutvalg om norskopplæringstilbudet for voksne innvandrere",
+    "ministry": "Arbeids- og inkluderingsdepartementet",
+    "ministry_code": "AID",
+    "appointed_date": "2026-04-24",
+    "deadline": "2027-06-15",
+    "deadline_display": "15. juni 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Kristin Holm Jensen",
+      "title": "Avdelingsdirektør",
+      "location": "Oslo",
+      "affiliation": "KS"
+    },
+    "members": [
+      {
+        "name": "Trond Rønningen",
+        "title": "Statsforvalter",
+        "location": "Vestfold",
+        "affiliation": "Statsforvalteren i Vestfold og Telemark"
+      },
+      {
+        "name": "Hanne Kavli",
+        "title": "Daglig leder",
+        "location": "Akershus",
+        "affiliation": "Fafo"
+      },
+      {
+        "name": "Dag Ingvar Jacobsen",
+        "title": "Professor",
+        "location": "Agder",
+        "affiliation": "Universitetet i Agder"
+      },
+      {
+        "name": "Sayed Sami Soltani",
+        "title": "Rektor",
+        "location": "Akershus",
+        "affiliation": "Ås læringssenter"
+      },
+      {
+        "name": "Kjell Inge Breivoll",
+        "title": "Rektor",
+        "location": "Trøndelag",
+        "affiliation": "Trondheim voksenopplæringssenter vgs"
+      },
+      {
+        "name": "Tatjana Cernakova",
+        "title": "Konstituert daglig leder",
+        "location": "Akershus",
+        "affiliation": "Briga AS"
+      },
+      {
+        "name": "Pia Sofie Walle",
+        "title": "Equality, diversity & inclusion leader",
+        "location": "Akershus",
+        "affiliation": "IKEA"
+      },
+      {
+        "name": "Bodil Gullseth",
+        "title": "2. nestleder",
+        "location": "Trøndelag",
+        "affiliation": "Skolenes landsforbund LO"
+      },
+      {
+        "name": "Ingeborg Malterud",
+        "title": "Fagsjef og kompetansepolitisk ansvarlig",
+        "location": "Oslo",
+        "affiliation": "NHO"
+      }
+    ],
+    "members_count": 10,
+    "mandate_summary": "Ekspertutvalet skal vurdere korleis norskopplæringa for vaksne innvandrarar kan forbetrast og samordnast betre på tvers av kommunar, Nav og arbeidsgivarar, med mål om at fleire innvandrarar oppnår gode språkkunnskapar og kjem raskare ut i arbeid.",
+    "source_url": "https://www.regjeringen.no/no/aktuelt/ekspertutvalg-skal-se-pa-norskopplaringstilbudet-for-innvandrere/id3157571/",
+    "external_url": "https://www.regjeringen.no/no/dep/aid/om-arbeids-og-inkluderingsdepartementet/nemnder-styrer-rad-og-utvalg/permanente-nemnder-rad-og-utvalg/mandat-for-ekspertutvalg-om-norskopplaringstilbudet-for-voksne-innvandrere/id3157588/",
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00Z"
+  },
+  {
+    "id": "utvalg-3142805",
+    "slug": "studiefinansieringsutvalget",
+    "title": "Studiefinansieringsutvalget",
+    "ministry": "Kunnskapsdepartementet",
+    "ministry_code": "KD",
+    "appointed_date": "2025-12-12",
+    "deadline": "2027-06-30",
+    "deadline_display": "Sommaren 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Kyrre Lekve",
+      "title": "Direktør",
+      "location": "Nesodden",
+      "affiliation": "Institutt for samfunnsforskning"
+    },
+    "members": [
+      {
+        "name": "Hans Henrik Scheel",
+        "title": "Spesialrådgiver",
+        "location": "Bærum",
+        "affiliation": null
+      },
+      {
+        "name": "Yngvar Åsholt",
+        "title": "Kunnskapsdirektør",
+        "location": "Asker",
+        "affiliation": "Nav"
+      },
+      {
+        "name": "Ida Drange",
+        "title": "Førsteamanuensis",
+        "location": "Oslo",
+        "affiliation": "OsloMet"
+      },
+      {
+        "name": "Ivar B. Prestbakmo",
+        "title": "Seniorrådgiver",
+        "location": "Salangen",
+        "affiliation": null
+      },
+      {
+        "name": "Lene Westgaard-Halle",
+        "title": "Administrerende direktør",
+        "location": "Larvik",
+        "affiliation": null
+      },
+      {
+        "name": "Seunn Smith-Tønnessen",
+        "title": "Universitetsdirektør",
+        "location": "Kristiansand",
+        "affiliation": "Universitetet i Agder"
+      },
+      {
+        "name": "Martine Løkken Svendsen",
+        "title": "Leder",
+        "location": "Oslo",
+        "affiliation": "Elevorganisasjonen"
+      },
+      {
+        "name": "Sigve Næss Røtvold",
+        "title": "Leder",
+        "location": "Oslo",
+        "affiliation": "Norsk Studentorganisasjon"
+      },
+      {
+        "name": "Tord Hauge",
+        "title": "Rådgiver",
+        "location": "Oslo",
+        "affiliation": null
+      },
+      {
+        "name": "Trude Tinnlund",
+        "title": "LO-sekretær",
+        "location": "Fredrikstad",
+        "affiliation": "Landsorganisasjonen i Norge"
+      }
+    ],
+    "members_count": 11,
+    "mandate_summary": "Utvalet skal gjennomgå ordningane i Lånekassen for første gong på 25 år og føreslå framtidas studiestøttesystem. Målet er å sikre lik rett til utdanning, fremje sosial mobilitet, styrke kompetansetilgangen for arbeidslivet og leggje til rette for livslang læring.",
+    "source_url": "https://www.regjeringen.no/no/aktuelt/nytt-utval-skal-foresla-framtidas-ordningar-for-studielan-og-stipend/id3142805/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00Z"
+  },
+  {
+    "id": "utvalg-3153243",
+    "slug": "lagmannsrettsutvalget",
+    "title": "Utvalg som skal utrede lagmannsrettens funksjon og saksbehandling",
+    "ministry": "Justis- og beredskapsdepartementet",
+    "ministry_code": "JD",
+    "appointed_date": "2026-03-20",
+    "deadline": "2027-09-30",
+    "deadline_display": "30. september 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Nils Asbjørn Engstad",
+      "title": "Lagmann i Hålogaland lagmannsrett",
+      "location": "Tromsø"
+    },
+    "members": [
+      {
+        "name": "Unni Sandøy",
+        "title": "Førstestatsadvokat ved Riksadvokatembetet",
+        "location": "Oslo"
+      },
+      {
+        "name": "Øistein Aamodt",
+        "title": "Lagmann i Borgarting lagmannsrett",
+        "location": "Oslo"
+      },
+      {
+        "name": "Caterina Håland Gaeta",
+        "title": "Advokat hos Regjeringsadvokaten",
+        "location": "Oslo"
+      },
+      {
+        "name": "Sven Marius Urke",
+        "title": "Spesialrådgiver og tidl. direktør i Domstoladministrasjonen",
+        "location": "Trondheim"
+      }
+    ],
+    "members_count": 5,
+    "mandate_summary": "Utvalget skal utrede lagmannsrettens funksjon og saksbehandling i sivile saker og i straffesaker. Formålet er å sikre at lagmannsretten i større grad foretar en konsentrert overprøving fremfor full ny prøving av førsteinstansens avgjørelser. Utvalget skal blant annet vurdere gjenbruk av lyd- og bildeopptak fra tingretten, skriftlighet, ankesiling og preklusjonsregler for å effektivisere saksavviklingen og redusere sakskostnader.",
+    "source_url": "https://www.regjeringen.no/no/dep/jd/org/styre-rad-og-utval/tidsbegrensede-styrer-rad-og-utvalg/utvalg-som-skal-utrede-lagmannsrettens-funksjon-og-saksbehandling/id3153243/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3169921",
+    "slug": "arealnoytralitet",
+    "title": "Utvalg om arealnøytralitet",
+    "ministry": "Klima- og miljødepartementet",
+    "ministry_code": "KLD",
+    "appointed_date": "2026-08-07",
+    "deadline": "2027-12-31",
+    "deadline_display": "31. desember 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Øystein Dørum",
+      "title": "Samfunnsøkonom og sjeføkonom i NHO",
+      "location": "Oslo"
+    },
+    "members": [
+      {
+        "name": "Ingunn Elise Myklebust",
+        "title": "Professor i rettsvitenskap ved UiB",
+        "location": "Bergen"
+      },
+      {
+        "name": "Christian Steel",
+        "title": "Forskningsdirektør i Sabima",
+        "location": "Oslo"
+      },
+      {
+        "name": "Sigrid Simensen Ilsøy",
+        "title": "Ordfører i Nore og Uvdal",
+        "location": "Dagali"
+      },
+      {
+        "name": "Atle Simonsen",
+        "title": "Kommunikasjonssjef",
+        "location": "Stavanger"
+      },
+      {
+        "name": "Anne Sverdrup-Thygeson",
+        "title": "Professor i bevaringsbiologi ved NMBU",
+        "location": "Ås"
+      },
+      {
+        "name": "Mari Elina Hakala",
+        "title": "Seniorrådgiver",
+        "location": "Varangerbotn"
+      },
+      {
+        "name": "Trond Simensen",
+        "title": "Seniorforsker ved NINA",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Ståle Navrud",
+        "title": "Professor i miljøøkonomi ved NMBU",
+        "location": "Drøbak"
+      },
+      {
+        "name": "Geir-Harald Strand",
+        "title": "Spesialrådgiver i NIBIO",
+        "location": "Ås"
+      }
+    ],
+    "members_count": 10,
+    "mandate_summary": "Formålet med utredningen er å gi kunnskap om hvordan arealnøytralitet kan operasjonaliseres på nasjonalt nivå for å bidra til å stanse tap av natur og redusere klimagassutslipp, samtidig som viktige samfunnsformål som fornybar kraftproduksjon, kraftnett og forsvarsformål ivaretas. Utvalget skal vurdere virkemidler, naturregnskap og konsekvenser for det kommunale handlingsrommet.",
+    "source_url": "https://www.regjeringen.no/no/dep/kld/organisasjon/styrer-rad-og-utvalg/midlertidige-rad-og-utvalg/utvalg-om-arealnoytralitet/id3169921/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3167530",
+    "slug": "innvandrerhelse",
+    "title": "Utvalg om innvandrerhelse",
+    "ministry": "Helse- og omsorgsdepartementet",
+    "ministry_code": "HOD",
+    "appointed_date": "2026-06-23",
+    "deadline": "2027-12-31",
+    "deadline_display": "Forventet 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Bushra Ishaq",
+      "title": "Forsker og lege ved FHI / UiO",
+      "location": "Oslo"
+    },
+    "members": [
+      {
+        "name": "Warsame Abdullahi Ali",
+        "title": "Daglig leder",
+        "location": "Oslo"
+      },
+      {
+        "name": "Jan-Paul Brekke",
+        "title": "Forskningsleder ved Institutt for samfunnsforskning",
+        "location": "Oslo"
+      },
+      {
+        "name": "Jonas Debesay",
+        "title": "Professor ved OsloMet",
+        "location": "Oslo"
+      },
+      {
+        "name": "Tor Iversen",
+        "title": "Professor emeritus i helseøkonomi ved UiO",
+        "location": "Oslo"
+      },
+      {
+        "name": "Monika Dybdahl Jakobsen",
+        "title": "Forsker ved UiT",
+        "location": "Tromsø"
+      },
+      {
+        "name": "Johanna Laue",
+        "title": "Førsteamanuensis ved UiT",
+        "location": "Tromsø"
+      },
+      {
+        "name": "Seynab Mikalsen",
+        "title": "Rådgiver",
+        "location": "Oslo"
+      },
+      {
+        "name": "Nisrin El Morabit",
+        "title": "Rådgiver",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Bera Ulstein Moseng",
+        "title": "Seniorrådgiver",
+        "location": "Oslo"
+      },
+      {
+        "name": "Sapna Sharma",
+        "title": "Spesialrådgiver",
+        "location": "Kristiansand"
+      },
+      {
+        "name": "Ayan B Sheikh-Mohamed",
+        "title": "Doktorgradsstipendiat ved UiO",
+        "location": "Oslo"
+      },
+      {
+        "name": "Jakub Stachowski",
+        "title": "Førsteamanuensis ved NTNU",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Lars Østby",
+        "title": "Seniorforsker ved SSB",
+        "location": "Oslo"
+      }
+    ],
+    "members_count": 14,
+    "mandate_summary": "Utvalget skal utrede helsestatus og bruk av helsetjenester blant innvandrere og etterkommere i Norge, og beskrive hvordan dette påvirker arbeidsdeltakelse og inkludering. Utvalget skal foreslå tiltak for å redusere sosiale helseforskjeller, bygge ned barrierer for bruk av helsetjenester og sikre likeverdige helse- og omsorgstjenester for hele befolkningen.",
+    "source_url": "https://www.regjeringen.no/no/dep/hod/organiseringen-av-helse-og-omsorgsdepartementet/styrer-rad-og-utvalg/utvalg-om-innvandrerhelse/id3167530/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3166830",
+    "slug": "veteranlovutvalget",
+    "title": "Veteranlovutvalget (Forslag til veteranlov)",
+    "ministry": "Forsvarsdepartementet",
+    "ministry_code": "FD",
+    "appointed_date": "2026-06-19",
+    "deadline": "2027-12-31",
+    "deadline_display": "31. desember 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Bjørn Henning Østenstad",
+      "title": "Professor i rettsvitenskap ved UiB",
+      "location": "Øygarden"
+    },
+    "members": [
+      {
+        "name": "Bente Bøe Christophersen",
+        "title": "Seksjonssjef i Statens pensjonskasse",
+        "location": "Oslo"
+      },
+      {
+        "name": "Anders Lunde Haugland",
+        "title": "Juridisk direktør i Forsvarsbygg",
+        "location": "Oslo"
+      },
+      {
+        "name": "Hedda Maalø Thoresen",
+        "title": "Advokat",
+        "location": "Oslo"
+      },
+      {
+        "name": "Knut Borger Hanssen",
+        "title": "Seniorrådgiver i Arbeids- og velferdsdirektoratet",
+        "location": "Oslo"
+      },
+      {
+        "name": "Åse Marie Steinbakken",
+        "title": "Seniorrådgiver i Statens helsetilsyn",
+        "location": "Oslo"
+      },
+      {
+        "name": "Stine-Mari Gabrielsen",
+        "title": "Major i Forsvaret",
+        "location": "Bardu"
+      },
+      {
+        "name": "Christine Fossen",
+        "title": "Seniorrådgiver i Politidirektoratet",
+        "location": "Oslo"
+      },
+      {
+        "name": "Bjørn Robert Dahl",
+        "title": "Generalsekretær i NVIO",
+        "location": "Oslo"
+      },
+      {
+        "name": "Anders Grindaker",
+        "title": "Styremedlem i SIOPS",
+        "location": "Oslo"
+      },
+      {
+        "name": "Grete Sandman",
+        "title": "Forhandlingsleder i BFO",
+        "location": "Oslo"
+      }
+    ],
+    "members_count": 11,
+    "mandate_summary": "Veteranlovutvalget skal utarbeide et forslag til en ny og helhetlig veteranlov som skal sikre anerkjennelse, rettigheter og oppfølging av veteraner fra internasjonale operasjoner, deres familier og etterlatte på en god og samlet måte.",
+    "source_url": "https://www.regjeringen.no/no/aktuelt/utvalg-skal-utrede-forslag-til-en-veteranlov/id3166830/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3164385",
+    "slug": "arbeidsinnvandringsutvalget",
+    "title": "Arbeidsinnvandringsutvalget (Gjennomgang av arbeidsinnvandringspolitikken)",
+    "ministry": "Arbeids- og inkluderingsdepartementet",
+    "ministry_code": "AID",
+    "appointed_date": "2026-06-05",
+    "deadline": null,
+    "deadline_display": "Forventet 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Thomas von Brasch",
+      "title": "Forskningsleder ved SSB",
+      "location": "Oslo"
+    },
+    "members": [
+      {
+        "name": "Knut Røed",
+        "title": "Seniorforsker ved Frischsenteret",
+        "location": "Oslo"
+      },
+      {
+        "name": "Hildegunn Stokke",
+        "title": "Professor i samfunnsøkonomi ved NTNU",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Christian Franklin",
+        "title": "Professor i rettsvitenskap ved UiB",
+        "location": "Bergen"
+      },
+      {
+        "name": "Frode Forfang",
+        "title": "Konsulent og tidligere direktør i UDI",
+        "location": "Oslo"
+      },
+      {
+        "name": "Aleksandra Czech-Havnerås",
+        "title": "Seniorrådgiver i IMDi",
+        "location": "Oslo"
+      },
+      {
+        "name": "Anne Mette Ødegård",
+        "title": "Seniorforsker ved Fafo",
+        "location": "Oslo"
+      },
+      {
+        "name": "Roger Bjørnstad",
+        "title": "Sjeføkonom i LO",
+        "location": "Oslo"
+      },
+      {
+        "name": "Kristine Alsvik",
+        "title": "Seniorrådgiver i NHO",
+        "location": "Oslo"
+      },
+      {
+        "name": "Henrik Dahle",
+        "title": "Advokat og fagsjef i Unio",
+        "location": "Oslo"
+      },
+      {
+        "name": "Bente Larssen",
+        "title": "Regiondirektør i KS",
+        "location": "Tromsø"
+      }
+    ],
+    "members_count": 11,
+    "mandate_summary": "Arbeidsinnvandringsutvalget skal gjennomgå erfaringene med arbeidsinnvandringspolitikken gjennom de siste 20 årene og vurdere behovet for endringer. Utvalget skal drøfte i hvilken grad arbeidsinnvandring bør imøtekomme knapphet på arbeidskraft, vurdere konsekvenser for arbeidsliv og samfunn, samt foreslå nye politiske og regulatoriske grep.",
+    "source_url": "https://www.regjeringen.no/no/aktuelt/arbeidsinnvandringsutvalget-er-klart/id3164385/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3155737",
+    "slug": "samiske-barnehagetilbud",
+    "title": "Ekspertgruppe for samiske barnehagetilbud",
+    "ministry": "Kunnskapsdepartementet",
+    "ministry_code": "KD",
+    "appointed_date": "2026-04-09",
+    "deadline": null,
+    "deadline_display": "Sommeren 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Torjer Olsen",
+      "title": "Professor i urfolksstudier ved UiT",
+      "location": "Tromsø"
+    },
+    "members": [
+      {
+        "name": "Inga Lill Sigga Mikkelsen",
+        "title": "Førsteamanuensis ved UiT",
+        "location": "Tromsø"
+      },
+      {
+        "name": "Anne Ingebjørg Svineng Eriksen",
+        "title": "Pedagogisk leder",
+        "location": "Karasjok"
+      },
+      {
+        "name": "Hege Merete Somby",
+        "title": "Dosent ved Høgskolen i Innlandet",
+        "location": "Hamar"
+      },
+      {
+        "name": "Hadi Strømmen Lile",
+        "title": "Professor i rettsvitenskap ved Høgskolen i Østfold",
+        "location": "Oslo"
+      },
+      {
+        "name": "Hilde Dahl Djupnes",
+        "title": "Styrer i samisk barnehage",
+        "location": "Tromsø"
+      },
+      {
+        "name": "Åge Roald Eriksen",
+        "title": "Rektor og sørsamisk fagperson",
+        "location": "Snåsa"
+      },
+      {
+        "name": "Per Isak Vars",
+        "title": "Seniorrådgiver i Sametinget",
+        "location": "Kautokeino"
+      },
+      {
+        "name": "Johanne Marie Olaussen",
+        "title": "Spesialrådgiver i Utdanningsdirektoratet",
+        "location": "Oslo"
+      }
+    ],
+    "members_count": 9,
+    "mandate_summary": "Ekspertgruppen skal vurdere hvordan barnehagetilbudet til samiske barn kan forbedres og gjøres mer tilgjengelig over hele landet, både innenfor og utenfor forvaltningsområdet for samiske språk. Målet er å sikre at samiske barn møter et tilbud som bygger på deres språk, kultur og verdier, samt fremme rekruttering av samiskspråklige barnehagelærere.",
+    "source_url": "https://www.regjeringen.no/no/aktuelt/ny-ekspertgruppe-skal-styrke-samiske-barnehagetilbud/id3155737/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  },
+  {
+    "id": "utvalg-3153200",
+    "slug": "omstillingskommisjonen",
+    "title": "Omstillingskommisjonen",
+    "ministry": "Finansdepartementet",
+    "ministry_code": "FIN",
+    "appointed_date": "2026-03-20",
+    "deadline": null,
+    "deadline_display": "Våren 2027",
+    "expected_delivery_year": 2027,
+    "leader": {
+      "name": "Erlend Trygve Grimstad",
+      "title": "Advokat og tidligere statssekretær",
+      "location": "Moss"
+    },
+    "members": [
+      {
+        "name": "André Kallåk Anundsen",
+        "title": "Kraftmarkedsanalytiker og forsker",
+        "location": "Porsgrunn"
+      },
+      {
+        "name": "Lan Marie Nguyen Berg",
+        "title": "Student og stortingsrepresentant",
+        "location": "Oslo"
+      },
+      {
+        "name": "Isabel Montero Hovdahl",
+        "title": "Førsteamanuensis ved NHH",
+        "location": "Bergen"
+      },
+      {
+        "name": "Kari Elisabeth Kaski",
+        "title": "Prosjektleder og tidl. stortingsrepresentant",
+        "location": "Oslo"
+      },
+      {
+        "name": "Idar Kreutzer",
+        "title": "Spesialrådgiver i NHO",
+        "location": "Oslo"
+      },
+      {
+        "name": "Egil Matsen",
+        "title": "Administrerende direktør i Forte Digital",
+        "location": "Trondheim"
+      },
+      {
+        "name": "Klaus Mohn",
+        "title": "Rektor ved Universitetet i Stavanger",
+        "location": "Sandnes"
+      },
+      {
+        "name": "Linda Nøstbakken",
+        "title": "Forskningsdirektør ved SSB",
+        "location": "Bergen"
+      },
+      {
+        "name": "Ida Maria Pinnerød",
+        "title": "Stabssjef og tidl. ordfører",
+        "location": "Bodø"
+      },
+      {
+        "name": "Sveinung Rotevatn",
+        "title": "Daglig leder og nestleder i Venstre",
+        "location": "Oslo"
+      },
+      {
+        "name": "Are Tomasgard",
+        "title": "Andre nestleder i LO",
+        "location": "Lillestrøm"
+      },
+      {
+        "name": "Naomi Wessel",
+        "title": "Gruppeleder",
+        "location": "Haugesund"
+      }
+    ],
+    "members_count": 13,
+    "mandate_summary": "Omstillingskommisjonen skal utarbeide en helhetlig strategi for å sikre Norges evne til bærekraftig omstilling, verdiskaping og konkurransekraft. Kommisjonen skal vurdere hvordan Norge best kan utnytte knappe ressurser som arbeidskraft, energi og natur, drøfte årsaker til lav produktivitetsvekst, samt vurdere omstilling i lys av utsikter til lavere petroleumsaktivitet og internasjonal usikkerhet.",
+    "source_url": "https://www.regjeringen.no/no/dep/fin/org/styrer-rad-og-utvalg-oppnevnt-av-finansdepartementet2/omstillingskommisjonen/id3153200/",
+    "external_url": null,
+    "status": "under_arbeid",
+    "last_synced_at": "2026-08-23T20:00:00.000000+00:00"
+  }
+]

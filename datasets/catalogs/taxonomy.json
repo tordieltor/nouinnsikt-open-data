@@ -1,0 +1,272 @@
+[
+  {
+    "id": "statsforvaltning-demokrati",
+    "name": "Statsforvaltning & demokrati",
+    "description": "Statsorganisering, kommunalforvaltning, demokrati, forvaltningsrett, digitalisering, personvern og etikk.",
+    "subcategories": [
+      {
+        "id": "kommunesektor-lokaldemokrati",
+        "name": "Kommunesektor & lokaldemokrati",
+        "description": "Kommunestruktur, fylkeskommunar, interkommunalt samarbeid og lokalt sjølvstyre."
+      },
+      {
+        "id": "forvaltningsrett-offentlighet",
+        "name": "Forvaltningsrett & offentlegheit",
+        "description": "Forvaltningslov, offentlegheitslov, saksbehandling, innsyn og klageordningar."
+      },
+      {
+        "id": "digitalisering-personvern-ki",
+        "name": "Digitalisering, personvern & KI",
+        "description": "Digitalisering i forvaltninga, personvern/GDPR, kunstig intelligens, datainfrastruktur og datasikkerhet."
+      },
+      {
+        "id": "statsorganisering-etikk",
+        "name": "Statsorganisering, etikk & tilsyn",
+        "description": "Departement, direktorat, statleg tilsyn, etiske retningslinjer og korrupsjonsvern."
+      }
+    ]
+  },
+  {
+    "id": "helse-omsorg",
+    "name": "Helse & omsorg",
+    "description": "Spesialist- og primærhelseteneste, folkehelse, omsorgstenester, psykisk helse og bioetikk.",
+    "subcategories": [
+      {
+        "id": "folkehelse-forebygging",
+        "name": "Folkehelse & førebygging",
+        "description": "Smittevern, helseførebygging, livsstil, tannhelse og ernæring."
+      },
+      {
+        "id": "spesialisthelseteneste",
+        "name": "Spesialisthelseteneste & sjukehus",
+        "description": "Sjukehusstruktur, helseforetak, akuttmedisin og medisinsk teknologi."
+      },
+      {
+        "id": "omsorgstjenester-rehabilitering",
+        "name": "Omsorgstenester & pleie",
+        "description": "Eldreomsorg, fastlegeordning, rehabilitering og funksjonshemma sine rettar."
+      },
+      {
+        "id": "psykisk-helse-rus",
+        "name": "Psykisk helse & rusomsorg",
+        "description": "Psykisk helsevern, lavterskeltilbod, rusbehandling og avhengigheitsførebygging."
+      }
+    ]
+  },
+  {
+    "id": "arbeid-velferd-inkludering",
+    "name": "Arbeid, velferd & inkludering",
+    "description": "Arbeidsmarked, velferdsordningar, pensjon, trygd, arbeidsmiljø, integrering og likestilling.",
+    "subcategories": [
+      {
+        "id": "arbeidsmarked-arbeidsrett",
+        "name": "Arbeidsmarked & arbeidsrett",
+        "description": "Arbeidsmiljølov, trepartssamarbeid, sysselsetjing og lønnsdanning."
+      },
+      {
+        "id": "pensjon-trygdeordninger",
+        "name": "Pensjon & trygdeordningar",
+        "description": "Folketrygden, alderspensjon, uføretrygd, sykeløn og NAV-forvaltning."
+      },
+      {
+        "id": "inkludering-integrering",
+        "name": "Inkludering & integrering",
+        "description": "Innvandringspolitikk, asyl, kvalifisering, språkopplæring og mangfald."
+      },
+      {
+        "id": "likestilling-diskriminering",
+        "name": "Likestilling & diskrimineringsvern",
+        "description": "Kjønnslikestilling, universell utforming og vern mot diskriminering."
+      }
+    ]
+  },
+  {
+    "id": "kunnskap-utdanning-forskning",
+    "name": "Kunnskap, utdanning & forskning",
+    "description": "Barnehage, grunnskole, vidaregåande opplæring, høgare utdanning, forskning og kompetanse.",
+    "subcategories": [
+      {
+        "id": "barnehage-oppvekst-grunnskole",
+        "name": "Barnehage, oppvekst & grunnskole",
+        "description": "Tidleg innsats, læreplanar, tilpassa opplæring, skolemiljø og SFO."
+      },
+      {
+        "id": "videregaende-yrkesfag",
+        "name": "Vidaregåande opplæring & yrkesfag",
+        "description": "Lærlingordningar, fag- og yrkesopplæring og gjennomføring."
+      },
+      {
+        "id": "hoyere-utdanning-forskning",
+        "name": "Høgare utdanning & forskning",
+        "description": "Universitet og høgskular, forskningsfinansiering og doktorgrader."
+      },
+      {
+        "id": "kompetanse-livslang-laering",
+        "name": "Kompetanse & livslang læring",
+        "description": "Vaksenopplæring, etter- og vidareutdanning og omstilling."
+      }
+    ]
+  },
+  {
+    "id": "klima-miljo-naturressurser",
+    "name": "Klima, miljø & naturressursar",
+    "description": "Klimapolitikk, naturmangfald, forureining, sirkulærøkonomi, arealforvaltning og marine ressursar.",
+    "subcategories": [
+      {
+        "id": "klimapolitikk-omstilling",
+        "name": "Klimapolitikk & grøn omstilling",
+        "description": "Klimagassutslipp, kvotehandel, klimamål og grønt skifte."
+      },
+      {
+        "id": "naturmangfold-arealbruk",
+        "name": "Naturmangfald & arealforvaltning",
+        "description": "Artsvern, nasjonalparkar, kystsoneplanlegging og jordvern."
+      },
+      {
+        "id": "forurensning-avfall",
+        "name": "Forureining & sirkulærøkonomi",
+        "description": "Miljøgifter, plastforureining, avfallshandtering og gjenvinning."
+      },
+      {
+        "id": "hav-vassdrag-ressursar",
+        "name": "Hav, vassdrag & marine ressursar",
+        "description": "Fiskeriforvaltning, havbruk, vannforskriften og havmiljø."
+      }
+    ]
+  },
+  {
+    "id": "justis-rettssikkerhet-samfunnssikkerhet",
+    "name": "Justis, rettssikkerhet & samfunnssikkerhet",
+    "description": "Domstolar, strafferett, sivilrett, barnevern, politi, beredskap, samfunnssikkerhet og totalforsvar.",
+    "subcategories": [
+      {
+        "id": "strafferett-kriminalomsorg",
+        "name": "Strafferett, straffeprosess & kriminalomsorg",
+        "description": "Straffelov, straffeprosess, fengsel, voldtekt, økokrim og rusreform."
+      },
+      {
+        "id": "domstoler-sivilprosess-rettshjelp",
+        "name": "Domstolar, sivilprosess & fri rettshjelp",
+        "description": "Domstolstruktur, Høyesterett, tvistelov, sivilprosess, fri rettshjelp og voldgift."
+      },
+      {
+        "id": "sivilrett-familie-barnevern",
+        "name": "Sivilrett, familie, arv & barnevern",
+        "description": "Barnelov, barnevern, fosterhjem, adopsjon, arvelov, ekteskapslov og forbrukerrett."
+      },
+      {
+        "id": "politi-samfunnssikkerhet-beredskap",
+        "name": "Politi, samfunnssikkerhet & beredskap",
+        "description": "Politistruktur, etterforskning, sivil beredskap, krisehåndtering, totalforsvar og verneplikt."
+      }
+    ]
+  },
+  {
+    "id": "finans-skatt-makrookonomi",
+    "name": "Finans, skatt & makroøkonomi",
+    "description": "Skattesystem, statsbudsjett, Statens pensjonsfond utland, offentlege finansar, finanstilsyn, bankvesen og makroøkonomi.",
+    "subcategories": [
+      {
+        "id": "skatt-avgift-formue",
+        "name": "Skatt, avgift & formue",
+        "description": "Formueskatt, selskapsbeskatning, merverdiavgift og grunnrenteskatt."
+      },
+      {
+        "id": "fiskalpolitikk-oljefondet-statsbudsjett",
+        "name": "Fiskalpolitikk, Statens pensjonsfond & statsbudsjett",
+        "description": "Handlingsregelen, Statens pensjonsfond utland/Norge, Norges Bank, fiskalpolitikk og perspektivmelding."
+      },
+      {
+        "id": "finansmarked-bank-kreditt",
+        "name": "Finansmarked & bankvesen",
+        "description": "Finanstilsyn, bankregulering, kapitalkrav og finansiell stabilitet."
+      },
+      {
+        "id": "makrookonomi-konjunktur",
+        "name": "Makroøkonomi & konjunkturstyring",
+        "description": "Pengepolitikk, styringsrente, inflasjon og nasjonalrekneskap."
+      }
+    ]
+  },
+  {
+    "id": "naring-energi-distrikt",
+    "name": "Næring, energi & distrikt",
+    "description": "Energiinfrastruktur, petroleum, fornybar energi, offentlege anskaffelsar, næringsutvikling, landbruk og distriktspolitikk.",
+    "subcategories": [
+      {
+        "id": "energisystem-fornybar",
+        "name": "Energisystem & fornybar energi",
+        "description": "Vannkraft, vindkraft, kjernekraft, kraftnett og strømmarked."
+      },
+      {
+        "id": "petroleum-havnaringar",
+        "name": "Petroleum & havnæringar",
+        "description": "Olje og gass, leverandørindustri, maritim sektor og offshore vind."
+      },
+      {
+        "id": "offentlige-anskaffelser-konkurranse",
+        "name": "Offentlege anskaffelsar & konkurranserett",
+        "description": "Ny lov om offentlege anskaffelsar, konkurranselov, EØS-rett, anbud og markedsregulering."
+      },
+      {
+        "id": "naring-innovasjon-landbruk",
+        "name": "Næringsutvikling, innovasjon & landbruk",
+        "description": "Virkemiddelapparat, Innovasjon Norge, gründerskap, jordbruk, skogbruk og distriktspolitikk."
+      }
+    ]
+  },
+  {
+    "id": "transport-kommunikasjon-infrastruktur",
+    "name": "Transport, kommunikasjon & infrastruktur",
+    "description": "Vei, jernbane, luftfart, sjøtransport, ekom, post, digital infrastruktur og byutvikling.",
+    "subcategories": [
+      {
+        "id": "vei-jernbane-kollektiv",
+        "name": "Vei, jernbane & kollektivtransport",
+        "description": "Nasjonal transportplan (NTP), jernbanestruktur og byvekstavtalar."
+      },
+      {
+        "id": "luftfart-sjotrafikk",
+        "name": "Luftfart & sjøtransport",
+        "description": "Kortbanenett, Kystverket, hamner og maritim sikkerhet."
+      },
+      {
+        "id": "ecom-digital-infrastruktur",
+        "name": "Ekom & digital infrastruktur",
+        "description": "Bredbånd, 5G, posttjenester og telenett."
+      },
+      {
+        "id": "byutvikling-bolig-infrastruktur",
+        "name": "Byutvikling & bustad",
+        "description": "Bustadpolitikk, Husbanken, knutepunktutvikling og arealplanlegging."
+      }
+    ]
+  },
+  {
+    "id": "kultur-medier-fritid",
+    "name": "Kultur, medier & fritid",
+    "description": "Kulturpolitikk, medier, pressestøtte, samiske rettar, frivilligheit, idrett, tros- og livssynssamfunn.",
+    "subcategories": [
+      {
+        "id": "kultur-kunst-kulturarv",
+        "name": "Kultur, kunst & kulturarv",
+        "description": "Norsk kulturfond, scenekunst, museer, arkiv og språkpolitikk."
+      },
+      {
+        "id": "medier-ytringsfrihet-pressestotte",
+        "name": "Medier, ytringsfrihet & pressestøtte",
+        "description": "NRK-plakat, medieregulering, ytringsfrihet, produksjonsstøtte og redaksjonelt uavhengigheit."
+      },
+      {
+        "id": "urfolksrett-samerett-kultur",
+        "name": "Samiske rettar, urfolk & kulturarv",
+        "description": "Samerett, Sametinget, reindrift, Finnmark, samisk språk og kultur."
+      },
+      {
+        "id": "frivillighet-trossamfunn",
+        "name": "Frivilligheit, idrett, kirke & trossamfunn",
+        "description": "Spillemidler, idrettsanlegg, frivillig sektor, Trossamfunnslov, Den norske kirke og gravferdsforvaltning."
+      }
+    ]
+  }
+]

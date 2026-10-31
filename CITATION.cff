@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use the NOUinnsikt Open Raw-Data Archive in academic research, journalism, or software, please cite it using the metadata below."
+title: "NOUinnsikt Open Raw-Data Archive: Complete Corpus, Committee Rosters, Citations, Dissents, and Legislative Lifecycle of Official Norwegian Reports (NOU 1972–2026)"
+type: dataset
+version: "1.0.0"
+date-released: "2026-10-31"
+license: "CC-BY-4.0"
+authors:
+  - name: "NOUinnsikt Project"
+keywords:
+  - "Norges offentlige utredninger"
+  - "NOU"
+  - "Norwegian public administration"
+  - "corporatism"
+  - "legislative lifecycle"
+  - "Stortinget"
+  - "Norwegian NLP corpus"
+  - "Nynorsk"
+  - "Bokmål"
+repository-code: "https://github.com/tordieltor/nouinnsikt-open-data"
+url: "https://www.nouinnsikt.no"

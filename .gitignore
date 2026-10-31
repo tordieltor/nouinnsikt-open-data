@@ -1,0 +1,10 @@
+# Heavy GitHub Release staging artifacts (>100 MB archives uploaded via `gh release create`)
+release-staging/
+
+# Python / OS / Editor
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+.env.*

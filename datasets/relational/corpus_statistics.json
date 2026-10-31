@@ -1,0 +1,1873 @@
+{
+  "total_nous": 1741,
+  "total_documents": 1741,
+  "total_pages_sum": 324364,
+  "total_members_count": 14380,
+  "total_secretariat_count": 3159,
+  "total_unique_people": 9606,
+  "total_word_count": 183413394,
+  "average_word_count": 105349.45,
+  "top_authors": [
+    {
+      "name": "Stein Reegård",
+      "count": 56
+    },
+    {
+      "name": "Torbjørn Eika",
+      "count": 45
+    },
+    {
+      "name": "Olav Magnussen",
+      "count": 44
+    },
+    {
+      "name": "Bernhard Nestaas",
+      "count": 43
+    },
+    {
+      "name": "Erling Selvig",
+      "count": 41
+    },
+    {
+      "name": "Eystein Gjelsvik",
+      "count": 40
+    },
+    {
+      "name": "Svein Longva",
+      "count": 40
+    },
+    {
+      "name": "Tormod Belgum",
+      "count": 35
+    },
+    {
+      "name": "Erik Orskaug",
+      "count": 33
+    },
+    {
+      "name": "Øystein Løining",
+      "count": 33
+    }
+  ],
+  "top_organizations": [
+    {
+      "name": "Finansdepartementet",
+      "headcount": 870,
+      "nou_count": 162,
+      "count": 870,
+      "sample_nou_titles": [
+        "NOU 2026: NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+        "NOU 2025: NOU 2025: 8 - Folkehelse – verdier, kunnskap og prioritering",
+        "NOU 2025: NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+        "NOU 2025: NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+        "NOU 2024: NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024"
+      ],
+      "sample_nous": [
+        {
+          "id": "3155079",
+          "title": "NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+          "year": 2026
+        },
+        {
+          "id": "3118916",
+          "title": "NOU 2025: 8 - Folkehelse – verdier, kunnskap og prioritering",
+          "year": 2025
+        },
+        {
+          "id": "3140593",
+          "title": "NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+          "year": 2025
+        },
+        {
+          "id": "3094178",
+          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+          "year": 2025
+        },
+        {
+          "id": "3031371",
+          "title": "NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+          "year": 2024
+        }
+      ]
+    },
+    {
+      "name": "Statistisk sentralbyrå (SSB)",
+      "headcount": 348,
+      "nou_count": 61,
+      "count": 348,
+      "sample_nou_titles": [
+        "NOU 2026: NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+        "NOU 2025: NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+        "NOU 2025: NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+        "NOU 2024: NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+        "NOU 2024: NOU 2024: 11 - Lavlønn i Norge"
+      ],
+      "sample_nous": [
+        {
+          "id": "3155079",
+          "title": "NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+          "year": 2026
+        },
+        {
+          "id": "3140593",
+          "title": "NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+          "year": 2025
+        },
+        {
+          "id": "3094178",
+          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+          "year": 2025
+        },
+        {
+          "id": "3031371",
+          "title": "NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+          "year": 2024
+        },
+        {
+          "id": "3045067",
+          "title": "NOU 2024: 11 - Lavlønn i Norge",
+          "year": 2024
+        }
+      ]
+    },
+    {
+      "name": "LO",
+      "headcount": 328,
+      "nou_count": 92,
+      "count": 328,
+      "sample_nou_titles": [
+        "NOU 2026: NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+        "NOU 2025: NOU 2025: 1 - Felles ansvar, felles gevinst",
+        "NOU 2025: NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+        "NOU 2025: NOU 2025: 7 - Musikklandet",
+        "NOU 2024: NOU 2024: 9 - Ny lov om offentlige anskaffelser"
+      ],
+      "sample_nous": [
+        {
+          "id": "3155079",
+          "title": "NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+          "year": 2026
+        },
+        {
+          "id": "3083356",
+          "title": "NOU 2025: 1 - Felles ansvar, felles gevinst",
+          "year": 2025
+        },
+        {
+          "id": "3094178",
+          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+          "year": 2025
+        },
+        {
+          "id": "3110550",
+          "title": "NOU 2025: 7 - Musikklandet",
+          "year": 2025
+        },
+        {
+          "id": "3039569",
+          "title": "NOU 2024: 9 - Ny lov om offentlige anskaffelser",
+          "year": 2024
+        }
+      ]
+    },
+    {
+      "name": "Helse- og omsorgsdepartementet",
+      "headcount": 318,
+      "nou_count": 77,
+      "count": 318,
+      "sample_nou_titles": [
+        "NOU 2025: NOU 2025: 8 - Folkehelse – verdier, kunnskap og prioritering",
+        "NOU 2025: NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+        "NOU 2024: NOU 2024: 23 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+        "NOU 2023: NOU 2023: 8 - Fellesskapets sykehus",
+        "NOU 2023: NOU 2023: 18 - Genteknologi i en bærekraftig fremtid"
+      ],
+      "sample_nous": [
+        {
+          "id": "3118916",
+          "title": "NOU 2025: 8 - Folkehelse – verdier, kunnskap og prioritering",
+          "year": 2025
+        },
+        {
+          "id": "3140593",
+          "title": "NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+          "year": 2025
+        },
+        {
+          "id": "3076113",
+          "title": "NOU 2024: 23 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+          "year": 2024
+        },
+        {
+          "id": "2967792",
+          "title": "NOU 2023: 8 - Fellesskapets sykehus",
+          "year": 2023
+        },
+        {
+          "id": "2982905",
+          "title": "NOU 2023: 18 - Genteknologi i en bærekraftig fremtid",
+          "year": 2023
+        }
+      ]
+    },
+    {
+      "name": "Justisdepartementet",
+      "headcount": 268,
+      "nou_count": 53,
+      "count": 268,
+      "sample_nou_titles": [
+        "NOU 2024: NOU 2024: 5 - Maktens ansikt",
+        "NOU 2021: NOU 2021: 8 - Trygd over landegrensene",
+        "NOU 2018: NOU 2018: 14 - IKT-sikkerhet i alle ledd",
+        "NOU 2016: NOU 2016: 27 - Ny lovgivning om tiltak mot hvitvasking og terrorfinansiering II",
+        "NOU 2011: NOU 2011: 19 - Ny våpenlov"
+      ],
+      "sample_nous": [
+        {
+          "id": "3030205",
+          "title": "NOU 2024: 5 - Maktens ansikt",
+          "year": 2024
+        },
+        {
+          "id": "2860696",
+          "title": "NOU 2021: 8 - Trygd over landegrensene",
+          "year": 2021
+        },
+        {
+          "id": "2621037",
+          "title": "NOU 2018: 14 - IKT-sikkerhet i alle ledd",
+          "year": 2018
+        },
+        {
+          "id": "2523704",
+          "title": "NOU 2016: 27 - Ny lovgivning om tiltak mot hvitvasking og terrorfinansiering II",
+          "year": 2016
+        },
+        {
+          "id": "665604",
+          "title": "NOU 2011: 19 - Ny våpenlov",
+          "year": 2011
+        }
+      ]
+    },
+    {
+      "name": "KS",
+      "headcount": 240,
+      "nou_count": 75,
+      "count": 240,
+      "sample_nou_titles": [
+        "NOU 2026: NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+        "NOU 2025: NOU 2025: 1 - Felles ansvar, felles gevinst",
+        "NOU 2025: NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+        "NOU 2025: NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+        "NOU 2024: NOU 2024: 9 - Ny lov om offentlige anskaffelser"
+      ],
+      "sample_nous": [
+        {
+          "id": "3155079",
+          "title": "NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+          "year": 2026
+        },
+        {
+          "id": "3083356",
+          "title": "NOU 2025: 1 - Felles ansvar, felles gevinst",
+          "year": 2025
+        },
+        {
+          "id": "3140593",
+          "title": "NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+          "year": 2025
+        },
+        {
+          "id": "3094178",
+          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+          "year": 2025
+        },
+        {
+          "id": "3039569",
+          "title": "NOU 2024: 9 - Ny lov om offentlige anskaffelser",
+          "year": 2024
+        }
+      ]
+    },
+    {
+      "name": "NHO",
+      "headcount": 239,
+      "nou_count": 87,
+      "count": 239,
+      "sample_nou_titles": [
+        "NOU 2026: NOU 2026: 2 - Politikk for nye generasjoner",
+        "NOU 2026: NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+        "NOU 2025: NOU 2025: 1 - Felles ansvar, felles gevinst",
+        "NOU 2025: NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+        "NOU 2024: NOU 2024: 9 - Ny lov om offentlige anskaffelser"
+      ],
+      "sample_nous": [
+        {
+          "id": "3148337",
+          "title": "NOU 2026: 2 - Politikk for nye generasjoner",
+          "year": 2026
+        },
+        {
+          "id": "3155079",
+          "title": "NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+          "year": 2026
+        },
+        {
+          "id": "3083356",
+          "title": "NOU 2025: 1 - Felles ansvar, felles gevinst",
+          "year": 2025
+        },
+        {
+          "id": "3094178",
+          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+          "year": 2025
+        },
+        {
+          "id": "3039569",
+          "title": "NOU 2024: 9 - Ny lov om offentlige anskaffelser",
+          "year": 2024
+        }
+      ]
+    },
+    {
+      "name": "Arbeids- og inkluderingsdepartementet",
+      "headcount": 206,
+      "nou_count": 46,
+      "count": 206,
+      "sample_nou_titles": [
+        "NOU 2026: NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+        "NOU 2025: NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+        "NOU 2024: NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+        "NOU 2023: NOU 2023: 12 - Grunnlaget for inntektsoppgjørene 2023",
+        "NOU 2023: NOU 2023: 30 - Utfordringer for lønnsdannelsen og norsk økonomi"
+      ],
+      "sample_nous": [
+        {
+          "id": "3155079",
+          "title": "NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+          "year": 2026
+        },
+        {
+          "id": "3094178",
+          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+          "year": 2025
+        },
+        {
+          "id": "3031371",
+          "title": "NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+          "year": 2024
+        },
+        {
+          "id": "2969960",
+          "title": "NOU 2023: 12 - Grunnlaget for inntektsoppgjørene 2023",
+          "year": 2023
+        },
+        {
+          "id": "3018750",
+          "title": "NOU 2023: 30 - Utfordringer for lønnsdannelsen og norsk økonomi",
+          "year": 2023
+        }
+      ]
+    },
+    {
+      "name": "Universitetet i Oslo (UiO)",
+      "headcount": 188,
+      "nou_count": 70,
+      "count": 188,
+      "sample_nou_titles": [
+        "NOU 2025: NOU 2025: 6 - Samboerloven",
+        "NOU 2024: NOU 2024: 11 - Lavlønn i Norge",
+        "NOU 2024: NOU 2024: 5 - Maktens ansikt",
+        "NOU 2023: NOU 2023: 4 - Tid for handling",
+        "NOU 2023: NOU 2023: 9 - Generalistkommunesystemet"
+      ],
+      "sample_nous": [
+        {
+          "id": "3101786",
+          "title": "NOU 2025: 6 - Samboerloven",
+          "year": 2025
+        },
+        {
+          "id": "3045067",
+          "title": "NOU 2024: 11 - Lavlønn i Norge",
+          "year": 2024
+        },
+        {
+          "id": "3030205",
+          "title": "NOU 2024: 5 - Maktens ansikt",
+          "year": 2024
+        },
+        {
+          "id": "2961552",
+          "title": "NOU 2023: 4 - Tid for handling",
+          "year": 2023
+        },
+        {
+          "id": "2968517",
+          "title": "NOU 2023: 9 - Generalistkommunesystemet",
+          "year": 2023
+        }
+      ]
+    },
+    {
+      "name": "Kunnskapsdepartementet",
+      "headcount": 166,
+      "nou_count": 26,
+      "count": 166,
+      "sample_nou_titles": [
+        "NOU 2025: NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+        "NOU 2024: NOU 2024: 23 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+        "NOU 2020: NOU 2020: 2 - Fremtidige kompetansebehov III",
+        "NOU 2019: NOU 2019: 2 - Fremtidige kompetansebehov II",
+        "NOU 2006: NOU 2006: 19 - Akademisk frihet"
+      ],
+      "sample_nous": [
+        {
+          "id": "3140593",
+          "title": "NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+          "year": 2025
+        },
+        {
+          "id": "3076113",
+          "title": "NOU 2024: 23 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+          "year": 2024
+        },
+        {
+          "id": "2689744",
+          "title": "NOU 2020: 2 - Fremtidige kompetansebehov III",
+          "year": 2020
+        },
+        {
+          "id": "2627309",
+          "title": "NOU 2019: 2 - Fremtidige kompetansebehov II",
+          "year": 2019
+        },
+        {
+          "id": "392466",
+          "title": "NOU 2006: 19 - Akademisk frihet",
+          "year": 2006
+        }
+      ]
+    },
+    {
+      "name": "Universitetet i Bergen (UiB)",
+      "headcount": 125,
+      "nou_count": 41,
+      "count": 125,
+      "sample_nou_titles": [
+        "NOU 2025: NOU 2025: 7 - Musikklandet",
+        "NOU 2024: NOU 2024: 13 - Lov og frihet",
+        "NOU 2024: NOU 2024: 9 - Ny lov om offentlige anskaffelser",
+        "NOU 2024: NOU 2024: 11 - Lavlønn i Norge",
+        "NOU 2024: NOU 2024: 20 - Det digitale (i) livet"
+      ],
+      "sample_nous": [
+        {
+          "id": "3110550",
+          "title": "NOU 2025: 7 - Musikklandet",
+          "year": 2025
+        },
+        {
+          "id": "3046261",
+          "title": "NOU 2024: 13 - Lov og frihet",
+          "year": 2024
+        },
+        {
+          "id": "3039569",
+          "title": "NOU 2024: 9 - Ny lov om offentlige anskaffelser",
+          "year": 2024
+        },
+        {
+          "id": "3045067",
+          "title": "NOU 2024: 11 - Lavlønn i Norge",
+          "year": 2024
+        },
+        {
+          "id": "3073644",
+          "title": "NOU 2024: 20 - Det digitale (i) livet",
+          "year": 2024
+        }
+      ]
+    },
+    {
+      "name": "Samferdselsdepartementet",
+      "headcount": 110,
+      "nou_count": 32,
+      "count": 110,
+      "sample_nou_titles": [
+        "NOU 2024: NOU 2024: 2 - I samspill med naturen",
+        "NOU 2001: NOU 2001: 28 - Delinnstilling om endringer i konkurranselovgivningen",
+        "NOU 2000: NOU 2000: 19 - Bør offentlig sektor eksponeres for konkurranse?",
+        "NOU 1999: NOU 1999: 24 - Havnestrukturen i Oslofjord-regionen",
+        "NOU 1997: NOU 1997: 27 - Nytte-kostnadsanalyser"
+      ],
+      "sample_nous": [
+        {
+          "id": "3024887",
+          "title": "NOU 2024: 2 - I samspill med naturen",
+          "year": 2024
+        },
+        {
+          "id": "378405",
+          "title": "NOU 2001: 28 - Delinnstilling om endringer i konkurranselovgivningen",
+          "year": 2001
+        },
+        {
+          "id": "117394",
+          "title": "NOU 2000: 19 - Bør offentlig sektor eksponeres for konkurranse?",
+          "year": 2000
+        },
+        {
+          "id": "142097",
+          "title": "NOU 1999: 24 - Havnestrukturen i Oslofjord-regionen",
+          "year": 1999
+        },
+        {
+          "id": "116359",
+          "title": "NOU 1997: 27 - Nytte-kostnadsanalyser",
+          "year": 1997
+        }
+      ]
+    },
+    {
+      "name": "Klima- og miljødepartementet",
+      "headcount": 106,
+      "nou_count": 30,
+      "count": 106,
+      "sample_nou_titles": [
+        "NOU 2024: NOU 2024: 2 - I samspill med naturen",
+        "NOU 2023: NOU 2023: 10 - Leve og oppleve",
+        "NOU 2023: NOU 2023: 18 - Genteknologi i en bærekraftig fremtid",
+        "NOU 2022: NOU 2022: 6 - Nett i tide",
+        "NOU 2018: NOU 2018: 17 - Klimarisiko og norsk økonomi"
+      ],
+      "sample_nous": [
+        {
+          "id": "3024887",
+          "title": "NOU 2024: 2 - I samspill med naturen",
+          "year": 2024
+        },
+        {
+          "id": "2968657",
+          "title": "NOU 2023: 10 - Leve og oppleve",
+          "year": 2023
+        },
+        {
+          "id": "2982905",
+          "title": "NOU 2023: 18 - Genteknologi i en bærekraftig fremtid",
+          "year": 2023
+        },
+        {
+          "id": "2918464",
+          "title": "NOU 2022: 6 - Nett i tide",
+          "year": 2022
+        },
+        {
+          "id": "2622043",
+          "title": "NOU 2018: 17 - Klimarisiko og norsk økonomi",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "name": "Kommunal- og distriktsdepartementet",
+      "headcount": 102,
+      "nou_count": 30,
+      "count": 102,
+      "sample_nou_titles": [
+        "NOU 2025: NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+        "NOU 2024: NOU 2024: 2 - I samspill med naturen",
+        "NOU 2024: NOU 2024: 23 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+        "NOU 2023: NOU 2023: 9 - Generalistkommunesystemet",
+        "NOU 2023: NOU 2023: 23 - Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping"
+      ],
+      "sample_nous": [
+        {
+          "id": "3140593",
+          "title": "NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+          "year": 2025
+        },
+        {
+          "id": "3024887",
+          "title": "NOU 2024: 2 - I samspill med naturen",
+          "year": 2024
+        },
+        {
+          "id": "3076113",
+          "title": "NOU 2024: 23 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+          "year": 2024
+        },
+        {
+          "id": "2968517",
+          "title": "NOU 2023: 9 - Generalistkommunesystemet",
+          "year": 2023
+        },
+        {
+          "id": "2995224",
+          "title": "NOU 2023: 23 - Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping",
+          "year": 2023
+        }
+      ]
+    },
+    {
+      "name": "Landbruks- og matdepartementet",
+      "headcount": 100,
+      "nou_count": 22,
+      "count": 100,
+      "sample_nou_titles": [
+        "NOU 2024: NOU 2024: 2 - I samspill med naturen",
+        "NOU 2023: NOU 2023: 18 - Genteknologi i en bærekraftig fremtid",
+        "NOU 2022: NOU 2022: 14 - Inntektsmåling i jordbruket",
+        "NOU 1997: NOU 1997: 14 - Spillet om pengene",
+        "NOU 1995: NOU 1995: 4 - Virkemidler i miljøpolitikken"
+      ],
+      "sample_nous": [
+        {
+          "id": "3024887",
+          "title": "NOU 2024: 2 - I samspill med naturen",
+          "year": 2024
+        },
+        {
+          "id": "2982905",
+          "title": "NOU 2023: 18 - Genteknologi i en bærekraftig fremtid",
+          "year": 2023
+        },
+        {
+          "id": "2930144",
+          "title": "NOU 2022: 14 - Inntektsmåling i jordbruket",
+          "year": 2022
+        },
+        {
+          "id": "140903",
+          "title": "NOU 1997: 14 - Spillet om pengene",
+          "year": 1997
+        },
+        {
+          "id": "139793",
+          "title": "NOU 1995: 4 - Virkemidler i miljøpolitikken",
+          "year": 1995
+        }
+      ]
+    },
+    {
+      "name": "Norges Bank",
+      "headcount": 98,
+      "nou_count": 27,
+      "count": 98,
+      "sample_nou_titles": [
+        "NOU 2024: NOU 2024: 22 - Norske sparebanker – tradisjon og tilpasning",
+        "NOU 2023: NOU 2023: 6 - Finanstilsynet i en ny tid – ny lov om Finanstilsynet",
+        "NOU 2021: NOU 2021: 6 - Myndighetenes håndtering av koronapandemien",
+        "NOU 2020: NOU 2020: 7 - Verdier og ansvar",
+        "NOU 2020: NOU 2020: 8 - Grunnlaget for inntektsoppgjørene 2020"
+      ],
+      "sample_nous": [
+        {
+          "id": "3074798",
+          "title": "NOU 2024: 22 - Norske sparebanker – tradisjon og tilpasning",
+          "year": 2024
+        },
+        {
+          "id": "2964628",
+          "title": "NOU 2023: 6 - Finanstilsynet i en ny tid – ny lov om Finanstilsynet",
+          "year": 2023
+        },
+        {
+          "id": "2844388",
+          "title": "NOU 2021: 6 - Myndighetenes håndtering av koronapandemien",
+          "year": 2021
+        },
+        {
+          "id": "2706536",
+          "title": "NOU 2020: 7 - Verdier og ansvar",
+          "year": 2020
+        },
+        {
+          "id": "2714942",
+          "title": "NOU 2020: 8 - Grunnlaget for inntektsoppgjørene 2020",
+          "year": 2020
+        }
+      ]
+    },
+    {
+      "name": "Arbeids- og administrasjonsdepartementet",
+      "headcount": 95,
+      "nou_count": 22,
+      "count": 95,
+      "sample_nou_titles": [
+        "NOU 2003: NOU 2003: 2 - Skjerpet vern mot diskriminering i arbeidslivet",
+        "NOU 2002: NOU 2002: 16 - Etter inntektsoppgjørene 2002",
+        "NOU 2001: NOU 2001: 20 - Lov om introduksjonsordning for nyankomne innvandrere",
+        "NOU 2001: NOU 2001: 28 - Delinnstilling om endringer i konkurranselovgivningen",
+        "NOU 2000: NOU 2000: 27 - Sykefravær og uførepensjonering"
+      ],
+      "sample_nous": [
+        {
+          "id": "118232",
+          "title": "NOU 2003: 2 - Skjerpet vern mot diskriminering i arbeidslivet",
+          "year": 2003
+        },
+        {
+          "id": "117962",
+          "title": "NOU 2002: 16 - Etter inntektsoppgjørene 2002",
+          "year": 2002
+        },
+        {
+          "id": "143913",
+          "title": "NOU 2001: 20 - Lov om introduksjonsordning for nyankomne innvandrere",
+          "year": 2001
+        },
+        {
+          "id": "378405",
+          "title": "NOU 2001: 28 - Delinnstilling om endringer i konkurranselovgivningen",
+          "year": 2001
+        },
+        {
+          "id": "143251",
+          "title": "NOU 2000: 27 - Sykefravær og uførepensjonering",
+          "year": 2000
+        }
+      ]
+    },
+    {
+      "name": "Energidepartementet",
+      "headcount": 89,
+      "nou_count": 21,
+      "count": 89,
+      "sample_nou_titles": [
+        "NOU 2022: NOU 2022: 6 - Nett i tide",
+        "NOU 2019: NOU 2019: 16 - Skattlegging av vannkraftverk",
+        "NOU 2018: NOU 2018: 17 - Klimarisiko og norsk økonomi",
+        "NOU 2004: NOU 2004: 8 - Differensiert el-avgift for husholdninger",
+        "NOU 2001: NOU 2001: 28 - Delinnstilling om endringer i konkurranselovgivningen"
+      ],
+      "sample_nous": [
+        {
+          "id": "2918464",
+          "title": "NOU 2022: 6 - Nett i tide",
+          "year": 2022
+        },
+        {
+          "id": "2670343",
+          "title": "NOU 2019: 16 - Skattlegging av vannkraftverk",
+          "year": 2019
+        },
+        {
+          "id": "2622043",
+          "title": "NOU 2018: 17 - Klimarisiko og norsk økonomi",
+          "year": 2018
+        },
+        {
+          "id": "385856",
+          "title": "NOU 2004: 8 - Differensiert el-avgift for husholdninger",
+          "year": 2004
+        },
+        {
+          "id": "378405",
+          "title": "NOU 2001: 28 - Delinnstilling om endringer i konkurranselovgivningen",
+          "year": 2001
+        }
+      ]
+    },
+    {
+      "name": "YS",
+      "headcount": 88,
+      "nou_count": 34,
+      "count": 88,
+      "sample_nou_titles": [
+        "NOU 2026: NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+        "NOU 2025: NOU 2025: 1 - Felles ansvar, felles gevinst",
+        "NOU 2025: NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+        "NOU 2024: NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+        "NOU 2024: NOU 2024: 11 - Lavlønn i Norge"
+      ],
+      "sample_nous": [
+        {
+          "id": "3155079",
+          "title": "NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+          "year": 2026
+        },
+        {
+          "id": "3083356",
+          "title": "NOU 2025: 1 - Felles ansvar, felles gevinst",
+          "year": 2025
+        },
+        {
+          "id": "3094178",
+          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+          "year": 2025
+        },
+        {
+          "id": "3031371",
+          "title": "NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+          "year": 2024
+        },
+        {
+          "id": "3045067",
+          "title": "NOU 2024: 11 - Lavlønn i Norge",
+          "year": 2024
+        }
+      ]
+    },
+    {
+      "name": "Helsedirektoratet",
+      "headcount": 80,
+      "nou_count": 22,
+      "count": 80,
+      "sample_nou_titles": [
+        "NOU 2023: NOU 2023: 2 - Fremtidens apotek – fleksibelt og forsvarlig",
+        "NOU 2011: NOU 2011: 21 - Når døden tjener livet",
+        "NOU 2003: NOU 2003: 1 - Behovsbasert finansiering av spesialisthelsetjenesten",
+        "NOU 2003: NOU 2003: 4 - Forskning på rusmiddelfeltet",
+        "NOU 1994: NOU 1994: 8 - Kompetanseutvikling i arbeidet for psykisk utviklingshemmede"
+      ],
+      "sample_nous": [
+        {
+          "id": "2960868",
+          "title": "NOU 2023: 2 - Fremtidens apotek – fleksibelt og forsvarlig",
+          "year": 2023
+        },
+        {
+          "id": "666923",
+          "title": "NOU 2011: 21 - Når døden tjener livet",
+          "year": 2011
+        },
+        {
+          "id": "453861",
+          "title": "NOU 2003: 1 - Behovsbasert finansiering av spesialisthelsetjenesten",
+          "year": 2003
+        },
+        {
+          "id": "583942",
+          "title": "NOU 2003: 4 - Forskning på rusmiddelfeltet",
+          "year": 2003
+        },
+        {
+          "id": "139439",
+          "title": "NOU 1994: 8 - Kompetanseutvikling i arbeidet for psykisk utviklingshemmede",
+          "year": 1994
+        }
+      ]
+    },
+    {
+      "name": "Forsvarsdepartementet",
+      "headcount": 69,
+      "nou_count": 11,
+      "count": 69,
+      "sample_nou_titles": [
+        "NOU 2023: NOU 2023: 14 - Forsvarskommisjonen av 2021",
+        "NOU 2001: NOU 2001: 10 - Uten penn og blekk",
+        "NOU 1999: NOU 1999: 8 - Materiellforvaltningen i Forsvaret",
+        "NOU 1999: NOU 1999: 16 - Søk etter omkomne",
+        "NOU 1997: NOU 1997: 21 - Offentlige anskaffelser"
+      ],
+      "sample_nous": [
+        {
+          "id": "2974821",
+          "title": "NOU 2023: 14 - Forsvarskommisjonen av 2021",
+          "year": 2023
+        },
+        {
+          "id": "377345",
+          "title": "NOU 2001: 10 - Uten penn og blekk",
+          "year": 2001
+        },
+        {
+          "id": "141584",
+          "title": "NOU 1999: 8 - Materiellforvaltningen i Forsvaret",
+          "year": 1999
+        },
+        {
+          "id": "141754",
+          "title": "NOU 1999: 16 - Søk etter omkomne",
+          "year": 1999
+        },
+        {
+          "id": "141007",
+          "title": "NOU 1997: 21 - Offentlige anskaffelser",
+          "year": 1997
+        }
+      ]
+    },
+    {
+      "name": "Akademikerne",
+      "headcount": 68,
+      "nou_count": 24,
+      "count": 68,
+      "sample_nou_titles": [
+        "NOU 2026: NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+        "NOU 2025: NOU 2025: 1 - Felles ansvar, felles gevinst",
+        "NOU 2025: NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+        "NOU 2024: NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+        "NOU 2024: NOU 2024: 11 - Lavlønn i Norge"
+      ],
+      "sample_nous": [
+        {
+          "id": "3155079",
+          "title": "NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+          "year": 2026
+        },
+        {
+          "id": "3083356",
+          "title": "NOU 2025: 1 - Felles ansvar, felles gevinst",
+          "year": 2025
+        },
+        {
+          "id": "3094178",
+          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+          "year": 2025
+        },
+        {
+          "id": "3031371",
+          "title": "NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+          "year": 2024
+        },
+        {
+          "id": "3045067",
+          "title": "NOU 2024: 11 - Lavlønn i Norge",
+          "year": 2024
+        }
+      ]
+    },
+    {
+      "name": "Finanstilsynet",
+      "headcount": 68,
+      "nou_count": 22,
+      "count": 68,
+      "sample_nou_titles": [
+        "NOU 2024: NOU 2024: 22 - Norske sparebanker – tradisjon og tilpasning",
+        "NOU 2024: NOU 2024: 16 - Endringer i verdipapirhandelloven",
+        "NOU 2023: NOU 2023: 6 - Finanstilsynet i en ny tid – ny lov om Finanstilsynet",
+        "NOU 2021: NOU 2021: 7 - Trygg og enkel eiendomsmegling",
+        "NOU 2019: NOU 2019: 4 - Organisering av norsk naturskadeforsikring"
+      ],
+      "sample_nous": [
+        {
+          "id": "3074798",
+          "title": "NOU 2024: 22 - Norske sparebanker – tradisjon og tilpasning",
+          "year": 2024
+        },
+        {
+          "id": "3048954",
+          "title": "NOU 2024: 16 - Endringer i verdipapirhandelloven",
+          "year": 2024
+        },
+        {
+          "id": "2964628",
+          "title": "NOU 2023: 6 - Finanstilsynet i en ny tid – ny lov om Finanstilsynet",
+          "year": 2023
+        },
+        {
+          "id": "2856737",
+          "title": "NOU 2021: 7 - Trygg og enkel eiendomsmegling",
+          "year": 2021
+        },
+        {
+          "id": "2627812",
+          "title": "NOU 2019: 4 - Organisering av norsk naturskadeforsikring",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "name": "NTNU",
+      "headcount": 66,
+      "nou_count": 26,
+      "count": 66,
+      "sample_nou_titles": [
+        "NOU 2025: NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+        "NOU 2025: NOU 2025: 2 - Samfunnsvern og omsorg",
+        "NOU 2024: NOU 2024: 11 - Lavlønn i Norge",
+        "NOU 2024: NOU 2024: 20 - Det digitale (i) livet",
+        "NOU 2024: NOU 2024: 23 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi"
+      ],
+      "sample_nous": [
+        {
+          "id": "3140593",
+          "title": "NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+          "year": 2025
+        },
+        {
+          "id": "3092109",
+          "title": "NOU 2025: 2 - Samfunnsvern og omsorg",
+          "year": 2025
+        },
+        {
+          "id": "3045067",
+          "title": "NOU 2024: 11 - Lavlønn i Norge",
+          "year": 2024
+        },
+        {
+          "id": "3073644",
+          "title": "NOU 2024: 20 - Det digitale (i) livet",
+          "year": 2024
+        },
+        {
+          "id": "3076113",
+          "title": "NOU 2024: 23 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+          "year": 2024
+        }
+      ]
+    },
+    {
+      "name": "Norges Fiskarlag",
+      "headcount": 66,
+      "nou_count": 13,
+      "count": 66,
+      "sample_nou_titles": [
+        "NOU 2000: NOU 2000: 21 - En strategi for sysselsetting og verdiskaping",
+        "NOU 1999: NOU 1999: 16 - Søk etter omkomne",
+        "NOU 1991: NOU 1991: 21 - Om grunnlaget for inntektsoppgjørene 1990",
+        "NOU 1986: NOU 1986: 6 - Erstatning til fiskere for ulemper ved petroleumsvirksomheten",
+        "NOU 1986: NOU 1986: 10 - Sikkerhet i fiskeflåten"
+      ],
+      "sample_nous": [
+        {
+          "id": "117571",
+          "title": "NOU 2000: 21 - En strategi for sysselsetting og verdiskaping",
+          "year": 2000
+        },
+        {
+          "id": "141754",
+          "title": "NOU 1999: 16 - Søk etter omkomne",
+          "year": 1999
+        },
+        {
+          "id": "2472777",
+          "title": "NOU 1991: 21 - Om grunnlaget for inntektsoppgjørene 1990",
+          "year": 1991
+        },
+        {
+          "id": "digibok_2012071006098",
+          "title": "NOU 1986: 6 - Erstatning til fiskere for ulemper ved petroleumsvirksomheten",
+          "year": 1986
+        },
+        {
+          "id": "digibok_2012112206278",
+          "title": "NOU 1986: 10 - Sikkerhet i fiskeflåten",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "name": "Norges Handelshøyskole (NHH)",
+      "headcount": 64,
+      "nou_count": 24,
+      "count": 64,
+      "sample_nou_titles": [
+        "NOU 2024: NOU 2024: 9 - Ny lov om offentlige anskaffelser",
+        "NOU 2023: NOU 2023: 5 - Den store forskjellen",
+        "NOU 2023: NOU 2023: 26 - Ny lov om offentlige anskaffelser",
+        "NOU 2023: NOU 2023: 7 - Trygg barndom, sikker fremtid",
+        "NOU 2021: NOU 2021: 9 - Den norske modellen og fremtidens arbeidsliv"
+      ],
+      "sample_nous": [
+        {
+          "id": "3039569",
+          "title": "NOU 2024: 9 - Ny lov om offentlige anskaffelser",
+          "year": 2024
+        },
+        {
+          "id": "2964854",
+          "title": "NOU 2023: 5 - Den store forskjellen",
+          "year": 2023
+        },
+        {
+          "id": "3013726",
+          "title": "NOU 2023: 26 - Ny lov om offentlige anskaffelser",
+          "year": 2023
+        },
+        {
+          "id": "2966836",
+          "title": "NOU 2023: 7 - Trygg barndom, sikker fremtid",
+          "year": 2023
+        },
+        {
+          "id": "2862895",
+          "title": "NOU 2021: 9 - Den norske modellen og fremtidens arbeidsliv",
+          "year": 2021
+        }
+      ]
+    },
+    {
+      "name": "Universitetet i Tromsø (UiT)",
+      "headcount": 64,
+      "nou_count": 21,
+      "count": 64,
+      "sample_nou_titles": [
+        "NOU 2024: NOU 2024: 13 - Lov og frihet",
+        "NOU 2024: NOU 2024: 20 - Det digitale (i) livet",
+        "NOU 2023: NOU 2023: 18 - Genteknologi i en bærekraftig fremtid",
+        "NOU 2023: NOU 2023: 23 - Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping",
+        "NOU 2023: NOU 2023: 5 - Den store forskjellen"
+      ],
+      "sample_nous": [
+        {
+          "id": "3046261",
+          "title": "NOU 2024: 13 - Lov og frihet",
+          "year": 2024
+        },
+        {
+          "id": "3073644",
+          "title": "NOU 2024: 20 - Det digitale (i) livet",
+          "year": 2024
+        },
+        {
+          "id": "2982905",
+          "title": "NOU 2023: 18 - Genteknologi i en bærekraftig fremtid",
+          "year": 2023
+        },
+        {
+          "id": "2995224",
+          "title": "NOU 2023: 23 - Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping",
+          "year": 2023
+        },
+        {
+          "id": "2964854",
+          "title": "NOU 2023: 5 - Den store forskjellen",
+          "year": 2023
+        }
+      ]
+    },
+    {
+      "name": "Barne- og familiedepartementet",
+      "headcount": 58,
+      "nou_count": 13,
+      "count": 58,
+      "sample_nou_titles": [
+        "NOU 2021: NOU 2021: 8 - Trygd over landegrensene",
+        "NOU 2019: NOU 2019: 20 - En styrket familietjeneste",
+        "NOU 2006: NOU 2006: 1 - Eiendomsmegling",
+        "NOU 2005: NOU 2005: 15 - Obligatorisk tjenestepensjon",
+        "NOU 2000: NOU 2000: 11 - Arbeidsvilkår for regjeringspolitikere"
+      ],
+      "sample_nous": [
+        {
+          "id": "2860696",
+          "title": "NOU 2021: 8 - Trygd over landegrensene",
+          "year": 2021
+        },
+        {
+          "id": "2678371",
+          "title": "NOU 2019: 20 - En styrket familietjeneste",
+          "year": 2019
+        },
+        {
+          "id": "120170",
+          "title": "NOU 2006: 1 - Eiendomsmegling",
+          "year": 2006
+        },
+        {
+          "id": "391363",
+          "title": "NOU 2005: 15 - Obligatorisk tjenestepensjon",
+          "year": 2005
+        },
+        {
+          "id": "117336",
+          "title": "NOU 2000: 11 - Arbeidsvilkår for regjeringspolitikere",
+          "year": 2000
+        }
+      ]
+    },
+    {
+      "name": "Kommunal- og regionaldepartementet",
+      "headcount": 48,
+      "nou_count": 12,
+      "count": 48,
+      "sample_nou_titles": [
+        "NOU 2004: NOU 2004: 15 - Regional statsstøtte og EØS-reglane",
+        "NOU 2003: NOU 2003: 3 - Merverdiavgiften og kommunene",
+        "NOU 2001: NOU 2001: 20 - Lov om introduksjonsordning for nyankomne innvandrere",
+        "NOU 2001: NOU 2001: 1 - Lov om personnavn",
+        "NOU 2000: NOU 2000: 17 - Burettslovene"
+      ],
+      "sample_nous": [
+        {
+          "id": "386408",
+          "title": "NOU 2004: 15 - Regional statsstøtte og EØS-reglane",
+          "year": 2004
+        },
+        {
+          "id": "381072",
+          "title": "NOU 2003: 3 - Merverdiavgiften og kommunene",
+          "year": 2003
+        },
+        {
+          "id": "143913",
+          "title": "NOU 2001: 20 - Lov om introduksjonsordning for nyankomne innvandrere",
+          "year": 2001
+        },
+        {
+          "id": "376445",
+          "title": "NOU 2001: 1 - Lov om personnavn",
+          "year": 2001
+        },
+        {
+          "id": "428252",
+          "title": "NOU 2000: 17 - Burettslovene",
+          "year": 2000
+        }
+      ]
+    },
+    {
+      "name": "Virke",
+      "headcount": 47,
+      "nou_count": 22,
+      "count": 47,
+      "sample_nou_titles": [
+        "NOU 2026: NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+        "NOU 2025: NOU 2025: 1 - Felles ansvar, felles gevinst",
+        "NOU 2025: NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+        "NOU 2024: NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+        "NOU 2024: NOU 2024: 11 - Lavlønn i Norge"
+      ],
+      "sample_nous": [
+        {
+          "id": "3155079",
+          "title": "NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+          "year": 2026
+        },
+        {
+          "id": "3083356",
+          "title": "NOU 2025: 1 - Felles ansvar, felles gevinst",
+          "year": 2025
+        },
+        {
+          "id": "3094178",
+          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+          "year": 2025
+        },
+        {
+          "id": "3031371",
+          "title": "NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+          "year": 2024
+        },
+        {
+          "id": "3045067",
+          "title": "NOU 2024: 11 - Lavlønn i Norge",
+          "year": 2024
+        }
+      ]
+    }
+  ],
+  "total_organizations_count": 452,
+  "total_profiled": 1716,
+  "total_receivers": 1082,
+  "longest_title": {
+    "title": "NOU 1990: 27 - Bedrifts- og kapitalbeskatningen. Beskatning av aksjer, obligasjoner, valuta og enkelte finansielle instrumenter",
+    "id": "digibok_2007112700009",
+    "year": 1990,
+    "len": 127
+  },
+  "shortest_title": {
+    "title": "NOU 1985: 11 - TV2",
+    "id": "digibok_2007081401024",
+    "year": 1985,
+    "len": 18
+  },
+  "most_common_years": [
+    [
+      1975,
+      68
+    ],
+    [
+      1974,
+      62
+    ],
+    [
+      1976,
+      61
+    ],
+    [
+      1973,
+      60
+    ],
+    [
+      1980,
+      59
+    ],
+    [
+      1983,
+      58
+    ],
+    [
+      1979,
+      57
+    ],
+    [
+      1977,
+      56
+    ],
+    [
+      1978,
+      53
+    ],
+    [
+      1981,
+      48
+    ]
+  ],
+  "most_nous_year": {
+    "year": 1975,
+    "count": 68
+  },
+  "least_nous_year": {
+    "year": 2025,
+    "count": 11
+  },
+  "most_common_leaders": [
+    [
+      "Erling Selvig",
+      40
+    ],
+    [
+      "Svein Longva",
+      35
+    ],
+    [
+      "Odd Aukrust",
+      20
+    ],
+    [
+      "Dagfin Juel",
+      15
+    ],
+    [
+      "Hans Petter Graver",
+      13
+    ],
+    [
+      "Ådne Cappelen",
+      11
+    ],
+    [
+      "Filip Truyen",
+      10
+    ],
+    [
+      "Øystein Olsen",
+      10
+    ],
+    [
+      "Steinar Holden",
+      10
+    ],
+    [
+      "Magnus Aarbakke",
+      9
+    ]
+  ],
+  "most_common_members": [
+    [
+      "Stein Reegård",
+      49
+    ],
+    [
+      "Olav Magnussen",
+      42
+    ],
+    [
+      "Bernhard Nestaas",
+      37
+    ],
+    [
+      "Øystein Løining",
+      32
+    ],
+    [
+      "Arnhild Dordi Gjønnes",
+      31
+    ],
+    [
+      "Erik Orskaug",
+      31
+    ],
+    [
+      "Lars Haartveit",
+      30
+    ],
+    [
+      "Eystein Gjelsvik",
+      28
+    ],
+    [
+      "Rolf A. Skomsvold",
+      27
+    ],
+    [
+      "Per Melsom",
+      27
+    ]
+  ],
+  "people_most_committees": [
+    [
+      "Stein Reegård",
+      49
+    ],
+    [
+      "Olav Magnussen",
+      42
+    ],
+    [
+      "Erling Selvig",
+      41
+    ],
+    [
+      "Bernhard Nestaas",
+      38
+    ],
+    [
+      "Svein Longva",
+      37
+    ],
+    [
+      "Øystein Løining",
+      33
+    ],
+    [
+      "Erik Orskaug",
+      32
+    ],
+    [
+      "Arnhild Dordi Gjønnes",
+      31
+    ],
+    [
+      "Lars Haartveit",
+      30
+    ],
+    [
+      "Eystein Gjelsvik",
+      28
+    ],
+    [
+      "Rolf A. Skomsvold",
+      27
+    ],
+    [
+      "Per Melsom",
+      27
+    ],
+    [
+      "Hallvard Borgenvik",
+      26
+    ],
+    [
+      "Ottar Dalsøren",
+      25
+    ],
+    [
+      "Erling G. Rikheim",
+      25
+    ]
+  ],
+  "most_members": {
+    "title": "NOU 2007: 3 - Om grunnlaget for inntektsoppgjørene 2007",
+    "count": 30,
+    "year": 2007,
+    "id": "464722"
+  },
+  "fewest_members": {
+    "title": "NOU 2001: 8 - Lov om varekjennetegn med motiver fra Varemerkeutredningen II",
+    "count": 1,
+    "year": 2001,
+    "id": "143515"
+  },
+  "most_secretaries": {
+    "title": "NOU 2024: 27 - Et nytt skattesystem",
+    "count": 16,
+    "year": 2024,
+    "id": "86008"
+  },
+  "most_common_receivers": [
+    [
+      "Justis- og beredskapsdepartementet",
+      158
+    ],
+    [
+      "Finansdepartementet",
+      145
+    ],
+    [
+      "Helse- og omsorgsdepartementet",
+      123
+    ],
+    [
+      "Kunnskapsdepartementet",
+      99
+    ],
+    [
+      "Barne- og familiedepartementet",
+      89
+    ],
+    [
+      "Nærings- og fiskeridepartementet",
+      87
+    ],
+    [
+      "Kommunal- og distriktsdepartementet",
+      76
+    ],
+    [
+      "Arbeids- og inkluderingsdepartementet",
+      63
+    ],
+    [
+      "Klima- og miljødepartementet",
+      46
+    ],
+    [
+      "Samferdselsdepartementet",
+      41
+    ],
+    [
+      "Kultur- og likestillingsdepartementet",
+      35
+    ],
+    [
+      "Landbruks- og matdepartementet",
+      35
+    ],
+    [
+      "Energidepartementet",
+      21
+    ],
+    [
+      "Statsministerens kontor",
+      20
+    ],
+    [
+      "Forsvarsdepartementet",
+      17
+    ]
+  ],
+  "most_common_receivers_historical": [
+    [
+      "Finansdepartementet",
+      117
+    ],
+    [
+      "Justis- og politidepartementet",
+      78
+    ],
+    [
+      "Sosialdepartementet",
+      63
+    ],
+    [
+      "Justis- og beredskapsdepartementet",
+      56
+    ],
+    [
+      "Forbruker- og administrasjonsdepartementet",
+      48
+    ],
+    [
+      "Kommunal- og arbeidsdepartementet",
+      47
+    ],
+    [
+      "Kirke- og undervisningsdepartementet",
+      43
+    ],
+    [
+      "Kunnskapsdepartementet",
+      41
+    ],
+    [
+      "Samferdselsdepartementet",
+      41
+    ],
+    [
+      "Miljøverndepartementet",
+      40
+    ],
+    [
+      "Landbruksdepartementet",
+      32
+    ],
+    [
+      "Helse- og omsorgsdepartementet",
+      30
+    ],
+    [
+      "Industridepartementet",
+      29
+    ],
+    [
+      "Barne- og familiedepartementet",
+      28
+    ],
+    [
+      "Sosial- og helsedepartementet",
+      28
+    ]
+  ],
+  "most_common_receivers_lineage": [
+    [
+      "Justis- og beredskapsdepartementet",
+      158
+    ],
+    [
+      "Finansdepartementet",
+      145
+    ],
+    [
+      "Helse- og omsorgsdepartementet",
+      123
+    ],
+    [
+      "Kunnskapsdepartementet",
+      99
+    ],
+    [
+      "Barne- og familiedepartementet",
+      89
+    ],
+    [
+      "Nærings- og fiskeridepartementet",
+      87
+    ],
+    [
+      "Kommunal- og distriktsdepartementet",
+      76
+    ],
+    [
+      "Arbeids- og inkluderingsdepartementet",
+      63
+    ],
+    [
+      "Klima- og miljødepartementet",
+      46
+    ],
+    [
+      "Samferdselsdepartementet",
+      41
+    ],
+    [
+      "Kultur- og likestillingsdepartementet",
+      35
+    ],
+    [
+      "Landbruks- og matdepartementet",
+      35
+    ],
+    [
+      "Energidepartementet",
+      21
+    ],
+    [
+      "Statsministerens kontor",
+      20
+    ],
+    [
+      "Forsvarsdepartementet",
+      17
+    ]
+  ],
+  "keyword_mentions": {
+    "skatt": 174,
+    "klima": 37,
+    "skole": 108,
+    "politi": 475,
+    "olje": 110,
+    "kvinner": 42,
+    "forsvar": 131,
+    "energi": 43,
+    "helse": 255,
+    "digital": 65,
+    "arbeid": 888,
+    "pensjon": 106,
+    "barn": 143
+  },
+  "podcasts_ready": 7,
+  "longest_nous_by_pages": [
+    [
+      6372,
+      "NOU 2014: 9 - Organisering av internasjonal adopsjon",
+      2014,
+      "2008251"
+    ],
+    [
+      5346,
+      "NOU 2014: 13 - Kapitalbeskatning og finansiell stabilitet",
+      2014,
+      "2342691"
+    ],
+    [
+      5152,
+      "NOU 2014: 10 - Henleggingar ved tvil om tilreknelegheit",
+      2014,
+      "2008986"
+    ],
+    [
+      3404,
+      "NOU 2014: 4 - Forenkling av anskaffelsesregelverket",
+      2014,
+      "761768"
+    ],
+    [
+      3202,
+      "NOU 2010: 3 - Voldsrisiko hos personar med alvorleg psykisk sjukdom",
+      2010,
+      "602257"
+    ],
+    [
+      2970,
+      "NOU 2014: 12 - Presisering av helsetapskriteriet",
+      2014,
+      "2076730"
+    ],
+    [
+      2374,
+      "NOU 2014: 11 - Vurdering av Markedsrådet som klageorgan",
+      2014,
+      "2076222"
+    ],
+    [
+      1993,
+      "NOU 1993: 26 - ETTER INNTEKTSOPPGJØRENE 1993",
+      1993,
+      "2472816"
+    ],
+    [
+      1992,
+      "NOU 1992: 27 - ETTER INNTEKTSOPPGJØRENE 1992",
+      1992,
+      "2472714"
+    ],
+    [
+      1991,
+      "NOU 1991: 22 - Om grunnlaget for inntektsoppgjørene 1991",
+      1991,
+      "2472788"
+    ],
+    [
+      1980,
+      "NOU 1972: 18 - Langtidsplan for NSB fram til 1980",
+      1972,
+      "digibok_2008052900021"
+    ],
+    [
+      1608,
+      "NOU 2014: 8 - Profesjonalisering av tolkeyrket",
+      2014,
+      "2001246"
+    ],
+    [
+      1542,
+      "NOU 2014: 6 - Revisjon av eierseksjonsloven",
+      2014,
+      "765757"
+    ],
+    [
+      1334,
+      "NOU 2014: 3 - Grunnlag for inntektsoppgjøra 2014",
+      2014,
+      "758113"
+    ],
+    [
+      1221,
+      "NOU 1978: 21 - Innredningsindustrien",
+      1978,
+      "digibok_2008053004071"
+    ]
+  ],
+  "shortest_nous_by_pages": [
+    [
+      10,
+      "NOU 2026: 7 - Forsvarlighet, risiko og tillit",
+      2026,
+      "3166395"
+    ],
+    [
+      10,
+      "NOU 2026: 2 - Politikk for nye generasjoner",
+      2026,
+      "3148337"
+    ],
+    [
+      10,
+      "NOU 2024: 27 - Et nytt skattesystem",
+      2024,
+      "86008"
+    ],
+    [
+      10,
+      "NOU 2022: 11 - Ditt personvern – vårt felles ansvar",
+      2022,
+      "2928543"
+    ],
+    [
+      10,
+      "NOU 2020: 14 - Ny barnelov",
+      2020,
+      "2788399"
+    ],
+    [
+      10,
+      "NOU 2020: 17 - Varslede drap",
+      2020,
+      "2791522"
+    ],
+    [
+      10,
+      "NOU 2020: 11 - Den tredje statsmakt",
+      2020,
+      "2766587"
+    ],
+    [
+      10,
+      "NOU 2017: 16 - På liv og død",
+      2017,
+      "2582548"
+    ],
+    [
+      10,
+      "NOU 2015: 8 - Fremtidens skole",
+      2015,
+      "2417001"
+    ],
+    [
+      10,
+      "NOU 2012: 14 - Rapport fra 22. juli-kommisjonen",
+      2012,
+      "697260"
+    ],
+    [
+      10,
+      "NOU 2009: 4 - Tiltak mot skatteunndragelser",
+      2009,
+      "547064"
+    ],
+    [
+      10,
+      "NOU 2006: 16 - Strukturvirkemidler i fiskeflåten",
+      2006,
+      "392141"
+    ],
+    [
+      10,
+      "NOU 2006: 6 - Når sikkerheten er viktigst",
+      2006,
+      "157408"
+    ],
+    [
+      10,
+      "NOU 2006: 3 - Om markeder for finansielle instrumenter",
+      2006,
+      "156420"
+    ],
+    [
+      10,
+      "NOU 2005: 10 - Lov om forvaltning av viltlevende marine ressurser",
+      2005,
+      "390975"
+    ]
+  ],
+  "average_member_count": 8.6,
+  "average_page_count": 188.7,
+  "average_secretariat_count": 2.5,
+  "updated_at": "2026-08-18T19:52:12.974374+00:00"
+}

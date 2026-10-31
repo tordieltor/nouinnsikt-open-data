@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="nn">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tidlegare NOUinnsikt-lenkje — Ope rådata-arkiv (1972–2026)</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=PT+Serif:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#hovudinnhald">Hopp til hovudinnhald</a>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand-link" href="/" aria-label="Til framsida for NOUinnsikt rådata-arkiv">
+        <img class="brand-logo" src="/favicon.svg" alt="" width="38" height="38" />
+        <span>
+          <span class="brand-title">NOUinnsikt</span>
+          <span class="brand-subtitle">Ope rådata-arkiv (1972–2026)</span>
+        </span>
+      </a>
+      <nav class="header-nav" aria-label="Hovudmeny">
+        <a class="nav-link" href="/">Til arkivframsida</a>
+        <a class="btn-primary" id="header-gh-link" href="https://github.com/tordieltor/nouinnsikt-open-data" target="_blank" rel="noopener noreferrer">
+          Opne GitHub-arkivet ↗
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="hovudinnhald" class="hero-section">
+    <div class="container">
+      <div class="sunset-card">
+        <div class="hero-badges">
+          <span class="meta-badge badge-amber">Tidlegare NOUinnsikt-adresse</span>
+          <span class="meta-badge badge-sage">Ope rådata-arkiv (1972–2026)</span>
+        </div>
+
+        <h1 id="resolver-title" class="hero-title">
+          NOUinnsikt er gjort om til eit ope rådata-arkiv
+        </h1>
+
+        <p id="resolver-desc" class="hero-lead">
+          Undersida du opna høyrde til den tidlegare dynamiske nettjenesta. Alle dei 1 741 NOU-utgreiingane, relasjonstabellane og forskingskatalogane ligg no fritt tilgjengelege i rådata-arkivet på GitHub, med direkte peikarar til offisielle primærkjelder.
+        </p>
+
+        <div id="matched-nou-box" class="lookup-list" style="margin: 1.25rem 0;"></div>
+
+        <div class="hero-actions">
+          <a class="btn-primary" href="/">
+            Gå til hovudsida og NOU-oppslaget
+          </a>
+          <a class="btn-secondary" id="matched-dataset-link" href="https://github.com/tordieltor/nouinnsikt-open-data" target="_blank" rel="noopener noreferrer">
+            Opne rådata-repoet på GitHub ↗
+          </a>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    (function () {
+      "use strict";
+      var REPO_SLUG = "tordieltor/nouinnsikt-open-data";
+      var ghBase = "https://github.com/" + REPO_SLUG;
+      var rawPath = decodeURIComponent(window.location.pathname || "/").toLowerCase();
+      var segments = rawPath.split("/").filter(Boolean);
+      var lastSeg = segments[segments.length - 1] || "";
+
+      var routeDatasetMap = {
+        "dissens": { label: "Opne dissent_catalog.json (626 dissensar) ↗", path: "/blob/main/datasets/catalogs/dissent_catalog.json" },
+        "etterliv": { label: "Opne politisk etterliv-tabellar (CSV/JSONL) ↗", path: "/tree/main/datasets/relational" },
+        "relasjoner": { label: "Opne relations_citations.json (7 878 siteringar) ↗", path: "/blob/main/datasets/catalogs/relations_citations.json" },
+        "sprak": { label: "Opne language_data.json (LIX & målform) ↗", path: "/blob/main/datasets/catalogs/language_data.json" },
+        "mangfald": { label: "Opne diversity_catalog.json & nou_authors.csv ↗", path: "/blob/main/datasets/catalogs/diversity_catalog.json" },
+        "utvalgsleder": { label: "Opne nou_authors.csv (20 250 utvalsroller) ↗", path: "/blob/main/datasets/relational/nou_authors.csv" },
+        "kommende": { label: "Opne upcoming_nous.json ↗", path: "/blob/main/datasets/catalogs/upcoming_nous.json" },
+        "departement": { label: "Opne ministry_lineage.json & ministry_nou_map.json ↗", path: "/blob/main/datasets/catalogs/ministry_lineage.json" },
+        "lydarkiv": { label: "Opne MP3-lydarkiv under GitHub Releases ↗", path: "/releases" },
+        "podkast": { label: "Opne MP3-lydarkiv under GitHub Releases ↗", path: "/releases" }
+      };
+
+      var datasetLink = document.getElementById("matched-dataset-link");
+      for (var i = 0; i < segments.length; i++) {
+        if (routeDatasetMap[segments[i]] && datasetLink) {
+          datasetLink.href = ghBase + routeDatasetMap[segments[i]].path;
+          datasetLink.textContent = routeDatasetMap[segments[i]].label;
+          break;
+        }
+      }
+
+      if (!lastSeg) {
+        return;
+      }
+
+      fetch("/nou_lookup.json")
+        .then(function (r) { return r.ok ? r.json() : fetch("./nou_lookup.json").then(function (r2) { return r2.json(); }); })
+        .then(function (items) {
+          if (!Array.isArray(items)) { return; }
+          var refMatch = lastSeg.match(/nou[-_ ]?(\d{4})[-_ :]?(\d{1,3})/i);
+          var targetRef = refMatch ? ("nou " + refMatch[1] + ": " + Number(refMatch[2])) : null;
+
+          var found = items.find(function (it) {
+            return (
+              String(it.id).toLowerCase() === lastSeg ||
+              String(it.slug || "").toLowerCase() === lastSeg ||
+              (targetRef && String(it.ref || "").toLowerCase() === targetRef) ||
+              (lastSeg.length > 8 && String(it.slug || "").toLowerCase().indexOf(lastSeg) === 0)
+            );
+          });
+
+          if (!found) { return; }
+
+          var box = document.getElementById("matched-nou-box");
+          var card = document.createElement("div");
+          card.className = "lookup-item";
+
+          var main = document.createElement("div");
+          main.className = "lookup-item-main";
+          var h2 = document.createElement("h2");
+          h2.className = "lookup-item-title";
+          h2.textContent = found.title || found.ref;
+          main.appendChild(h2);
+
+          var meta = document.createElement("p");
+          meta.className = "lookup-item-meta";
+          meta.textContent =
+            "Primærnøkkel i rådata-arkivet (nou_id): " +
+            found.id +
+            (found.leader ? " · Utvalsleiar: " + found.leader : "") +
+            (found.ministry ? " · Departement: " + found.ministry : "");
+          main.appendChild(meta);
+
+          var actions = document.createElement("div");
+          actions.className = "lookup-item-actions";
+          if (found.pdf_url) {
+            var aPdf = document.createElement("a");
+            aPdf.className = "btn-primary";
+            aPdf.href = found.pdf_url;
+            aPdf.target = "_blank";
+            aPdf.rel = "noopener noreferrer";
+            aPdf.textContent = "Opne offisiell PDF ↗";
+            actions.appendChild(aPdf);
+          }
+          if (found.source_url) {
+            var aSrc = document.createElement("a");
+            aSrc.className = "btn-secondary";
+            aSrc.href = found.source_url;
+            aSrc.target = "_blank";
+            aSrc.rel = "noopener noreferrer";
+            aSrc.textContent = found.source_url.indexOf("nb.no") !== -1 ? "Opne på NB.no ↗" : "Opne på Regjeringen.no ↗";
+            actions.appendChild(aSrc);
+          }
+
+          card.appendChild(main);
+          card.appendChild(actions);
+          box.appendChild(card);
+        })
+        .catch(function () {});
+    })();
+  </script>
+</body>
+</html>

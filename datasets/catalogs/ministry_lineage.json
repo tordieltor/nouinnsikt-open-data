@@ -1,0 +1,630 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "description": "Authoritative bidirectional ministerial lineage registry for Norwegian government ministries from 1972 (inception of NOU series) to present.",
+    "audited_at": "2026-08-15T08:00:00Z",
+    "total_historical_entities": 42,
+    "total_modern_lineages": 17
+  },
+  "modern_ministries": {
+    "Finansdepartementet": {
+      "code": "FIN",
+      "name_nb": "Finansdepartementet",
+      "name_nn": "Finansdepartementet",
+      "established_year": 1814,
+      "predecessors": [
+        "Finans- og tolldepartementet",
+        "Finansdepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Finans- og tolldepartementet",
+          "from": 1814,
+          "to": 1999
+        },
+        {
+          "name": "Finansdepartementet",
+          "from": 2000,
+          "to": null
+        }
+      ]
+    },
+    "Justis- og beredskapsdepartementet": {
+      "code": "JD",
+      "name_nb": "Justis- og beredskapsdepartementet",
+      "name_nn": "Justis- og beredskapsdepartementet",
+      "established_year": 1818,
+      "predecessors": [
+        "Justis- og politidepartementet",
+        "Justisdepartementet",
+        "Justis- og beredskapsdepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Justis- og politidepartementet",
+          "from": 1818,
+          "to": 2011
+        },
+        {
+          "name": "Justis- og beredskapsdepartementet",
+          "from": 2012,
+          "to": null
+        }
+      ]
+    },
+    "Kunnskapsdepartementet": {
+      "code": "KD",
+      "name_nb": "Kunnskapsdepartementet",
+      "name_nn": "Kunnskapsdepartementet",
+      "established_year": 1814,
+      "predecessors": [
+        "Kirke- og undervisningsdepartementet",
+        "Utdannings- og forskningsdepartementet",
+        "Kirke-, utdannings- og forskningsdepartementet",
+        "Utdanningsdepartementet",
+        "Kunnskapsdepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Kirke- og undervisningsdepartementet",
+          "from": 1814,
+          "to": 1989
+        },
+        {
+          "name": "Utdannings- og forskningsdepartementet",
+          "from": 1990,
+          "to": 1990
+        },
+        {
+          "name": "Kirke-, utdannings- og forskningsdepartementet",
+          "from": 1991,
+          "to": 2001
+        },
+        {
+          "name": "Utdannings- og forskningsdepartementet",
+          "from": 2002,
+          "to": 2005
+        },
+        {
+          "name": "Kunnskapsdepartementet",
+          "from": 2006,
+          "to": null
+        }
+      ]
+    },
+    "Helse- og omsorgsdepartementet": {
+      "code": "HOD",
+      "name_nb": "Helse- og omsorgsdepartementet",
+      "name_nn": "Helse- og omsorgsdepartementet",
+      "established_year": 1913,
+      "predecessors": [
+        "Sosialdepartementet",
+        "Sosial- og helsedepartementet",
+        "Helsedepartementet",
+        "Helse- og omsorgsdepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Sosialdepartementet",
+          "from": 1913,
+          "to": 1993
+        },
+        {
+          "name": "Sosial- og helsedepartementet",
+          "from": 1993,
+          "to": 2001
+        },
+        {
+          "name": "Helsedepartementet",
+          "from": 2002,
+          "to": 2004
+        },
+        {
+          "name": "Sosialdepartementet",
+          "from": 2002,
+          "to": 2004
+        },
+        {
+          "name": "Helse- og omsorgsdepartementet",
+          "from": 2004,
+          "to": null
+        }
+      ]
+    },
+    "Arbeids- og inkluderingsdepartementet": {
+      "code": "AID",
+      "name_nb": "Arbeids- og inkluderingsdepartementet",
+      "name_nn": "Arbeids- og inkluderingsdepartementet",
+      "established_year": 1998,
+      "predecessors": [
+        "Arbeids- og administrasjonsdepartementet",
+        "Arbeids- og sosialdepartementet",
+        "Arbeidsdepartementet",
+        "Arbeids- og inkluderingsdepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Arbeids- og administrasjonsdepartementet",
+          "from": 1998,
+          "to": 2004
+        },
+        {
+          "name": "Arbeids- og sosialdepartementet",
+          "from": 2004,
+          "to": 2005
+        },
+        {
+          "name": "Arbeids- og inkluderingsdepartementet",
+          "from": 2006,
+          "to": 2009
+        },
+        {
+          "name": "Arbeidsdepartementet",
+          "from": 2010,
+          "to": 2013
+        },
+        {
+          "name": "Arbeids- og sosialdepartementet",
+          "from": 2014,
+          "to": 2021
+        },
+        {
+          "name": "Arbeids- og inkluderingsdepartementet",
+          "from": 2022,
+          "to": null
+        }
+      ]
+    },
+    "Kommunal- og distriktsdepartementet": {
+      "code": "KDD",
+      "name_nb": "Kommunal- og distriktsdepartementet",
+      "name_nn": "Kommunal- og distriktsdepartementet",
+      "established_year": 1948,
+      "predecessors": [
+        "Kommunal- og arbeidsdepartementet",
+        "Kommunaldepartementet",
+        "Kommunal- og regionaldepartementet",
+        "Kommunal- og moderniseringsdepartementet",
+        "Kommunal- og distriktsdepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Kommunal- og arbeidsdepartementet",
+          "from": 1948,
+          "to": 1989
+        },
+        {
+          "name": "Kommunaldepartementet",
+          "from": 1990,
+          "to": 1992
+        },
+        {
+          "name": "Kommunal- og regionaldepartementet",
+          "from": 1993,
+          "to": 2013
+        },
+        {
+          "name": "Kommunal- og moderniseringsdepartementet",
+          "from": 2014,
+          "to": 2021
+        },
+        {
+          "name": "Kommunal- og distriktsdepartementet",
+          "from": 2022,
+          "to": null
+        }
+      ]
+    },
+    "Nærings- og fiskeridepartementet": {
+      "code": "NFD",
+      "name_nb": "Nærings- og fiskeridepartementet",
+      "name_nn": "Nærings- og fiskeridepartementet",
+      "established_year": 1947,
+      "predecessors": [
+        "Industridepartementet",
+        "Handels- og skipsfartsdepartementet",
+        "Handelsdepartementet",
+        "Næringsdepartementet",
+        "Nærings- og energidepartementet",
+        "Nærings- og handelsdepartementet",
+        "Fiskeridepartementet",
+        "Fiskeri- og kystdepartementet",
+        "Nærings- og fiskeridepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Industridepartementet",
+          "from": 1947,
+          "to": 1987
+        },
+        {
+          "name": "Handels- og skipsfartsdepartementet",
+          "from": 1947,
+          "to": 1987
+        },
+        {
+          "name": "Næringsdepartementet",
+          "from": 1988,
+          "to": 1992
+        },
+        {
+          "name": "Nærings- og energidepartementet",
+          "from": 1993,
+          "to": 1996
+        },
+        {
+          "name": "Nærings- og handelsdepartementet",
+          "from": 1997,
+          "to": 2013
+        },
+        {
+          "name": "Fiskeridepartementet",
+          "from": 1946,
+          "to": 2003
+        },
+        {
+          "name": "Fiskeri- og kystdepartementet",
+          "from": 2004,
+          "to": 2013
+        },
+        {
+          "name": "Nærings- og fiskeridepartementet",
+          "from": 2014,
+          "to": null
+        }
+      ]
+    },
+    "Energidepartementet": {
+      "code": "ED",
+      "name_nb": "Energidepartementet",
+      "name_nn": "Energidepartementet",
+      "established_year": 1978,
+      "predecessors": [
+        "Olje- og energidepartementet",
+        "Energidepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Olje- og energidepartementet",
+          "from": 1978,
+          "to": 1992
+        },
+        {
+          "name": "Olje- og energidepartementet",
+          "from": 1997,
+          "to": 2023
+        },
+        {
+          "name": "Energidepartementet",
+          "from": 2024,
+          "to": null
+        }
+      ]
+    },
+    "Klima- og miljødepartementet": {
+      "code": "KLD",
+      "name_nb": "Klima- og miljødepartementet",
+      "name_nn": "Klima- og miljødepartementet",
+      "established_year": 1972,
+      "predecessors": [
+        "Miljøverndepartementet",
+        "Klima- og miljødepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Miljøverndepartementet",
+          "from": 1972,
+          "to": 2013
+        },
+        {
+          "name": "Klima- og miljødepartementet",
+          "from": 2014,
+          "to": null
+        }
+      ]
+    },
+    "Barne- og familiedepartementet": {
+      "code": "BFD",
+      "name_nb": "Barne- og familiedepartementet",
+      "name_nn": "Barne- og familiedepartementet",
+      "established_year": 1972,
+      "predecessors": [
+        "Forbruker- og administrasjonsdepartementet",
+        "Familie- og forbrukardepartementet",
+        "Barne- og familiedepartementet",
+        "Barne- og likestillingsdepartementet",
+        "Barne-, likestillings- og inkluderingsdepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Forbruker- og administrasjonsdepartementet",
+          "from": 1972,
+          "to": 1989
+        },
+        {
+          "name": "Familie- og forbrukardepartementet",
+          "from": 1990,
+          "to": 1990
+        },
+        {
+          "name": "Barne- og familiedepartementet",
+          "from": 1991,
+          "to": 2005
+        },
+        {
+          "name": "Barne- og likestillingsdepartementet",
+          "from": 2006,
+          "to": 2009
+        },
+        {
+          "name": "Barne-, likestillings- og inkluderingsdepartementet",
+          "from": 2010,
+          "to": 2016
+        },
+        {
+          "name": "Barne- og likestillingsdepartementet",
+          "from": 2016,
+          "to": 2018
+        },
+        {
+          "name": "Barne- og familiedepartementet",
+          "from": 2019,
+          "to": null
+        }
+      ]
+    },
+    "Digitaliserings- og forvaltningsdepartementet": {
+      "code": "DFD",
+      "name_nb": "Digitaliserings- og forvaltningsdepartementet",
+      "name_nn": "Digitaliserings- og forvaltningsdepartementet",
+      "established_year": 1990,
+      "predecessors": [
+        "Administrasjonsdepartementet",
+        "Planleggings- og samordningsdepartementet",
+        "Fornyings- og administrasjonsdepartementet",
+        "Fornyings-, administrasjons- og kirkedepartementet",
+        "Digitaliserings- og distriktsdepartementet",
+        "Digitaliserings- og forvaltningsdepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Administrasjonsdepartementet",
+          "from": 1990,
+          "to": 1997
+        },
+        {
+          "name": "Planleggings- og samordningsdepartementet",
+          "from": 1997,
+          "to": 1997
+        },
+        {
+          "name": "Fornyings- og administrasjonsdepartementet",
+          "from": 2006,
+          "to": 2009
+        },
+        {
+          "name": "Fornyings-, administrasjons- og kirkedepartementet",
+          "from": 2010,
+          "to": 2013
+        },
+        {
+          "name": "Digitaliserings- og distriktsdepartementet",
+          "from": 2019,
+          "to": 2021
+        },
+        {
+          "name": "Digitaliserings- og forvaltningsdepartementet",
+          "from": 2024,
+          "to": null
+        }
+      ]
+    },
+    "Kultur- og likestillingsdepartementet": {
+      "code": "KUD",
+      "name_nb": "Kultur- og likestillingsdepartementet",
+      "name_nn": "Kultur- og likestillingsdepartementet",
+      "established_year": 1982,
+      "predecessors": [
+        "Kultur- og vitenskapsdepartementet",
+        "Kirke- og kulturdepartementet",
+        "Kulturdepartementet",
+        "Kultur- og kirkedepartementet",
+        "Kultur- og likestillingsdepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Kultur- og vitenskapsdepartementet",
+          "from": 1982,
+          "to": 1989
+        },
+        {
+          "name": "Kirke- og kulturdepartementet",
+          "from": 1990,
+          "to": 1990
+        },
+        {
+          "name": "Kulturdepartementet",
+          "from": 1991,
+          "to": 2001
+        },
+        {
+          "name": "Kultur- og kirkedepartementet",
+          "from": 2002,
+          "to": 2009
+        },
+        {
+          "name": "Kulturdepartementet",
+          "from": 2010,
+          "to": 2021
+        },
+        {
+          "name": "Kultur- og likestillingsdepartementet",
+          "from": 2022,
+          "to": null
+        }
+      ]
+    },
+    "Samferdselsdepartementet": {
+      "code": "SD",
+      "name_nb": "Samferdselsdepartementet",
+      "name_nn": "Samferdselsdepartementet",
+      "established_year": 1946,
+      "predecessors": [
+        "Samferdselsdepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Samferdselsdepartementet",
+          "from": 1946,
+          "to": null
+        }
+      ]
+    },
+    "Forsvarsdepartementet": {
+      "code": "FD",
+      "name_nb": "Forsvarsdepartementet",
+      "name_nn": "Forsvarsdepartementet",
+      "established_year": 1814,
+      "predecessors": [
+        "Forsvarsdepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Forsvarsdepartementet",
+          "from": 1814,
+          "to": null
+        }
+      ]
+    },
+    "Utenriksdepartementet": {
+      "code": "UD",
+      "name_nb": "Utenriksdepartementet",
+      "name_nn": "Utenriksdepartementet",
+      "established_year": 1905,
+      "predecessors": [
+        "Utenriksdepartementet",
+        "Departementet for utviklingshjelp"
+      ],
+      "historical_periods": [
+        {
+          "name": "Utenriksdepartementet",
+          "from": 1905,
+          "to": null
+        },
+        {
+          "name": "Departementet for utviklingshjelp",
+          "from": 1984,
+          "to": 1989
+        }
+      ]
+    },
+    "Landbruks- og matdepartementet": {
+      "code": "LMD",
+      "name_nb": "Landbruks- og matdepartementet",
+      "name_nn": "Landbruks- og matdepartementet",
+      "established_year": 1900,
+      "predecessors": [
+        "Landbruksdepartementet",
+        "Landbruks- og matdepartementet"
+      ],
+      "historical_periods": [
+        {
+          "name": "Landbruksdepartementet",
+          "from": 1900,
+          "to": 2004
+        },
+        {
+          "name": "Landbruks- og matdepartementet",
+          "from": 2004,
+          "to": null
+        }
+      ]
+    },
+    "Statsministerens kontor": {
+      "code": "SMK",
+      "name_nb": "Statsministerens kontor",
+      "name_nn": "Statsministerens kontor",
+      "established_year": 1945,
+      "predecessors": [
+        "Statsministerens kontor",
+        "Statsministeren",
+        "Regjeringen"
+      ],
+      "historical_periods": [
+        {
+          "name": "Statsministerens kontor",
+          "from": 1945,
+          "to": null
+        }
+      ]
+    }
+  },
+  "historical_to_modern_map": {
+    "Finans- og tolldepartementet": "Finansdepartementet",
+    "Finansdepartementet": "Finansdepartementet",
+    "Justis- og politidepartementet": "Justis- og beredskapsdepartementet",
+    "Justisdepartementet": "Justis- og beredskapsdepartementet",
+    "Justis- og beredskapsdepartementet": "Justis- og beredskapsdepartementet",
+    "Kirke- og undervisningsdepartementet": "Kunnskapsdepartementet",
+    "Kirke-, utdannings- og forskningsdepartementet": "Kunnskapsdepartementet",
+    "Utdannings- og forskningsdepartementet": "Kunnskapsdepartementet",
+    "Utdannings- og forskningsdepartement": "Kunnskapsdepartementet",
+    "Utdannings- og forskingsdepartementet": "Kunnskapsdepartementet",
+    "Utdanningsdepartementet": "Kunnskapsdepartementet",
+    "Kunnskapsdepartementet": "Kunnskapsdepartementet",
+    "Kultur- og vitenskapsdepartementet": "Kultur- og likestillingsdepartementet",
+    "Kultur- og vitskapsdepartementet": "Kultur- og likestillingsdepartementet",
+    "Kirke- og kulturdepartementet": "Kultur- og likestillingsdepartementet",
+    "Kulturdepartementet": "Kultur- og likestillingsdepartementet",
+    "Kultur- og kirkedepartementet": "Kultur- og likestillingsdepartementet",
+    "Kultur- og likestillingsdepartementet": "Kultur- og likestillingsdepartementet",
+    "Sosialdepartementet": "Helse- og omsorgsdepartementet",
+    "Sosial- og helsedepartementet": "Helse- og omsorgsdepartementet",
+    "Helsedepartementet": "Helse- og omsorgsdepartementet",
+    "Helse- og omsorgsdepartementet": "Helse- og omsorgsdepartementet",
+    "Kommunal- og arbeidsdepartementet": "Kommunal- og distriktsdepartementet",
+    "Arbeids- og administrasjonsdepartementet": "Arbeids- og inkluderingsdepartementet",
+    "Arbeids- og sosialdepartementet": "Arbeids- og inkluderingsdepartementet",
+    "Arbeidsdepartementet": "Arbeids- og inkluderingsdepartementet",
+    "Arbeids- og inkluderingsdepartementet": "Arbeids- og inkluderingsdepartementet",
+    "Kommunaldepartementet": "Kommunal- og distriktsdepartementet",
+    "Kommunal- og regionaldepartementet": "Kommunal- og distriktsdepartementet",
+    "Kommunal- og moderniseringsdepartementet": "Kommunal- og distriktsdepartementet",
+    "Kommunal- og distriktsdepartementet": "Kommunal- og distriktsdepartementet",
+    "Industridepartementet": "Nærings- og fiskeridepartementet",
+    "Handels- og skipsfartsdepartementet": "Nærings- og fiskeridepartementet",
+    "Handelsdepartementet": "Nærings- og fiskeridepartementet",
+    "Næringsdepartementet": "Nærings- og fiskeridepartementet",
+    "Nærings- og handelsdepartementet": "Nærings- og fiskeridepartementet",
+    "Nærings- og energidepartementet": "Nærings- og fiskeridepartementet",
+    "Nærings- og fiskeridepartementet": "Nærings- og fiskeridepartementet",
+    "Fiskeridepartementet": "Nærings- og fiskeridepartementet",
+    "Fiskeri- og kystdepartementet": "Nærings- og fiskeridepartementet",
+    "Olje- og energidepartementet": "Energidepartementet",
+    "Energidepartementet": "Energidepartementet",
+    "Miljøverndepartementet": "Klima- og miljødepartementet",
+    "Klima- og miljødepartementet": "Klima- og miljødepartementet",
+    "Forbruker- og administrasjonsdepartementet": "Barne- og familiedepartementet",
+    "Familie- og forbrukardepartementet": "Barne- og familiedepartementet",
+    "Barne- og familiedepartementet": "Barne- og familiedepartementet",
+    "Barne- og likestillingsdepartementet": "Barne- og familiedepartementet",
+    "Barne-, likestillings- og inkluderingsdepartementet": "Barne- og familiedepartementet",
+    "Administrasjonsdepartementet": "Digitaliserings- og forvaltningsdepartementet",
+    "Planleggings- og samordningsdepartementet": "Digitaliserings- og forvaltningsdepartementet",
+    "Fornyings- og administrasjonsdepartementet": "Digitaliserings- og forvaltningsdepartementet",
+    "Fornyings-, administrasjons- og kirkedepartementet": "Digitaliserings- og forvaltningsdepartementet",
+    "Digitaliserings- og distriktsdepartementet": "Digitaliserings- og forvaltningsdepartementet",
+    "Digitaliserings- og forvaltningsdepartementet": "Digitaliserings- og forvaltningsdepartementet",
+    "Samferdselsdepartementet": "Samferdselsdepartementet",
+    "Forsvarsdepartementet": "Forsvarsdepartementet",
+    "Utenriksdepartementet": "Utenriksdepartementet",
+    "Departementet for utviklingshjelp": "Utenriksdepartementet",
+    "Landbruksdepartementet": "Landbruks- og matdepartementet",
+    "Landbruks- og matdepartementet": "Landbruks- og matdepartementet",
+    "Statsministerens kontor": "Statsministerens kontor",
+    "Statsministerens Kontor": "Statsministerens kontor",
+    "Statsministerkontoret": "Statsministerens kontor",
+    "Statsministeren": "Statsministerens kontor",
+    "Regjeringen": "Statsministerens kontor"
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "flagship-skatt": {
+    "case_id": "skatt",
+    "title": "Skattereformer, formuesbeskatning og næringsbeskatning (1989–2026)",
+    "category": "Finans, skatt & makroøkonomi",
+    "description": "Utviklinga i norske skatteutgreiingar frå Aarbakke-utvalets nøytralitetsprinsipp til nyare vurderingar av formues- og grunnrenteskatt.",
+    "updated_at": "2026-07-28T12:00:00Z",
+    "source": "flagship",
+    "cost_nok": 0.0,
+    "nodes": [
+      {
+        "id": "node_nou_1989_14",
+        "nou_id": "nou-1989-14",
+        "title": "NOU 1989: 14 Bedrifts- og kapitalbeskatningen (Aarbakke-utvalget)",
+        "year": 1989,
+        "slug": "nou-1989-14-bedrifts-og-kapitalbeskatningen",
+        "summary": "Banebrytande utredning som etablerte nøytralitetsprinsippet, bredere skattegrunnlag og lavere skattesatser.",
+        "key_recommendations": [
+          "Innføre delingsmodellen for å skille kapital- og arbeidsinntekt",
+          "Redusere den nominelle skattesatsen på alminnelig inntekt til 28 %"
+        ]
+      },
+      {
+        "id": "node_nou_2003_9",
+        "nou_id": "nou-2003-9",
+        "title": "NOU 2003: 9 Skatteutvalget (Skattelovutvalget)",
+        "year": 2003,
+        "slug": "nou-2003-9-skatteutvalget",
+        "summary": "Foreslo skattereformen av 2006 med aksjonærmodellen og skjermingsfradrag for å forhindre tilpasninger.",
+        "key_recommendations": [
+          "Erstatte delingsmodellen med aksjonærmodellen og skjermingsmetoden",
+          "Redusere toppskatt på høye arbeidsinntekter"
+        ]
+      },
+      {
+        "id": "node_nou_2014_13",
+        "nou_id": "nou-2014-13",
+        "title": "NOU 2014: 13 Kapitalbeskatning i en globalisert økonomi (Scheel-utvalget)",
+        "year": 2014,
+        "slug": "nou-2014-13-kapitalbeskatning",
+        "summary": "Tilpasset skattesystemet til internasjonalt skattepress og foreslo reduksjon i selskaps- og personskatt til 22 %.",
+        "key_recommendations": [
+          "Senke skattesatsen på alminnelig inntekt for selskaper og personer til 22 %",
+          "Trappe ned formueskatten på arbeidende kapital"
+        ]
+      },
+      {
+        "id": "node_nou_2026_9",
+        "nou_id": "nou-2026-9",
+        "title": "NOU 2026: 9 Veien mot et bedre skattesystem",
+        "year": 2026,
+        "slug": "nou-2026-9-veien-mot-et-bedre-skattesystem",
+        "summary": "Helhetlig skatteanalyse med fokus på omfordeling, grunnrente og forenkling for næringslivet.",
+        "key_recommendations": [
+          "Harmonisere verdsettelsesregler i formuesskatten for å fjerne vridninger",
+          "Innføre nøytral grunnrenteskatt på fellesressurser"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "id": "edge_1989_2003",
+        "source": "node_nou_1989_14",
+        "target": "node_nou_2003_9",
+        "relationship_type": "Utvida",
+        "description": "Videreføring av nøytralitetsprinsippet fra 1992-reformen gjennom innføring av aksjonærmodellen i 2006.",
+        "source_quote": "Skattesystemet bør være nøytralt og ha likebehandling av ulike investeringer.",
+        "target_quote": "Aksjonærmodellen opprettholder nøytralitet og fjerner vridende tilpasninger mellom kapital og arbeid.",
+        "citations": [
+          "NOU 1989: 14 s. 35",
+          "NOU 2003: 9 s. 110"
+        ]
+      },
+      {
+        "id": "edge_2003_2014",
+        "source": "node_nou_2003_9",
+        "target": "node_nou_2014_13",
+        "relationship_type": "Endring",
+        "description": "Endring drevet av internasjonal skattekonkurranse, med kutt i selskapsskattesatsen.",
+        "source_quote": "28 % skatt på alminnelig inntekt ligger fast som anker i skattesystemet.",
+        "target_quote": "Selskapsskattesatsen må reduseres til 22 % for å sikre at Norge er konkurransedyktig.",
+        "citations": [
+          "NOU 2003: 9 s. 88",
+          "NOU 2014: 13 s. 14"
+        ]
+      },
+      {
+        "id": "edge_2014_2026",
+        "source": "node_nou_2014_13",
+        "target": "node_nou_2026_9",
+        "relationship_type": "Motseiing",
+        "description": "Ulike prioriteringer angående formuesskatt og grunnrentebeskatning.",
+        "source_quote": "Formuesskatten bør trappes ned og på sikt avvikles for arbeidende kapital.",
+        "target_quote": "Formuesskatten har en viktig omfordelende funksjon, men verdsettelsesreglene må gjøres nøytrale.",
+        "citations": [
+          "NOU 2014: 13 s. 210",
+          "NOU 2026: 9 s. 105"
+        ]
+      }
+    ]
+  },
+  "flagship-loenn": {
+    "case_id": "loenn",
+    "title": "Lønnsdanningsmodellen, frontfaget og pensjonsreformen (1992–2026)",
+    "category": "Arbeidsliv, lønn & pensjon",
+    "description": "Utviklinga frå Holden I-utvalet til nyare vurderingar av frontfagsmodellen og berekraftig pensjonssystem.",
+    "updated_at": "2026-07-28T12:00:00Z",
+    "source": "flagship",
+    "cost_nok": 0.0,
+    "nodes": [
+      {
+        "id": "node_nou_1992_26",
+        "nou_id": "nou-1992-26",
+        "title": "NOU 1992: 26 En nasjonal strategi for økt sysselsetting i 1990-årene (Solidaritetsalternativet)",
+        "year": 1992,
+        "slug": "nou-1992-26-solidaritetsalternativet",
+        "summary": "Etablerte Solidaritetsalternativet med lønnsmoderasjon og koordinert lønnsdanning for å sikre konkurranseevnen.",
+        "key_recommendations": [
+          "Styrke frontfagsmodellen med konkurranseutsatt industri som normgiver",
+          "Koble lønnsvekst til sysselsettingsmål og prisstabilitet"
+        ]
+      },
+      {
+        "id": "node_nou_2004_1",
+        "nou_id": "nou-2004-1",
+        "title": "NOU 2004: 1 Modernisert folketrygd (Pensjonskommisjonen)",
+        "year": 2004,
+        "slug": "nou-2004-1-pensjonskommisjonen",
+        "summary": "Hovedutredningen for pensjonsreformen i 2011 med le levealdersjustering og fleksibelt uttak.",
+        "key_recommendations": [
+          "Innføre levetidsjustering av pensjonsytelser",
+          "Etablere alleårsregel og fleksibel pensjoneringsalder fra 62 år"
+        ]
+      },
+      {
+        "id": "node_nou_2013_13",
+        "nou_id": "nou-2013-13",
+        "title": "NOU 2013: 13 Lønnsdanningsutvalget (Holden III)",
+        "year": 2013,
+        "slug": "nou-2013-13-holden-iii",
+        "summary": "Evaluerte frontfagsmodellen og slo fast at den fortsatt må ligge til grunn for lønnsdanningen i Norge.",
+        "key_recommendations": [
+          "Opprettholde frontfagsmodellen for både privat og offentlig sektor",
+          "Bruke den konkurranseutsatte industriens tålegrense som ramme"
+        ]
+      },
+      {
+        "id": "node_nou_2026_5",
+        "nou_id": "nou-2026-5",
+        "title": "NOU 2026: 5 Framtidas arbeidsliv og lønnsdanning",
+        "year": 2026,
+        "slug": "nou-2026-5-framtidas-arbeidsliv",
+        "summary": "Vurdering av frontfagsmodellen i lys av kompetansebehov i offentlig sektor og grønn omstilling.",
+        "key_recommendations": [
+          "Øke fleksibiliteten i rammene for kritisk nøkkelkompetanse i helse og skule",
+          "Videreutvikle treparts-samarbeidet for å håndtere omstilling"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "id": "edge_1992_2004",
+        "source": "node_nou_1992_26",
+        "target": "node_nou_2004_1",
+        "relationship_type": "Utvida",
+        "description": "Solidaritetsmodellen utvidet fra årlig lønnsdanning til livsløpsperspektiv i pensjonssystemet.",
+        "source_quote": "Koordinert lønnsdanning er avgjørende for lav arbeidsledighet.",
+        "target_quote": "Pensjonssystemet må utformes slik at det stimulerer til arbeid framfor tidligavgang.",
+        "citations": [
+          "NOU 1992: 26 s. 12",
+          "NOU 2004: 1 s. 45"
+        ]
+      },
+      {
+        "id": "edge_2004_2013",
+        "source": "node_nou_2004_1",
+        "target": "node_nou_2013_13",
+        "relationship_type": "Utvida",
+        "description": "Bekreftelse av at pensjonsreformen og frontfagsmodellen understøtter hverandre.",
+        "source_quote": "Arbeidslinjen må ligge til grunn for framtidens velferdsordninger.",
+        "target_quote": "Frontfagsmodellen gir god lønnsomstilling og lav ledighet sammenlignet med andre land.",
+        "citations": [
+          "NOU 2004: 1 s. 100",
+          "NOU 2013: 13 s. 15"
+        ]
+      },
+      {
+        "id": "edge_2013_2026",
+        "source": "node_nou_2013_13",
+        "target": "node_nou_2026_5",
+        "relationship_type": "Endring",
+        "description": "Diskusjon om frontfagsmodellens rammer mot rekrutteringsbehov i offentlig sektor.",
+        "source_quote": "Rammen fra frontfaget skal være normgivende for alle andre sektorer.",
+        "target_quote": "Det er behov for større fleksibilitet innenfor rammene for å løse rekrutteringskriser i velferdstjenestene.",
+        "citations": [
+          "NOU 2013: 13 s. 55",
+          "NOU 2026: 5 s. 82"
+        ]
+      }
+    ]
+  },
+  "flagship-helse": {
+    "case_id": "helse",
+    "title": "Organisering, samhandling og kapasitet i helse- og omsorgstjenesten (2005–2026)",
+    "category": "Helse & omsorg",
+    "description": "Utvikling i norsk helsepolitikk frå Samhandlingsreformen til Personellkommisjonen og framtidige prioriteringar.",
+    "updated_at": "2026-07-28T12:00:00Z",
+    "source": "flagship",
+    "cost_nok": 0.0,
+    "nodes": [
+      {
+        "id": "node_nou_2005_3",
+        "nou_id": "nou-2005-3",
+        "title": "NOU 2005: 3 Fra stykkevis til helt (Samhandlingsutvalget)",
+        "year": 2005,
+        "slug": "nou-2005-3-fra-stykkevis-til-helt",
+        "summary": "La grunnlaget for Samhandlingsreformen med bedre samhandling mellom sykehus og primærhelsetjeneste.",
+        "key_recommendations": [
+          "Innføre kommunal medfinansiering av spesialisthelsetjenesten",
+          "Styrke forebyggende helsearbeid og lavterskeltilbud i kommunene"
+        ]
+      },
+      {
+        "id": "node_nou_2016_25",
+        "nou_id": "nou-2016-25",
+        "title": "NOU 2016: 25 Nasjonal helse- og sykehusplan",
+        "year": 2016,
+        "slug": "nou-2016-25-nasjonal-helse-og-sykehusplan",
+        "summary": "Strukturell plan for oppgavefordeling mellom lokalsykehus og meir spesialiserte regionsykehus.",
+        "key_recommendations": [
+          "Definere klare kvalitets- og volumkrav for kirurgiske fagområder",
+          "Styrke de akuttmedisinske kjedene i distriktene"
+        ]
+      },
+      {
+        "id": "node_nou_2023_4",
+        "nou_id": "nou-2023-4",
+        "title": "NOU 2023: 4 Tid for handling (Personellkommisjonen)",
+        "year": 2023,
+        "slug": "nou-2023-4-tid-for-handling",
+        "summary": "Banebrytande rapport om demografiske utfordringar og knappheit på helsepersonell i tiåra framover.",
+        "key_recommendations": [
+          "Målene for bemanning må tilpasses realistisk tilgang på personell",
+          "Redusere oppgavedeling og automatisere administrative prosesser"
+        ]
+      },
+      {
+        "id": "node_nou_2026_12",
+        "nou_id": "nou-2026-12",
+        "title": "NOU 2026: 12 Framtidens helse- og omsorgstjenester",
+        "year": 2026,
+        "slug": "nou-2026-12-framtidens-helse-og-omsorgstjenester",
+        "summary": "Helhetlig vurdering av prioritering, digitalisering og samhandling mellom helseaktører.",
+        "key_recommendations": [
+          "Prioritere forebygging og digitale hjemmetjenester for eldre",
+          "Etablere sømløs pasientjournal på tvers av forvaltningsnivåer"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "id": "edge_2005_2016",
+        "source": "node_nou_2005_3",
+        "target": "node_nou_2016_25",
+        "relationship_type": "Utvida",
+        "description": "Videreføring av samhandling med eksplisitt spesialisering og sykehusstruktur.",
+        "source_quote": "Helseoppgaver må løses på lavest mulige effektive omsorgsnivå (LEON).",
+        "target_quote": "Kvalitetskrav og faglig bemanningsstyrke krever sentralisering av komplekse funksjoner.",
+        "citations": [
+          "NOU 2005: 3 s. 50",
+          "NOU 2016: 25 s. 88"
+        ]
+      },
+      {
+        "id": "edge_2016_2023",
+        "source": "node_nou_2016_25",
+        "target": "node_nou_2023_4",
+        "relationship_type": "Endring",
+        "description": "Fokus skiftet fra fysiske sykehusbygg til kritisk mangel på fagfolk og personell.",
+        "source_quote": "Sykehusstrukturen må dimensjoneres for forventet befolkningsvekst.",
+        "target_quote": "Det vil ikke være nok helsepersonell i fremtiden, uansett økonomiske rammer.",
+        "citations": [
+          "NOU 2016: 25 s. 110",
+          "NOU 2023: 4 s. 12"
+        ]
+      },
+      {
+        "id": "edge_2023_2026",
+        "source": "node_nou_2023_4",
+        "target": "node_nou_2026_12",
+        "relationship_type": "Utvida",
+        "description": "Omstilling fra tradisjonell bemanningsvekst til teknologistøttet omsorg.",
+        "source_quote": "Oppgavedeling og digitalisering er helt nødvendig for bærekraft.",
+        "target_quote": "Digital hjemmeoppfølging må bli standard i kommunal omsorg innen 2030.",
+        "citations": [
+          "NOU 2023: 4 s. 75",
+          "NOU 2026: 12 s. 34"
+        ]
+      }
+    ]
+  },
+  "flagship-justis-straff": {
+    "case_id": "straff",
+    "title": "Straffeutmåling, soning og gjenåpning i justissektoren (2002–2026)",
+    "category": "Justis & samfunnssikkerhet",
+    "description": "Utvikling i rettssikkerheitsgarantiar, straffereaksjonar for ungdom og uavhengig kontroll med gjenopptakelse av straffesaker.",
+    "updated_at": "2026-07-28T12:00:00Z",
+    "source": "flagship",
+    "cost_nok": 0.0,
+    "nodes": [
+      {
+        "id": "node_nou_2002_4",
+        "nou_id": "nou-2002-4",
+        "title": "NOU 2002: 4 Ny straffelov",
+        "year": 2002,
+        "slug": "nou-2002-4-ny-straffelov",
+        "summary": "Grunnlag for straffeloven av 2005 med moderniserte straffebud og prinsipper for straffeutmåling.",
+        "key_recommendations": [
+          "Modernisere og forenkle straffelovens struktur",
+          "Øke strafferammene for alvorlig vold og sedelighetsforbrytelser"
+        ]
+      },
+      {
+        "id": "node_nou_2008_15",
+        "nou_id": "nou-2008-15",
+        "title": "NOU 2008: 15 Barn og straff",
+        "year": 2008,
+        "slug": "nou-2008-15-barn-og-straff",
+        "summary": "Foreslo alternative straffereaksjoner (ungdomsstraff og ungdomsoppfølging) for å unngå fengsling av ugunstige unge.",
+        "key_recommendations": [
+          "Etablere ungdomsstormøte og ungdomsstraff som hovedregel for u-18",
+          "Begrense bruk og varighet av ubetinget fengsel for mindreårige"
+        ]
+      },
+      {
+        "id": "node_nou_2022_9",
+        "nou_id": "nou-2022-9",
+        "title": "NOU 2022: 9 Gjenopptakelse av straffesaker",
+        "year": 2022,
+        "slug": "nou-2022-9-gjenopptakelse-av-straffesaker",
+        "summary": "Gjennomgang av Gjenopptakelseskommisjonens arbeid og organisering for å styrke rettssikkerheten.",
+        "key_recommendations": [
+          "Styrke utredningskapasiteten og uavhengigheten til Gjenopptakelseskommisjonen",
+          "Endre terskelen for når sak skal henvises til ny behandling"
+        ]
+      },
+      {
+        "id": "node_nou_2026_3",
+        "nou_id": "nou-2026-3",
+        "title": "NOU 2026: 3 Straffeforfølgelsen av Viggo Kristiansen",
+        "year": 2026,
+        "slug": "nou-2026-3-straffeforfolgelsen-av-viggo-kristiansen",
+        "summary": "Granskingsutvalgets rapport om Baneheia-saken og institusjonell svikt i politi, påtalemyndighet og rettsmedisin.",
+        "key_recommendations": [
+          "Etablere uavhengig tilsynsorgan for politi og påtalemyndighet",
+          "Omorganisere Gjenopptakelseskommisjonen for å sikre objektivitet"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "id": "edge_2002_2008",
+        "source": "node_nou_2002_4",
+        "target": "node_nou_2008_15",
+        "relationship_type": "Utvida",
+        "description": "Spesialisering og differensiering av reaksjoner for unge lovbrytere.",
+        "source_quote": "Straffesystemet må avveie allmennprevensjon og individualprevensjon.",
+        "target_quote": "Barn under 18 år skal som hovedregel ikke idømmes ubetinget fengsel.",
+        "citations": [
+          "NOU 2002: 4 s. 80",
+          "NOU 2008: 15 s. 45"
+        ]
+      },
+      {
+        "id": "edge_2008_2022",
+        "source": "node_nou_2008_15",
+        "target": "node_nou_2022_9",
+        "relationship_type": "Endring",
+        "description": "Fokus skiftet fra straffegjennomføring til rettssikkerhetsgarantier og kontrollmekanismer.",
+        "source_quote": "Rehabilitering og gjenopprettende prosess må prioriteres for unge.",
+        "target_quote": "Kommisjonens uavhengighet og faglige grundighet er avgjørende for tilliten til rettsstaten.",
+        "citations": [
+          "NOU 2008: 15 s. 102",
+          "NOU 2022: 9 s. 64"
+        ]
+      },
+      {
+        "id": "edge_2022_2026",
+        "source": "node_nou_2022_9",
+        "target": "node_nou_2026_3",
+        "relationship_type": "Motseiing",
+        "description": "Konkret gransking avdekket mer omfattende systemsvikt enn tidligere antatt i 2022-rapporten.",
+        "source_quote": "Dagens ordning for gjenopptakelse fungerer i det vesentlige tilfredsstillende.",
+        "target_quote": "Saksbehandlingen i Gjenopptakelseskommisjonen i Baneheia-saken viser alvorlige institusjonelle blindsoner.",
+        "citations": [
+          "NOU 2022: 9 s. 120",
+          "NOU 2026: 3 s. 18"
+        ]
+      }
+    ]
+  },
+  "flagship-klima-energi": {
+    "case_id": "kjernekraft",
+    "title": "Utvikling i norsk energipolitikk og kjernekraft (1974–2026)",
+    "category": "Energi, miljø & klima",
+    "description": "Historisk gjennomgang av korleis utgreiingar har vurdert atomkraft/kjernekraft i den norske kraftforsyninga, frå tidleg utgreiing til nyare vurderingar av små modulære reaktorar (SMR).",
+    "updated_at": "2026-07-28T12:00:00Z",
+    "source": "flagship",
+    "cost_nok": 0.0,
+    "nodes": [
+      {
+        "id": "node_nou_1974_22",
+        "nou_id": "nou-1974-22",
+        "title": "NOU 1974: 22 Energikrisen og fremtidig kraftforsyning",
+        "year": 1974,
+        "slug": "nou-1974-22-energikrisen",
+        "summary": "Tidleg vurdering av atomelektrokar etter oljekrisa i 1973. Utvalet tilrådde utgreiing av atomkraft som supplement til vannkraft.",
+        "key_recommendations": [
+          "Gjennomføre grundige konsekvensutgreiingar for atomkraftverk i Noreg",
+          "Prioritere utbygging av gjenståande regulerbare vannkraftressursar"
+        ]
+      },
+      {
+        "id": "node_nou_1978_35a",
+        "nou_id": "nou-1978-35a",
+        "title": "NOU 1978: 35A Kjernekraft og sikkerhet",
+        "year": 1978,
+        "slug": "nou-1978-35a-kjernekraft-og-sikkerhet",
+        "summary": "Omfattande sikkerheitsvurdering av kjernekraft. Fleirtalet meinte sikkerheitsrisikoen var akseptabel, men tilrådde utsett avgjerd til avfallsspørsmålet var løyst.",
+        "key_recommendations": [
+          "Ikkje fatte vedtak om bygging før geologisk avfallsdeponi er avklart",
+          "Etablere uavhengig statleg atomtilsyn med streng kontroll"
+        ]
+      },
+      {
+        "id": "node_nou_2012_9",
+        "nou_id": "nou-2012-9",
+        "title": "NOU 2012: 9 Energi- og kraftbalansen 2020-2050",
+        "year": 2012,
+        "slug": "nou-2012-9-energi-og-kraftbalansen",
+        "summary": "Toneangivande rapport som toning ned kjernekraft til fordel for fornybar vann- og vindkraft i det norske energisystemet.",
+        "key_recommendations": [
+          "Satsing på storskala fornybar energiproduksjon (vannkraft og vindkraft)",
+          "Kjernekraft vert ikkje vurdert som aktuelt i norsk kraftmiks mot 2050"
+        ]
+      },
+      {
+        "id": "node_nou_2026_4",
+        "nou_id": "nou-2026-4",
+        "title": "NOU 2026: 4 Kjernekraft i Norge - Muligheter og utfordringer",
+        "year": 2026,
+        "slug": "nou-2026-4-kjernekraft-i-norge",
+        "summary": "Ny gjennomgang av kjernekraft i lys av klimamål og kraftbehov. Utvalet analyserer SMR-teknologi og rammevilkår for privat initiativ.",
+        "key_recommendations": [
+          "Etablere oppdatert konsesjons- og regelverk for små modulære reaktorar (SMR)",
+          "Styrke den nasjonale kompetansen innan reaktorsikkerheit og strålevern"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "id": "edge_1974_1978",
+        "source": "node_nou_1974_22",
+        "target": "node_nou_1978_35a",
+        "relationship_type": "Utvida",
+        "description": "Fra generelt supplementønske i 1974 til inngående sikkerhets- og avfallsutredning i 1978.",
+        "source_quote": "Atomkraft bør utredes som en reell mulighet for norsk kraftforsyning etter 1980.",
+        "target_quote": "Sikkerhetsspørsmålet og håndtering av høyaktivt avfall må være tilfredsstillende avklart før utbygging fattes.",
+        "citations": [
+          "NOU 1974: 22 kap 5",
+          "NOU 1978: 35A s. 142"
+        ]
+      },
+      {
+        "id": "edge_1978_2012",
+        "source": "node_nou_1978_35a",
+        "target": "node_nou_2012_9",
+        "relationship_type": "Innsnevra",
+        "description": "Nedtoning av kjernekraft i norsk energipolitikk til fordel for fornybarutbygging.",
+        "source_quote": "Dersom avfallsspørsmålet løses, vil kjernekraft ha akseptabel risiko.",
+        "target_quote": "Norge har rikelige fornybare ressurser i vann og vind, og kjernekraft er ikke prioritert i nasjonal energiplan.",
+        "citations": [
+          "NOU 1978: 35A s. 18",
+          "NOU 2012: 9 s. 89"
+        ]
+      },
+      {
+        "id": "edge_2012_2026",
+        "source": "node_nou_2012_9",
+        "target": "node_nou_2026_4",
+        "relationship_type": "Endring",
+        "description": "Ny vurdering av kjernekraft drevet av SMR-teknologi og økt kraftbehov for grønn omstilling.",
+        "source_quote": "Kjernekraft er ikke aktuelt i norsk kraftbalanse fram mot 2050.",
+        "target_quote": "Utviklingen innen SMR-teknologi gjør at kjernekraft på nytt bør vurderes som supplerende baseskraft.",
+        "citations": [
+          "NOU 2012: 9 s. 92",
+          "NOU 2026: 4 s. 15"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1137 @@
+{
+  "metadata": {
+    "total_words_analyzed": 183413394,
+    "total_sentences_analyzed": 9859431,
+    "total_nous_analyzed": 1741,
+    "nynorsk_nous_count": 333,
+    "bokmal_nous_count": 1408,
+    "nynorsk_pct": 19.13,
+    "last_updated": "2026-08-14"
+  },
+  "readability": {
+    "overall_lix": 52.03,
+    "average_lix": 52.03,
+    "avg_sentence_length": 18.6,
+    "average_sentence_length": 18.6,
+    "pct_long_words": 33.43,
+    "long_words_pct": 33.43,
+    "category_description": "Offentleg sakprosa / Faglitteratur (LIX 50-60)",
+    "lix_rating": "Krevjande / Fagtekst",
+    "decade_lix": {
+      "1970-talet": {
+        "words": 46895616,
+        "sentences": 2775794,
+        "avg_sentence_length": 16.89,
+        "average_sentence_length": 16.89,
+        "pct_long_words": 32.13,
+        "long_words_pct": 32.13,
+        "lix_index": 49.02
+      },
+      "1980-talet": {
+        "words": 18307923,
+        "sentences": 1085611,
+        "avg_sentence_length": 16.86,
+        "average_sentence_length": 16.86,
+        "pct_long_words": 31.83,
+        "long_words_pct": 31.83,
+        "lix_index": 48.69
+      },
+      "1990-talet": {
+        "words": 16378889,
+        "sentences": 934655,
+        "avg_sentence_length": 17.52,
+        "average_sentence_length": 17.52,
+        "pct_long_words": 34.18,
+        "long_words_pct": 34.18,
+        "lix_index": 51.7
+      },
+      "2000-talet": {
+        "words": 11505217,
+        "sentences": 626536,
+        "avg_sentence_length": 18.36,
+        "average_sentence_length": 18.36,
+        "pct_long_words": 33.66,
+        "long_words_pct": 33.66,
+        "lix_index": 52.02
+      },
+      "2010-talet": {
+        "words": 33558041,
+        "sentences": 1665119,
+        "avg_sentence_length": 20.15,
+        "average_sentence_length": 20.15,
+        "pct_long_words": 33.84,
+        "long_words_pct": 33.84,
+        "lix_index": 53.99
+      },
+      "2020-talet": {
+        "words": 56767708,
+        "sentences": 2771716,
+        "avg_sentence_length": 20.48,
+        "average_sentence_length": 20.48,
+        "pct_long_words": 34.51,
+        "long_words_pct": 34.51,
+        "lix_index": 54.99
+      }
+    }
+  },
+  "top_phrases": [
+    {
+      "phrase": "i henhold til",
+      "count": 28800,
+      "per_100k": 15.7,
+      "per_100k_words": 15.7,
+      "decade_trend": {
+        "1970-talet": 8582,
+        "1980-talet": 2604,
+        "1990-talet": 3151,
+        "2000-talet": 2301,
+        "2010-talet": 5591,
+        "2020-talet": 6571
+      }
+    },
+    {
+      "phrase": "i tråd med",
+      "count": 25149,
+      "per_100k": 13.71,
+      "per_100k_words": 13.71,
+      "decade_trend": {
+        "1970-talet": 988,
+        "1980-talet": 551,
+        "1990-talet": 1162,
+        "2000-talet": 1222,
+        "2010-talet": 6382,
+        "2020-talet": 14844
+      }
+    },
+    {
+      "phrase": "på bakgrunn av",
+      "count": 20154,
+      "per_100k": 10.99,
+      "per_100k_words": 10.99,
+      "decade_trend": {
+        "1970-talet": 5336,
+        "1980-talet": 1669,
+        "1990-talet": 1985,
+        "2000-talet": 1294,
+        "2010-talet": 3618,
+        "2020-talet": 6252
+      }
+    },
+    {
+      "phrase": "med sikte på",
+      "count": 17140,
+      "per_100k": 9.35,
+      "per_100k_words": 9.35,
+      "decade_trend": {
+        "1970-talet": 7272,
+        "1980-talet": 2463,
+        "1990-talet": 1662,
+        "2000-talet": 993,
+        "2010-talet": 2241,
+        "2020-talet": 2509
+      }
+    },
+    {
+      "phrase": "i hvilken grad",
+      "count": 12142,
+      "per_100k": 6.62,
+      "per_100k_words": 6.62,
+      "decade_trend": {
+        "1970-talet": 2249,
+        "1980-talet": 1022,
+        "1990-talet": 1176,
+        "2000-talet": 878,
+        "2010-talet": 2585,
+        "2020-talet": 4232
+      }
+    },
+    {
+      "phrase": "ta hensyn til",
+      "count": 10136,
+      "per_100k": 5.53,
+      "per_100k_words": 5.53,
+      "decade_trend": {
+        "1970-talet": 2983,
+        "1980-talet": 1033,
+        "1990-talet": 896,
+        "2000-talet": 523,
+        "2010-talet": 2162,
+        "2020-talet": 2539
+      }
+    },
+    {
+      "phrase": "med tanke på",
+      "count": 9134,
+      "per_100k": 4.98,
+      "per_100k_words": 4.98,
+      "decade_trend": {
+        "1970-talet": 1367,
+        "1980-talet": 672,
+        "1990-talet": 761,
+        "2000-talet": 525,
+        "2010-talet": 2417,
+        "2020-talet": 3392
+      }
+    },
+    {
+      "phrase": "på den andre siden",
+      "count": 4899,
+      "per_100k": 2.67,
+      "per_100k_words": 2.67,
+      "decade_trend": {
+        "1970-talet": 429,
+        "1980-talet": 236,
+        "1990-talet": 334,
+        "2000-talet": 364,
+        "2010-talet": 1057,
+        "2020-talet": 2479
+      }
+    },
+    {
+      "phrase": "på den ene siden",
+      "count": 4812,
+      "per_100k": 2.62,
+      "per_100k_words": 2.62,
+      "decade_trend": {
+        "1970-talet": 596,
+        "1980-talet": 267,
+        "1990-talet": 374,
+        "2000-talet": 435,
+        "2010-talet": 1016,
+        "2020-talet": 2124
+      }
+    },
+    {
+      "phrase": "legge til grunn",
+      "count": 3506,
+      "per_100k": 1.91,
+      "per_100k_words": 1.91,
+      "decade_trend": {
+        "1970-talet": 787,
+        "1980-talet": 346,
+        "1990-talet": 297,
+        "2000-talet": 213,
+        "2010-talet": 836,
+        "2020-talet": 1027
+      }
+    },
+    {
+      "phrase": "bærekraftig utvikling",
+      "count": 1948,
+      "per_100k": 1.06,
+      "per_100k_words": 1.06,
+      "decade_trend": {
+        "1970-talet": 33,
+        "1980-talet": 0,
+        "1990-talet": 357,
+        "2000-talet": 213,
+        "2010-talet": 172,
+        "2020-talet": 1173
+      }
+    },
+    {
+      "phrase": "gjøre seg gjeldende",
+      "count": 1898,
+      "per_100k": 1.03,
+      "per_100k_words": 1.03,
+      "decade_trend": {
+        "1970-talet": 674,
+        "1980-talet": 256,
+        "1990-talet": 130,
+        "2000-talet": 73,
+        "2010-talet": 429,
+        "2020-talet": 336
+      }
+    },
+    {
+      "phrase": "det foreslås at",
+      "count": 1553,
+      "per_100k": 0.85,
+      "per_100k_words": 0.85,
+      "decade_trend": {
+        "1970-talet": 303,
+        "1980-talet": 130,
+        "1990-talet": 194,
+        "2000-talet": 128,
+        "2010-talet": 407,
+        "2020-talet": 391
+      }
+    },
+    {
+      "phrase": "etter en samlet vurdering",
+      "count": 1430,
+      "per_100k": 0.78,
+      "per_100k_words": 0.78,
+      "decade_trend": {
+        "1970-talet": 486,
+        "1980-talet": 125,
+        "1990-talet": 115,
+        "2000-talet": 123,
+        "2010-talet": 269,
+        "2020-talet": 312
+      }
+    },
+    {
+      "phrase": "utvalget finner at",
+      "count": 1225,
+      "per_100k": 0.67,
+      "per_100k_words": 0.67,
+      "decade_trend": {
+        "1970-talet": 503,
+        "1980-talet": 224,
+        "1990-talet": 139,
+        "2000-talet": 68,
+        "2010-talet": 99,
+        "2020-talet": 192
+      }
+    },
+    {
+      "phrase": "skjønnsmessig vurdering",
+      "count": 1047,
+      "per_100k": 0.57,
+      "per_100k_words": 0.57,
+      "decade_trend": {
+        "1970-talet": 163,
+        "1980-talet": 82,
+        "1990-talet": 84,
+        "2000-talet": 43,
+        "2010-talet": 303,
+        "2020-talet": 372
+      }
+    },
+    {
+      "phrase": "ta omsyn til",
+      "count": 837,
+      "per_100k": 0.46,
+      "per_100k_words": 0.46,
+      "decade_trend": {
+        "1970-talet": 344,
+        "1980-talet": 43,
+        "1990-talet": 17,
+        "2000-talet": 22,
+        "2010-talet": 147,
+        "2020-talet": 264
+      }
+    },
+    {
+      "phrase": "det er utvalgets oppfatning",
+      "count": 787,
+      "per_100k": 0.43,
+      "per_100k_words": 0.43,
+      "decade_trend": {
+        "1970-talet": 236,
+        "1980-talet": 180,
+        "1990-talet": 96,
+        "2000-talet": 56,
+        "2010-talet": 137,
+        "2020-talet": 82
+      }
+    },
+    {
+      "phrase": "på den andre sida",
+      "count": 623,
+      "per_100k": 0.34,
+      "per_100k_words": 0.34,
+      "decade_trend": {
+        "1970-talet": 265,
+        "1980-talet": 96,
+        "1990-talet": 16,
+        "2000-talet": 38,
+        "2010-talet": 58,
+        "2020-talet": 150
+      }
+    },
+    {
+      "phrase": "i kva grad",
+      "count": 574,
+      "per_100k": 0.31,
+      "per_100k_words": 0.31,
+      "decade_trend": {
+        "1970-talet": 101,
+        "1980-talet": 66,
+        "1990-talet": 33,
+        "2000-talet": 27,
+        "2010-talet": 43,
+        "2020-talet": 304
+      }
+    },
+    {
+      "phrase": "samfunnsøkonomisk lønnsomt",
+      "count": 558,
+      "per_100k": 0.3,
+      "per_100k_words": 0.3,
+      "decade_trend": {
+        "1970-talet": 11,
+        "1980-talet": 31,
+        "1990-talet": 47,
+        "2000-talet": 31,
+        "2010-talet": 140,
+        "2020-talet": 298
+      }
+    },
+    {
+      "phrase": "ut fra en samlet vurdering",
+      "count": 488,
+      "per_100k": 0.27,
+      "per_100k_words": 0.27,
+      "decade_trend": {
+        "1970-talet": 241,
+        "1980-talet": 84,
+        "1990-talet": 33,
+        "2000-talet": 20,
+        "2010-talet": 44,
+        "2020-talet": 66
+      }
+    },
+    {
+      "phrase": "ensartet praksis",
+      "count": 434,
+      "per_100k": 0.24,
+      "per_100k_words": 0.24,
+      "decade_trend": {
+        "1970-talet": 135,
+        "1980-talet": 67,
+        "1990-talet": 22,
+        "2000-talet": 18,
+        "2010-talet": 105,
+        "2020-talet": 87
+      }
+    },
+    {
+      "phrase": "på den eine sida",
+      "count": 385,
+      "per_100k": 0.21,
+      "per_100k_words": 0.21,
+      "decade_trend": {
+        "1970-talet": 156,
+        "1980-talet": 109,
+        "1990-talet": 2,
+        "2000-talet": 23,
+        "2010-talet": 31,
+        "2020-talet": 64
+      }
+    },
+    {
+      "phrase": "fremtidige behov",
+      "count": 309,
+      "per_100k": 0.17,
+      "per_100k_words": 0.17,
+      "decade_trend": {
+        "1970-talet": 114,
+        "1980-talet": 14,
+        "1990-talet": 10,
+        "2000-talet": 3,
+        "2010-talet": 44,
+        "2020-talet": 124
+      }
+    },
+    {
+      "phrase": "framtidige behov",
+      "count": 239,
+      "per_100k": 0.13,
+      "per_100k_words": 0.13,
+      "decade_trend": {
+        "1970-talet": 75,
+        "1980-talet": 42,
+        "1990-talet": 12,
+        "2000-talet": 32,
+        "2010-talet": 17,
+        "2020-talet": 61
+      }
+    },
+    {
+      "phrase": "gi føringer for",
+      "count": 133,
+      "per_100k": 0.07,
+      "per_100k_words": 0.07,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 0,
+        "1990-talet": 1,
+        "2000-talet": 8,
+        "2010-talet": 58,
+        "2020-talet": 66
+      }
+    },
+    {
+      "phrase": "leggje til grunn",
+      "count": 126,
+      "per_100k": 0.07,
+      "per_100k_words": 0.07,
+      "decade_trend": {
+        "1970-talet": 28,
+        "1980-talet": 6,
+        "1990-talet": 1,
+        "2000-talet": 5,
+        "2010-talet": 32,
+        "2020-talet": 54
+      }
+    },
+    {
+      "phrase": "se i sammenheng med",
+      "count": 97,
+      "per_100k": 0.05,
+      "per_100k_words": 0.05,
+      "decade_trend": {
+        "1970-talet": 30,
+        "1980-talet": 30,
+        "1990-talet": 2,
+        "2000-talet": 4,
+        "2010-talet": 11,
+        "2020-talet": 20
+      }
+    },
+    {
+      "phrase": "berekraftig utvikling",
+      "count": 61,
+      "per_100k": 0.03,
+      "per_100k_words": 0.03,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 0,
+        "1990-talet": 4,
+        "2000-talet": 1,
+        "2010-talet": 3,
+        "2020-talet": 53
+      }
+    }
+  ],
+  "top_jargon": [
+    {
+      "term": "samfunnsøkonomisk",
+      "count": 8120,
+      "per_100k": 4.43,
+      "per_100k_words": 4.43,
+      "decade_trend": {
+        "1970-talet": 922,
+        "1980-talet": 761,
+        "1990-talet": 1305,
+        "2000-talet": 651,
+        "2010-talet": 1597,
+        "2020-talet": 2884
+      }
+    },
+    {
+      "term": "handlingsrom",
+      "count": 5928,
+      "per_100k": 3.23,
+      "per_100k_words": 3.23,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 3,
+        "1990-talet": 65,
+        "2000-talet": 379,
+        "2010-talet": 1577,
+        "2020-talet": 3904
+      }
+    },
+    {
+      "term": "tjenesteyting",
+      "count": 4806,
+      "per_100k": 2.62,
+      "per_100k_words": 2.62,
+      "decade_trend": {
+        "1970-talet": 417,
+        "1980-talet": 296,
+        "1990-talet": 653,
+        "2000-talet": 540,
+        "2010-talet": 949,
+        "2020-talet": 1951
+      }
+    },
+    {
+      "term": "kunnskapsgrunnlag",
+      "count": 3729,
+      "per_100k": 2.03,
+      "per_100k_words": 2.03,
+      "decade_trend": {
+        "1970-talet": 27,
+        "1980-talet": 42,
+        "1990-talet": 34,
+        "2000-talet": 53,
+        "2010-talet": 869,
+        "2020-talet": 2704
+      }
+    },
+    {
+      "term": "avveining",
+      "count": 3636,
+      "per_100k": 1.98,
+      "per_100k_words": 1.98,
+      "decade_trend": {
+        "1970-talet": 730,
+        "1980-talet": 276,
+        "1990-talet": 407,
+        "2000-talet": 298,
+        "2010-talet": 863,
+        "2020-talet": 1062
+      }
+    },
+    {
+      "term": "saksbehandlingsregler",
+      "count": 3070,
+      "per_100k": 1.67,
+      "per_100k_words": 1.67,
+      "decade_trend": {
+        "1970-talet": 242,
+        "1980-talet": 199,
+        "1990-talet": 294,
+        "2000-talet": 193,
+        "2010-talet": 1426,
+        "2020-talet": 716
+      }
+    },
+    {
+      "term": "rammevilkår",
+      "count": 3059,
+      "per_100k": 1.67,
+      "per_100k_words": 1.67,
+      "decade_trend": {
+        "1970-talet": 16,
+        "1980-talet": 64,
+        "1990-talet": 417,
+        "2000-talet": 399,
+        "2010-talet": 361,
+        "2020-talet": 1802
+      }
+    },
+    {
+      "term": "kompetanseheving",
+      "count": 2360,
+      "per_100k": 1.29,
+      "per_100k_words": 1.29,
+      "decade_trend": {
+        "1970-talet": 4,
+        "1980-talet": 16,
+        "1990-talet": 242,
+        "2000-talet": 136,
+        "2010-talet": 792,
+        "2020-talet": 1170
+      }
+    },
+    {
+      "term": "sektorovergripende",
+      "count": 1832,
+      "per_100k": 1.0,
+      "per_100k_words": 1.0,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 0,
+        "1990-talet": 74,
+        "2000-talet": 93,
+        "2010-talet": 919,
+        "2020-talet": 746
+      }
+    },
+    {
+      "term": "måloppnåelse",
+      "count": 1619,
+      "per_100k": 0.88,
+      "per_100k_words": 0.88,
+      "decade_trend": {
+        "1970-talet": 9,
+        "1980-talet": 10,
+        "1990-talet": 77,
+        "2000-talet": 80,
+        "2010-talet": 403,
+        "2020-talet": 1040
+      }
+    },
+    {
+      "term": "hjemmelsgrunnlag",
+      "count": 500,
+      "per_100k": 0.27,
+      "per_100k_words": 0.27,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 0,
+        "1990-talet": 28,
+        "2000-talet": 49,
+        "2010-talet": 208,
+        "2020-talet": 215
+      }
+    },
+    {
+      "term": "bærekraftsmål",
+      "count": 457,
+      "per_100k": 0.25,
+      "per_100k_words": 0.25,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 0,
+        "1990-talet": 0,
+        "2000-talet": 0,
+        "2010-talet": 17,
+        "2020-talet": 440
+      }
+    },
+    {
+      "term": "prioriteringskriterier",
+      "count": 331,
+      "per_100k": 0.18,
+      "per_100k_words": 0.18,
+      "decade_trend": {
+        "1970-talet": 1,
+        "1980-talet": 6,
+        "1990-talet": 23,
+        "2000-talet": 2,
+        "2010-talet": 196,
+        "2020-talet": 103
+      }
+    },
+    {
+      "term": "målstyring",
+      "count": 286,
+      "per_100k": 0.16,
+      "per_100k_words": 0.16,
+      "decade_trend": {
+        "1970-talet": 36,
+        "1980-talet": 5,
+        "1990-talet": 70,
+        "2000-talet": 33,
+        "2010-talet": 102,
+        "2020-talet": 40
+      }
+    },
+    {
+      "term": "omstillingsbehov",
+      "count": 215,
+      "per_100k": 0.12,
+      "per_100k_words": 0.12,
+      "decade_trend": {
+        "1970-talet": 2,
+        "1980-talet": 12,
+        "1990-talet": 10,
+        "2000-talet": 9,
+        "2010-talet": 5,
+        "2020-talet": 177
+      }
+    },
+    {
+      "term": "institusjonalisering",
+      "count": 212,
+      "per_100k": 0.12,
+      "per_100k_words": 0.12,
+      "decade_trend": {
+        "1970-talet": 14,
+        "1980-talet": 13,
+        "1990-talet": 12,
+        "2000-talet": 23,
+        "2010-talet": 58,
+        "2020-talet": 92
+      }
+    },
+    {
+      "term": "tilsynsfunksjon",
+      "count": 187,
+      "per_100k": 0.1,
+      "per_100k_words": 0.1,
+      "decade_trend": {
+        "1970-talet": 28,
+        "1980-talet": 6,
+        "1990-talet": 22,
+        "2000-talet": 13,
+        "2010-talet": 74,
+        "2020-talet": 44
+      }
+    },
+    {
+      "term": "tenesteyting",
+      "count": 100,
+      "per_100k": 0.05,
+      "per_100k_words": 0.05,
+      "decade_trend": {
+        "1970-talet": 18,
+        "1980-talet": 24,
+        "1990-talet": 0,
+        "2000-talet": 15,
+        "2010-talet": 41,
+        "2020-talet": 2
+      }
+    },
+    {
+      "term": "avveging",
+      "count": 55,
+      "per_100k": 0.03,
+      "per_100k_words": 0.03,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 1,
+        "1990-talet": 2,
+        "2000-talet": 4,
+        "2010-talet": 16,
+        "2020-talet": 32
+      }
+    },
+    {
+      "term": "sektorovergripande",
+      "count": 53,
+      "per_100k": 0.03,
+      "per_100k_words": 0.03,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 0,
+        "1990-talet": 2,
+        "2000-talet": 3,
+        "2010-talet": 4,
+        "2020-talet": 44
+      }
+    },
+    {
+      "term": "prioriteringskriterium",
+      "count": 47,
+      "per_100k": 0.03,
+      "per_100k_words": 0.03,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 1,
+        "1990-talet": 4,
+        "2000-talet": 7,
+        "2010-talet": 24,
+        "2020-talet": 11
+      }
+    },
+    {
+      "term": "styringssignal",
+      "count": 35,
+      "per_100k": 0.02,
+      "per_100k_words": 0.02,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 0,
+        "1990-talet": 1,
+        "2000-talet": 2,
+        "2010-talet": 19,
+        "2020-talet": 13
+      }
+    },
+    {
+      "term": "heimelsgrunnlag",
+      "count": 32,
+      "per_100k": 0.02,
+      "per_100k_words": 0.02,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 0,
+        "1990-talet": 0,
+        "2000-talet": 0,
+        "2010-talet": 0,
+        "2020-talet": 32
+      }
+    },
+    {
+      "term": "evalueringskriterier",
+      "count": 19,
+      "per_100k": 0.01,
+      "per_100k_words": 0.01,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 0,
+        "1990-talet": 5,
+        "2000-talet": 5,
+        "2010-talet": 5,
+        "2020-talet": 4
+      }
+    },
+    {
+      "term": "saksbehandlingsreglar",
+      "count": 16,
+      "per_100k": 0.01,
+      "per_100k_words": 0.01,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 0,
+        "1990-talet": 0,
+        "2000-talet": 0,
+        "2010-talet": 7,
+        "2020-talet": 9
+      }
+    },
+    {
+      "term": "berekraftsmål",
+      "count": 14,
+      "per_100k": 0.01,
+      "per_100k_words": 0.01,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 0,
+        "1990-talet": 0,
+        "2000-talet": 0,
+        "2010-talet": 0,
+        "2020-talet": 14
+      }
+    },
+    {
+      "term": "måloppnåing",
+      "count": 9,
+      "per_100k": 0.0,
+      "per_100k_words": 0.0,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 1,
+        "1990-talet": 1,
+        "2000-talet": 0,
+        "2010-talet": 6,
+        "2020-talet": 1
+      }
+    },
+    {
+      "term": "digitaliseringstakt",
+      "count": 8,
+      "per_100k": 0.0,
+      "per_100k_words": 0.0,
+      "decade_trend": {
+        "1970-talet": 0,
+        "1980-talet": 0,
+        "1990-talet": 0,
+        "2000-talet": 0,
+        "2010-talet": 0,
+        "2020-talet": 8
+      }
+    }
+  ],
+  "top_words": [
+    {
+      "word": "utvalget",
+      "count": 516231
+    },
+    {
+      "word": "denne",
+      "count": 377186
+    },
+    {
+      "word": "kunne",
+      "count": 348015
+    },
+    {
+      "word": "gjelder",
+      "count": 289589
+    },
+    {
+      "word": "xhtml",
+      "count": 270420
+    },
+    {
+      "word": "annet",
+      "count": 241404
+    },
+    {
+      "word": "ledd",
+      "count": 234085
+    },
+    {
+      "word": "norge",
+      "count": 219548
+    },
+    {
+      "word": "fotnote",
+      "count": 218938
+    },
+    {
+      "word": "fotnoter",
+      "count": 218903
+    },
+    {
+      "word": "fn-note-",
+      "count": 218432
+    },
+    {
+      "word": "enkelte",
+      "count": 213106
+    },
+    {
+      "word": "ulike",
+      "count": 205572
+    },
+    {
+      "word": "imidlertid",
+      "count": 202784
+    },
+    {
+      "word": "kapittel",
+      "count": 196835
+    },
+    {
+      "word": "første",
+      "count": 196485
+    },
+    {
+      "word": "grunn",
+      "count": 194722
+    },
+    {
+      "word": "dersom",
+      "count": 192644
+    },
+    {
+      "word": "forhold",
+      "count": 191190
+    },
+    {
+      "word": "vært",
+      "count": 189880
+    },
+    {
+      "word": "grad",
+      "count": 189725
+    },
+    {
+      "word": "selv",
+      "count": 187161
+    },
+    {
+      "word": "større",
+      "count": 186284
+    },
+    {
+      "word": "derfor",
+      "count": 186020
+    },
+    {
+      "word": "blant",
+      "count": 185759
+    },
+    {
+      "word": "side",
+      "count": 184552
+    },
+    {
+      "word": "prosent",
+      "count": 181609
+    },
+    {
+      "word": "samme",
+      "count": 178451
+    },
+    {
+      "word": "videre",
+      "count": 177681
+    },
+    {
+      "word": "barn",
+      "count": 173219
+    },
+    {
+      "word": "behov",
+      "count": 170101
+    },
+    {
+      "word": "krav",
+      "count": 168545
+    },
+    {
+      "word": "tiltak",
+      "count": 166251
+    },
+    {
+      "word": "bruk",
+      "count": 162431
+    },
+    {
+      "word": "særlig",
+      "count": 162033
+    }
+  ],
+  "nynorsk_highlights": [
+    {
+      "id": "3167083",
+      "title": "NOU 2026: 8 - Samarbeid og informasjonsdeling for å forebygge kriminalitet",
+      "year": 2026
+    },
+    {
+      "id": "3148337",
+      "title": "NOU 2026: 2 - Politikk for nye generasjoner",
+      "year": 2026
+    },
+    {
+      "id": "3140593",
+      "title": "NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+      "year": 2025
+    },
+    {
+      "id": "3110550",
+      "title": "NOU 2025: 7 - Musikklandet",
+      "year": 2025
+    },
+    {
+      "id": "3092679",
+      "title": "NOU 2025: 3 - Ny kulturmiljølov",
+      "year": 2025
+    },
+    {
+      "id": "3083356",
+      "title": "NOU 2025: 1 - Felles ansvar, felles gevinst",
+      "year": 2025
+    },
+    {
+      "id": "3076113",
+      "title": "NOU 2024: 23 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+      "year": 2024
+    },
+    {
+      "id": "3059742",
+      "title": "NOU 2024: 19 - Ny boligleielov",
+      "year": 2024
+    },
+    {
+      "id": "3054538",
+      "title": "NOU 2024: 18 - En universell tannhelsetjeneste",
+      "year": 2024
+    },
+    {
+      "id": "3051552",
+      "title": "NOU 2024: 17 - Kommersielle og ideelle aktørers rolle i fellesskapets velferdstjenester",
+      "year": 2024
+    },
+    {
+      "id": "3035815",
+      "title": "NOU 2024: 8 - Likestillingens neste steg",
+      "year": 2024
+    },
+    {
+      "id": "3031371",
+      "title": "NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+      "year": 2024
+    },
+    {
+      "id": "3030205",
+      "title": "NOU 2024: 5 - Maktens ansikt",
+      "year": 2024
+    },
+    {
+      "id": "3028553",
+      "title": "NOU 2024: 4 - Voldtekt – et uløst samfunnsproblem",
+      "year": 2024
+    },
+    {
+      "id": "3005411",
+      "title": "NOU 2023: 24 - Med barnet hele vegen",
+      "year": 2023
+    },
+    {
+      "id": "2995224",
+      "title": "NOU 2023: 23 - Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping",
+      "year": 2023
+    },
+    {
+      "id": "2985314",
+      "title": "NOU 2023: 21 - Embetsordningen – i takt med tiden",
+      "year": 2023
+    },
+    {
+      "id": "2982905",
+      "title": "NOU 2023: 18 - Genteknologi i en bærekraftig fremtid",
+      "year": 2023
+    },
+    {
+      "id": "2969126",
+      "title": "NOU 2023: 11 - Raskt og riktig",
+      "year": 2023
+    },
+    {
+      "id": "2968517",
+      "title": "NOU 2023: 9 - Generalistkommunesystemet",
+      "year": 2023
+    }
+  ]
+}
