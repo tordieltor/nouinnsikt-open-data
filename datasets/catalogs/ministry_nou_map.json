@@ -1,6 +1,12 @@
 {
   "FIN": [
     {
+      "id": "3177462",
+      "title": "NOU 2026: 11 - En ansvarlig, finansiell forvaltning",
+      "year": 2026,
+      "mottaker": "Finansdepartementet"
+    },
+    {
       "id": "3167167",
       "title": "NOU 2026: 9 - Veien mot et bedre og mer forutsigbart skattesystem",
       "year": 2026,
@@ -1823,6 +1829,12 @@
   ],
   "KD": [
     {
+      "id": "3170002",
+      "title": "NOU 2026: 10 - Fellesskolen",
+      "year": 2026,
+      "mottaker": "Kunnskapsdepartementet"
+    },
+    {
       "id": "3083356",
       "title": "NOU 2025: 1 - Felles ansvar, felles gevinst",
       "year": 2025,
@@ -2418,6 +2430,12 @@
     }
   ],
   "HOD": [
+    {
+      "id": "3190350",
+      "title": "NOU 2026: 12 - Én helsetjeneste",
+      "year": 2026,
+      "mottaker": "Helse- og omsorgsdepartementet"
+    },
     {
       "id": "3162501",
       "title": "NOU 2026: 6 - Den nye velferdskommunen",

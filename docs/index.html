@@ -83,21 +83,21 @@
 
         <div class="kpi-grid">
           <article class="kpi-card">
-            <div class="kpi-number">1 741</div>
+            <div class="kpi-number">1 744</div>
             <div class="kpi-label">Offisielle NOU-utgreiingar (1972–2026)</div>
-            <p class="kpi-detail">333 på nynorsk (19,13 %) og 1 408 på bokmål, med kjeldelenkjer til Regjeringen.no og Nasjonalbiblioteket.</p>
+            <p class="kpi-detail">333 på nynorsk og 1 411 på bokmål, med direkte kjeldelenkjer til Regjeringen.no og Nasjonalbiblioteket.</p>
           </article>
 
           <article class="kpi-card">
             <div class="kpi-number">183 724 190</div>
             <div class="kpi-label">Ord i vaska fulltekstkorpus</div>
-            <p class="kpi-detail">653 941 semantiske tekstbolkar og 9 878 210 setningar (snittlesbarheit 52,03 LIX).</p>
+            <p class="kpi-detail">654 934 semantiske tekstbolkar og 9 878 210+ setningar (snittlesbarheit 52,03 LIX).</p>
           </article>
 
           <article class="kpi-card">
-            <div class="kpi-number">20 250</div>
+            <div class="kpi-number">20 305</div>
             <div class="kpi-label">Verifiserte utvalsroller</div>
-            <p class="kpi-detail">11 806 unike utvalsleiarar, medlemmar og sekretærar med normaliserte organisasjonskoplingar.</p>
+            <p class="kpi-detail">11 806+ unike utvalsleiarar, medlemmar og sekretærar med normaliserte organisasjonskoplingar.</p>
           </article>
 
           <article class="kpi-card">
@@ -205,25 +205,25 @@
 
           <article class="dataset-card">
             <div class="dataset-card-top">
-              <span class="meta-badge badge-navy">Direkte i Git · 17 JSON-datasett</span>
-              <h3>4. Siteringsgrafar, dissensar, departementslinjer &amp; språkmåling</h3>
+              <span class="meta-badge badge-navy">Direkte i Git · 21 JSON-katalogar &amp; 12 Pipelines</span>
+              <h3>4. Analytiske JSON-katalogar &amp; gjenbrukbare Python-pipelines</h3>
               <p>
-                Ferdigprosesserte forskingskatalogar for nettverksanalyse mellom NOU-ar, mindretalsdissensar, 42 historiske departement koplet mot 17 moderne departement, LIX-lesbarheit og taksonomi.
+                21 ferdigprosesserte katalogar (siteringsgrafar, dissensar, reformkatalog, departementslinjer, LIX-lesbarheit og taksonomi) pluss 12 opne Python-skript (<code>pipelines/</code>) som andre kan byggje vidare på.
               </p>
               <ul class="file-pill-list" aria-label="Filer i pakken">
                 <li class="file-pill">relations_citations.json</li>
                 <li class="file-pill">dissent_catalog.json</li>
-                <li class="file-pill">ministry_lineage.json</li>
+                <li class="file-pill">reform_catalog.json</li>
                 <li class="file-pill">language_data.json</li>
-                <li class="file-pill">upcoming_nous.json</li>
+                <li class="file-pill">pipelines/*.py (12 skript)</li>
               </ul>
             </div>
             <div class="dataset-actions">
               <a class="btn-secondary" data-gh-path="tree/main/datasets/catalogs" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/datasets/catalogs" target="_blank" rel="noopener noreferrer">
                 Opne datasets/catalogs/ ↗
               </a>
-              <a class="btn-secondary" data-gh-path="blob/main/DATA_DICTIONARY.md" href="https://github.com/tordieltor/nouinnsikt-open-data/blob/main/DATA_DICTIONARY.md" target="_blank" rel="noopener noreferrer">
-                Les DATA_DICTIONARY.md ↗
+              <a class="btn-secondary" data-gh-path="tree/main/pipelines" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/pipelines" target="_blank" rel="noopener noreferrer">
+                Opne pipelines/ (kode) ↗
               </a>
             </div>
           </article>
@@ -231,9 +231,9 @@
           <article class="dataset-card">
             <div class="dataset-card-top">
               <span class="meta-badge badge-amber">GitHub Releases · Frittståande SQL &amp; Markdown</span>
-              <h3>5. SQLite FTS5-database &amp; 1 741 Markdown-fulltekstar</h3>
+              <h3>5. SQLite FTS5-database &amp; 1 744 Markdown-fulltekstar</h3>
               <p>
-                Komplett lokal SQLite-fil med ferdigbygd <code>FTS5</code> fulltekstsøkeindeks over alle 653 941 tekstbolkar (krev ingen server), samt alle 1 741 NOU-ar som individuelle <code>.md</code>-filer med YAML-metadata.
+                Komplett lokal SQLite-fil med ferdigbygd <code>FTS5</code> fulltekstsøkeindeks over alle 654 934 tekstbolkar (krev ingen server), samt alle 1 744 NOU-ar som individuelle <code>.md</code>-filer med YAML-metadata.
               </p>
               <ul class="file-pill-list" aria-label="Filer i pakken">
                 <li class="file-pill">nouinnsikt_fts5.sqlite.xz</li>
@@ -256,7 +256,7 @@
               <span class="meta-badge badge-amber">GitHub Releases · Vektorar &amp; Lydarkiv</span>
               <h3>6. 768-dim Embeddings (NLP/RAG) &amp; 758 MP3-lydsamandrag</h3>
               <p>
-                Alle 653 941 tekstbolkar som strøymbar JSONL + <code>float16</code> NumPy-matrise (<code>text-embedding-004</code>), samt arkivpakke med alle 758 to-verts lydsamandrag i MP3-format.
+                Alle 654 934 tekstbolkar som strøymbar JSONL + <code>float16</code> NumPy-matrise (<code>text-embedding-004</code>), samt arkivpakke med alle 758 to-verts lydsamandrag i MP3-format.
               </p>
               <ul class="file-pill-list" aria-label="Filer i pakken">
                 <li class="file-pill">nou_chunks_text.jsonl.gz</li>

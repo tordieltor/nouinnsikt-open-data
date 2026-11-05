@@ -6677,23 +6677,18 @@ nou_id,name,role,organization,name_slug
 2985314,Sarwat Ansar,secretariat,,
 2986922,Hans Petter Graver,leader,,
 2986922,Dag-Einar Sivertsen,member,Fellesforbundet (LO),
-2986922,Guro Landsend,member,,
 2986922,Guro Landsend Henriksen,member,,
 2986922,Håkon Bjarne Johnsen,member,fylkesdirektør i Viken fylkeskommune,
-2986922,Håkon Johnsen,member,,
 2986922,Herdis Helle,member,Landsorganisasjonen i Norge (LO),
 2986922,Jan Geir Solheim,member,,
-2986922,Jofri Lunde,member,Næringslivets Hovedorganisasjon (NHO),
+2986922,Jofri Lunde,member,NHO Transport,
 2986922,Jørgen Aarhaug,member,Transportøkonomisk institutt (TØI),
 2986922,Nils-Ola Widme,member,,
 2986922,Øystein Trevland,member,styreleder i Norges Taxiforbund,
 2986922,Sahar Babri,member,,
-2986922,Sahar Babri Jofri Lunde,member,,
 2986922,Siv Wiken,member,,
-2986922,Siv Wiken Henriksen,member,,
 2986922,Anne-Lise Junge Jensen,secretariat,,
 2986922,Grete Mathisrud,secretariat,,
-2986922,Grete Mathisrud Utredningsleder,secretariat,,
 2986922,Lone Bruvold Hansen,secretariat,,
 2986922,Marianne Engeset Kristing,secretariat,,
 2995224,Linda Nøstbakken,leader,Statistisk sentralbyrå (SSB),
@@ -7104,22 +7099,19 @@ nou_id,name,role,organization,name_slug
 3046520,Silje Røshol Johansen,secretariat,,
 3047776,Hans Petter Graver,leader,,
 3047776,Dag-Einar Sivertsen,member,,
-3047776,Guro Landsend,member,,
 3047776,Guro Landsend Henriksen,member,,
 3047776,Håkon Bjarne Johnsen,member,,
 3047776,Herdis Helle,member,,
 3047776,Jan Geir Solheim,member,,
-3047776,Jofri Lunde,member,,
+3047776,Jofri Lunde,member,NHO Transport,
 3047776,Jørgen Aarhaug,member,,
 3047776,Nils-Ola Widme,member,,
 3047776,Øystein Trevland,member,,
 3047776,Rita Kilvær,member,,
 3047776,Sahar Babri,member,,
 3047776,Siv Wiken,member,,
-3047776,Siv Wiken Henriksen,member,,
 3047776,Anne-Lise Junge Jensen,secretariat,,
 3047776,Grete Mathisrud,secretariat,,
-3047776,Grete Mathisrud Utredningsleder,secretariat,,
 3047776,Kemal Zulovic,secretariat,,
 3047776,Lone Bruvold Hansen,secretariat,,
 3047776,Marianne Engeset Kristing,secretariat,,
@@ -7661,6 +7653,69 @@ nou_id,name,role,organization,name_slug
 3167167,Kristine Aase Sommerfelt,secretariat,,
 3167167,Lea Finkelsen,secretariat,,
 3167167,Nora Sundvall Rølling,secretariat,,
+3170002,Bjørn Haugstad,leader,NTNU,bjorn-haugstad
+3170002,Aslak Sira Myhre,member,Nasjonalbiblioteket,aslak-sira-myhre
+3170002,Astrid Strandbu,member,UiT Norges arktiske universitet,astrid-strandbu
+3170002,Audun Brandt Lågøyr,member,Skanska Norge,audun-brandt-lagoyr
+3170002,Henning Fjørtoft,member,NTNU og Nord Universitet,henning-fjortoft
+3170002,Hilde Schjerven,member,Færder kommune,hilde-schjerven
+3170002,Ida Maria Pinnerød,member,Nord Universitet,ida-maria-pinnerod
+3170002,Kamal Saaliti,member,Apalløkka skole,kamal-saaliti
+3170002,Kjerstin Askholt,member,Agder politidistrikt,kjerstin-askholt
+3170002,Lene Tanggaard,member,Aalborg Universitet,lene-tanggaard
+3170002,Martin Eckhoff Andresen,member,Universitetet i Oslo,martin-eckhoff-andresen
+3170002,Oddny Judith Solheim,member,Universitetet i Stavanger,oddny-judith-solheim
+3170002,Omar Mekki,member,Mekki Education,omar-mekki
+3170002,Anne Borgersen,secretariat,Kunnskapsdepartementet,anne-borgersen
+3170002,Borghild Lindhjem-Godal,secretariat,Kunnskapsdepartementet,borghild-lindhjem-godal
+3170002,Christin Oftebro Baum,secretariat,Kunnskapsdepartementet,christin-oftebro-baum
+3170002,Håkon Kavli,secretariat,Kunnskapsdepartementet,hakon-kavli
+3170002,Hallvard Thorsen,secretariat,Kunnskapsdepartementet,hallvard-thorsen
+3170002,Helle Kristin Jensen,secretariat,Kunnskapsdepartementet,helle-kristin-jensen
+3170002,Martine Løkholm,secretariat,Kunnskapsdepartementet,martine-lokholm
+3170002,Tonje Skumsnes Haugberg,secretariat,Kunnskapsdepartementet,tonje-skumsnes-haugberg
+3177462,Svein Gjedrem,leader,Samfunnsøkonom og tidl. sentralbanksjef,
+3177462,Alexander Wright Cappelen,member,Norges Handelshøyskole,
+3177462,Annie Bersagel,member,Folketrygdfondet,
+3177462,Arthur Sletteberg,member,Ferd Sosiale Entreprenører,
+3177462,Gunhild Hoogensen Gjørv,member,UiT Norges arktiske universitet,
+3177462,Hanne Eggen Røislien,member,Forsvarsstaben,
+3177462,Karen Helene Ulltveit-Moe,member,Universitetet i Oslo,
+3177462,Marius Emberland,member,Handelshøyskolen BI,
+3177462,Ulf Sverdrup,member,Handelshøyskolen BI,
+3177462,Aslak Skancke,secretariat,Finansdepartementet,
+3177462,Charlotte Hafstad,secretariat,Finansdepartementet,
+3177462,Dag Huse,secretariat,Finansdepartementet,
+3177462,Julie Michelet,secretariat,Finansdepartementet,
+3177462,Mille Bugge,secretariat,Finansdepartementet,
+3177462,Runa Urheim,secretariat,Finansdepartementet,
+3177462,Simon Torp,secretariat,Finansdepartementet,
+3177462,Yngvar Tveit,secretariat,Finansdepartementet,
+3190350,Gunnar Bovim,leader,NTNU,
+3190350,Edith Roth Gjevjon,member,Norsk Sykepleierforbund / Lovisenberg diakonale høgskole,
+3190350,Jonny Finstad,member,Vestvågøy kommune,
+3190350,Kari Sønderland,member,,
+3190350,Kjetil Andreas Hognestad Karlsen,member,St. Olavs hospital,
+3190350,Lars Erik Flatø,member,Daglig leder,
+3190350,Marit Hermansen,member,Arbeids- og velferdsdirektoratet (NAV),
+3190350,Oddvar Martin Kaarbøe,member,Universitetet i Bergen,
+3190350,Øyvind Bakke,member,Sykehuset i Vestfold HF,
+3190350,Silje Naustvik,member,KS,
+3190350,Somayeh Sadat Bach,member,Leder/partner,
+3190350,Tone Poulsson Torgersen,member,Nasjonalforeningen for folkehelsen,
+3190350,Ann Kristin Andresen,secretariat,Helse- og omsorgsdepartementet,
+3190350,Åshild Flatebakken,secretariat,Helse- og omsorgsdepartementet,
+3190350,Helga Aanderaa,secretariat,Helse- og omsorgsdepartementet,
+3190350,Hilde Marie Skarvang,secretariat,Helse- og omsorgsdepartementet,
+3190350,Kari Steig,secretariat,Helse- og omsorgsdepartementet,
+3190350,Kjetil Telle,secretariat,Helse- og omsorgsdepartementet,
+3190350,Linda Midttømme,secretariat,Helse- og omsorgsdepartementet,
+3190350,Mette Bakkeli,secretariat,Helse- og omsorgsdepartementet,
+3190350,Siv Lunde,secretariat,Helse- og omsorgsdepartementet,
+3190350,Solfrid Vaage Haukaas,secretariat,Helse- og omsorgsdepartementet,
+3190350,Stein Johnsen,secretariat,Helse- og omsorgsdepartementet,
+3190350,Vegard Pettersen,secretariat,Helse- og omsorgsdepartementet,
+3190350,Wenche Dehli,secretariat,Helse- og omsorgsdepartementet,
 373867,Bernt H. Lund,leader,,
 373867,Aase Rokvam,member,Helse- og omsorgsdepartementet,
 373867,Anne Lise Ellingsæter,member,,

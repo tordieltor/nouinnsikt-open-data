@@ -10,15 +10,15 @@ All text files are encoded in **UTF-8** (`\n` LF line endings for JSONL/JSON; st
 
 All relational tables link back to the master NOU catalog via `nou_id` $\rightarrow$ `nous.id` (e.g. `"3145481"` for modern Regjeringen.no IDs or `"digibok_2007062804027"` for historical Nasjonalbiblioteket IDs). Parliamentary votes and resolutions link via `parliamentary_case_id` $\rightarrow$ `nou_parliamentary_cases.id`.
 
-### 1.1 Master NOU Catalog (`nous.jsonl.gz` & `nous_flat.csv` — 1,741 records)
+### 1.1 Master NOU Catalog (`nous.jsonl.gz` & `nous_flat.csv` — 1,744 records)
 
-- **`nous.jsonl.gz`** (`4.36 MB` gzipped JSON Lines): Complete lossless record per NOU including nested JSON structures:
+- **`nous.jsonl.gz`** (`4.37 MB` gzipped JSON Lines): Complete lossless record per NOU including nested JSON structures:
   - `id` (`string`, PK): Canonical identifier (`regjeringen.no` document ID or `nb.no` digibok identifier).
   - `title` (`string`): Full official NOU designation and title (e.g. `"NOU 2022: 20 Et helhetlig skattesystem"`).
   - `year` (`integer`): Official publication year (`1972`–`2026`).
   - `pdf_url` (`string`): Direct verified URL to official PDF (`regjeringen.no`) or Nasjonalbiblioteket URN viewer (`nb.no`).
   - `source_url` (`string`): Official HTML landing page URL.
-  - `is_nynorsk` (`boolean`): `true` for the 333 Nynorsk NOUs (`19.13%`), `false` for the 1,408 Bokmål NOUs.
+  - `is_nynorsk` (`boolean`): `true` for the 333 Nynorsk NOUs, `false` for the 1,411 Bokmål NOUs.
   - `nynorsk_score` (`float`): Empirical lexical Nynorsk indicator ratio (`0.0`–`1.0`).
   - `summary` (`string`): Multi-bullet Nynorsk executive summary.
   - `summary_paragraph` / `summary_4_sentences` / `summary_3_sentences` (`string | null`): Condensed executive abstracts.
@@ -50,16 +50,21 @@ Tracks what happened to NOU proposals after submission across Regjeringen.no, St
 8. **`nou_policy_measures`** (`781` rows, `.csv` & `.jsonl`): Measure-level tracking (`nou_id`, `measure_number`, `proposal_title`, `proposal_text`, `measure_type`, `status`, `linked_white_paper_ref`, `linked_statute_ref`, `alignment_confidence`).
 
 ### 1.4 Auxiliary Knowledge Tables
-- **`query_expansions.csv` / `.jsonl`** (`406` rows): Curated Norwegian administrative synonym and historical term mappings (`query`, `expanded`).
-- **`dagens_nou.csv` / `.jsonl`** (`79` rows): Curated spotlight entries and 1-sentence Nynorsk *"Visste du at...?"* empirical facts.
+- **`policy_evolution_cache.csv` / `.jsonl`** (`58` rows): Pre-synthesized multi-decade thematic policy evolution analyses (`query_hash`, `query`, `category`, `result_json`, `created_at`).
+- **`query_expansions.csv` / `.jsonl`** (`413` rows): Curated Norwegian administrative synonym and historical term mappings (`query`, `expanded`).
+- **`dagens_nou.csv` / `.jsonl`** (`81` rows): Curated spotlight entries and 1-sentence Nynorsk *"Visste du at...?"* empirical facts.
 - **`corpus_statistics.json`**: Macro corpus aggregates (total pages, word counts, top recurring chairs/members, top organizations, ministry distributions).
 
 ---
 
-## 2. Analytical JSON Catalogs (`datasets/catalogs/` — 17 files)
+## 2. Analytical JSON Catalogs (`datasets/catalogs/` — 21 files)
 
 | File | Description |
 | :--- | :--- |
+| `nou_catalog.json` | Complete frontend-ready structured NOU catalog (`1,741+` entries with enriched metadata, summaries, and category badges). |
+| `reform_catalog.json` | Curated catalog of major Norwegian public-sector reforms, connecting landmark NOUs to enacted legislation and societal outcomes. |
+| `dagens_nou_100_schedule.json` | 100-day curated NOU spotlight schedule with historical context and empirical trivia. |
+| `extracted_artworks.json` | Catalog of extracted visual cover artworks and illustrations across the NOU corpus. |
 | `dissent_catalog.json` | **626** verified minority remarks (*dissensar / særmerknader*) across **126** NOUs with verbatim quotes, chunk indices, categories, and dissenting members. |
 | `diversity_catalog.json` | 54-year demographic & corporatist representation dataset (decennial female ratios for members & chairs, 6-sector institutional balance, ministry matrix, top recurring appointees). |
 | `relations_citations.json` | Directed inter-NOU citation graph (**7,878** cross-report citation edges parsed via `NOU YYYY: N` references). |

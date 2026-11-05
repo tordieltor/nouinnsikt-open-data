@@ -14,31 +14,31 @@
 
 | Måleparameter / Metric | Verifisert tal / Verified Count | Kjelde i arkivet / Archive File |
 | :--- | :---: | :--- |
-| **Offisielle NOU-utgreiingar (1972–2026)** | **1 741** (`333` nynorsk / `1 408` bokmål) | [`datasets/relational/nous_flat.csv`](datasets/relational/nous_flat.csv) & [`nous.jsonl.gz`](datasets/relational/nous.jsonl.gz) |
-| **Fulltekst-ord & tekstbolkar** | **183 724 190 ord** (`653 941` bolkar / `9 878 210` setningar) | GitHub Release: `nou_chunks_text.jsonl.gz` & `nou_fulltext_markdown_1972_2026.tar.xz` |
-| **Utvalsleiarar, medlemmar & sekretariat** | **20 250** verifiserte roller (`11 806` unike personar) | [`datasets/relational/nou_authors.csv`](datasets/relational/nou_authors.csv) |
+| **Offisielle NOU-utgreiingar (1972–2026)** | **1 744** (`333` nynorsk / `1 411` bokmål) | [`datasets/relational/nous_flat.csv`](datasets/relational/nous_flat.csv) & [`nous.jsonl.gz`](datasets/relational/nous.jsonl.gz) |
+| **Fulltekst-ord & tekstbolkar** | **183 724 190+ ord** (`654 934` bolkar / `9 878 210+` setningar) | GitHub Release: `nou_chunks_text.jsonl.gz` & `nou_fulltext_markdown_1972_2026.tar.xz` |
+| **Utvalsleiarar, medlemmar & sekretariat** | **20 305** verifiserte roller (`11 806+` unike personar) | [`datasets/relational/nou_authors.csv`](datasets/relational/nou_authors.csv) |
 | **Politisk etterliv & lovsporing** | **9 603** rader fordelt på **8** relasjonstabellar (*høyringar, prop., voteringar, vedtak, lover*) | [`datasets/relational/nou_policy_lifecycle.csv`](datasets/relational/nou_policy_lifecycle.csv) m.fl. |
 | **Kryssiteringar mellom NOU-ar** | **7 878** retta siteringslenkjer | [`datasets/catalogs/relations_citations.json`](datasets/catalogs/relations_citations.json) |
 | **Registrerte særmerknader / dissensar** | **626** dissensar på tvers av **126** NOU-ar | [`datasets/catalogs/dissent_catalog.json`](datasets/catalogs/dissent_catalog.json) |
 | **Departementslinjer (1972–2026)** | **1 091+** NOU-ar koplet mot **42** historiske $\rightarrow$ **17** moderne departement | [`datasets/catalogs/ministry_lineage.json`](datasets/catalogs/ministry_lineage.json) & [`ministry_nou_map.json`](datasets/catalogs/ministry_nou_map.json) |
 | **Lesbarheit (LIX-indeks)** | **52,03 LIX** i snitt (`19,13 %` nynorskandel) | [`datasets/catalogs/language_data.json`](datasets/catalogs/language_data.json) |
-| **Vektor-embeddings (`text-embedding-004`)** | **653 941 × 768-dim** vektorar (`100 %` dekning) | GitHub Release: `nou_chunks_embeddings_768d_float16.npz` |
+| **Vektor-embeddings (`text-embedding-004`)** | **654 934 × 768-dim** vektorar (`100 %` dekning) | GitHub Release: `nou_chunks_embeddings_768d_float16.npz` |
 | **Syntetiserte to-verts lydsamandrag** | **758** MP3-episodar | GitHub Release: `nou_podcasts_mp3_1972_2026.tar` |
 
 ---
 
 ## Mappestruktur / Repository Structure
 
-Alle filer under `datasets/` (`45,25 MB` totalt på tvers av 43 filer) ligg direkte i Git-repoet og kan klonast på få sekund:
+Alle filer under `datasets/` og `pipelines/` (`49,33 MB` totalt på tvers av 61 filer i `EXPORT_MANIFEST.json`) ligg direkte i Git-repoet og kan klonast på få sekund:
 
 ```text
 .
 ├── datasets/
 │   ├── EXPORT_MANIFEST.json         # Eksakte radtal, filstorleikar og SHA-256-sjekksummar
-│   ├── relational/                  # 12 relasjonstabellar frå PostgreSQL i både CSV og JSONL(.gz)
-│   │   ├── nous_flat.csv            # Flat tabell over alle 1 741 NOU-ar (Excel / R / DuckDB / Pandas)
+│   ├── relational/                  # 13 relasjonstabellar frå PostgreSQL i både CSV og JSONL(.gz)
+│   │   ├── nous_flat.csv            # Flat tabell over alle 1 744 NOU-ar (Excel / R / DuckDB / Pandas)
 │   │   ├── nous.jsonl.gz            # Komplette NOU-objekt (samandrag, nøkkelfunn, tiltak, utvalsprofil)
-│   │   ├── nou_authors.csv/.jsonl   # 20 250 utvalsroller med normalisert organisasjonstilknyting
+│   │   ├── nou_authors.csv/.jsonl   # 20 305 utvalsroller med normalisert organisasjonstilknyting
 │   │   ├── nou_policy_lifecycle.*   # 277 politiske livsløp (12 steg frå overlevering til lovvedtak)
 │   │   ├── nou_hearings.*           # 348 høyringsrundar inkl. høyringsinstansar og svar
 │   │   ├── nou_government_propositions.* # 968 Meld. St. og Prop. L/S/LS
@@ -47,22 +47,21 @@ Alle filer under `datasets/` (`45,25 MB` totalt på tvers av 43 filer) ligg dire
 │   │   ├── nou_parliamentary_resolutions.* # 2 230 formelle stortingsvedtak
 │   │   ├── nou_enacted_legislation.*     # 345 vedtekne lover (Lovdata-kopling)
 │   │   ├── nou_policy_measures.*         # 781 enkelttiltak spora mot proposisjon og lov
-│   │   ├── query_expansions.*            # 406 forvaltningsfaglege synonym og omgrepsutvidingar
-│   │   ├── dagens_nou.*                  # 79 kuraterte høgdepunkt og faktaopplysningar
+│   │   ├── policy_evolution_cache.*      # 58 fleirtiårige tematiske politikkutviklingsanalysar
+│   │   ├── query_expansions.*            # 413 forvaltningsfaglege synonym og omgrepsutvidingar
+│   │   ├── dagens_nou.*                  # 81 kuraterte høgdepunkt og faktaopplysningar
 │   │   └── corpus_statistics.json        # Makrostatistikk for heile NOU-korpuset
-│   └── catalogs/                    # 17 ferdigprosesserte analytiske JSON-datasett
-│       ├── dissent_catalog.json
-│       ├── diversity_catalog.json
-│       ├── relations_citations.json
-│       ├── relations_co_occurrence.json
-│       ├── relations_thematic.json
-│       ├── ministry_lineage.json
-│       ├── ministry_nou_map.json
-│       ├── taxonomy.json & nou_taxonomy_map.json & nou_metadata_extra.json
+│   └── catalogs/                    # 21 ferdigprosesserte analytiske JSON-datasett
+│       ├── nou_catalog.json & reform_catalog.json
+│       ├── dissent_catalog.json & diversity_catalog.json
+│       ├── relations_citations.json, relations_co_occurrence.json & relations_thematic.json
+│       ├── ministry_lineage.json & ministry_nou_map.json
+│       ├── taxonomy.json, nou_taxonomy_map.json & nou_metadata_extra.json
 │       ├── language_data.json & nynorsk_nous_catalog.json
-│       ├── upcoming_nous.json
+│       ├── upcoming_nous.json & dagens_nou_100_schedule.json
 │       ├── nokkeltematikker_dataset.json & flagship_policy_evolution.json
-│       └── nou_index_map.json & nou_slug_map.json
+│       └── nou_index_map.json, nou_slug_map.json & extracted_artworks.json
+├── pipelines/                       # 12 gjenbrukbare Python-pipelines (innhausting, LIX, dissens, etterliv)
 ├── docs/                            # Statisk arkiv- og oppslagsside for nouinnsikt.no (GitHub Pages)
 ├── examples/                        # Kom-i-gang-skript for Python, DuckDB og SQLite
 ├── DATA_DICTIONARY.md               # Komplett kolonne- og feltspesifikasjon

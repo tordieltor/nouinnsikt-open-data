@@ -223,6 +223,14 @@ CREATE TABLE IF NOT EXISTS public.dagens_nou (
     created_at TIMESTAMPTZ DEFAULT timezone('utc'::text, now()) NOT NULL
 );
 
+CREATE TABLE IF NOT EXISTS public.policy_evolution_cache (
+    query_hash VARCHAR(64) PRIMARY KEY,
+    query TEXT NOT NULL,
+    category TEXT,
+    result_json TEXT NOT NULL,
+    created_at TIMESTAMPTZ DEFAULT timezone('utc'::text, now())
+);
+
 CREATE INDEX IF NOT EXISTS idx_nous_year ON public.nous(year);
 CREATE INDEX IF NOT EXISTS idx_nou_authors_name_nou_id ON public.nou_authors(name, nou_id);
 CREATE INDEX IF NOT EXISTS idx_nou_chunks_nou_chunk ON public.nou_chunks(nou_id, chunk_index);

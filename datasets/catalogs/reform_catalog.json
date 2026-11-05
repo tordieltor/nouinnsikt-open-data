@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "pensjonsreformen",
+    "title_nn": "Pensjonsreformen (2001–2011)",
+    "title_nb": "Pensjonsreformen (2001–2011)",
+    "sector": "velferd",
+    "start_year": 2001,
+    "enacted_year": 2009,
+    "duration_years": 10,
+    "ministry_code": "AID",
+    "ministry_name": "Arbeids- og inkluderingsdepartementet",
+    "lead_nou_id": "383364",
+    "lead_nou_title": "NOU 2004: 1 - Modernisert folketrygd",
+    "lead_nou_chair": "Sigbjørn Johnsen",
+    "companion_nou_ids": [
+      "603907",
+      "696306",
+      "711626",
+      "2408385"
+    ],
+    "lifecycle_status": "lovfestet",
+    "enacted_law_title": "Lov om endringer i folketrygdloven mv. (ny alderspensjon)",
+    "enacted_law_code": "Lov-2009-06-05-32",
+    "lovdata_url": "https://lovdata.no/dokument/NL/lov/2009-06-05-32",
+    "stages_count": 6,
+    "summary_nn": "Den mest omfattande moderniseringa av folketrygda sidan 1967. Innførte levealdersjustering, fleksibelt uttak frå 62 år og ny reguleringsmodell for å sikre økonomisk og sosial berekraft i møte med eldrebølgja.",
+    "summary_nb": "Den mest omfattende moderniseringen av folketrygden siden 1967. Innførte levealdersjustering, fleksibelt uttak fra 62 år og ny reguleringsmodell for å sikre økonomisk og sosial bærekraft.",
+    "artwork_cover_url": "covers/383364.png",
+    "milestones": [
+      {
+        "stage": 1,
+        "stage_key": "kongelig_resolusjon",
+        "title_nn": "Oppnemning av Pensjonskommisjonen",
+        "date": "2001-03-30",
+        "document_reference": "Kgl.res. 30. mars 2001",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2004-1/id383364/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Sigbjørn Johnsen",
+          "Jens Stoltenberg"
+        ],
+        "description_nn": "Stoltenberg I-regjeringa oppnemnde ein breitt samansett kommisjon med representantar frå dei politiske partia og partane i arbeidslivet for å utreie ei samla pensjonsreform.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 2,
+        "stage_key": "nou_overlevert",
+        "title_nn": "Avgiving av NOU 2004: 1",
+        "date": "2004-01-13",
+        "document_reference": "NOU 2004: 1",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2004-1/id383364/",
+        "institution": "Utval",
+        "key_actors": [
+          "Sigbjørn Johnsen",
+          "Per-Kristian Foss"
+        ],
+        "description_nn": "Pensjonskommisjonen la fram si hovudinnstilling Modernisert folketrygd – Bærekraftig pensjon for framtida med tilråding om levealdersjustering og alle-års-opptening.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 3,
+        "stage_key": "offentleg_hoyring",
+        "title_nn": "Offentleg høyring",
+        "date": "2004-05-15",
+        "document_reference": "Høyring NOU 2004: 1",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2004-1/id383364/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Arbeids- og administrasjonsdepartementet",
+          "LO",
+          "NHO"
+        ],
+        "description_nn": "Over 120 høyringsinstansar gav uttale. Brei støtte til behovet for reform, men motstand frå fagbevegelsen mot avkorting av uføretrygd.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 4,
+        "stage_key": "stortingsmelding",
+        "title_nn": "St.meld. nr. 12 (2004–2005) og breitt pensjonsforlik",
+        "date": "2005-05-26",
+        "document_reference": "St.meld. nr. 12 (2004–2005) / Innst. S. nr. 195 (2004–2005)",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=42401",
+        "institution": "Stortinget",
+        "key_actors": [
+          "Dagfinn Høybråten",
+          "Arbeids- og sosialkomiteen"
+        ],
+        "description_nn": "Stortinget slutta seg til hovudprinsippa for reforma etter eit historisk breitt forlik mellom Arbeidarpartiet, Høgre, Kristeleg Folkeparti, Venstre og Senterpartiet.",
+        "parliamentary_votes": {
+          "total_for": null,
+          "total_against": null,
+          "total_absent": null,
+          "is_unanimous": false,
+          "voting_method": "akklamasjon",
+          "acclamation_note": "Prinsippvedtak med breitt tverrpolitisk fleirtal i Stortinget",
+          "party_tallies": null
+        }
+      },
+      {
+        "stage": 5,
+        "stage_key": "lovproposisjon",
+        "title_nn": "Framlegging av Ot.prp. nr. 37 (2008–2009)",
+        "date": "2009-02-06",
+        "document_reference": "Ot.prp. nr. 37 (2008–2009) / Innst. O. nr. 67 (2008–2009)",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/otprp-nr-37-2008-2009-/id545229/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Bjarne Håkon Hanssen",
+          "Dag Terje Andersen"
+        ],
+        "description_nn": "Regjeringa la fram den endelege lovproposisjonen med detaljerte lovreglar for ny alderspensjon i folketrygda.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 6,
+        "stage_key": "lovvedtak",
+        "title_nn": "Endeleg lovvedtak og kunngjering i Lovdata",
+        "date": "2009-06-05",
+        "document_reference": "Lov-2009-06-05-32",
+        "official_url": "https://lovdata.no/dokument/NL/lov/2009-06-05-32",
+        "institution": "Lovdata",
+        "key_actors": [
+          "Odelstinget",
+          "Kongen i statsråd"
+        ],
+        "description_nn": "Sanksjonert 5. juni 2009 med ikrafttreding 1. januar 2011. Lovfesta fleksibel pensjonering, levealdersjustering og ny indeksering.",
+        "parliamentary_votes": {
+          "total_for": null,
+          "total_against": null,
+          "total_absent": null,
+          "is_unanimous": false,
+          "voting_method": "akklamasjon",
+          "acclamation_note": "Vedtatt i Odelstinget 26. mai 2009 (Besl. O. nr. 93) etter forlik mellom Ap, H, FrP, Sp, SV, KrF og Venstre",
+          "party_tallies": null
+        }
+      }
+    ],
+    "delta_items": [
+      {
+        "id": "delta-pensjon-1",
+        "topic": "Levealdersjustering",
+        "nou_recommendation_quote": "Pensjonskommisjonen tilrår at det vert innført eit delingstal som justerer pensjonen i takt med utviklinga i forventa levealder for kvart årskull.",
+        "nou_citation_chapter": "NOU 2004: 1 kapittel 8.3",
+        "enacted_statute_quote": "Pensjonen skal justeres for endringer i befolkningens levealder ved hjelp av delingstall fastsatt for hvert årskull.",
+        "enacted_law_section": "Folketrygdloven § 19-7",
+        "status": "gjennomfort",
+        "significance_explanation": "Kommisjonens mest banebrytande tilråding vart vedteken uendra og utgjer bærebjelken i dagens pensjonssystem.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2009-06-05-32"
+      },
+      {
+        "id": "delta-pensjon-2",
+        "topic": "Alleårsregel for opptjening",
+        "nou_recommendation_quote": "Pensjonskommisjonen tilrår at besteårsregelen (beste 20 år) erstattes av en alleårsregel der all inntekt gjennom hele yrkeslivet gir pensjonsopptjening.",
+        "nou_citation_chapter": "NOU 2004: 1 kapittel 7.2",
+        "enacted_statute_quote": "Pensjonsbeholdningen bygges opp ved at 18,1 prosent av all pensjonsgivende inntekt opp til 7,1 G tilføres hvert år fra fylte 13 til 75 år.",
+        "enacted_law_section": "Folketrygdloven § 20-4",
+        "status": "gjennomfort",
+        "significance_explanation": "Gjorde pensjonssystemet meir robust og likebehandla yrkesaktive uavhengig av karriereprofil.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2009-06-05-32"
+      },
+      {
+        "id": "delta-pensjon-3",
+        "topic": "Fleksibelt uttak frå 62 år",
+        "nou_recommendation_quote": "Det bør opnast for valfritt uttak av alderspensjon frå fylte 62 år mot ein aktuarisk reduksjon i årleg pensjon.",
+        "nou_citation_chapter": "NOU 2004: 1 kapittel 9.2",
+        "enacted_statute_quote": "Alderspensjon kan tas ut helt eller delvis fra måneden etter at vedkommende fyller 62 år, forutsatt tilstrekkelig opptjening.",
+        "enacted_law_section": "Folketrygdloven § 19-4",
+        "status": "gjennomfort",
+        "significance_explanation": "Erstatta den rigide 67-årsgrensa og gav arbeidstakarar høve til å kombinere arbeid og gradert pensjon utan avkorting.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2009-06-05-32"
+      }
+    ]
+  },
+  {
+    "id": "rusreformen",
+    "title_nn": "Rusreformen (2018–2021)",
+    "title_nb": "Rusreformen (2018–2021)",
+    "sector": "helse",
+    "start_year": 2018,
+    "enacted_year": null,
+    "duration_years": 3,
+    "ministry_code": "HOD",
+    "ministry_name": "Helse- og omsorgsdepartementet",
+    "lead_nou_id": "2683531",
+    "lead_nou_title": "NOU 2019: 26 - Rusreform – Fra straff til hjelp",
+    "lead_nou_chair": "Runar Torgersen",
+    "companion_nou_ids": [
+      "3045610"
+    ],
+    "lifecycle_status": "nedstemt",
+    "enacted_law_title": null,
+    "enacted_law_code": null,
+    "lovdata_url": null,
+    "stages_count": 6,
+    "summary_nn": "Historisk forslag om å erstatte straff for bruk og besittelse av mindre mengder narkotika med helsehjelp og rådgjeving, nedstemt i Stortinget i 2021.",
+    "summary_nb": "Historisk forslag om å erstatte straff for bruk og besittelse av mindre mengder narkotika med helsehjelp og rådgivning, nedstemt i Stortinget i 2021.",
+    "artwork_cover_url": "covers/2683531.png",
+    "milestones": [
+      {
+        "stage": 1,
+        "stage_key": "kongelig_resolusjon",
+        "title_nn": "Oppnemning av Rusreformutvalet",
+        "date": "2018-03-23",
+        "document_reference": "Kgl.res. 23. mars 2018",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2019-26/id2683531/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Bent Høie",
+          "Runar Torgersen",
+          "Solberg-regjeringa"
+        ],
+        "description_nn": "Solberg-regjeringa sette ned Rusreformutvalet for å førebu ei reform der ansvaret for samfunnets reaksjon på bruk og besittelse av illegale rusmiddel vert overført frå justissektoren til helsetenesta.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 2,
+        "stage_key": "nou_overlevert",
+        "title_nn": "Overlevering av NOU 2019: 26",
+        "date": "2019-12-19",
+        "document_reference": "NOU 2019: 26",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2019-26/id2683531/",
+        "institution": "Utval",
+        "key_actors": [
+          "Runar Torgersen",
+          "Bent Høie"
+        ],
+        "description_nn": "Utvalet leverte si tilråding Fra straff til hjelp med forslag om full avkriminalisering av mindre mengder narkotika til eige bruk og etablering av kommunale rådgjevande einingar.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 3,
+        "stage_key": "offentleg_hoyring",
+        "title_nn": "Offentleg høyring om Rusreformutvalets forslag",
+        "date": "2020-04-02",
+        "document_reference": "Høyring id2683686",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/horing---rusreform-fra-straff-til-hjelp/id2683686/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Riksadvokaten",
+          "Politidirektoratet",
+          "Helsedirektoratet"
+        ],
+        "description_nn": "Høyringsrunden viste djup polarisering i norsk fagmiljø og politikk. Brukarorganisasjonar og Riksadvokaten støtta avkriminalisering, medan Politidirektoratet og NNPF åtvara mot auka bruk.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 4,
+        "stage_key": "lovproposisjon",
+        "title_nn": "Framlegging av Prop. 92 L (2020–2021)",
+        "date": "2021-02-19",
+        "document_reference": "Prop. 92 L (2020–2021)",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/prop.-92-l-20202021/id2835248/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Bent Høie",
+          "Erna Solberg",
+          "Guri Melby"
+        ],
+        "description_nn": "Regjeringa fremma lovproposisjonen Endringer i helse- og omsorgstjenesteloven og straffeloven m.m. (rusreform – fra straff til hjelp) for Stortinget.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 5,
+        "stage_key": "stortingsbehandling",
+        "title_nn": "Handsaming i helse- og omsorgskomiteen",
+        "date": "2021-05-27",
+        "document_reference": "Innst. 612 L (2020–2021)",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2020-2021/inns-202021-612l/",
+        "institution": "Stortinget",
+        "key_actors": [
+          "Helse- og omsorgskomiteen",
+          "Jonas Gahr Støre",
+          "Trygve Slagsvold Vedum"
+        ],
+        "description_nn": "Komiteen delte seg i eit mindretal (regjeringspartia Høgre, Venstre, KrF samt SV) og eit fleirtal (Arbeidarpartiet, Framstegspartiet og Senterpartiet) som gjekk mot generell avkriminalisering.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 6,
+        "stage_key": "stortingsbehandling",
+        "title_nn": "Votering i Stortinget — Reforma nedstemt",
+        "date": "2021-06-03",
+        "document_reference": "Stortingssak 83557 / Votering 3. juni 2021",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=83557",
+        "institution": "Stortinget",
+        "key_actors": [
+          "Stortinget i plenum"
+        ],
+        "description_nn": "Stortinget stemte ned hovudforslaget om avkriminalisering med 83 mot 79 stemmer. Dette markerte det formelle endepunktet for Solberg-regjeringas samla rusreform.",
+        "parliamentary_votes": {
+          "total_for": 79,
+          "total_against": 83,
+          "total_absent": 7,
+          "is_unanimous": false,
+          "voting_method": "elektronisk",
+          "acclamation_note": null,
+          "party_tallies": {
+            "H": {
+              "for": 45,
+              "against": 0
+            },
+            "V": {
+              "for": 8,
+              "against": 0
+            },
+            "KrF": {
+              "for": 8,
+              "against": 0
+            },
+            "SV": {
+              "for": 11,
+              "against": 0
+            },
+            "MDG": {
+              "for": 1,
+              "against": 0
+            },
+            "R": {
+              "for": 1,
+              "against": 0
+            },
+            "Uavh": {
+              "for": 5,
+              "against": 0
+            },
+            "Ap": {
+              "for": 0,
+              "against": 49
+            },
+            "FrP": {
+              "for": 0,
+              "against": 26
+            },
+            "Sp": {
+              "for": 0,
+              "against": 8
+            }
+          }
+        }
+      }
+    ],
+    "delta_items": [
+      {
+        "id": "delta-rus-1",
+        "topic": "Avkriminalisering av bruk og besittelse",
+        "nou_recommendation_quote": "Utvalget foreslår at straffansvaret for bruk av narkotika og erverv og oppbevaring av mindre mengder narkotika til egen bruk oppheves.",
+        "nou_citation_chapter": "NOU 2019: 26 kapittel 9.4",
+        "enacted_statute_quote": null,
+        "enacted_law_section": null,
+        "status": "forkasta_endra",
+        "significance_explanation": "Forslaget vart nedstemt av Stortinget 3. juni 2021. Høyesteretts plenumsdommar i 2022 etablerte likevel straffriheit for tunge rusavhengige i praksis.",
+        "lovdata_url": null
+      },
+      {
+        "id": "delta-rus-2",
+        "topic": "Rådgjevande einingar for russaker",
+        "nou_recommendation_quote": "Kommunene bør pålegges å opprette rådgivende enheter for russaker som skal møte personer overført fra politiet med veiledning og hjelpetilbud.",
+        "nou_citation_chapter": "NOU 2019: 26 kapittel 11.2",
+        "enacted_statute_quote": "Kommunen skal ha en rådgivende enhet for russaker som skal ha ansvaret for å møte personer etter henvisning.",
+        "enacted_law_section": "Helse- og omsorgstjenesteloven § 3-9 b",
+        "status": "delvis_gjennomfort",
+        "significance_explanation": "Sjølv om den generelle avkriminaliseringa fall, vart rådgjevande einingar vedtekne som ein kommunal lovpålagd helseteneste i 2022.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2011-06-24-30"
+      },
+      {
+        "id": "delta-rus-3",
+        "topic": "Terskelverdiar for bruksdosar",
+        "nou_recommendation_quote": "Det fastsettes standardiserte terskelverdier i forskrift, for eksempel 5 gram cannabis eller 1 gram heroin, som skiller mellom straffri befatning og straffbar omsetning.",
+        "nou_citation_chapter": "NOU 2019: 26 kapittel 10.3",
+        "enacted_statute_quote": null,
+        "enacted_law_section": null,
+        "status": "forkasta_endra",
+        "significance_explanation": "Prinsippet om standardiserte gramtersklar i lov vart forkasta då proposisjonen fall i Stortinget.",
+        "lovdata_url": null
+      }
+    ]
+  },
+  {
+    "id": "barnevernsreformen",
+    "title_nn": "Barnevernsreformen (2014–2021)",
+    "title_nb": "Barnevernsreformen (2014–2021)",
+    "sector": "velferd",
+    "start_year": 2014,
+    "enacted_year": 2021,
+    "duration_years": 7,
+    "ministry_code": "BFD",
+    "ministry_name": "Barne- og familiedepartementet",
+    "lead_nou_id": "2512881",
+    "lead_nou_title": "NOU 2016: 16 - Ny barnevernslov",
+    "lead_nou_chair": "Christian Børge Sørensen",
+    "companion_nou_ids": [
+      "2622734",
+      "2966836"
+    ],
+    "lifecycle_status": "lovfestet",
+    "enacted_law_title": "Lov om barnevern (barnevernsloven)",
+    "enacted_law_code": "Lov-2021-06-18-97",
+    "lovdata_url": "https://lovdata.no/dokument/NL/lov/2021-06-18-97",
+    "stages_count": 6,
+    "summary_nn": "Full revisjon av barnevernlova frå 1992 som styrka barns medverknad, rettstryggleik for familiar og tilpassa lova til EMD-praksis.",
+    "summary_nb": "Full revisjon av barnevernloven fra 1992 som styrket barns medvirkning, rettssikkerhet for familier og tilpasset loven til EMD-praksis.",
+    "artwork_cover_url": "covers/artwork/2512881.png",
+    "milestones": [
+      {
+        "stage": 1,
+        "stage_key": "kongelig_resolusjon",
+        "title_nn": "Oppnemning av Barnevernslovutvalet",
+        "date": "2014-11-28",
+        "document_reference": "Kgl.res. 28. november 2014",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2016-16/id2512881/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Solveig Horne",
+          "Christian Børge Sørensen"
+        ],
+        "description_nn": "Barne-, likestillings- og inkluderingsdepartementet oppnemnde eit lovutval for å utarbeide eit heilskapleg forslag til ny barnevernslov som erstatning for 1992-lova.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 2,
+        "stage_key": "nou_overlevert",
+        "title_nn": "Overlevering av NOU 2016: 16",
+        "date": "2016-09-29",
+        "document_reference": "NOU 2016: 16",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2016-16/id2512881/",
+        "institution": "Utval",
+        "key_actors": [
+          "Christian Børge Sørensen",
+          "Solveig Horne"
+        ],
+        "description_nn": "Utvalet overleverte utgreiinga Ny barnevernslov – Sikring av barnets rett til omsorg og beskyttelse med vekt på barns rettsstilling og styrkt rettstryggleik.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 3,
+        "stage_key": "offentleg_hoyring",
+        "title_nn": "Offentleg høyring om ny barnevernslov",
+        "date": "2016-11-07",
+        "document_reference": "Høyring id2519335",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/horing-nou-2016-16-ny-barnevernslov2/id2519335/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Barneombudet",
+          "Kommunene",
+          "Fylkesnemndene"
+        ],
+        "description_nn": "Omfattande høyring med over 200 høyringssvar som drøfta barns talerett, biologisk prinsipp, samvær og krav om fagleg kompetanse i tenestene.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 4,
+        "stage_key": "lovproposisjon",
+        "title_nn": "Framlegging av Prop. 133 L (2020–2021)",
+        "date": "2021-04-09",
+        "document_reference": "Prop. 133 L (2020–2021)",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/prop.-133-l-20202021/id2842271/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Kjell Ingolf Ropstad",
+          "Solberg-regjeringa"
+        ],
+        "description_nn": "Regjeringa la fram den endelege proposisjonen for Stortinget med oppdatert regelverk tilpassa dommar frå Den europeiske menneskerettsdomstolen (EMD).",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 5,
+        "stage_key": "stortingsbehandling",
+        "title_nn": "Innstilling frå familie- og kulturkomiteen",
+        "date": "2021-06-08",
+        "document_reference": "Innst. 625 L (2020–2021)",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2020-2021/inns-202021-625l/",
+        "institution": "Stortinget",
+        "key_actors": [
+          "Familie- og kulturkomiteen"
+        ],
+        "description_nn": "Ein samla komité stilte seg bak hovudtrekka i reforma, med særskild fokus på førebyggjande innsats og auka kompetansekrav i barnevernet.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 6,
+        "stage_key": "lovvedtak",
+        "title_nn": "Vedtak og sanksjonering av barnevernslova",
+        "date": "2021-06-18",
+        "document_reference": "Lov-2021-06-18-97 / Stortingssak 84477",
+        "official_url": "https://lovdata.no/dokument/NL/lov/2021-06-18-97",
+        "institution": "Lovdata",
+        "key_actors": [
+          "Stortinget",
+          "Kongen i statsråd"
+        ],
+        "description_nn": "Ny barnevernslov vart vedteken i Stortinget og sanksjonert i statsråd med ikrafttreding 1. januar 2023. Lova innførte mastergradskrav og styrkt medverknad.",
+        "parliamentary_votes": {
+          "total_for": null,
+          "total_against": null,
+          "total_absent": null,
+          "is_unanimous": true,
+          "voting_method": "akklamasjon",
+          "acclamation_note": "Einrøystes vedteke i Stortinget ved akklamasjon (Lovvedtak 173)",
+          "party_tallies": null
+        }
+      }
+    ],
+    "delta_items": [
+      {
+        "id": "delta-barnevern-1",
+        "topic": "Barns rett til medverknad og eige rom for samtale",
+        "nou_recommendation_quote": "Barnet skal gis tilstrekkelig og tilpasset informasjon og gis anledning til fritt å uttale seg før det tas avgjørelser som berører barnet.",
+        "nou_citation_chapter": "NOU 2016: 16 kapittel 8.2",
+        "enacted_statute_quote": "Et barn har rett til å medvirke i alle forhold som vedrører barnet etter denne loven.",
+        "enacted_law_section": "Barnevernsloven § 1-4",
+        "status": "gjennomfort",
+        "significance_explanation": "Lovfesta eit ubetinga krav om at barnets eiga stemme skal høyrast og dokumenterast i alle fasar av barnevernssaka.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2021-06-18-97"
+      },
+      {
+        "id": "delta-barnevern-2",
+        "topic": "Kompetansekrav i barnevernstenesta",
+        "nou_recommendation_quote": "Det bør lovfestes formelle kompetansekrav for ansatte som utfører kjerneoppgaver i det kommunale barnevernet, herunder krav om mastergrad.",
+        "nou_citation_chapter": "NOU 2016: 16 kapittel 14.5",
+        "enacted_statute_quote": "Krav om mastergrad eller annen relevant utdanning på tilsvarende nivå for ansatte i barnevernstjenesten som skal utføre saksbehandling.",
+        "enacted_law_section": "Barnevernsloven § 15-6",
+        "status": "gjennomfort",
+        "significance_explanation": "Historisk kompetanseløft for kommunane med overgangsordning fram til 2031 for tilsette saksbehandlarar.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2021-06-18-97"
+      },
+      {
+        "id": "delta-barnevern-3",
+        "topic": "Det biologiske prinsipp og gjenforeningsmål",
+        "nou_recommendation_quote": "Målet om familiegjenforening etter omsorgsovertakelse må forankres tydeligere i lovens formålsbestemmelser i tråd med EMK artikkel 8.",
+        "nou_citation_chapter": "NOU 2016: 16 kapittel 7.3",
+        "enacted_statute_quote": "Barnevernet skal legge til rette for samvær og kontakt med sikte på at barnet skal kunne gjenforenes med foreldrene.",
+        "enacted_law_section": "Barnevernsloven § 7-1",
+        "status": "gjennomfort",
+        "significance_explanation": "Harmoniserte norsk barnevernsrett med EMD-dommar og etablerte gjenforening som primærmål for omsorgsovertakingar.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2021-06-18-97"
+      }
+    ]
+  },
+  {
+    "id": "ny-forvaltningslov",
+    "title_nn": "Ny forvaltningslov (2015–2026)",
+    "title_nb": "Ny forvaltningslov (2015–2026)",
+    "sector": "forvaltning",
+    "start_year": 2015,
+    "enacted_year": null,
+    "duration_years": 11,
+    "ministry_code": "JD",
+    "ministry_name": "Justis- og beredskapsdepartementet",
+    "lead_nou_id": "2632006",
+    "lead_nou_title": "NOU 2019: 5 - Ny forvaltningslov",
+    "lead_nou_chair": "Inge Lorange Backer",
+    "companion_nou_ids": [
+      "2478743"
+    ],
+    "lifecycle_status": "under_behandling",
+    "enacted_law_title": null,
+    "enacted_law_code": null,
+    "lovdata_url": null,
+    "stages_count": 6,
+    "summary_nn": "Gjennomgripande modernisering av saksbehandlingsreglane i offentleg forvaltning frå 1967, med fokus på digitalisering, automatisering og openheit.",
+    "summary_nb": "Gjennomgripende modernisering av saksbehandlingsreglene i offentlig forvaltning fra 1967, med fokus på digitalisering, automatisering og åpenhet.",
+    "artwork_cover_url": "covers/2632006.png",
+    "milestones": [
+      {
+        "stage": 1,
+        "stage_key": "kongelig_resolusjon",
+        "title_nn": "Oppnemning av Forvaltningslovutvalet",
+        "date": "2015-10-23",
+        "document_reference": "Kgl.res. 23. oktober 2015",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2019-5/id2632006/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Anders Anundsen",
+          "Inge Lorange Backer"
+        ],
+        "description_nn": "Justisdepartementet oppnemnde eit lovutval leia av professor Inge Lorange Backer for å vurdere ei fullstendig revisjon av forvaltningslova av 1967.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 2,
+        "stage_key": "nou_overlevert",
+        "title_nn": "Overlevering av NOU 2019: 5",
+        "date": "2019-03-14",
+        "document_reference": "NOU 2019: 5",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2019-5/id2632006/",
+        "institution": "Utval",
+        "key_actors": [
+          "Inge Lorange Backer",
+          "Tor Mikkel Wara"
+        ],
+        "description_nn": "Utvalet la fram si utgreiing Ny forvaltningslov – Lov om saksbehandlingen i offentlig forvaltning med eit samla lovutkast tilpassa ein digitalisert offentleg sektor.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 3,
+        "stage_key": "offentleg_hoyring",
+        "title_nn": "Offentleg høyring om ny forvaltningslov",
+        "date": "2019-06-03",
+        "document_reference": "Høyring id2652945",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/horing---nou-2019-5-ny-forvaltningslov/id2652945/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Sivilombudet",
+          "Datatilsynet",
+          "KS"
+        ],
+        "description_nn": "Over 140 instansar gav uttale. Sentrale tema var rettstryggleik ved automatiserte avgjerder, innsynsrett, rettleiingsplikt og fristar for klagebehandling.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 4,
+        "stage_key": "lovproposisjon",
+        "title_nn": "Framlegging av Prop. 79 L (2024–2025)",
+        "date": "2025-04-04",
+        "document_reference": "Prop. 79 L (2024–2025)",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/prop.-79-l-20242025/id3094317/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Emilie Enger Mehl",
+          "Støre-regjeringa"
+        ],
+        "description_nn": "Støre-regjeringa fremma det etterlengta lovforslaget til ny forvaltningslov for Stortinget, med lovreglar for automatisert saksbehandling og styrkt rettleiing.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 5,
+        "stage_key": "stortingsbehandling",
+        "title_nn": "Handsaming i Stortingets justiskomité",
+        "date": "2025-10-15",
+        "document_reference": "Stortingssak 102929 / Innst. 478 L (2024–2025)",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102929",
+        "institution": "Stortinget",
+        "key_actors": [
+          "Justiskomiteen"
+        ],
+        "description_nn": "Justiskomiteen behandla lovforslaget og gjennomførte høyringar med advokatforeininga, domstolane og forvaltningsorgan om digitale rettssikkerheitsgarantiar.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 6,
+        "stage_key": "lovvedtak",
+        "title_nn": "Avventar endeleg lovvedtak i Stortinget",
+        "date": "2026-06-01",
+        "document_reference": "Stortingssak 102929",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102929",
+        "institution": "Stortinget",
+        "key_actors": [
+          "Stortinget"
+        ],
+        "description_nn": "Lovarbeidet er aktivt under behandling i Stortinget. Endeleg votering og ikrafttreding er venta i 2026.",
+        "parliamentary_votes": null
+      }
+    ],
+    "delta_items": [
+      {
+        "id": "delta-forvaltning-1",
+        "topic": "Automatisert saksbehandling og algoritmer",
+        "nou_recommendation_quote": "Forvaltningsorganet kan treffe avgjørelser ved helautomatisert saksbehandling når behandlingen gir tilstrekkelig rettssikkerhet for parten.",
+        "nou_citation_chapter": "NOU 2019: 5 kapittel 14.3",
+        "enacted_statute_quote": null,
+        "enacted_law_section": "Forslag til forvaltningslov § 30",
+        "status": "delvis_gjennomfort",
+        "significance_explanation": "Lovfestar for fyrste gong eksplisitte rettstryggleikskrav for helautomatiserte vedtak og algoritmiske avgjerdssystem i offentleg sektor.",
+        "lovdata_url": null
+      },
+      {
+        "id": "delta-forvaltning-2",
+        "topic": "Styrking av rettleiingsplikta",
+        "nou_recommendation_quote": "Forvaltningsorganene skal av eget tiltak gi veiledning til borgerne, tilpasset den enkeltes behov og sakens karakter.",
+        "nou_citation_chapter": "NOU 2019: 5 kapittel 11.2",
+        "enacted_statute_quote": null,
+        "enacted_law_section": "Forslag til forvaltningslov § 14",
+        "status": "delvis_gjennomfort",
+        "significance_explanation": "Utvidar forvaltningas plikt til å rettleie borgarar proaktivt, spesielt i møte med digitale sjølvbeteningsløysingar.",
+        "lovdata_url": null
+      },
+      {
+        "id": "delta-forvaltning-3",
+        "topic": "Klagesakshandsaming og oppheving av klagenemnder",
+        "nou_recommendation_quote": "Det foreslås strammere tidsfrister for oversendelse av klager til klageorganet, med standard 4 ukers frist for underinstansen.",
+        "nou_citation_chapter": "NOU 2019: 5 kapittel 22.4",
+        "enacted_statute_quote": null,
+        "enacted_law_section": "Forslag til forvaltningslov § 68",
+        "status": "delvis_gjennomfort",
+        "significance_explanation": "Strammar inn forvaltningas tidsbruk i klagesaker for å redusere passiv saksbehandlingstid for innbyggjarane.",
+        "lovdata_url": null
+      }
+    ]
+  },
+  {
+    "id": "helseforetaksreformen",
+    "title_nn": "Helseforetaksreformen (1995–2002)",
+    "title_nb": "Helseforetaksreformen (1995–2002)",
+    "sector": "helse",
+    "start_year": 1995,
+    "enacted_year": 2001,
+    "duration_years": 7,
+    "ministry_code": "HOD",
+    "ministry_name": "Helse- og omsorgsdepartementet",
+    "lead_nou_id": "140503",
+    "lead_nou_title": "NOU 1996: 5 - Hvem skal eie sykehusene?",
+    "lead_nou_chair": "Tormod Hermansen",
+    "companion_nou_ids": [
+      "140689"
+    ],
+    "lifecycle_status": "lovfestet",
+    "enacted_law_title": "Lov om helseforetak m.m. (helseforetaksloven)",
+    "enacted_law_code": "Lov-2001-06-15-93",
+    "lovdata_url": "https://lovdata.no/dokument/NL/lov/2001-06-15-93",
+    "stages_count": 6,
+    "summary_nn": "Statleg overtaking av alle offentlege sjukehus frå fylkeskommunane til regionale helseforetak for å profesjonalisere leiing og samordne ressursar.",
+    "summary_nb": "Statlig overtakelse av alle offentlige sykehus fra fylkeskommunene til regionale helseforetak for å profesjonalisere ledelse og samordne ressurser.",
+    "artwork_cover_url": "covers/artwork/140503.png",
+    "milestones": [
+      {
+        "stage": 1,
+        "stage_key": "kongelig_resolusjon",
+        "title_nn": "Oppnemning av Hermansen-utvalet",
+        "date": "1995-03-17",
+        "document_reference": "Kgl.res. 17. mars 1995",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-1996-5/id140503/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Gro Harlem Brundtland",
+          "Tormod Hermansen"
+        ],
+        "description_nn": "Brundtland III-regjeringa oppnemnde eit offentleg utval for å greie ut alternative eigar- og driftsmodellar for dei offentlege sjukehusa i Noreg.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 2,
+        "stage_key": "nou_overlevert",
+        "title_nn": "Overlevering av NOU 1996: 5",
+        "date": "1996-03-27",
+        "document_reference": "NOU 1996: 5",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-1996-5/id140503/",
+        "institution": "Utval",
+        "key_actors": [
+          "Tormod Hermansen",
+          "Gudmund Hernes"
+        ],
+        "description_nn": "Hermansen-utvalet la fram utgreiinga Hvem skal eie sykehusene? der fleirtalet tilrådde statleg overtaking og organisering etter foretaksmodell.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 3,
+        "stage_key": "offentleg_hoyring",
+        "title_nn": "Offentleg høyring om sjukehuseigarskap",
+        "date": "1996-09-01",
+        "document_reference": "Høyring NOU 1996: 5",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-1996-5/id140503/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Fylkeskommunane",
+          "Den norske legeforening"
+        ],
+        "description_nn": "Intens debatt der fylkeskommunane åtvara mot sentralisering og tap av lokaldemokrati, medan Legeforeningen støtta sterkare statleg styring og samordning.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 4,
+        "stage_key": "lovproposisjon",
+        "title_nn": "Framlegging av Ot.prp. nr. 66 (2000–2001)",
+        "date": "2001-04-06",
+        "document_reference": "Ot.prp. nr. 66 (2000–2001)",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=21590",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Tore Tønne",
+          "Jens Stoltenberg"
+        ],
+        "description_nn": "Stoltenberg I-regjeringa fremma lovforslaget om statleg overtaking av spesialisthelsetenesta og etablering av fem regionale helseforetak (RHF).",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 5,
+        "stage_key": "stortingsbehandling",
+        "title_nn": "Innstilling frå sosialkomiteen",
+        "date": "2001-05-30",
+        "document_reference": "Innst. O. nr. 118 (2000–2001)",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Odelstinget/2000-2001/inno-200001-118/",
+        "institution": "Stortinget",
+        "key_actors": [
+          "Sosialkomiteen",
+          "Ap",
+          "Høgre"
+        ],
+        "description_nn": "Reforma vart sikra fleirtal etter eit historisk politisk forlik mellom Arbeidarpartiet og Høgre i Stortingets sosialkomité.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 6,
+        "stage_key": "lovvedtak",
+        "title_nn": "Vedtak og sanksjonering av helseforetakslova",
+        "date": "2001-06-15",
+        "document_reference": "Lov-2001-06-15-93",
+        "official_url": "https://lovdata.no/dokument/NL/lov/2001-06-15-93",
+        "institution": "Lovdata",
+        "key_actors": [
+          "Odelstinget",
+          "Kongen i statsråd"
+        ],
+        "description_nn": "Lov om helseforetak m.m. vart sanksjonert 15. juni 2001. Frå 1. januar 2002 overtok staten eigarskapet til samtlege offentlege sjukehus i landet.",
+        "parliamentary_votes": {
+          "total_for": null,
+          "total_against": null,
+          "total_absent": null,
+          "is_unanimous": false,
+          "voting_method": "akklamasjon",
+          "acclamation_note": "Vedtatt i Odelstinget etter fleirtalsforlik mellom Arbeidarpartiet og Høgre",
+          "party_tallies": null
+        }
+      }
+    ],
+    "delta_items": [
+      {
+        "id": "delta-helse-1",
+        "topic": "Statleg eigarskap til spesialisthelsetenesta",
+        "nou_recommendation_quote": "Staten bør overta ansvaret for sykehusene fra fylkeskommunene for å samordne ressursbruken og fjerne fylkesgrenser som behandlingshinder.",
+        "nou_citation_chapter": "NOU 1996: 5 kapittel 10.2",
+        "enacted_statute_quote": "Staten har det overordnede ansvaret for at befolkningen tilbys nødvendige spesialisthelsetjenester.",
+        "enacted_law_section": "Helseforetaksloven § 1",
+        "status": "gjennomfort",
+        "significance_explanation": "Fjerna fylkeskommunane som sjukehuseigarar og samla heile spesialisthelsetenesta under eitt nasjonalt statleg eigarskap.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2001-06-15-93"
+      },
+      {
+        "id": "delta-helse-2",
+        "topic": "Foretaksmodellen (RHF og HF)",
+        "nou_recommendation_quote": "Sykehusene bør organiseres som selvstendige rettssubjekter med egne styrer etter foretaksmodell for å profesjonalisere ledelsen.",
+        "nou_citation_chapter": "NOU 1996: 5 kapittel 11.4",
+        "enacted_statute_quote": "Regionale helseforetak og helseforetak er selvstendige rettssubjekter som ledes av et styre og en administrerende direktør.",
+        "enacted_law_section": "Helseforetaksloven § 8 og § 10",
+        "status": "gjennomfort",
+        "significance_explanation": "Innførte føretaksstyring med profesjonelle styre og administrativ leiing etter mønster frå aksjeselskapsretten.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2001-06-15-93"
+      },
+      {
+        "id": "delta-helse-3",
+        "topic": "Sørge-for-ansvar framfor direkte drift",
+        "nou_recommendation_quote": "Staten må ha et lovfestet sørge-for-ansvar som sikrer likeverdig tilgang til helsetjenester uavhengig av bosted.",
+        "nou_citation_chapter": "NOU 1996: 5 kapittel 9.1",
+        "enacted_statute_quote": "De regionale helseforetakene skal sørge for at befolkningen i helseregionen tilbys spesialisthelsetjenester i og utenfor institusjon.",
+        "enacted_law_section": "Spesialisthelsetjenesteloven § 2-1a",
+        "status": "gjennomfort",
+        "significance_explanation": "Skilde det overordna sørge-for-ansvaret frå den operative drifta av dei einskilde sjukehusføretaka.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2001-06-15-93"
+      }
+    ]
+  },
+  {
+    "id": "politireformen",
+    "title_nn": "Nærpolitireformen (2012–2015)",
+    "title_nb": "Nærpolitireformen (2012–2015)",
+    "sector": "rettsvesen",
+    "start_year": 2012,
+    "enacted_year": 2015,
+    "duration_years": 3,
+    "ministry_code": "JD",
+    "ministry_name": "Justis- og beredskapsdepartementet",
+    "lead_nou_id": "730815",
+    "lead_nou_title": "NOU 2013: 9 - Ett politi – rustet til å møte fremtidens utfordringer",
+    "lead_nou_chair": "Arne Røksund",
+    "companion_nou_ids": [
+      "697260"
+    ],
+    "lifecycle_status": "lovfestet",
+    "enacted_law_title": "Lov om endringer i politiloven (nærpolitireformen)",
+    "enacted_law_code": "Lov-2015-06-19-66",
+    "lovdata_url": "https://lovdata.no/dokument/LTI/lov/2015-06-19-66",
+    "stages_count": 6,
+    "summary_nn": "Strukturell omorganisering som reduserte talet på politidistrikt frå 27 til 12 for å styrke beredskap og responstid etter 22. juli.",
+    "summary_nb": "Strukturell omorganisering som reduserte antallet politidistrikter fra 27 til 12 for å styrke beredskap og responstid etter 22. juli.",
+    "artwork_cover_url": "covers/730815.png",
+    "milestones": [
+      {
+        "stage": 1,
+        "stage_key": "kongelig_resolusjon",
+        "title_nn": "Politianalysen vert sett ned etter 22. juli",
+        "date": "2012-11-02",
+        "document_reference": "Kgl.res. 2. november 2012",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2013-9/id730815/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Grete Faremo",
+          "Arne Røksund"
+        ],
+        "description_nn": "I kjølvatnet av 22. juli-kommisjonens rapport oppnemnde regjeringa eit ekspertutval for å vurdere politiets organisering, ressursbruk og beredskapskapasitet.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 2,
+        "stage_key": "nou_overlevert",
+        "title_nn": "Overlevering av NOU 2013: 9 Politianalysen",
+        "date": "2013-06-19",
+        "document_reference": "NOU 2013: 9",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2013-9/id730815/",
+        "institution": "Utval",
+        "key_actors": [
+          "Arne Røksund",
+          "Grete Faremo"
+        ],
+        "description_nn": "Røksund-utvalet overleverte rapporten Ett politi med tilråding om å redusere talet på politidistrikt drastisk til 6 robuste regionar og samle operasjonssentralane.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 3,
+        "stage_key": "offentleg_hoyring",
+        "title_nn": "Høyringsrunde om Politianalysen",
+        "date": "2013-06-21",
+        "document_reference": "Høyring id731471",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/hoering-nou-20139-politianalysen/id731471/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Politiets Fellesforbund",
+          "Kommunene"
+        ],
+        "description_nn": "Brei høyring med stor debatt om distriktspolitikk, responstid, lokal tilstadesvære og nedlegging av lensmannskontor.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 4,
+        "stage_key": "lovproposisjon",
+        "title_nn": "Framlegging av Prop. 61 LS (2014–2015)",
+        "date": "2015-03-06",
+        "document_reference": "Prop. 61 LS (2014–2015)",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/prop.-61-s-2014-2015/id2398784/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Anders Anundsen",
+          "Solberg-regjeringa"
+        ],
+        "description_nn": "Solberg-regjeringa fremma proposisjonen Trygghet i hverdagen – nærpolitireformen med forslag om 12 politidistrikt og politisk forpliktande nærpolitiavtaler med kommunane.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 5,
+        "stage_key": "stortingsbehandling",
+        "title_nn": "Stortingsforlik i justiskomiteen",
+        "date": "2015-06-09",
+        "document_reference": "Innst. 306 S og Innst. 307 L (2014–2015)",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=62212",
+        "institution": "Stortinget",
+        "key_actors": [
+          "Justiskomiteen",
+          "H",
+          "FrP",
+          "Ap",
+          "KrF",
+          "V"
+        ],
+        "description_nn": "Eit breitt politisk forlik sikra fleirtal for 12 politidistrikt mot stemmene til Senterpartiet og Sosialistisk Venstreparti.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 6,
+        "stage_key": "lovvedtak",
+        "title_nn": "Sanksjonering av endringar i politilova",
+        "date": "2015-06-19",
+        "document_reference": "Lov-2015-06-19-66",
+        "official_url": "https://lovdata.no/dokument/LTI/lov/2015-06-19-66",
+        "institution": "Lovdata",
+        "key_actors": [
+          "Stortinget",
+          "Kongen i statsråd"
+        ],
+        "description_nn": "Lova vart sanksjonert i statsråd og trådde i kraft 1. januar 2016. Reforma etablerte 12 politidistrikt og felles operasjonssentralar.",
+        "parliamentary_votes": {
+          "total_for": 88,
+          "total_against": 9,
+          "total_absent": 72,
+          "is_unanimous": false,
+          "voting_method": "elektronisk",
+          "acclamation_note": null,
+          "party_tallies": {
+            "Ap": {
+              "for": 40,
+              "against": 0
+            },
+            "H": {
+              "for": 28,
+              "against": 0
+            },
+            "FrP": {
+              "for": 15,
+              "against": 0
+            },
+            "KrF": {
+              "for": 3,
+              "against": 0
+            },
+            "V": {
+              "for": 2,
+              "against": 0
+            },
+            "Sp": {
+              "for": 0,
+              "against": 8
+            },
+            "SV": {
+              "for": 0,
+              "against": 1
+            }
+          }
+        }
+      }
+    ],
+    "delta_items": [
+      {
+        "id": "delta-politi-1",
+        "topic": "Reduksjon av talet på politidistrikt",
+        "nou_recommendation_quote": "Det etableres 6 politidistrikter med robuste fagmiljøer for å sikre tilstrekkelig operativ kapasitet og etterforskningskvalitet.",
+        "nou_citation_chapter": "NOU 2013: 9 kapittel 12.2",
+        "enacted_statute_quote": "Riket inndeles i 12 politidistrikter som ledes av en politimester.",
+        "enacted_law_section": "Politiloven § 16",
+        "status": "delvis_gjennomfort",
+        "significance_explanation": "Utvalet tilrådde 6 distrikt, men det politiske kompromisset på Stortinget landa på 12 distrikt for å ivareta geografisk balanse.",
+        "lovdata_url": "https://lovdata.no/dokument/LTI/lov/2015-06-19-66"
+      },
+      {
+        "id": "delta-politi-2",
+        "topic": "Felles operasjonssentralar",
+        "nou_recommendation_quote": "Hvert politidistrikt må ha én felles operasjonssentral med samlokalisert stab for beredskap og krisehåndtering.",
+        "nou_citation_chapter": "NOU 2013: 9 kapittel 14.1",
+        "enacted_statute_quote": "Politidistriktet skal ha en felles operasjonssentral som sikrer døgnkontinuerlig ledelse og samordning.",
+        "enacted_law_section": "Politiinstruksen § 2-3",
+        "status": "gjennomfort",
+        "significance_explanation": "Styrka politiets evne til døgnkontinuerleg kriseleiing, situasjonsbilete og sambandsstyring.",
+        "lovdata_url": "https://lovdata.no/dokument/LTI/lov/2015-06-19-66"
+      },
+      {
+        "id": "delta-politi-3",
+        "topic": "Nærpoliti og politikontakt i kommunene",
+        "nou_recommendation_quote": "Politiet må etablere forpliktende samarbeidsavtaler med samtlige kommuner med faste politikontakter.",
+        "nou_citation_chapter": "NOU 2013: 9 kapittel 13.4",
+        "enacted_statute_quote": "I hver kommune skal det være en politikontakt som er fast kontaktpunkt mellom politi og kommune.",
+        "enacted_law_section": "Politiloven § 16 a",
+        "status": "gjennomfort",
+        "significance_explanation": "Kompenserte for strukturelle samanslåingar ved å lovfeste fast politikontakt og råd i kvar enkelt kommune.",
+        "lovdata_url": "https://lovdata.no/dokument/LTI/lov/2015-06-19-66"
+      }
+    ]
+  },
+  {
+    "id": "barnehagereformen",
+    "title_nn": "Barnehagereformen (2000–2006)",
+    "title_nb": "Barnehagereformen (2000–2006)",
+    "sector": "velferd",
+    "start_year": 2000,
+    "enacted_year": 2005,
+    "duration_years": 6,
+    "ministry_code": "KD",
+    "ministry_name": "Kunnskapsdepartementet",
+    "lead_nou_id": "669113",
+    "lead_nou_title": "NOU 2012: 1 - Til barnas beste",
+    "lead_nou_chair": "Solveig Østrem",
+    "companion_nou_ids": [
+      "471461"
+    ],
+    "lifecycle_status": "lovfestet",
+    "enacted_law_title": "Lov om barnehager (barnehageloven)",
+    "enacted_law_code": "Lov-2005-06-17-64",
+    "lovdata_url": "https://lovdata.no/dokument/NL/lov/2005-06-17-64",
+    "stages_count": 6,
+    "summary_nn": "Det historiske barnehageforliket i 2003 som innførte makspris, likebehandling av private barnehagar og lovfesta rett til plass.",
+    "summary_nb": "Det historiske barnehageforliket i 2003 som innførte makspris, likebehandling av private barnehager og lovfestet rett til plass.",
+    "artwork_cover_url": "covers/artwork/669113.png",
+    "milestones": [
+      {
+        "stage": 1,
+        "stage_key": "stortingsmelding",
+        "title_nn": "Stortingsmelding om barnehagesektoren",
+        "date": "2003-03-07",
+        "document_reference": "St.meld. nr. 24 (2002–2003)",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2002-2003/inns-200203-250/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Laila Dåvøy",
+          "Bondevik II-regjeringa"
+        ],
+        "description_nn": "Regjeringa la fram stortingsmeldinga Barnehager til beste for barn og foreldre som la grunnlaget for full barnehagedekning.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 2,
+        "stage_key": "stortingsbehandling",
+        "title_nn": "Det historiske barnehageforliket i Stortinget",
+        "date": "2003-06-11",
+        "document_reference": "Innst. S. nr. 250 (2002–2003)",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2002-2003/inns-200203-250/",
+        "institution": "Stortinget",
+        "key_actors": [
+          "Øystein Djupedal (SV)",
+          "Trond Giske (Ap)",
+          "Siv Jensen (FrP)"
+        ],
+        "description_nn": "Stortingsfleirtalet utanom regjeringspartia gjekk saman om eit historisk barnehageforlik som innførte makspris og forplikta staten til likebehandling.",
+        "parliamentary_votes": {
+          "total_for": null,
+          "total_against": null,
+          "total_absent": null,
+          "is_unanimous": false,
+          "voting_method": "akklamasjon",
+          "acclamation_note": "Fleirtalsvedtak i Stortinget mellom SV, Ap og FrP",
+          "party_tallies": null
+        }
+      },
+      {
+        "stage": 3,
+        "stage_key": "offentleg_hoyring",
+        "title_nn": "Høyring om ny barnehagelov",
+        "date": "2004-06-15",
+        "document_reference": "Høyring Barne- og familiedepartementet",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/otprp-nr-72-2004-2005-/id399361/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "KS",
+          "Private Barnehagers Landsforbund"
+        ],
+        "description_nn": "Høyringsrunden tok for seg finansieringssystem, kommunalt tilsyn og likeverdige økonomiske rammevilkår for private aktørar.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 4,
+        "stage_key": "lovproposisjon",
+        "title_nn": "Framlegging av Ot.prp. nr. 72 (2004–2005)",
+        "date": "2005-04-08",
+        "document_reference": "Ot.prp. nr. 72 (2004–2005)",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/otprp-nr-72-2004-2005-/id399361/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Laila Dåvøy",
+          "Kjell Magne Bondevik"
+        ],
+        "description_nn": "Regjeringa la fram lovproposisjonen Om lov om barnehager (barnehageloven) med reglar om formål, innhald, godkjenning og foreldrebetaling.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 5,
+        "stage_key": "stortingsbehandling",
+        "title_nn": "Odelstingets handsaming",
+        "date": "2005-06-09",
+        "document_reference": "Innst. O. nr. 117 (2004–2005) / Sak 31327",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Odelstinget/2004-2005/inno-200405-117/",
+        "institution": "Stortinget",
+        "key_actors": [
+          "Kyrkje-, utdannings- og forskingskomiteen"
+        ],
+        "description_nn": "Komiteen slutta seg til lovforslaget og presiserte reglane om likeverdig statstilskot til private og kommunale barnehagar.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 6,
+        "stage_key": "lovvedtak",
+        "title_nn": "Vedtak og sanksjonering av barnehagelova",
+        "date": "2005-06-17",
+        "document_reference": "Lov-2005-06-17-64",
+        "official_url": "https://lovdata.no/dokument/NL/lov/2005-06-17-64",
+        "institution": "Lovdata",
+        "key_actors": [
+          "Kongen i statsråd"
+        ],
+        "description_nn": "Lov om barnehager vart sanksjonert 17. juni 2005 og etablerte det rettslege fundamentet for det moderne norske barnehagesystemet.",
+        "parliamentary_votes": {
+          "total_for": null,
+          "total_against": null,
+          "total_absent": null,
+          "is_unanimous": true,
+          "voting_method": "akklamasjon",
+          "acclamation_note": "Einrøystes vedteke i Odelstinget etter tverrpolitisk semje (Besl. O. nr. 112)",
+          "party_tallies": null
+        }
+      }
+    ],
+    "delta_items": [
+      {
+        "id": "delta-barnehage-1",
+        "topic": "Makspris på foreldrebetaling",
+        "nou_recommendation_quote": "Foreldrebetalingen må reguleres nasjonalt gjennom en bindende makspris for å sikre sosial utjevning og like muligheter for alle barn.",
+        "nou_citation_chapter": "NOU 2012: 1 kapittel 11.3",
+        "enacted_statute_quote": "Departementet kan gi forskrifter om foreldrebetaling i barnehager, herunder om maksimalgrense for foreldrebetaling.",
+        "enacted_law_section": "Barnehageloven § 15",
+        "status": "gjennomfort",
+        "significance_explanation": "Reduserte familieutgifter dramatisk og etablerte barnehage som eit universelt tilgjengeleg velferdsgode.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2005-06-17-64"
+      },
+      {
+        "id": "delta-barnehage-2",
+        "topic": "Lovfesta rett til barnehageplass",
+        "nou_recommendation_quote": "Barnets rett til barnehageplass bør lovfestes som en individuell rettighet for alle barn bosatt i kommunen.",
+        "nou_citation_chapter": "NOU 2012: 1 kapittel 9.2",
+        "enacted_statute_quote": "Barn som fyller ett år senest innen utgangen av november, har rett til barnehageplass i bostedskommunen.",
+        "enacted_law_section": "Barnehageloven § 16",
+        "status": "gjennomfort",
+        "significance_explanation": "Transformerte barnehageplass frå eit knappheitsgode med ventelister til ein lovfesta individuell innbyggjarrett.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2005-06-17-64"
+      },
+      {
+        "id": "delta-barnehage-3",
+        "topic": "Likebehandling av kommunale og private barnehagar",
+        "nou_recommendation_quote": "Offentlige tilskudd må sikre likeverdige økonomiske vilkår mellom kommunale og private barnehager.",
+        "nou_citation_chapter": "NOU 2012: 1 kapittel 12.4",
+        "enacted_statute_quote": "Kommunen skal likebehandle private og kommunale barnehager ved tildeling av offentlig tilskudd.",
+        "enacted_law_section": "Barnehageloven § 14",
+        "status": "gjennomfort",
+        "significance_explanation": "La grunnlaget for den unike norske modellen der ideelle og private barnehagar utgjer halvparten av sektoren.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2005-06-17-64"
+      }
+    ]
+  },
+  {
+    "id": "skattereformen-scheel",
+    "title_nn": "Skattereformen (2013–2016)",
+    "title_nb": "Skattereformen (2013–2016)",
+    "sector": "okonomi",
+    "start_year": 2013,
+    "enacted_year": 2016,
+    "duration_years": 3,
+    "ministry_code": "FIN",
+    "ministry_name": "Finansdepartementet",
+    "lead_nou_id": "2342691",
+    "lead_nou_title": "NOU 2014: 13 - Kapitalbeskatning i en internasjonal økonomi",
+    "lead_nou_chair": "Hans Henrik Scheel",
+    "companion_nou_ids": [
+      "2951826"
+    ],
+    "lifecycle_status": "lovfestet",
+    "enacted_law_title": "Endringer i skatteloven og årlige skattevedtak",
+    "enacted_law_code": "Lov-1999-03-26-14",
+    "lovdata_url": "https://lovdata.no/dokument/NL/lov/1999-03-26-14",
+    "stages_count": 6,
+    "summary_nn": "Skatteforliket i 2016 som reduserte selskapsskatten frå 27 % til 22 % og stramma inn renteavskjæring mot overskotsflytting.",
+    "summary_nb": "Skatteforliket i 2016 som reduserte selskapsskatten fra 27 % til 22 % og strammet inn renteavskjæring mot overskuddsflytting.",
+    "artwork_cover_url": "covers/2342691.png",
+    "milestones": [
+      {
+        "stage": 1,
+        "stage_key": "kongelig_resolusjon",
+        "title_nn": "Oppnemning av Scheel-utvalet",
+        "date": "2013-03-15",
+        "document_reference": "Kgl.res. 15. mars 2013",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/NOU-2014-13/id2342691/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Sigbjørn Johnsen",
+          "Hans Henrik Scheel"
+        ],
+        "description_nn": "Stoltenberg II-regjeringa oppnemnde eit ekspertutval leia av SSB-direktør Hans Henrik Scheel for å vurdere selskapsbeskatninga i lys av internasjonal skattetilpassing.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 2,
+        "stage_key": "nou_overlevert",
+        "title_nn": "Overlevering av NOU 2014: 13",
+        "date": "2014-12-02",
+        "document_reference": "NOU 2014: 13",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/NOU-2014-13/id2342691/",
+        "institution": "Utval",
+        "key_actors": [
+          "Hans Henrik Scheel",
+          "Siv Jensen"
+        ],
+        "description_nn": "Scheel-utvalet leverte utgreiinga Kapitalbeskatning i en internasjonal økonomi med forslag om å senke selskapsskatten til 20 % og tette hol i rentebegrensingsreglane.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 3,
+        "stage_key": "offentleg_hoyring",
+        "title_nn": "Offentleg høyring om Scheel-utvalet",
+        "date": "2015-01-05",
+        "document_reference": "Høyring id2357184",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/horing--nou-2014-13-kapitalbeskatning-i-en-internasjonal-okonomi/id2357184/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "NHO",
+          "LO",
+          "Skattebetalerforeningen"
+        ],
+        "description_nn": "Næringslivet støtta lågare selskapsskatt for å bevare norsk konkurransekraft, medan organisasjonar debatterte fordelingsverknadene av skift frå selskapsskatt til eigedom og moms.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 4,
+        "stage_key": "stortingsmelding",
+        "title_nn": "Framlegging av Meld. St. 4 (2015–2016) Bedre skatt",
+        "date": "2015-10-07",
+        "document_reference": "Meld. St. 4 (2015–2016)",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/meld.-st.-4-2015-2016/id2456447/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Siv Jensen",
+          "Solberg-regjeringa"
+        ],
+        "description_nn": "Solberg-regjeringa la fram stortingsmeldinga Bedre skatt – En skattereform for omstilling og vekst med ein trappetrinnsvis reduksjon i selskapsskatten.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 5,
+        "stage_key": "stortingsbehandling",
+        "title_nn": "Skatteforliket i Stortingets finanskomité",
+        "date": "2016-05-18",
+        "document_reference": "Innst. 273 S (2015–2016) / Sak 63614",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=63614",
+        "institution": "Stortinget",
+        "key_actors": [
+          "Finanskomiteen",
+          "H",
+          "FrP",
+          "Ap",
+          "KrF",
+          "V",
+          "Sp"
+        ],
+        "description_nn": "Eit breitt fleirtal på Stortinget inngjekk eit historisk skatteforlik om å trappe ned skattesatsen på alminneleg inntekt til 22 % fram mot 2019.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 6,
+        "stage_key": "lovvedtak",
+        "title_nn": "Vedtak i Stortinget og lovfesting",
+        "date": "2016-06-20",
+        "document_reference": "Lov-1999-03-26-14 (årlege endringslover)",
+        "official_url": "https://lovdata.no/dokument/NL/lov/1999-03-26-14",
+        "institution": "Lovdata",
+        "key_actors": [
+          "Stortinget"
+        ],
+        "description_nn": "Stortinget fatta skattevedtak og endringar i skatteloven som sette ned selskapsskatten og stramma inn renteavskjæring mot overskotsflytting.",
+        "parliamentary_votes": {
+          "total_for": 92,
+          "total_against": 5,
+          "total_absent": 72,
+          "is_unanimous": false,
+          "voting_method": "elektronisk",
+          "acclamation_note": null,
+          "party_tallies": {
+            "Ap": {
+              "for": 44,
+              "against": 0
+            },
+            "H": {
+              "for": 28,
+              "against": 0
+            },
+            "FrP": {
+              "for": 14,
+              "against": 0
+            },
+            "KrF": {
+              "for": 3,
+              "against": 0
+            },
+            "V": {
+              "for": 2,
+              "against": 0
+            },
+            "Sp": {
+              "for": 1,
+              "against": 0
+            },
+            "SV": {
+              "for": 0,
+              "against": 5
+            }
+          }
+        }
+      }
+    ],
+    "delta_items": [
+      {
+        "id": "delta-skatt-1",
+        "topic": "Reduksjon av selskapsskatten",
+        "nou_recommendation_quote": "Satsen på alminnelig inntekt for selskaper bør settes ned til 20 prosent for å motvirke overskuddsflytting og tiltrekke investeringer.",
+        "nou_citation_chapter": "NOU 2014: 13 kapittel 6.2",
+        "enacted_statute_quote": "Skattesatsen på alminnelig inntekt for upersonlige skattytere fastsettes årlig i Stortingets skattevedtak (22 %).",
+        "enacted_law_section": "Skatteloven § 15-4",
+        "status": "delvis_gjennomfort",
+        "significance_explanation": "Utvalet tilrådde 20 %, men Stortingets skatteforlik landa på 22 % som ein berekraftig balanse mellom konkurransekraft og proveny.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/1999-03-26-14"
+      },
+      {
+        "id": "delta-skatt-2",
+        "topic": "Strammare rentebegrensningsregel",
+        "nou_recommendation_quote": "Rentebegrensningsregelen bør utvides til også å omfatte renter på lån til eksterne parter, for å tette hull i internkonsern-finansiering.",
+        "nou_citation_chapter": "NOU 2014: 13 kapittel 8.5",
+        "enacted_statute_quote": "Fradrag for rentekostnader avskjæres for den delen som overstiger 25 prosent av skattemessig EBITDA for eksterne og interne lån.",
+        "enacted_law_section": "Skatteloven § 6-41",
+        "status": "gjennomfort",
+        "significance_explanation": "Demma opp for multinasjonale selskaps moglegheit til å flytte overskot ut av Noreg gjennom kunstig gjeldsfinansiering.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/1999-03-26-14"
+      },
+      {
+        "id": "delta-skatt-3",
+        "topic": "Innføring av kjeldeskatt på renter og royalty",
+        "nou_recommendation_quote": "Det bør innføres kildeskatt på renter og royaltybetalinger fra norske selskaper til nærstående selskaper i lavskatteland.",
+        "nou_citation_chapter": "NOU 2014: 13 kapittel 9.3",
+        "enacted_statute_quote": "Det svares 15 prosent kildeskatt på rentebetalinger og royalty til nærstående foretak i lavskatteland.",
+        "enacted_law_section": "Skatteloven § 10-80",
+        "status": "gjennomfort",
+        "significance_explanation": "Tettskaping av eit av dei største hola i skattesystemet med særskild heimel for kjeldeskatt vedteke i 2020.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/1999-03-26-14"
+      }
+    ]
+  },
+  {
+    "id": "arbeidsmiljolova-2005",
+    "title_nn": "Arbeidsmiljølova av 2005 (2001–2005)",
+    "title_nb": "Arbeidsmiljøloven av 2005 (2001–2005)",
+    "sector": "arbeidsliv",
+    "start_year": 2001,
+    "enacted_year": 2005,
+    "duration_years": 4,
+    "ministry_code": "AID",
+    "ministry_name": "Arbeids- og inkluderingsdepartementet",
+    "lead_nou_id": "384819",
+    "lead_nou_title": "NOU 2004: 5 - Et arbeidsliv for trygghet, inkludering og vekst",
+    "lead_nou_chair": "Stein Evju",
+    "companion_nou_ids": [
+      "2467468"
+    ],
+    "lifecycle_status": "lovfestet",
+    "enacted_law_title": "Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)",
+    "enacted_law_code": "Lov-2005-06-17-62",
+    "lovdata_url": "https://lovdata.no/dokument/NL/lov/2005-06-17-62",
+    "stages_count": 6,
+    "summary_nn": "Ny arbeidsmiljølov som erstatta 1977-lova, med lovfesta vern for varslarar, vern mot trakassering og moderniserte arbeidstidsreglar.",
+    "summary_nb": "Ny arbeidsmiljølov som erstattet 1977-loven, med lovfestet vern for varslere, vern mot trakassering og moderniserte arbeidstidsregler.",
+    "artwork_cover_url": "covers/384819.png",
+    "milestones": [
+      {
+        "stage": 1,
+        "stage_key": "kongelig_resolusjon",
+        "title_nn": "Oppnemning av Arbeidslivslovutvalet",
+        "date": "2001-03-30",
+        "document_reference": "Kgl.res. 30. mars 2001",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2004-5/id384819/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Jens Stoltenberg",
+          "Stein Evju"
+        ],
+        "description_nn": "Stoltenberg I-regjeringa oppnemnde eit breitt samansett lovutval leia av professor Stein Evju for å gjennomgå arbeidsmiljølova og tilpasse reglane til eit endra arbeidsliv.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 2,
+        "stage_key": "nou_overlevert",
+        "title_nn": "Overlevering av NOU 2004: 5",
+        "date": "2004-02-23",
+        "document_reference": "NOU 2004: 5",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2004-5/id384819/",
+        "institution": "Utval",
+        "key_actors": [
+          "Stein Evju",
+          "Erna Solberg"
+        ],
+        "description_nn": "Utvalet overleverte Et arbeidsliv for trygghet, inkludering og vekst med forslag til ny lovstruktur, vern mot mobbing og moderniserte arbeidstidsreglar.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 3,
+        "stage_key": "offentleg_hoyring",
+        "title_nn": "Offentleg høyring om lovutkastet",
+        "date": "2004-03-15",
+        "document_reference": "Høyring NOU 2004: 5",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2004-5/id384819/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "LO",
+          "NHO",
+          "YS",
+          "Unio"
+        ],
+        "description_nn": "Omfattande dragkamp mellom partane i arbeidslivet, særskild om midlertidig tilsetjing og overtid, medan vernet mot trakassering fekk brei tilslutnad.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 4,
+        "stage_key": "lovproposisjon",
+        "title_nn": "Framlegging av Ot.prp. nr. 49 (2004–2005)",
+        "date": "2005-02-18",
+        "document_reference": "Ot.prp. nr. 49 (2004–2005)",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=31324",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Dagfinn Høybråten",
+          "Bondevik II-regjeringa"
+        ],
+        "description_nn": "Bondevik II-regjeringa fremma proposisjonen for Stortinget med lovfesting av varslarvern og krav til det psykososiale arbeidsmiljøet.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 5,
+        "stage_key": "stortingsbehandling",
+        "title_nn": "Innstilling frå kommunalkomiteen",
+        "date": "2005-05-27",
+        "document_reference": "Innst. O. nr. 100 (2004–2005)",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Odelstinget/2004-2005/inno-200405-100/",
+        "institution": "Stortinget",
+        "key_actors": [
+          "Kommunalkomiteen på Stortinget"
+        ],
+        "description_nn": "Kommunalkomiteen behandla proposisjonen. Eit fleirtal beståande av regjeringspartia og Framstegspartiet sikra fleirtal for lova.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 6,
+        "stage_key": "lovvedtak",
+        "title_nn": "Vedtak og sanksjonering av ny arbeidsmiljølov",
+        "date": "2005-06-17",
+        "document_reference": "Lov-2005-06-17-62",
+        "official_url": "https://lovdata.no/dokument/NL/lov/2005-06-17-62",
+        "institution": "Lovdata",
+        "key_actors": [
+          "Odelstinget",
+          "Kongen i statsråd"
+        ],
+        "description_nn": "Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. vart sanksjonert 17. juni 2005 og trådde i kraft 1. januar 2006 som Noregs gjeldande arbeidsmiljølov.",
+        "parliamentary_votes": {
+          "total_for": null,
+          "total_against": null,
+          "total_absent": null,
+          "is_unanimous": false,
+          "voting_method": "akklamasjon",
+          "acclamation_note": "Vedtatt i Odelstinget etter fleirtal mellom regjeringspartia og Framstegspartiet (Besl. O. nr. 106)",
+          "party_tallies": null
+        }
+      }
+    ],
+    "delta_items": [
+      {
+        "id": "delta-aml-1",
+        "topic": "Lovfesta varslarvern",
+        "nou_recommendation_quote": "Det bør innføres et særskilt lovvern for arbeidstakere som varsler om kritikkverdige forhold på arbeidsplassen.",
+        "nou_citation_chapter": "NOU 2004: 5 kapittel 12.3",
+        "enacted_statute_quote": "Arbeidstaker har rett til å varsle om kritikkverdige forhold i virksomheten. Gjengjeldelse mot varsler er forbudt.",
+        "enacted_law_section": "Arbeidsmiljøloven § 2 A-1 og § 2 A-2",
+        "status": "gjennomfort",
+        "significance_explanation": "Etablerte for fyrste gong eit eksplisitt lovvern mot gjengjelding for varslarar i norsk rett.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2005-06-17-62"
+      },
+      {
+        "id": "delta-aml-2",
+        "topic": "Psykososialt arbeidsmiljø og vern mot trakassering",
+        "nou_recommendation_quote": "Lovens virkeområde for det psykososiale arbeidsmiljøet må presiseres for å gi et eksplisitt vern mot mobbing og utilbørlig opptreden.",
+        "nou_citation_chapter": "NOU 2004: 5 kapittel 10.4",
+        "enacted_statute_quote": "Arbeidstaker skal ikke utsettes for trakassering eller annen utilbørlig opptreden, og arbeidet skal søkes utformet slik at det gir mulighet for faglig og personlig utvikling.",
+        "enacted_law_section": "Arbeidsmiljøloven § 4-3",
+        "status": "gjennomfort",
+        "significance_explanation": "Løfta psykososiale faktorar og mobbing til same rettslege vernestatus som fysisk tryggleik på arbeidsplassen.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2005-06-17-62"
+      },
+      {
+        "id": "delta-aml-3",
+        "topic": "Adgang til midlertidig tilsetjing",
+        "nou_recommendation_quote": "Utvalgets flertall foreslår en generell adgang til midlertidig ansettelse i inntil 12 måneder uten vilkår om arbeidets karakter.",
+        "nou_citation_chapter": "NOU 2004: 5 kapittel 15.2",
+        "enacted_statute_quote": "Hovedregelen i arbeidslivet er fast ansettelse. Midlertidig ansettelse kan bare avtales når arbeidet er av midlertidig karakter.",
+        "enacted_law_section": "Arbeidsmiljøloven § 14-9",
+        "status": "forkasta_endra",
+        "significance_explanation": "Stortinget avviste utvalsfleirtalets forslag om generell adgang til midlertidig tilsetjing og heldt fast ved fast tilsetjing som hovudregel.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2005-06-17-62"
+      }
+    ]
+  },
+  {
+    "id": "klimaloven",
+    "title_nn": "Klimaloven (2008–2017)",
+    "title_nb": "Klimaloven (2008–2017)",
+    "sector": "miljo",
+    "start_year": 2008,
+    "enacted_year": 2017,
+    "duration_years": 9,
+    "ministry_code": "KLD",
+    "ministry_name": "Klima- og miljødepartementet",
+    "lead_nou_id": "624355",
+    "lead_nou_title": "NOU 2010: 10 - Tilpassing til eit klima i endring",
+    "lead_nou_chair": "Odd Einar Dørum",
+    "companion_nou_ids": [
+      "392348",
+      "3006059"
+    ],
+    "lifecycle_status": "lovfestet",
+    "enacted_law_title": "Lov om klimamål (klimaloven)",
+    "enacted_law_code": "Lov-2017-06-16-60",
+    "lovdata_url": "https://lovdata.no/dokument/NL/lov/2017-06-16-60",
+    "stages_count": 6,
+    "summary_nn": "Lovfesting av Noregs klimamål for 2030 og 2050 med krav om årlege klimarekneskap og omstilling til lågutsleppssamfunn.",
+    "summary_nb": "Lovfesting av Norges klimamål for 2030 og 2050 med krav om årlige klimaregnskap og omstilling til lavutslippssamfunn.",
+    "artwork_cover_url": "covers/artwork/624355.png",
+    "milestones": [
+      {
+        "stage": 1,
+        "stage_key": "kongelig_resolusjon",
+        "title_nn": "Oppnemning av klimatilpassingsutvalet",
+        "date": "2008-12-05",
+        "document_reference": "Kgl.res. 5. desember 2008",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2010-10/id624355/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Erik Solheim",
+          "Odd Einar Dørum"
+        ],
+        "description_nn": "Stoltenberg II-regjeringa oppnemnde eit utval leia av tidlegare statsråd Odd Einar Dørum for å kartleggje Noregs sårbarheit for klimaendringar og foreslå tilpassingstiltak.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 2,
+        "stage_key": "nou_overlevert",
+        "title_nn": "Overlevering av NOU 2010: 10",
+        "date": "2010-11-15",
+        "document_reference": "NOU 2010: 10",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/nou-2010-10/id624355/",
+        "institution": "Utval",
+        "key_actors": [
+          "Odd Einar Dørum",
+          "Erik Solheim"
+        ],
+        "description_nn": "Dørum-utvalet overleverte utgreiinga Tilpassing til eit klima i endring med tilråding om sektorovergripande rammeverk og lovfesting av klimaomsyn.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 3,
+        "stage_key": "offentleg_hoyring",
+        "title_nn": "Offentleg høyring om lovfesta klimamål",
+        "date": "2015-06-23",
+        "document_reference": "Høyring KLD",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/prop.-77-l-20162017/id2545041/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "ZERO",
+          "Naturvernforbundet",
+          "NHO"
+        ],
+        "description_nn": "Klima- og miljødepartementet sende på høyring forslag til ei eiga klimalov inspirert av den britiske Climate Change Act, med brei støtte frå miljøorganisasjonar.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 4,
+        "stage_key": "lovproposisjon",
+        "title_nn": "Framlegging av Prop. 77 L (2016–2017)",
+        "date": "2017-03-31",
+        "document_reference": "Prop. 77 L (2016–2017)",
+        "official_url": "https://www.regjeringen.no/no/dokumenter/prop.-77-l-20162017/id2545041/",
+        "institution": "Regjeringen",
+        "key_actors": [
+          "Vidar Helgesen",
+          "Solberg-regjeringa"
+        ],
+        "description_nn": "Regjeringa fremma proposisjonen Lov om klimamål (klimaloven) med lovfesta mål for utsleppsreduksjon i 2030 og lågutsleppssamfunn i 2050.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 5,
+        "stage_key": "stortingsbehandling",
+        "title_nn": "Innstilling frå energi- og miljøkomiteen",
+        "date": "2017-06-06",
+        "document_reference": "Innst. 329 L (2016–2017) / Sak 67735",
+        "official_url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2016-2017/inns-201617-329l/",
+        "institution": "Stortinget",
+        "key_actors": [
+          "Energi- og miljøkomiteen",
+          "Ola Elvestuen",
+          "Terje Aasland"
+        ],
+        "description_nn": "Komiteen innstilte på vedtak av klimalova med breitt tverrpolitisk fleirtal, der berre Framstegspartiet gjekk imot å lovfeste klimamåla.",
+        "parliamentary_votes": null
+      },
+      {
+        "stage": 6,
+        "stage_key": "lovvedtak",
+        "title_nn": "Vedtak og sanksjonering av klimaloven",
+        "date": "2017-06-16",
+        "document_reference": "Lov-2017-06-16-60",
+        "official_url": "https://lovdata.no/dokument/NL/lov/2017-06-16-60",
+        "institution": "Lovdata",
+        "key_actors": [
+          "Stortinget",
+          "Kongen i statsråd"
+        ],
+        "description_nn": "Klimaloven vart sanksjonert 16. juni 2017 og trådde i kraft 1. januar 2018. Lova krev årleg rapportering til Stortinget om utsleppsutvikling.",
+        "parliamentary_votes": {
+          "total_for": 93,
+          "total_against": 7,
+          "total_absent": 69,
+          "is_unanimous": false,
+          "voting_method": "elektronisk",
+          "acclamation_note": null,
+          "party_tallies": {
+            "Ap": {
+              "for": 45,
+              "against": 0
+            },
+            "H": {
+              "for": 28,
+              "against": 0
+            },
+            "KrF": {
+              "for": 8,
+              "against": 0
+            },
+            "V": {
+              "for": 5,
+              "against": 0
+            },
+            "SV": {
+              "for": 4,
+              "against": 0
+            },
+            "MDG": {
+              "for": 1,
+              "against": 0
+            },
+            "Sp": {
+              "for": 2,
+              "against": 0
+            },
+            "FrP": {
+              "for": 0,
+              "against": 7
+            }
+          }
+        }
+      }
+    ],
+    "delta_items": [
+      {
+        "id": "delta-klima-1",
+        "topic": "Lovfesta klimamål for 2030 og 2050",
+        "nou_recommendation_quote": "Norge må etablere bindende nasjonale rammer for utslippsreduksjoner og klimatilpasning for å sikre langsiktig omstilling.",
+        "nou_citation_chapter": "NOU 2010: 10 kapittel 4.2",
+        "enacted_statute_quote": "Målet skal være at klimagassutslippene i 2030 reduseres med minst 50 og opp mot 55 prosent sammenlignet med utslippsnivået i referanseåret 1990.",
+        "enacted_law_section": "Klimaloven § 3",
+        "status": "gjennomfort",
+        "significance_explanation": "Gjorde Noregs klimamål juridisk bindande i staden for berre politiske erklæringar i stortingsmeldingar.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2017-06-16-60"
+      },
+      {
+        "id": "delta-klima-2",
+        "topic": "Lågutsleppssamfunnet 2050",
+        "nou_recommendation_quote": "Det langsiktige målet må være en nesten fullstendig avkarbonisering av det norske samfunnet innen 2050.",
+        "nou_citation_chapter": "NOU 2010: 10 kapittel 5.1",
+        "enacted_statute_quote": "Målet skal være at Norge skal være et lavutslippssamfunn i 2050, med 90 til 95 prosent utslippsreduksjon.",
+        "enacted_law_section": "Klimaloven § 4",
+        "status": "gjennomfort",
+        "significance_explanation": "Lovfesta det langsiktige målet om 90–95 prosent kutt i klimagassutslepp innan 2050.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2017-06-16-60"
+      },
+      {
+        "id": "delta-klima-3",
+        "topic": "Årleg klimalovrapportering i statsbudsjettet",
+        "nou_recommendation_quote": "Rapportering om klimarisiko og klimatilpasning bør integreres i de ordinære budsjettprosessene i statsforvaltningen.",
+        "nou_citation_chapter": "NOU 2010: 10 kapittel 8.3",
+        "enacted_statute_quote": "Regjeringen skal hvert år legge fram for Stortinget en redegjørelse for hvordan Norge oppfyller klimamålene og virkningen av vedtatt politikk.",
+        "enacted_law_section": "Klimaloven § 5",
+        "status": "gjennomfort",
+        "significance_explanation": "Pålèt regjeringa å rapportere årleg i Grønn bok i statsbudsjettet om framdrift mot klimamåla.",
+        "lovdata_url": "https://lovdata.no/dokument/NL/lov/2017-06-16-60"
+      }
+    ]
+  }
+]

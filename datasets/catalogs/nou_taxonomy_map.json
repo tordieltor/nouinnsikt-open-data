@@ -18094,5 +18094,38 @@
       "Helse",
       "Arbeidsliv"
     ]
+  },
+  "3190350": {
+    "primary_category": "helse-omsorg",
+    "subcategory": "spesialisthelseteneste",
+    "tags": [
+      "Helse & omsorg",
+      "Spesialisthelseteneste & sjukehus",
+      "Utdanning",
+      "Helse",
+      "Økonomi"
+    ]
+  },
+  "3177462": {
+    "primary_category": "finans-skatt-makrookonomi",
+    "subcategory": "fiskalpolitikk-oljefondet-statsbudsjett",
+    "tags": [
+      "Finans, skatt & makroøkonomi",
+      "Fiskalpolitikk, Statens pensjonsfond & statsbudsjett",
+      "Energi",
+      "Økonomi",
+      "Finans"
+    ]
+  },
+  "3170002": {
+    "primary_category": "kunnskap-utdanning-forskning",
+    "subcategory": "barnehage-oppvekst-grunnskole",
+    "tags": [
+      "Kunnskap, utdanning & forskning",
+      "Barnehage, oppvekst & grunnskole",
+      "Utdanning",
+      "Helse",
+      "Energi"
+    ]
   }
 }

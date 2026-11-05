@@ -1,5 +1,8 @@
 {
   "slug_to_id": {
+    "nou-2026-12-n-helsetjeneste": "3190350",
+    "nou-2026-11-en-ansvarlig-finansiell-forvaltning": "3177462",
+    "nou-2026-10-fellesskolen": "3170002",
     "nou-2026-9-veien-mot-et-bedre-og-mer-forutsigbart": "3167167",
     "nou-2026-8-samarbeid-og-informasjonsdeling-for-a-forebygge": "3167083",
     "nou-2026-7-forsvarlighet-risiko-og-tillit": "3166395",
@@ -1718,9 +1721,16 @@
     "nou-1972-31-prestens-arbeidsoppdrag-og-kravene-til": "digibok_2008052700011",
     "nou-1972-22-om-odelsretten-og-asetesretten": "digibok_2008052700009",
     "nou-1972-39-forskoler": "digibok_2008052700008",
-    "nou-1972-23-utdanning-av-sosial-og-helsepersonell": "digibok_2007071801036"
+    "nou-1972-23-utdanning-av-sosial-og-helsepersonell": "digibok_2007071801036",
+    "nou-2026-12-en-helsetjeneste": "3190350"
   },
   "id_to_title": {
+    "3190350": "NOU 2026: 12 - Én helsetjeneste",
+    "nou-2026-12-n-helsetjeneste": "NOU 2026: 12 - Én helsetjeneste",
+    "3177462": "NOU 2026: 11 - En ansvarlig, finansiell forvaltning",
+    "nou-2026-11-en-ansvarlig-finansiell-forvaltning": "NOU 2026: 11 - En ansvarlig, finansiell forvaltning",
+    "3170002": "NOU 2026: 10 - Fellesskolen",
+    "nou-2026-10-fellesskolen": "NOU 2026: 10 - Fellesskolen",
     "3167167": "NOU 2026: 9 - Veien mot et bedre og mer forutsigbart skattesystem",
     "nou-2026-9-veien-mot-et-bedre-og-mer-forutsigbart": "NOU 2026: 9 - Veien mot et bedre og mer forutsigbart skattesystem",
     "3167083": "NOU 2026: 8 - Samarbeid og informasjonsdeling for å forebygge kriminalitet",
