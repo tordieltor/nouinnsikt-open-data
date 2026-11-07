@@ -1,6 +1,6 @@
 {
   "project": "NOUinnsikt Open Raw-Data Archive (1972-2026)",
-  "exported_at_utc": "2026-11-05T18:11:42.567322+00:00",
+  "exported_at_utc": "2026-11-07T08:05:59.440281+00:00",
   "database_mode": "PostgreSQL READ ONLY (0 mutations)",
   "licenses": {
     "official_government_texts_and_records": "NLOD 2.0 / Public Domain (Regjeringen.no, Stortinget.no, Lovdata.no, NB.no)",
@@ -19,12 +19,12 @@
     "nou_parliamentary_resolutions": 2230,
     "nou_enacted_legislation": 345,
     "nou_policy_measures": 781,
-    "query_expansions": 413,
+    "query_expansions": 414,
     "dagens_nou": 81,
     "policy_evolution_cache": 58
   },
   "exported_files_count": 61,
-  "exported_files_total_bytes": 51724107,
+  "exported_files_total_bytes": 51725397,
   "files": [
     {
       "path": "datasets/relational/nous.jsonl.gz",
@@ -32,7 +32,7 @@
       "format": "jsonl.gz",
       "rows": 1744,
       "bytes": 4365108,
-      "sha256": "715662772b8727f96d4539d432d53eb275320578f133fab96501f75428319965"
+      "sha256": "11fcb64c01e56dd786bb855209b067d965339b43c1f872c485db63723053ced9"
     },
     {
       "path": "datasets/relational/nous_flat.csv",
@@ -190,17 +190,17 @@
       "path": "datasets/relational/query_expansions.jsonl",
       "table": "query_expansions",
       "format": "jsonl",
-      "rows": 413,
-      "bytes": 259986,
-      "sha256": "17c73457757bb6ab4811bb4f4500fb3e3c8f6f5287cdf3c0927bf0792f326ab2"
+      "rows": 414,
+      "bytes": 260656,
+      "sha256": "cb6dbb8e65f4f7869d412854531fa7c0bf465349e013face0b6f5a0842fb919e"
     },
     {
       "path": "datasets/relational/query_expansions.csv",
       "table": "query_expansions",
       "format": "csv",
-      "rows": 413,
-      "bytes": 241887,
-      "sha256": "5032cbff230014b94a6c1a6ce93325066833f6458d5db8209976491eb90d4512"
+      "rows": 414,
+      "bytes": 242507,
+      "sha256": "95ec9901d882fddc4ef09c3cfc05af6b4b4348c32b0f8d0b0a5827ad8530b606"
     },
     {
       "path": "datasets/relational/dagens_nou.jsonl",
@@ -224,7 +224,7 @@
       "format": "jsonl",
       "rows": 58,
       "bytes": 343057,
-      "sha256": "030308c658adf70341814881e90e56396578c9df6f3ed13180d2f0dc2048d7c3"
+      "sha256": "1694fd422858b3bac5110efb8a7aa29eee7a875d095b98f2e025c3785fe85c14"
     },
     {
       "path": "datasets/relational/policy_evolution_cache.csv",
@@ -232,7 +232,7 @@
       "format": "csv",
       "rows": 58,
       "bytes": 338603,
-      "sha256": "a10a36a6628f394577afdb13d89f868df2e5ac55e6d49b4659d1ce930ffd640f"
+      "sha256": "0756d2f5cafbfbd705b2dc6607d69d80cf4fb3509ed5c2199cfcae9b245719af"
     },
     {
       "path": "datasets/relational/corpus_statistics.json",
