@@ -71,6 +71,32 @@
               Kontakt: post@nouinnsikt.no ✉️
             </a>
           </div>
+
+          <div style="margin-top: 1.35rem; padding-top: 1.15rem; border-top: 1px solid #E2E8F0;">
+            <p style="margin: 0 0 0.65rem 0; font-size: 0.82rem; font-weight: 700; color: #1A365D; text-transform: uppercase; letter-spacing: 0.04em;">
+              Direkte lenkjer til mappene i GitHub-repoet:
+            </p>
+            <div class="hero-actions">
+              <a class="btn-secondary" data-gh-path="tree/main/datasets/relational" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/datasets/relational" target="_blank" rel="noopener noreferrer">
+                🗄️ Relasjonsdatabase (datasets/relational/) ↗
+              </a>
+              <a class="btn-secondary" data-gh-path="tree/main/datasets/catalogs" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/datasets/catalogs" target="_blank" rel="noopener noreferrer">
+                📊 JSON-katalogar (datasets/catalogs/) ↗
+              </a>
+              <a class="btn-secondary" data-gh-path="tree/main/podcasts" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/podcasts" target="_blank" rel="noopener noreferrer">
+                🎧 Podkastar (podcasts/) ↗
+              </a>
+              <a class="btn-secondary" data-gh-path="tree/main/database" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/database" target="_blank" rel="noopener noreferrer">
+                💾 SQLite FTS5 &amp; Vektor-DB (database/) ↗
+              </a>
+              <a class="btn-secondary" data-gh-path="tree/main/markdown" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/markdown" target="_blank" rel="noopener noreferrer">
+                📄 Fulltekst Markdown (markdown/) ↗
+              </a>
+              <a class="btn-secondary" data-gh-path="tree/main/covers" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/covers" target="_blank" rel="noopener noreferrer">
+                🖼️ Forsidebilete (covers/) ↗
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </section>
@@ -246,34 +272,41 @@
               </ul>
             </div>
             <div class="dataset-actions">
-              <a class="btn-primary" data-gh-releases="true" href="https://github.com/tordieltor/nouinnsikt-open-data/releases" target="_blank" rel="noopener noreferrer">
-                Last ned frå GitHub Releases ↗
+              <a class="btn-primary" data-gh-path="tree/main/database" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/database" target="_blank" rel="noopener noreferrer">
+                Opne database/ ↗
               </a>
-              <a class="btn-secondary" data-gh-path="blob/main/SCHEMA.sql" href="https://github.com/tordieltor/nouinnsikt-open-data/blob/main/SCHEMA.sql" target="_blank" rel="noopener noreferrer">
-                Vis SCHEMA.sql ↗
+              <a class="btn-secondary" data-gh-path="tree/main/markdown" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/markdown" target="_blank" rel="noopener noreferrer">
+                Opne markdown/ ↗
+              </a>
+              <a class="btn-secondary" data-gh-releases="true" href="https://github.com/tordieltor/nouinnsikt-open-data/releases" target="_blank" rel="noopener noreferrer">
+                GitHub Releases ↗
               </a>
             </div>
           </article>
 
           <article class="dataset-card">
             <div class="dataset-card-top">
-              <span class="meta-badge badge-amber">GitHub Releases · Vektorar &amp; Lydarkiv</span>
-              <h3>6. 768-dim Embeddings (NLP/RAG) &amp; 758 MP3-lydsamandrag</h3>
+              <span class="meta-badge badge-amber">Mappe &amp; Releases · Podkastar, Vektorar &amp; Omslag</span>
+              <h3>6. 758 MP3-podkastar, 768-dim Embeddings &amp; Forsidebilete</h3>
               <p>
-                Alle 654 934 tekstbolkar som strøymbar JSONL + <code>float16</code> NumPy-matrise (<code>text-embedding-004</code>), samt arkivpakke med alle 758 to-verts lydsamandrag i MP3-format.
+                Episodekatalog (<code>podcasts/podcast_catalog.csv</code>) og alle 758 to-verts lydsamandrag i MP3-format, alle 659 129 tekstbolkar med <code>float16</code> vektor-embeddings, samt forsidebilete (<code>covers/</code>).
               </p>
               <ul class="file-pill-list" aria-label="Filer i pakken">
-                <li class="file-pill">nou_chunks_text.jsonl.gz</li>
-                <li class="file-pill">nou_chunks_embeddings_768d_float16.npz</li>
+                <li class="file-pill">podcasts/podcast_catalog.csv</li>
                 <li class="file-pill">nou_podcasts_mp3_1972_2026.tar</li>
+                <li class="file-pill">nou_chunks_embeddings_768d_float16.npz</li>
+                <li class="file-pill">nou_covers_1972_2026.tar.xz</li>
               </ul>
             </div>
             <div class="dataset-actions">
-              <a class="btn-primary" data-gh-releases="true" href="https://github.com/tordieltor/nouinnsikt-open-data/releases" target="_blank" rel="noopener noreferrer">
-                Opne GitHub Releases ↗
+              <a class="btn-primary" data-gh-path="tree/main/podcasts" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/podcasts" target="_blank" rel="noopener noreferrer">
+                Opne podcasts/ ↗
               </a>
-              <a class="btn-secondary" data-gh-path="blob/main/datasets/EXPORT_MANIFEST.json" href="https://github.com/tordieltor/nouinnsikt-open-data/blob/main/datasets/EXPORT_MANIFEST.json" target="_blank" rel="noopener noreferrer">
-                SHA-256 EXPORT_MANIFEST.json ↗
+              <a class="btn-secondary" data-gh-path="tree/main/covers" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/covers" target="_blank" rel="noopener noreferrer">
+                Opne covers/ ↗
+              </a>
+              <a class="btn-secondary" data-gh-releases="true" href="https://github.com/tordieltor/nouinnsikt-open-data/releases" target="_blank" rel="noopener noreferrer">
+                GitHub Releases ↗
               </a>
             </div>
           </article>
@@ -407,10 +440,12 @@ GROUP BY name ORDER BY chaired_count DESC LIMIT 10;</code></pre>
       </div>
       <div class="footer-links">
         <a data-gh-root="true" href="https://github.com/tordieltor/nouinnsikt-open-data" target="_blank" rel="noopener noreferrer">GitHub-arkiv</a>
+        <a data-gh-path="tree/main/datasets/relational" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/datasets/relational" target="_blank" rel="noopener noreferrer">Relasjonsdatabase</a>
+        <a data-gh-path="tree/main/datasets/catalogs" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/datasets/catalogs" target="_blank" rel="noopener noreferrer">JSON-katalogar</a>
+        <a data-gh-path="tree/main/podcasts" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/podcasts" target="_blank" rel="noopener noreferrer">Podkastar</a>
+        <a data-gh-path="tree/main/database" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/database" target="_blank" rel="noopener noreferrer">SQLite &amp; Vektor-DB</a>
+        <a data-gh-path="tree/main/markdown" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/markdown" target="_blank" rel="noopener noreferrer">Fulltekst Markdown</a>
         <a data-gh-releases="true" href="https://github.com/tordieltor/nouinnsikt-open-data/releases" target="_blank" rel="noopener noreferrer">GitHub Releases</a>
-        <a data-gh-path="blob/main/DATA_DICTIONARY.md" href="https://github.com/tordieltor/nouinnsikt-open-data/blob/main/DATA_DICTIONARY.md" target="_blank" rel="noopener noreferrer">Dataordbok</a>
-        <a data-gh-path="blob/main/SCHEMA.sql" href="https://github.com/tordieltor/nouinnsikt-open-data/blob/main/SCHEMA.sql" target="_blank" rel="noopener noreferrer">SQL-skjema</a>
-        <a href="https://www.regjeringen.no/no/dokument/nou-ar/id1767/" target="_blank" rel="noopener noreferrer">Regjeringen.no (NOU)</a>
         <a href="mailto:post@nouinnsikt.no">Kontakt: post@nouinnsikt.no</a>
       </div>
     </div>

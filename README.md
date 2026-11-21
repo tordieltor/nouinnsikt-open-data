@@ -61,6 +61,10 @@ Alle filer under `datasets/` (`48,89 MB` totalt på tvers av 49 datafiler i `EXP
 │       ├── upcoming_nous.json & dagens_nou_100_schedule.json
 │       ├── nokkeltematikker_dataset.json & flagship_policy_evolution.json
 │       └── nou_index_map.json, nou_slug_map.json & extracted_artworks.json
+├── podcasts/                        # Episodekatalog (podcast_catalog.csv, 758 episodar) & lenkje til MP3-arkiv
+├── database/                        # Oversikt og lenkjer til SQLite FTS5-database, vektor-embeddings & SQL-skjema
+├── markdown/                        # Oversikt og lenkje til alle 1 746 fulltekst Markdown-utgreiingar
+├── covers/                          # Oversikt og lenkje til forsidebilete og illustrasjonsutsnitt
 ├── docs/                            # Statisk arkiv- og oppslagsside for nouinnsikt.no (GitHub Pages)
 ├── DATA_DICTIONARY.md               # Komplett kolonne- og feltspesifikasjon
 ├── SCHEMA.sql                       # Rein PostgreSQL + pgvector DDL-skjemadefinisjon

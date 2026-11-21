@@ -1,6 +1,6 @@
 {
   "project": "NOUinnsikt Open Raw-Data Archive (1972-2026)",
-  "exported_at_utc": "2026-11-21T19:00:17.892816+00:00",
+  "exported_at_utc": "2026-11-21T19:04:40.739403+00:00",
   "database_mode": "PostgreSQL READ ONLY (0 mutations)",
   "licenses": {
     "official_government_texts_and_records": "NLOD 2.0 / Public Domain (Regjeringen.no, Stortinget.no, Lovdata.no, NB.no)",
@@ -23,8 +23,8 @@
     "dagens_nou": 81,
     "policy_evolution_cache": 58
   },
-  "exported_files_count": 49,
-  "exported_files_total_bytes": 51275607,
+  "exported_files_count": 50,
+  "exported_files_total_bytes": 51525660,
   "files": [
     {
       "path": "datasets/relational/nous.jsonl.gz",
@@ -417,6 +417,14 @@
       "rows": 1726,
       "bytes": 116843,
       "sha256": "ced05c520090f088f888e6b7626716c7a90f917ccf12ca7605ba1012739681db"
+    },
+    {
+      "path": "podcasts/podcast_catalog.csv",
+      "table": "podcasts_index",
+      "format": "csv",
+      "rows": 782,
+      "bytes": 250053,
+      "sha256": "5cc775f1eb788f47374faa8ec88a5583e6e49e6f4d683e861cee8ad690d6a91a"
     }
   ]
 }
