@@ -1829,6 +1829,12 @@
   ],
   "KD": [
     {
+      "id": "3191187",
+      "title": "NOU 2026: 14 - Kunstig intelligens i høyere utdanning",
+      "year": 2026,
+      "mottaker": "Kunnskapsdepartementet"
+    },
+    {
       "id": "3170002",
       "title": "NOU 2026: 10 - Fellesskolen",
       "year": 2026,
@@ -6258,6 +6264,12 @@
     }
   ],
   "LMD": [
+    {
+      "id": "3191721",
+      "title": "NOU 2026: 13 - Matsystemet mot 2050",
+      "year": 2026,
+      "mottaker": "Landbruks- og matdepartementet"
+    },
     {
       "id": "2930144",
       "title": "NOU 2022: 14 - Inntektsmåling i jordbruket",

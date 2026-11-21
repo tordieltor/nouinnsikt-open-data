@@ -7569,29 +7569,7 @@
 {"nou_id": "3155079", "name": "Thomas von Brasch", "role": "secretariat", "organization": "Statistisk sentralbyrå (SSB)", "name_slug": null}
 {"nou_id": "3155079", "name": "Torgeir Johnsen", "role": "secretariat", "organization": "Finansdepartementet", "name_slug": null}
 {"nou_id": "3155079", "name": "Trond Christian Vigtel", "role": "secretariat", "organization": "Statistisk sentralbyrå (SSB)", "name_slug": null}
-{"nou_id": "3155361", "name": "Kristin Halvorsen", "role": "leader", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Asgeir Tomasgard", "role": "member", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Astrid Liland", "role": "member", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Atle Valseth", "role": "member", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Berit Tennbakk", "role": "member", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Carl-Magnus Larsson", "role": "member", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Daniel Karlsson", "role": "member", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Jørgen Bjørndalen", "role": "member", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Lars Petter Maltby", "role": "member", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Linda Nøstbakken", "role": "member", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "May Thorseth", "role": "member", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Monica Endregard", "role": "member", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Monica Endregård", "role": "member", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Sigrid Eskeland Schütz", "role": "member", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Anne Rogstad", "role": "secretariat", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Eivind Orset", "role": "secretariat", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Elin Fjelde", "role": "secretariat", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Mathias Rasmussen", "role": "secretariat", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Mette Nilsen", "role": "secretariat", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Øystein Sand", "role": "secretariat", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Per Sogge", "role": "secretariat", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Petter Solbu", "role": "secretariat", "organization": null, "name_slug": null}
-{"nou_id": "3155361", "name": "Thomas Mo Willig", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3155361", "name": "Gunnar Bovim", "role": "leader", "organization": null, "name_slug": null}
 {"nou_id": "3162501", "name": "Kjell Erik Ullman Øie", "role": "leader", "organization": null, "name_slug": null}
 {"nou_id": "3162501", "name": "Eugen Guribye", "role": "member", "organization": null, "name_slug": null}
 {"nou_id": "3162501", "name": "Eugen Guribye Fredrik", "role": "member", "organization": null, "name_slug": null}
@@ -7715,6 +7693,44 @@
 {"nou_id": "3190350", "name": "Stein Johnsen", "role": "secretariat", "organization": "Helse- og omsorgsdepartementet", "name_slug": null}
 {"nou_id": "3190350", "name": "Vegard Pettersen", "role": "secretariat", "organization": "Helse- og omsorgsdepartementet", "name_slug": null}
 {"nou_id": "3190350", "name": "Wenche Dehli", "role": "secretariat", "organization": "Helse- og omsorgsdepartementet", "name_slug": null}
+{"nou_id": "3191187", "name": "Anders Malthe-Sørenssen", "role": "leader", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Anne Cathrin Østebø", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Barbara Wasson", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Erik Johansen", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Gunnar C. Aakvaag", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Hilde Inntjore", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Inga Strümke", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Jan-Ove Færstad", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Malcolm Langford", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Monika Nerland", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Andreas Kjeldsberg Pihl", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Anett Holmen", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Erin Nordal", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Geir Ottestad", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Gertie De Fraeye", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Jan Fredrik Schøyen", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Ola Berge", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3191187", "name": "Sigurd Jorem", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Bent Høie", "role": "leader", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Amund Måge", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Audun Korsæth", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Bente Torstensen", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Dagmar Hagen", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Helle Margrete Meltzer", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Ivar Pettersen", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Lene Frost Andersen", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Maria Malene Kvalevåg", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Ola T. Westengen", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Ruth Haug", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Ulf Sverdrup", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Yngvild Wasteson", "role": "member", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "An-Katrin Eikefjord", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Anna-Sara Bergeland", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Gyrd Omholt Gjevestad", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Kjersti Sorteberglien", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Natja Røine Østebø", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Siri Lothe", "role": "secretariat", "organization": null, "name_slug": null}
+{"nou_id": "3191721", "name": "Svanhild-Isabelle Batta Torheim", "role": "secretariat", "organization": null, "name_slug": null}
 {"nou_id": "373867", "name": "Bernt H. Lund", "role": "leader", "organization": null, "name_slug": null}
 {"nou_id": "373867", "name": "Aase Rokvam", "role": "member", "organization": "Helse- og omsorgsdepartementet", "name_slug": null}
 {"nou_id": "373867", "name": "Anne Lise Ellingsæter", "role": "member", "organization": null, "name_slug": null}

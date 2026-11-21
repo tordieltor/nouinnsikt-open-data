@@ -2,11 +2,16 @@
   "metadata": {
     "total_words_analyzed": 183413394,
     "total_sentences_analyzed": 9859431,
-    "total_nous_analyzed": 1741,
-    "nynorsk_nous_count": 333,
-    "bokmal_nous_count": 1408,
-    "nynorsk_pct": 19.13,
-    "last_updated": "2026-08-14"
+    "total_nous_analyzed": 1745,
+    "nynorsk_nous_count": 41,
+    "bokmal_nous_count": 1704,
+    "nynorsk_pct": 2.35,
+    "last_updated": "2026-08-14",
+    "predominantly_nynorsk_nous": 41,
+    "predominantly_nynorsk_pct": 2.35,
+    "mixed_language_nous": 13,
+    "mixed_language_pct": 0.74,
+    "overall_nynorsk_pct": 3.87
   },
   "readability": {
     "overall_lix": 52.03,
@@ -908,10 +913,6 @@
       "count": 289589
     },
     {
-      "word": "xhtml",
-      "count": 270420
-    },
-    {
       "word": "annet",
       "count": 241404
     },
@@ -922,18 +923,6 @@
     {
       "word": "norge",
       "count": 219548
-    },
-    {
-      "word": "fotnote",
-      "count": 218938
-    },
-    {
-      "word": "fotnoter",
-      "count": 218903
-    },
-    {
-      "word": "fn-note-",
-      "count": 218432
     },
     {
       "word": "enkelte",
@@ -1034,104 +1023,124 @@
   ],
   "nynorsk_highlights": [
     {
-      "id": "3167083",
-      "title": "NOU 2026: 8 - Samarbeid og informasjonsdeling for å forebygge kriminalitet",
-      "year": 2026
-    },
-    {
-      "id": "3148337",
-      "title": "NOU 2026: 2 - Politikk for nye generasjoner",
-      "year": 2026
-    },
-    {
-      "id": "3140593",
-      "title": "NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
-      "year": 2025
-    },
-    {
-      "id": "3110550",
-      "title": "NOU 2025: 7 - Musikklandet",
-      "year": 2025
-    },
-    {
       "id": "3092679",
       "title": "NOU 2025: 3 - Ny kulturmiljølov",
-      "year": 2025
+      "year": 2025,
+      "words": 1293458
     },
     {
-      "id": "3083356",
-      "title": "NOU 2025: 1 - Felles ansvar, felles gevinst",
-      "year": 2025
+      "id": "2605120",
+      "title": "NOU 2018: 11 - Ny fjellov",
+      "year": 2018,
+      "words": 572793
     },
     {
-      "id": "3076113",
-      "title": "NOU 2024: 23 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
-      "year": 2024
+      "id": "2581906",
+      "title": "NOU 2017: 17 - På ein søndag?",
+      "year": 2017,
+      "words": 176574
     },
     {
-      "id": "3059742",
-      "title": "NOU 2024: 19 - Ny boligleielov",
-      "year": 2024
+      "id": "752071",
+      "title": "NOU 2014: 2 - Forvaltningssystemet for gravferd",
+      "year": 2014,
+      "words": 282117
     },
     {
-      "id": "3054538",
-      "title": "NOU 2024: 18 - En universell tannhelsetjeneste",
-      "year": 2024
+      "id": "624355",
+      "title": "NOU 2010: 10 - Tilpassing til eit klima i endring",
+      "year": 2010,
+      "words": 1128
     },
     {
-      "id": "3051552",
-      "title": "NOU 2024: 17 - Kommersielle og ideelle aktørers rolle i fellesskapets velferdstjenester",
-      "year": 2024
+      "id": "546289",
+      "title": "NOU 2009: 3 - På sikker veg",
+      "year": 2009,
+      "words": 1361
     },
     {
-      "id": "3035815",
-      "title": "NOU 2024: 8 - Likestillingens neste steg",
-      "year": 2024
+      "id": "480422",
+      "title": "NOU 2007: 11 - Framtida rolle for studieforbunda",
+      "year": 2007,
+      "words": 488
     },
     {
-      "id": "3031371",
-      "title": "NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
-      "year": 2024
+      "id": "428423",
+      "title": "NOU 2006: 7 - Styrking av lokaldemokratiet",
+      "year": 2006,
+      "words": 917
     },
     {
-      "id": "3030205",
-      "title": "NOU 2024: 5 - Maktens ansikt",
-      "year": 2024
+      "id": "428252",
+      "title": "NOU 2000: 17 - Burettslovene",
+      "year": 2000,
+      "words": 186298
     },
     {
-      "id": "3028553",
-      "title": "NOU 2024: 4 - Voldtekt – et uløst samfunnsproblem",
-      "year": 2024
+      "id": "140531",
+      "title": "NOU 1996: 7 - Museum Mangfald, minne, møtestad",
+      "year": 1996,
+      "words": 172376
     },
     {
-      "id": "3005411",
-      "title": "NOU 2023: 24 - Med barnet hele vegen",
-      "year": 2023
+      "id": "digibok_2007120404036",
+      "title": "NOU 1993: 20 - Kjøp av ny bustad",
+      "year": 1993,
+      "words": 935
     },
     {
-      "id": "2995224",
-      "title": "NOU 2023: 23 - Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping",
-      "year": 2023
+      "id": "digibok_2007121204072",
+      "title": "NOU 1993: 29 - Ny lov om tomtefeste",
+      "year": 1993,
+      "words": 305
     },
     {
-      "id": "2985314",
-      "title": "NOU 2023: 21 - Embetsordningen – i takt med tiden",
-      "year": 2023
+      "id": "digibok_2007091700071",
+      "title": "NOU 1992: 36 - Krisa i lakseoppdrettsnæringa",
+      "year": 1992,
+      "words": 283
     },
     {
-      "id": "2982905",
-      "title": "NOU 2023: 18 - Genteknologi i en bærekraftig fremtid",
-      "year": 2023
+      "id": "digibok_2007091704006",
+      "title": "NOU 1992: 34 - Skatt på kraftselskap",
+      "year": 1992,
+      "words": 777
     },
     {
-      "id": "2969126",
-      "title": "NOU 2023: 11 - Raskt og riktig",
-      "year": 2023
+      "id": "digibok_2007112804030",
+      "title": "NOU 1992: 9 - Forbrukarentrepriselov",
+      "year": 1992,
+      "words": 901
     },
     {
-      "id": "2968517",
-      "title": "NOU 2023: 9 - Generalistkommunesystemet",
-      "year": 2023
+      "id": "digibok_2007081400021",
+      "title": "NOU 1988: 16 - Eigendomsgrensen og administrative inndelingsgrenser",
+      "year": 1988,
+      "words": 430
+    },
+    {
+      "id": "digibok_2007080701089",
+      "title": "NOU 1986: 15 - Dokumentasjon, vern, vidareføring og atterreising av gamle handverk",
+      "year": 1986,
+      "words": 954
+    },
+    {
+      "id": "digibok_2012082206061",
+      "title": "NOU 1985: 22 - Akvakultur i Norge",
+      "year": 1985,
+      "words": 1195
+    },
+    {
+      "id": "digibok_2007062804017",
+      "title": "NOU 1984: 3 - Frå informasjon til kulturarv",
+      "year": 1984,
+      "words": 559
+    },
+    {
+      "id": "digibok_2012072006040",
+      "title": "NOU 1984: 32 - Løysingsrettar",
+      "year": 1984,
+      "words": 736
     }
   ]
 }

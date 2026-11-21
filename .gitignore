@@ -1,10 +1,22 @@
 # Heavy GitHub Release staging artifacts (>100 MB archives uploaded via `gh release create`)
 release-staging/
 
+# Explicitly forbid scripts, pipelines, examples, and environment/secret files in the passive open-data repo
+pipelines/
+examples/
+*.py
+*.ps1
+*.sh
+*.bat
+*.cmd
+*.exe
+.env
+.env.*
+*.key
+*.pem
+
 # Python / OS / Editor
 __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
-.env
-.env.*

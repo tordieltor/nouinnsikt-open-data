@@ -1,4 +1,27 @@
 {
+  "3191187": {
+    "primary_category": "kunnskap-utdanning-forskning",
+    "subcategory": "hoyere-utdanning-forskning",
+    "tags": [
+      "Kunnskap, utdanning & forskning",
+      "Høgare utdanning & forskning",
+      "Digitalisering, personvern & KI",
+      "Utdanning",
+      "Teknologi"
+    ]
+  },
+  "3191721": {
+    "primary_category": "naring-energi-distrikt",
+    "subcategory": "naring-innovasjon-landbruk",
+    "tags": [
+      "Næring, energi & distrikt",
+      "Næringsutvikling, innovasjon & landbruk",
+      "Landbruk, skogbruk & distriktspolitikk",
+      "Helse",
+      "Miljø",
+      "Samfunnstryggleik"
+    ]
+  },
   "3167167": {
     "primary_category": "finans-skatt-makrookonomi",
     "subcategory": "skatt-avgift-formue",

@@ -1,40 +1,40 @@
 {
   "meta": {
     "version": "1.0.0",
-    "generated_at": "2026-09-14T22:21:10.929165+00:00",
-    "total_authors_analyzed": 20250,
-    "total_unique_individuals": 11806,
-    "total_nous_covered": 1740,
+    "generated_at": "2026-11-07T16:39:01.254389+00:00",
+    "total_authors_analyzed": 20294,
+    "total_unique_individuals": 11849,
+    "total_nous_covered": 1744,
     "time_span": {
       "start_year": 1972,
       "end_year": 2026
     },
     "audited_source": "public.nou_authors"
   },
-  "total_records_analyzed": 20250,
-  "unique_individuals": 11806,
+  "total_records_analyzed": 20294,
+  "unique_individuals": 11849,
   "historical_span": {
     "start_year": 1972,
     "end_year": 2026
   },
   "overall_gender_ratio": {
-    "female": 0.254,
-    "male": 0.529,
-    "unknown": 0.217,
-    "female_pct_known": 32.4,
-    "male_pct_known": 67.6
+    "female": 0.305,
+    "male": 0.634,
+    "unknown": 0.06,
+    "female_pct_known": 32.5,
+    "male_pct_known": 67.5
   },
   "headline_metrics": {
-    "total_appointees": 20250,
-    "unique_individuals": 11806,
-    "current_female_ratio_pct": 37.7,
-    "current_female_ratio_normalized_pct": 51.3,
-    "start_female_ratio_pct": 8.8,
-    "start_female_ratio_normalized_pct": 11.5,
-    "current_chair_female_ratio_pct": 25.8,
-    "start_chair_female_ratio_pct": 2.8,
-    "female_chair_growth_multiple": 9.21,
-    "total_commissions_chaired_by_women": 178
+    "total_appointees": 20294,
+    "unique_individuals": 11849,
+    "current_female_ratio_pct": 50.8,
+    "current_female_ratio_normalized_pct": 50.8,
+    "start_female_ratio_pct": 12.7,
+    "start_female_ratio_normalized_pct": 12.7,
+    "current_chair_female_ratio_pct": 31.5,
+    "start_chair_female_ratio_pct": 4.4,
+    "female_chair_growth_multiple": 7.16,
+    "total_commissions_chaired_by_women": 222
   },
   "gender_by_decade": [
     {
@@ -42,174 +42,174 @@
       "decade_key": "1970s",
       "total_members": 4225,
       "total_appointments": 4225,
-      "female_count": 370,
-      "male_count": 2838,
-      "unknown_count": 1017,
-      "female_ratio": 0.088,
-      "female_pct": 8.8,
-      "male_pct": 67.2,
-      "female_pct_known": 11.5,
+      "female_count": 498,
+      "male_count": 3413,
+      "unknown_count": 314,
+      "female_ratio": 0.118,
+      "female_pct": 11.8,
+      "male_pct": 80.8,
+      "female_pct_known": 12.7,
       "total_chairs": 466,
       "chairs_total": 466,
-      "female_chairs": 13,
-      "chairs_female": 13,
-      "chairs_male": 336,
-      "female_chair_ratio": 0.028,
-      "chairs_female_pct": 2.8,
+      "female_chairs": 19,
+      "chairs_female": 19,
+      "chairs_male": 416,
+      "female_chair_ratio": 0.044,
+      "chairs_female_pct": 4.4,
       "total_regular_members": 3141,
       "members_total": 3141,
-      "female_regular_members": 300,
-      "members_female": 300,
-      "female_member_ratio": 0.096,
-      "members_female_pct": 9.6,
+      "female_regular_members": 403,
+      "members_female": 403,
+      "female_member_ratio": 0.139,
+      "members_female_pct": 13.9,
       "secretariat_total": 618,
-      "secretariat_female": 57,
-      "secretariat_female_pct": 9.2
+      "secretariat_female": 76,
+      "secretariat_female_pct": 13.1
     },
     {
       "decade": "1980-talet",
       "decade_key": "1980s",
       "total_members": 4040,
       "total_appointments": 4040,
-      "female_count": 752,
-      "male_count": 2451,
-      "unknown_count": 837,
-      "female_ratio": 0.186,
-      "female_pct": 18.6,
-      "male_pct": 60.7,
-      "female_pct_known": 23.5,
+      "female_count": 904,
+      "male_count": 2918,
+      "unknown_count": 218,
+      "female_ratio": 0.224,
+      "female_pct": 22.4,
+      "male_pct": 72.2,
+      "female_pct_known": 23.7,
       "total_chairs": 408,
       "chairs_total": 408,
-      "female_chairs": 34,
-      "chairs_female": 34,
-      "chairs_male": 288,
-      "female_chair_ratio": 0.083,
-      "chairs_female_pct": 8.3,
+      "female_chairs": 47,
+      "chairs_female": 47,
+      "chairs_male": 336,
+      "female_chair_ratio": 0.123,
+      "chairs_female_pct": 12.3,
       "total_regular_members": 3025,
       "members_total": 3025,
-      "female_regular_members": 619,
-      "members_female": 619,
-      "female_member_ratio": 0.205,
-      "members_female_pct": 20.5,
+      "female_regular_members": 736,
+      "members_female": 736,
+      "female_member_ratio": 0.258,
+      "members_female_pct": 25.8,
       "secretariat_total": 607,
-      "secretariat_female": 99,
-      "secretariat_female_pct": 16.3
+      "secretariat_female": 121,
+      "secretariat_female_pct": 20.6
     },
     {
       "decade": "1990-talet",
       "decade_key": "1990s",
       "total_members": 3399,
       "total_appointments": 3399,
-      "female_count": 921,
-      "male_count": 1837,
-      "unknown_count": 641,
-      "female_ratio": 0.271,
-      "female_pct": 27.1,
-      "male_pct": 54.0,
-      "female_pct_known": 33.4,
+      "female_count": 1064,
+      "male_count": 2187,
+      "unknown_count": 148,
+      "female_ratio": 0.313,
+      "female_pct": 31.3,
+      "male_pct": 64.3,
+      "female_pct_known": 32.7,
       "total_chairs": 302,
       "chairs_total": 302,
-      "female_chairs": 28,
-      "chairs_female": 28,
-      "chairs_male": 218,
-      "female_chair_ratio": 0.093,
-      "chairs_female_pct": 9.3,
+      "female_chairs": 32,
+      "chairs_female": 32,
+      "chairs_male": 261,
+      "female_chair_ratio": 0.109,
+      "chairs_female_pct": 10.9,
       "total_regular_members": 2443,
       "members_total": 2443,
-      "female_regular_members": 730,
-      "members_female": 730,
-      "female_member_ratio": 0.299,
-      "members_female_pct": 29.9,
+      "female_regular_members": 855,
+      "members_female": 855,
+      "female_member_ratio": 0.368,
+      "members_female_pct": 36.8,
       "secretariat_total": 654,
-      "secretariat_female": 163,
-      "secretariat_female_pct": 24.9
+      "secretariat_female": 177,
+      "secretariat_female_pct": 27.8
     },
     {
       "decade": "2000-talet",
       "decade_key": "2000s",
       "total_members": 3353,
       "total_appointments": 3353,
-      "female_count": 1159,
-      "male_count": 1585,
-      "unknown_count": 609,
-      "female_ratio": 0.346,
-      "female_pct": 34.6,
-      "male_pct": 47.3,
-      "female_pct_known": 42.2,
+      "female_count": 1346,
+      "male_count": 1857,
+      "unknown_count": 150,
+      "female_ratio": 0.401,
+      "female_pct": 40.1,
+      "male_pct": 55.4,
+      "female_pct_known": 42.0,
       "total_chairs": 251,
       "chairs_total": 251,
-      "female_chairs": 33,
-      "chairs_female": 33,
-      "chairs_male": 183,
-      "female_chair_ratio": 0.131,
-      "chairs_female_pct": 13.1,
+      "female_chairs": 43,
+      "chairs_female": 43,
+      "chairs_male": 205,
+      "female_chair_ratio": 0.173,
+      "chairs_female_pct": 17.3,
       "total_regular_members": 2560,
       "members_total": 2560,
-      "female_regular_members": 929,
-      "members_female": 929,
-      "female_member_ratio": 0.363,
-      "members_female_pct": 36.3,
+      "female_regular_members": 1084,
+      "members_female": 1084,
+      "female_member_ratio": 0.444,
+      "members_female_pct": 44.4,
       "secretariat_total": 542,
-      "secretariat_female": 197,
-      "secretariat_female_pct": 36.3
+      "secretariat_female": 219,
+      "secretariat_female_pct": 42.4
     },
     {
       "decade": "2010-talet",
       "decade_key": "2010s",
       "total_members": 2957,
       "total_appointments": 2957,
-      "female_count": 1076,
-      "male_count": 1194,
-      "unknown_count": 687,
-      "female_ratio": 0.364,
-      "female_pct": 36.4,
-      "male_pct": 40.4,
+      "female_count": 1311,
+      "male_count": 1453,
+      "unknown_count": 193,
+      "female_ratio": 0.443,
+      "female_pct": 44.3,
+      "male_pct": 49.1,
       "female_pct_known": 47.4,
       "total_chairs": 187,
       "chairs_total": 187,
-      "female_chairs": 38,
-      "chairs_female": 38,
-      "chairs_male": 113,
-      "female_chair_ratio": 0.203,
-      "chairs_female_pct": 20.3,
+      "female_chairs": 42,
+      "chairs_female": 42,
+      "chairs_male": 141,
+      "female_chair_ratio": 0.23,
+      "chairs_female_pct": 23.0,
       "total_regular_members": 2040,
       "members_total": 2040,
-      "female_regular_members": 732,
-      "members_female": 732,
-      "female_member_ratio": 0.359,
-      "members_female_pct": 35.9,
+      "female_regular_members": 897,
+      "members_female": 897,
+      "female_member_ratio": 0.474,
+      "members_female_pct": 47.4,
       "secretariat_total": 730,
-      "secretariat_female": 306,
-      "secretariat_female_pct": 41.9
+      "secretariat_female": 372,
+      "secretariat_female_pct": 53.9
     },
     {
       "decade": "2020-talet",
       "decade_key": "2020s",
-      "total_members": 2276,
-      "total_appointments": 2276,
-      "female_count": 857,
-      "male_count": 812,
-      "unknown_count": 607,
-      "female_ratio": 0.377,
-      "female_pct": 37.7,
-      "male_pct": 35.7,
-      "female_pct_known": 51.3,
-      "total_chairs": 124,
-      "chairs_total": 124,
-      "female_chairs": 32,
-      "chairs_female": 32,
-      "chairs_male": 69,
-      "female_chair_ratio": 0.258,
-      "chairs_female_pct": 25.8,
-      "total_regular_members": 1398,
-      "members_total": 1398,
-      "female_regular_members": 517,
-      "members_female": 517,
-      "female_member_ratio": 0.37,
-      "members_female_pct": 37.0,
-      "secretariat_total": 754,
-      "secretariat_female": 308,
-      "secretariat_female_pct": 40.8
+      "total_members": 2320,
+      "total_appointments": 2320,
+      "female_count": 1076,
+      "male_count": 1044,
+      "unknown_count": 200,
+      "female_ratio": 0.464,
+      "female_pct": 46.4,
+      "male_pct": 45.0,
+      "female_pct_known": 50.8,
+      "total_chairs": 128,
+      "chairs_total": 128,
+      "female_chairs": 39,
+      "chairs_female": 39,
+      "chairs_male": 85,
+      "female_chair_ratio": 0.315,
+      "chairs_female_pct": 31.5,
+      "total_regular_members": 1421,
+      "members_total": 1421,
+      "female_regular_members": 632,
+      "members_female": 632,
+      "female_member_ratio": 0.495,
+      "members_female_pct": 49.5,
+      "secretariat_total": 771,
+      "secretariat_female": 405,
+      "secretariat_female_pct": 56.3
     }
   ],
   "decade_evolution": [
@@ -218,174 +218,174 @@
       "decade_key": "1970s",
       "total_members": 4225,
       "total_appointments": 4225,
-      "female_count": 370,
-      "male_count": 2838,
-      "unknown_count": 1017,
-      "female_ratio": 0.088,
-      "female_pct": 8.8,
-      "male_pct": 67.2,
-      "female_pct_known": 11.5,
+      "female_count": 498,
+      "male_count": 3413,
+      "unknown_count": 314,
+      "female_ratio": 0.118,
+      "female_pct": 11.8,
+      "male_pct": 80.8,
+      "female_pct_known": 12.7,
       "total_chairs": 466,
       "chairs_total": 466,
-      "female_chairs": 13,
-      "chairs_female": 13,
-      "chairs_male": 336,
-      "female_chair_ratio": 0.028,
-      "chairs_female_pct": 2.8,
+      "female_chairs": 19,
+      "chairs_female": 19,
+      "chairs_male": 416,
+      "female_chair_ratio": 0.044,
+      "chairs_female_pct": 4.4,
       "total_regular_members": 3141,
       "members_total": 3141,
-      "female_regular_members": 300,
-      "members_female": 300,
-      "female_member_ratio": 0.096,
-      "members_female_pct": 9.6,
+      "female_regular_members": 403,
+      "members_female": 403,
+      "female_member_ratio": 0.139,
+      "members_female_pct": 13.9,
       "secretariat_total": 618,
-      "secretariat_female": 57,
-      "secretariat_female_pct": 9.2
+      "secretariat_female": 76,
+      "secretariat_female_pct": 13.1
     },
     {
       "decade": "1980-talet",
       "decade_key": "1980s",
       "total_members": 4040,
       "total_appointments": 4040,
-      "female_count": 752,
-      "male_count": 2451,
-      "unknown_count": 837,
-      "female_ratio": 0.186,
-      "female_pct": 18.6,
-      "male_pct": 60.7,
-      "female_pct_known": 23.5,
+      "female_count": 904,
+      "male_count": 2918,
+      "unknown_count": 218,
+      "female_ratio": 0.224,
+      "female_pct": 22.4,
+      "male_pct": 72.2,
+      "female_pct_known": 23.7,
       "total_chairs": 408,
       "chairs_total": 408,
-      "female_chairs": 34,
-      "chairs_female": 34,
-      "chairs_male": 288,
-      "female_chair_ratio": 0.083,
-      "chairs_female_pct": 8.3,
+      "female_chairs": 47,
+      "chairs_female": 47,
+      "chairs_male": 336,
+      "female_chair_ratio": 0.123,
+      "chairs_female_pct": 12.3,
       "total_regular_members": 3025,
       "members_total": 3025,
-      "female_regular_members": 619,
-      "members_female": 619,
-      "female_member_ratio": 0.205,
-      "members_female_pct": 20.5,
+      "female_regular_members": 736,
+      "members_female": 736,
+      "female_member_ratio": 0.258,
+      "members_female_pct": 25.8,
       "secretariat_total": 607,
-      "secretariat_female": 99,
-      "secretariat_female_pct": 16.3
+      "secretariat_female": 121,
+      "secretariat_female_pct": 20.6
     },
     {
       "decade": "1990-talet",
       "decade_key": "1990s",
       "total_members": 3399,
       "total_appointments": 3399,
-      "female_count": 921,
-      "male_count": 1837,
-      "unknown_count": 641,
-      "female_ratio": 0.271,
-      "female_pct": 27.1,
-      "male_pct": 54.0,
-      "female_pct_known": 33.4,
+      "female_count": 1064,
+      "male_count": 2187,
+      "unknown_count": 148,
+      "female_ratio": 0.313,
+      "female_pct": 31.3,
+      "male_pct": 64.3,
+      "female_pct_known": 32.7,
       "total_chairs": 302,
       "chairs_total": 302,
-      "female_chairs": 28,
-      "chairs_female": 28,
-      "chairs_male": 218,
-      "female_chair_ratio": 0.093,
-      "chairs_female_pct": 9.3,
+      "female_chairs": 32,
+      "chairs_female": 32,
+      "chairs_male": 261,
+      "female_chair_ratio": 0.109,
+      "chairs_female_pct": 10.9,
       "total_regular_members": 2443,
       "members_total": 2443,
-      "female_regular_members": 730,
-      "members_female": 730,
-      "female_member_ratio": 0.299,
-      "members_female_pct": 29.9,
+      "female_regular_members": 855,
+      "members_female": 855,
+      "female_member_ratio": 0.368,
+      "members_female_pct": 36.8,
       "secretariat_total": 654,
-      "secretariat_female": 163,
-      "secretariat_female_pct": 24.9
+      "secretariat_female": 177,
+      "secretariat_female_pct": 27.8
     },
     {
       "decade": "2000-talet",
       "decade_key": "2000s",
       "total_members": 3353,
       "total_appointments": 3353,
-      "female_count": 1159,
-      "male_count": 1585,
-      "unknown_count": 609,
-      "female_ratio": 0.346,
-      "female_pct": 34.6,
-      "male_pct": 47.3,
-      "female_pct_known": 42.2,
+      "female_count": 1346,
+      "male_count": 1857,
+      "unknown_count": 150,
+      "female_ratio": 0.401,
+      "female_pct": 40.1,
+      "male_pct": 55.4,
+      "female_pct_known": 42.0,
       "total_chairs": 251,
       "chairs_total": 251,
-      "female_chairs": 33,
-      "chairs_female": 33,
-      "chairs_male": 183,
-      "female_chair_ratio": 0.131,
-      "chairs_female_pct": 13.1,
+      "female_chairs": 43,
+      "chairs_female": 43,
+      "chairs_male": 205,
+      "female_chair_ratio": 0.173,
+      "chairs_female_pct": 17.3,
       "total_regular_members": 2560,
       "members_total": 2560,
-      "female_regular_members": 929,
-      "members_female": 929,
-      "female_member_ratio": 0.363,
-      "members_female_pct": 36.3,
+      "female_regular_members": 1084,
+      "members_female": 1084,
+      "female_member_ratio": 0.444,
+      "members_female_pct": 44.4,
       "secretariat_total": 542,
-      "secretariat_female": 197,
-      "secretariat_female_pct": 36.3
+      "secretariat_female": 219,
+      "secretariat_female_pct": 42.4
     },
     {
       "decade": "2010-talet",
       "decade_key": "2010s",
       "total_members": 2957,
       "total_appointments": 2957,
-      "female_count": 1076,
-      "male_count": 1194,
-      "unknown_count": 687,
-      "female_ratio": 0.364,
-      "female_pct": 36.4,
-      "male_pct": 40.4,
+      "female_count": 1311,
+      "male_count": 1453,
+      "unknown_count": 193,
+      "female_ratio": 0.443,
+      "female_pct": 44.3,
+      "male_pct": 49.1,
       "female_pct_known": 47.4,
       "total_chairs": 187,
       "chairs_total": 187,
-      "female_chairs": 38,
-      "chairs_female": 38,
-      "chairs_male": 113,
-      "female_chair_ratio": 0.203,
-      "chairs_female_pct": 20.3,
+      "female_chairs": 42,
+      "chairs_female": 42,
+      "chairs_male": 141,
+      "female_chair_ratio": 0.23,
+      "chairs_female_pct": 23.0,
       "total_regular_members": 2040,
       "members_total": 2040,
-      "female_regular_members": 732,
-      "members_female": 732,
-      "female_member_ratio": 0.359,
-      "members_female_pct": 35.9,
+      "female_regular_members": 897,
+      "members_female": 897,
+      "female_member_ratio": 0.474,
+      "members_female_pct": 47.4,
       "secretariat_total": 730,
-      "secretariat_female": 306,
-      "secretariat_female_pct": 41.9
+      "secretariat_female": 372,
+      "secretariat_female_pct": 53.9
     },
     {
       "decade": "2020-talet",
       "decade_key": "2020s",
-      "total_members": 2276,
-      "total_appointments": 2276,
-      "female_count": 857,
-      "male_count": 812,
-      "unknown_count": 607,
-      "female_ratio": 0.377,
-      "female_pct": 37.7,
-      "male_pct": 35.7,
-      "female_pct_known": 51.3,
-      "total_chairs": 124,
-      "chairs_total": 124,
-      "female_chairs": 32,
-      "chairs_female": 32,
-      "chairs_male": 69,
-      "female_chair_ratio": 0.258,
-      "chairs_female_pct": 25.8,
-      "total_regular_members": 1398,
-      "members_total": 1398,
-      "female_regular_members": 517,
-      "members_female": 517,
-      "female_member_ratio": 0.37,
-      "members_female_pct": 37.0,
-      "secretariat_total": 754,
-      "secretariat_female": 308,
-      "secretariat_female_pct": 40.8
+      "total_members": 2320,
+      "total_appointments": 2320,
+      "female_count": 1076,
+      "male_count": 1044,
+      "unknown_count": 200,
+      "female_ratio": 0.464,
+      "female_pct": 46.4,
+      "male_pct": 45.0,
+      "female_pct_known": 50.8,
+      "total_chairs": 128,
+      "chairs_total": 128,
+      "female_chairs": 39,
+      "chairs_female": 39,
+      "chairs_male": 85,
+      "female_chair_ratio": 0.315,
+      "chairs_female_pct": 31.5,
+      "total_regular_members": 1421,
+      "members_total": 1421,
+      "female_regular_members": 632,
+      "members_female": 632,
+      "female_member_ratio": 0.495,
+      "members_female_pct": 49.5,
+      "secretariat_total": 771,
+      "secretariat_female": 405,
+      "secretariat_female_pct": 56.3
     }
   ],
   "sector_distribution": [
@@ -394,8 +394,8 @@
       "sector_key": "academia_research",
       "name_nn": "Akademia & forsking",
       "label_nn": "Akademia & forsking",
-      "count": 659,
-      "percentage": 31.9,
+      "count": 668,
+      "percentage": 32.1,
       "description_nn": "Universitet, høgskular, forskingsinstitutt (SSB, FFI, NUPI, Frischsenteret, m.fl.)",
       "description": "Universitet, høgskular, forskingsinstitutt (SSB, FFI, NUPI, Frischsenteret, m.fl.)",
       "key_institutions": [
@@ -416,8 +416,8 @@
       "sector_key": "central_administration",
       "name_nn": "Sentralforvaltning og domstolar",
       "label_nn": "Sentralforvaltning og domstolar",
-      "count": 460,
-      "percentage": 22.3,
+      "count": 463,
+      "percentage": 22.2,
       "description_nn": "Departement, direktorat, tilsyn, domstolar, Norges Bank, statsforvaltar",
       "description": "Departement, direktorat, tilsyn, domstolar, Norges Bank, statsforvaltar",
       "key_institutions": [
@@ -438,7 +438,7 @@
       "sector_key": "industry_business",
       "name_nn": "Næringsliv & privat sektor",
       "label_nn": "Næringsliv & privat sektor",
-      "count": 55,
+      "count": 56,
       "percentage": 2.7,
       "description_nn": "Private verksemder, bank, finans, advokatfirma og konsern",
       "description": "Private verksemder, bank, finans, advokatfirma og konsern",
@@ -460,8 +460,8 @@
       "sector_key": "labor_unions",
       "name_nn": "Fagforeiningar",
       "label_nn": "Fagforeiningar",
-      "count": 469,
-      "percentage": 22.7,
+      "count": 470,
+      "percentage": 22.6,
       "description_nn": "LO, YS, Unio, Akademikerne og tilknytta fagforbund",
       "description": "LO, YS, Unio, Akademikerne og tilknytta fagforbund",
       "key_institutions": [
@@ -483,7 +483,7 @@
       "sector_key": "employer_orgs",
       "name_nn": "Arbeidsgivarorganisasjonar",
       "label_nn": "Arbeidsgivarorganisasjonar",
-      "count": 399,
+      "count": 401,
       "percentage": 19.3,
       "description_nn": "NHO, KS, Hovedorganisasjonen Virke, Spekter, Finans Norge",
       "description": "NHO, KS, Hovedorganisasjonen Virke, Spekter, Finans Norge",
@@ -529,35 +529,35 @@
       {
         "sector_key": "academia_research",
         "label_nn": "Akademia & forsking",
-        "count": 659,
-        "percentage": 31.9,
+        "count": 668,
+        "percentage": 32.1,
         "description": "Universitet, høgskular, forskingsinstitutt (SSB, FFI, NUPI, Frischsenteret, m.fl.)"
       },
       {
         "sector_key": "central_administration",
         "label_nn": "Sentralforvaltning og domstolar",
-        "count": 460,
-        "percentage": 22.3,
+        "count": 463,
+        "percentage": 22.2,
         "description": "Departement, direktorat, tilsyn, domstolar, Norges Bank, statsforvaltar"
       },
       {
         "sector_key": "industry_business",
         "label_nn": "Næringsliv & privat sektor",
-        "count": 55,
+        "count": 56,
         "percentage": 2.7,
         "description": "Private verksemder, bank, finans, advokatfirma og konsern"
       },
       {
         "sector_key": "labor_unions",
         "label_nn": "Fagforeiningar",
-        "count": 469,
-        "percentage": 22.7,
+        "count": 470,
+        "percentage": 22.6,
         "description": "LO, YS, Unio, Akademikerne og tilknytta fagforbund"
       },
       {
         "sector_key": "employer_orgs",
         "label_nn": "Arbeidsgivarorganisasjonar",
-        "count": 399,
+        "count": 401,
         "percentage": 19.3,
         "description": "NHO, KS, Hovedorganisasjonen Virke, Spekter, Finans Norge"
       },
@@ -611,12 +611,12 @@
         "civil_society": 0.6
       },
       "2020s": {
-        "academia_research": 43.7,
-        "central_administration": 12.1,
-        "industry_business": 0.8,
-        "labor_unions": 25.8,
-        "employer_orgs": 17.3,
-        "civil_society": 0.3
+        "academia_research": 44.2,
+        "central_administration": 12.4,
+        "industry_business": 1.0,
+        "labor_unions": 25.1,
+        "employer_orgs": 17.1,
+        "civil_society": 0.2
       }
     }
   },
@@ -982,14 +982,14 @@
           "role": "Medlem"
         },
         {
-          "id": "386093",
-          "title": "NOU 2004: 10 - Om grunnlaget for inntektsoppgjørene 2004",
+          "id": "nou-2004-14-etter-inntektsoppgjorene-2004",
+          "title": "NOU 2004: 14 - Etter inntektsoppgjørene 2004",
           "year": 2004,
           "role": "Utvalsleiar"
         },
         {
-          "id": "nou-2004-14-etter-inntektsoppgjorene-2004",
-          "title": "NOU 2004: 14 - Etter inntektsoppgjørene 2004",
+          "id": "386093",
+          "title": "NOU 2004: 10 - Om grunnlaget for inntektsoppgjørene 2004",
           "year": 2004,
           "role": "Utvalsleiar"
         },
@@ -1125,68 +1125,6 @@
     },
     {
       "rank": 9,
-      "name": "Øystein Løining",
-      "slug": "oystein-loining",
-      "total_appointments": 33,
-      "total_nous": 33,
-      "chair_count": 1,
-      "leader_count": 1,
-      "member_count": 32,
-      "secretariat_count": 0,
-      "primary_role": "Medlem",
-      "primary_roles": [
-        "Utvalsleiar",
-        "Medlem"
-      ],
-      "active_years": [
-        1982,
-        2018
-      ],
-      "decades_active": [
-        "1980-talet",
-        "1990-talet",
-        "2000-talet",
-        "2010-talet"
-      ],
-      "active_decades": [
-        "1980-talet",
-        "1990-talet",
-        "2000-talet",
-        "2010-talet"
-      ],
-      "primary_sector": "central_administration",
-      "primary_organization": "Finansdepartementet",
-      "primary_org": "Finansdepartementet",
-      "gender": "male",
-      "notable_nous": [
-        {
-          "id": "2587442",
-          "title": "NOU 2018: 3 - Krisehåndtering i forsikrings- og pensjonssektoren",
-          "year": 2018,
-          "role": "Medlem"
-        },
-        {
-          "id": "2408385",
-          "title": "NOU 2015: 5 - Pensjonslovene og folketrygdreformen IV",
-          "year": 2015,
-          "role": "Medlem"
-        },
-        {
-          "id": "711626",
-          "title": "NOU 2013: 3 - Pensjonslovene og folketrygdreformen III",
-          "year": 2013,
-          "role": "Medlem"
-        },
-        {
-          "id": "747196",
-          "title": "NOU 2013: 12 - Uførepensjon i private tjenestepensjonsordninger",
-          "year": 2013,
-          "role": "Medlem"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "name": "Erik Orskaug",
       "slug": "erik-orskaug",
       "total_appointments": 33,
@@ -1244,6 +1182,68 @@
           "id": "2714942",
           "title": "NOU 2020: 8 - Grunnlaget for inntektsoppgjørene 2020",
           "year": 2020,
+          "role": "Medlem"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "Øystein Løining",
+      "slug": "oystein-loining",
+      "total_appointments": 33,
+      "total_nous": 33,
+      "chair_count": 1,
+      "leader_count": 1,
+      "member_count": 32,
+      "secretariat_count": 0,
+      "primary_role": "Medlem",
+      "primary_roles": [
+        "Utvalsleiar",
+        "Medlem"
+      ],
+      "active_years": [
+        1982,
+        2018
+      ],
+      "decades_active": [
+        "1980-talet",
+        "1990-talet",
+        "2000-talet",
+        "2010-talet"
+      ],
+      "active_decades": [
+        "1980-talet",
+        "1990-talet",
+        "2000-talet",
+        "2010-talet"
+      ],
+      "primary_sector": "central_administration",
+      "primary_organization": "Finansdepartementet",
+      "primary_org": "Finansdepartementet",
+      "gender": "male",
+      "notable_nous": [
+        {
+          "id": "2587442",
+          "title": "NOU 2018: 3 - Krisehåndtering i forsikrings- og pensjonssektoren",
+          "year": 2018,
+          "role": "Medlem"
+        },
+        {
+          "id": "2408385",
+          "title": "NOU 2015: 5 - Pensjonslovene og folketrygdreformen IV",
+          "year": 2015,
+          "role": "Medlem"
+        },
+        {
+          "id": "711626",
+          "title": "NOU 2013: 3 - Pensjonslovene og folketrygdreformen III",
+          "year": 2013,
+          "role": "Medlem"
+        },
+        {
+          "id": "747196",
+          "title": "NOU 2013: 12 - Uførepensjon i private tjenestepensjonsordninger",
+          "year": 2013,
           "role": "Medlem"
         }
       ]
@@ -1409,12 +1409,6 @@
           "role": "Sekretariat"
         },
         {
-          "id": "2689744",
-          "title": "NOU 2020: 2 - Fremtidige kompetansebehov III",
-          "year": 2020,
-          "role": "Medlem"
-        },
-        {
           "id": "2714942",
           "title": "NOU 2020: 8 - Grunnlaget for inntektsoppgjørene 2020",
           "year": 2020,
@@ -1425,6 +1419,12 @@
           "title": "NOU 2020: 13 - Private aktører i velferdsstaten",
           "year": 2020,
           "role": "Sekretariat"
+        },
+        {
+          "id": "2689744",
+          "title": "NOU 2020: 2 - Fremtidige kompetansebehov III",
+          "year": 2020,
+          "role": "Medlem"
         }
       ]
     },
@@ -1554,6 +1554,65 @@
     },
     {
       "rank": 16,
+      "name": "Hallvard Borgenvik",
+      "slug": "hallvard-borgenvik",
+      "total_appointments": 26,
+      "total_nous": 26,
+      "chair_count": 0,
+      "leader_count": 0,
+      "member_count": 26,
+      "secretariat_count": 0,
+      "primary_role": "Medlem",
+      "primary_roles": [
+        "Medlem"
+      ],
+      "active_years": [
+        1973,
+        1993
+      ],
+      "decades_active": [
+        "1970-talet",
+        "1980-talet",
+        "1990-talet"
+      ],
+      "active_decades": [
+        "1970-talet",
+        "1980-talet",
+        "1990-talet"
+      ],
+      "primary_sector": "central_administration",
+      "primary_organization": "Finansdepartementet / NHO",
+      "primary_org": "Finansdepartementet / NHO",
+      "gender": "male",
+      "notable_nous": [
+        {
+          "id": "digibok_2008011704018",
+          "title": "NOU 1993: 17 - Levekår i Norge",
+          "year": 1993,
+          "role": "Medlem"
+        },
+        {
+          "id": "digibok_2007091704006",
+          "title": "NOU 1992: 34 - Skatt på kraftselskap",
+          "year": 1992,
+          "role": "Medlem"
+        },
+        {
+          "id": "2472702",
+          "title": "NOU 1991: 23 - ETTER INNTEKTSOPPGJØRENE 1991",
+          "year": 1991,
+          "role": "Medlem"
+        },
+        {
+          "id": "2472777",
+          "title": "NOU 1991: 21 - Om grunnlaget for inntektsoppgjørene 1990",
+          "year": 1991,
+          "role": "Medlem"
+        }
+      ]
+    },
+    {
+      "rank": 17,
       "name": "Erling G. Rikheim",
       "slug": "erling-g-rikheim",
       "total_appointments": 26,
@@ -1615,7 +1674,7 @@
       ]
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Øistein Gulbrandsen",
       "slug": "oistein-gulbrandsen",
       "total_appointments": 26,
@@ -1644,7 +1703,7 @@
       "primary_sector": "labor_unions",
       "primary_organization": "Landsorganisasjonen i Norge (LO)",
       "primary_org": "Landsorganisasjonen i Norge (LO)",
-      "gender": "unknown",
+      "gender": "male",
       "notable_nous": [
         {
           "id": "2472549",
@@ -1669,65 +1728,6 @@
           "title": "NOU 1984: 14 - 0m grunnlaget for inntektsoppgjørene 1984",
           "year": 1984,
           "role": "Sekretariat"
-        }
-      ]
-    },
-    {
-      "rank": 18,
-      "name": "Hallvard Borgenvik",
-      "slug": "hallvard-borgenvik",
-      "total_appointments": 26,
-      "total_nous": 26,
-      "chair_count": 0,
-      "leader_count": 0,
-      "member_count": 26,
-      "secretariat_count": 0,
-      "primary_role": "Medlem",
-      "primary_roles": [
-        "Medlem"
-      ],
-      "active_years": [
-        1973,
-        1993
-      ],
-      "decades_active": [
-        "1970-talet",
-        "1980-talet",
-        "1990-talet"
-      ],
-      "active_decades": [
-        "1970-talet",
-        "1980-talet",
-        "1990-talet"
-      ],
-      "primary_sector": "central_administration",
-      "primary_organization": "Finansdepartementet / NHO",
-      "primary_org": "Finansdepartementet / NHO",
-      "gender": "male",
-      "notable_nous": [
-        {
-          "id": "digibok_2008011704018",
-          "title": "NOU 1993: 17 - Levekår i Norge",
-          "year": 1993,
-          "role": "Medlem"
-        },
-        {
-          "id": "digibok_2007091704006",
-          "title": "NOU 1992: 34 - Skatt på kraftselskap",
-          "year": 1992,
-          "role": "Medlem"
-        },
-        {
-          "id": "2472702",
-          "title": "NOU 1991: 23 - ETTER INNTEKTSOPPGJØRENE 1991",
-          "year": 1991,
-          "role": "Medlem"
-        },
-        {
-          "id": "2472777",
-          "title": "NOU 1991: 21 - Om grunnlaget for inntektsoppgjørene 1990",
-          "year": 1991,
-          "role": "Medlem"
         }
       ]
     },
@@ -1792,6 +1792,67 @@
     },
     {
       "rank": 20,
+      "name": "Stein Gjerding",
+      "slug": "stein-gjerding",
+      "total_appointments": 25,
+      "total_nous": 25,
+      "chair_count": 0,
+      "leader_count": 0,
+      "member_count": 25,
+      "secretariat_count": 0,
+      "primary_role": "Medlem",
+      "primary_roles": [
+        "Medlem"
+      ],
+      "active_years": [
+        1998,
+        2026
+      ],
+      "decades_active": [
+        "1990-talet",
+        "2000-talet",
+        "2010-talet",
+        "2020-talet"
+      ],
+      "active_decades": [
+        "1990-talet",
+        "2000-talet",
+        "2010-talet",
+        "2020-talet"
+      ],
+      "primary_sector": "labor_unions",
+      "primary_organization": "YS / Arbeidsgiverforeningen Spekter",
+      "primary_org": "YS / Arbeidsgiverforeningen Spekter",
+      "gender": "male",
+      "notable_nous": [
+        {
+          "id": "3155079",
+          "title": "NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+          "year": 2026,
+          "role": "Medlem"
+        },
+        {
+          "id": "3094178",
+          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+          "year": 2025,
+          "role": "Medlem"
+        },
+        {
+          "id": "3031371",
+          "title": "NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+          "year": 2024,
+          "role": "Medlem"
+        },
+        {
+          "id": "2969960",
+          "title": "NOU 2023: 12 - Grunnlaget for inntektsoppgjørene 2023",
+          "year": 2023,
+          "role": "Medlem"
+        }
+      ]
+    },
+    {
+      "rank": 21,
       "name": "Ellen Horneland",
       "slug": "ellen-horneland",
       "total_appointments": 25,
@@ -1853,7 +1914,7 @@
       ]
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Tove Storrødvann",
       "slug": "tove-storrodvann",
       "total_appointments": 25,
@@ -1905,67 +1966,6 @@
           "id": "711626",
           "title": "NOU 2013: 3 - Pensjonslovene og folketrygdreformen III",
           "year": 2013,
-          "role": "Medlem"
-        }
-      ]
-    },
-    {
-      "rank": 22,
-      "name": "Stein Gjerding",
-      "slug": "stein-gjerding",
-      "total_appointments": 25,
-      "total_nous": 25,
-      "chair_count": 0,
-      "leader_count": 0,
-      "member_count": 25,
-      "secretariat_count": 0,
-      "primary_role": "Medlem",
-      "primary_roles": [
-        "Medlem"
-      ],
-      "active_years": [
-        1998,
-        2026
-      ],
-      "decades_active": [
-        "1990-talet",
-        "2000-talet",
-        "2010-talet",
-        "2020-talet"
-      ],
-      "active_decades": [
-        "1990-talet",
-        "2000-talet",
-        "2010-talet",
-        "2020-talet"
-      ],
-      "primary_sector": "labor_unions",
-      "primary_organization": "YS / Arbeidsgiverforeningen Spekter",
-      "primary_org": "YS / Arbeidsgiverforeningen Spekter",
-      "gender": "male",
-      "notable_nous": [
-        {
-          "id": "3155079",
-          "title": "NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
-          "year": 2026,
-          "role": "Medlem"
-        },
-        {
-          "id": "3094178",
-          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
-          "year": 2025,
-          "role": "Medlem"
-        },
-        {
-          "id": "3031371",
-          "title": "NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
-          "year": 2024,
-          "role": "Medlem"
-        },
-        {
-          "id": "2969960",
-          "title": "NOU 2023: 12 - Grunnlaget for inntektsoppgjørene 2023",
-          "year": 2023,
           "role": "Medlem"
         }
       ]
@@ -2029,6 +2029,66 @@
     },
     {
       "rank": 24,
+      "name": "Ann Lisbet Brathaug",
+      "slug": "ann-lisbet-brathaug",
+      "total_appointments": 24,
+      "total_nous": 24,
+      "chair_count": 0,
+      "leader_count": 0,
+      "member_count": 22,
+      "secretariat_count": 2,
+      "primary_role": "Medlem",
+      "primary_roles": [
+        "Medlem",
+        "Sekretariat"
+      ],
+      "active_years": [
+        2004,
+        2025
+      ],
+      "decades_active": [
+        "2000-talet",
+        "2010-talet",
+        "2020-talet"
+      ],
+      "active_decades": [
+        "2000-talet",
+        "2010-talet",
+        "2020-talet"
+      ],
+      "primary_sector": "academia_research",
+      "primary_organization": "Statistisk sentralbyrå (SSB)",
+      "primary_org": "Statistisk sentralbyrå (SSB)",
+      "gender": "female",
+      "notable_nous": [
+        {
+          "id": "3094178",
+          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+          "year": 2025,
+          "role": "Sekretariat"
+        },
+        {
+          "id": "3031371",
+          "title": "NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+          "year": 2024,
+          "role": "Sekretariat"
+        },
+        {
+          "id": "2969960",
+          "title": "NOU 2023: 12 - Grunnlaget for inntektsoppgjørene 2023",
+          "year": 2023,
+          "role": "Medlem"
+        },
+        {
+          "id": "2906847",
+          "title": "NOU 2022: 4 - Grunnlaget for inntektsoppgjørene 2022",
+          "year": 2022,
+          "role": "Medlem"
+        }
+      ]
+    },
+    {
+      "rank": 25,
       "name": "Oddbjørn Eidem",
       "slug": "oddbjorn-eidem",
       "total_appointments": 24,
@@ -2061,7 +2121,7 @@
       "primary_sector": "employer_orgs",
       "primary_organization": "Næringslivets Hovedorganisasjon (NHO)",
       "primary_org": "Næringslivets Hovedorganisasjon (NHO)",
-      "gender": "unknown",
+      "gender": "male",
       "notable_nous": [
         {
           "id": "2409410",
@@ -2090,7 +2150,7 @@
       ]
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Øivind Fegth Knutsen",
       "slug": "oivind-fegth-knutsen",
       "total_appointments": 24,
@@ -2153,69 +2213,9 @@
       ]
     },
     {
-      "rank": 26,
-      "name": "Ann Lisbet Brathaug",
-      "slug": "ann-lisbet-brathaug",
-      "total_appointments": 24,
-      "total_nous": 24,
-      "chair_count": 0,
-      "leader_count": 0,
-      "member_count": 22,
-      "secretariat_count": 2,
-      "primary_role": "Medlem",
-      "primary_roles": [
-        "Medlem",
-        "Sekretariat"
-      ],
-      "active_years": [
-        2004,
-        2025
-      ],
-      "decades_active": [
-        "2000-talet",
-        "2010-talet",
-        "2020-talet"
-      ],
-      "active_decades": [
-        "2000-talet",
-        "2010-talet",
-        "2020-talet"
-      ],
-      "primary_sector": "academia_research",
-      "primary_organization": "Statistisk sentralbyrå (SSB)",
-      "primary_org": "Statistisk sentralbyrå (SSB)",
-      "gender": "female",
-      "notable_nous": [
-        {
-          "id": "3094178",
-          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
-          "year": 2025,
-          "role": "Sekretariat"
-        },
-        {
-          "id": "3031371",
-          "title": "NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
-          "year": 2024,
-          "role": "Sekretariat"
-        },
-        {
-          "id": "2969960",
-          "title": "NOU 2023: 12 - Grunnlaget for inntektsoppgjørene 2023",
-          "year": 2023,
-          "role": "Medlem"
-        },
-        {
-          "id": "2906847",
-          "title": "NOU 2022: 4 - Grunnlaget for inntektsoppgjørene 2022",
-          "year": 2022,
-          "role": "Medlem"
-        }
-      ]
-    },
-    {
       "rank": 27,
-      "name": "Arne Born",
-      "slug": "arne-born",
+      "name": "Lars Aarvig",
+      "slug": "lars-arvig",
       "total_appointments": 22,
       "total_nous": 22,
       "chair_count": 0,
@@ -2227,45 +2227,43 @@
         "Medlem"
       ],
       "active_years": [
-        1973,
-        1994
+        1972,
+        1983
       ],
       "decades_active": [
         "1970-talet",
-        "1980-talet",
-        "1990-talet"
+        "1980-talet"
       ],
       "active_decades": [
         "1970-talet",
-        "1980-talet",
-        "1990-talet"
+        "1980-talet"
       ],
-      "primary_sector": "central_administration",
-      "primary_organization": "Kommunal- og distriktsdepartementet",
-      "primary_org": "Kommunal- og distriktsdepartementet",
+      "primary_sector": "employer_orgs",
+      "primary_organization": "Næringslivets Hovedorganisasjon (NHO)",
+      "primary_org": "Næringslivets Hovedorganisasjon (NHO)",
       "gender": "male",
       "notable_nous": [
         {
-          "id": "115340",
-          "title": "NOU 1994: 6 - Private pensjonsordninger",
-          "year": 1994,
-          "role": "Medlem"
-        },
-        {
-          "id": "digibok_2011103106033",
-          "title": "NOU 1983: 50 - Forbruker- og administrasjonsdepartementet – funksjonsfordeling og administrasjonsordninger",
+          "id": "2472657",
+          "title": "NOU 1983: 1 - Foreløpig grunnlag for inntektsoppgjørene 1983",
           "year": 1983,
           "role": "Medlem"
         },
         {
-          "id": "digibok_2011061405005",
-          "title": "NOU 1982: 27 - Kirke- og undervisningsdepartementet – funksjonsfordeling og administrasjon",
+          "id": "2472668",
+          "title": "NOU 1983: 23 - Om grunnlaget for inntektsoppgjørene 1983",
+          "year": 1983,
+          "role": "Medlem"
+        },
+        {
+          "id": "2472591",
+          "title": "NOU 1982: 11 - Om grunnlaget for inntektsoppgjørene 1982",
           "year": 1982,
           "role": "Medlem"
         },
         {
-          "id": "digibok_2011061406040",
-          "title": "NOU 1982: 15 - Nytt inntektssystem for kommunene",
+          "id": "2472645",
+          "title": "NOU 1982: 1 - Foreløpig grunnlag for inntektsoppgjørene 1982",
           "year": 1982,
           "role": "Medlem"
         }
@@ -2273,67 +2271,6 @@
     },
     {
       "rank": 28,
-      "name": "Bjørn Tore Stølen",
-      "slug": "bjorn-tore-stolen",
-      "total_appointments": 22,
-      "total_nous": 22,
-      "chair_count": 0,
-      "leader_count": 0,
-      "member_count": 22,
-      "secretariat_count": 0,
-      "primary_role": "Medlem",
-      "primary_roles": [
-        "Medlem"
-      ],
-      "active_years": [
-        1988,
-        2011
-      ],
-      "decades_active": [
-        "1980-talet",
-        "1990-talet",
-        "2000-talet",
-        "2010-talet"
-      ],
-      "active_decades": [
-        "1980-talet",
-        "1990-talet",
-        "2000-talet",
-        "2010-talet"
-      ],
-      "primary_sector": "labor_unions",
-      "primary_organization": "Yrkesorganisasjonenes Sentralforbund (YS)",
-      "primary_org": "Yrkesorganisasjonenes Sentralforbund (YS)",
-      "gender": "male",
-      "notable_nous": [
-        {
-          "id": "643724",
-          "title": "NOU 2011: 5 - Grunnlaget for inntektsoppgjørene 2011",
-          "year": 2011,
-          "role": "Medlem"
-        },
-        {
-          "id": "603411",
-          "title": "NOU 2010: 04 - Grunnlaget for inntektsoppgjørene 2010",
-          "year": 2010,
-          "role": "Medlem"
-        },
-        {
-          "id": "558760",
-          "title": "NOU 2009: 7 - Om grunnlaget for inntektsoppgjørene 2009",
-          "year": 2009,
-          "role": "Medlem"
-        },
-        {
-          "id": "509629",
-          "title": "NOU 2008: 10 - Om grunnlaget for inntektsoppgjørene 2008",
-          "year": 2008,
-          "role": "Medlem"
-        }
-      ]
-    },
-    {
-      "rank": 29,
       "name": "Kjersti Elvestad",
       "slug": "kjersti-elvestad",
       "total_appointments": 22,
@@ -2393,7 +2330,7 @@
       ]
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Synnøve Nymo",
       "slug": "synnove-nymo",
       "total_appointments": 22,
@@ -2455,9 +2392,9 @@
       ]
     },
     {
-      "rank": 31,
-      "name": "Lars Aarvig",
-      "slug": "lars-arvig",
+      "rank": 30,
+      "name": "Bjørn Tore Stølen",
+      "slug": "bjorn-tore-stolen",
       "total_appointments": 22,
       "total_nous": 22,
       "chair_count": 0,
@@ -2469,43 +2406,106 @@
         "Medlem"
       ],
       "active_years": [
-        1972,
-        1983
+        1988,
+        2011
       ],
       "decades_active": [
-        "1970-talet",
-        "1980-talet"
+        "1980-talet",
+        "1990-talet",
+        "2000-talet",
+        "2010-talet"
       ],
       "active_decades": [
-        "1970-talet",
-        "1980-talet"
+        "1980-talet",
+        "1990-talet",
+        "2000-talet",
+        "2010-talet"
       ],
-      "primary_sector": "employer_orgs",
-      "primary_organization": "Næringslivets Hovedorganisasjon (NHO)",
-      "primary_org": "Næringslivets Hovedorganisasjon (NHO)",
+      "primary_sector": "academia_research",
+      "primary_organization": "Statistisk sentralbyrå (SSB)",
+      "primary_org": "Statistisk sentralbyrå (SSB)",
       "gender": "male",
       "notable_nous": [
         {
-          "id": "2472657",
-          "title": "NOU 1983: 1 - Foreløpig grunnlag for inntektsoppgjørene 1983",
+          "id": "643724",
+          "title": "NOU 2011: 5 - Grunnlaget for inntektsoppgjørene 2011",
+          "year": 2011,
+          "role": "Medlem"
+        },
+        {
+          "id": "603411",
+          "title": "NOU 2010: 04 - Grunnlaget for inntektsoppgjørene 2010",
+          "year": 2010,
+          "role": "Medlem"
+        },
+        {
+          "id": "558760",
+          "title": "NOU 2009: 7 - Om grunnlaget for inntektsoppgjørene 2009",
+          "year": 2009,
+          "role": "Medlem"
+        },
+        {
+          "id": "509629",
+          "title": "NOU 2008: 10 - Om grunnlaget for inntektsoppgjørene 2008",
+          "year": 2008,
+          "role": "Medlem"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "name": "Arne Born",
+      "slug": "arne-born",
+      "total_appointments": 22,
+      "total_nous": 22,
+      "chair_count": 0,
+      "leader_count": 0,
+      "member_count": 22,
+      "secretariat_count": 0,
+      "primary_role": "Medlem",
+      "primary_roles": [
+        "Medlem"
+      ],
+      "active_years": [
+        1973,
+        1994
+      ],
+      "decades_active": [
+        "1970-talet",
+        "1980-talet",
+        "1990-talet"
+      ],
+      "active_decades": [
+        "1970-talet",
+        "1980-talet",
+        "1990-talet"
+      ],
+      "primary_sector": "central_administration",
+      "primary_organization": "Kommunal- og distriktsdepartementet",
+      "primary_org": "Kommunal- og distriktsdepartementet",
+      "gender": "male",
+      "notable_nous": [
+        {
+          "id": "115340",
+          "title": "NOU 1994: 6 - Private pensjonsordninger",
+          "year": 1994,
+          "role": "Medlem"
+        },
+        {
+          "id": "digibok_2011103106033",
+          "title": "NOU 1983: 50 - Forbruker- og administrasjonsdepartementet – funksjonsfordeling og administrasjonsordninger",
           "year": 1983,
           "role": "Medlem"
         },
         {
-          "id": "2472668",
-          "title": "NOU 1983: 23 - Om grunnlaget for inntektsoppgjørene 1983",
-          "year": 1983,
-          "role": "Medlem"
-        },
-        {
-          "id": "2472591",
-          "title": "NOU 1982: 11 - Om grunnlaget for inntektsoppgjørene 1982",
+          "id": "digibok_2011061405005",
+          "title": "NOU 1982: 27 - Kirke- og undervisningsdepartementet – funksjonsfordeling og administrasjon",
           "year": 1982,
           "role": "Medlem"
         },
         {
-          "id": "2472645",
-          "title": "NOU 1982: 1 - Foreløpig grunnlag for inntektsoppgjørene 1982",
+          "id": "digibok_2011061406040",
+          "title": "NOU 1982: 15 - Nytt inntektssystem for kommunene",
           "year": 1982,
           "role": "Medlem"
         }
@@ -2571,69 +2571,6 @@
     },
     {
       "rank": 33,
-      "name": "Marius Ryel",
-      "slug": "marius-ryel",
-      "total_appointments": 21,
-      "total_nous": 21,
-      "chair_count": 1,
-      "leader_count": 1,
-      "member_count": 19,
-      "secretariat_count": 1,
-      "primary_role": "Medlem",
-      "primary_roles": [
-        "Utvalsleiar",
-        "Medlem",
-        "Sekretariat"
-      ],
-      "active_years": [
-        1988,
-        2018
-      ],
-      "decades_active": [
-        "1980-talet",
-        "1990-talet",
-        "2000-talet",
-        "2010-talet"
-      ],
-      "active_decades": [
-        "1980-talet",
-        "1990-talet",
-        "2000-talet",
-        "2010-talet"
-      ],
-      "primary_sector": "central_administration",
-      "primary_organization": "Norges Bank",
-      "primary_org": "Norges Bank",
-      "gender": "male",
-      "notable_nous": [
-        {
-          "id": "2587442",
-          "title": "NOU 2018: 3 - Krisehåndtering i forsikrings- og pensjonssektoren",
-          "year": 2018,
-          "role": "Medlem"
-        },
-        {
-          "id": "2558711",
-          "title": "NOU 2017: 13 - Ny sentralbanklov. Organisering av Norges Bank og Statens pensjonsfond utland",
-          "year": 2017,
-          "role": "Medlem"
-        },
-        {
-          "id": "2408385",
-          "title": "NOU 2015: 5 - Pensjonslovene og folketrygdreformen IV",
-          "year": 2015,
-          "role": "Medlem"
-        },
-        {
-          "id": "711626",
-          "title": "NOU 2013: 3 - Pensjonslovene og folketrygdreformen III",
-          "year": 2013,
-          "role": "Medlem"
-        }
-      ]
-    },
-    {
-      "rank": 34,
       "name": "Olav Breck",
       "slug": "olav-breck",
       "total_appointments": 21,
@@ -2692,7 +2629,7 @@
       ]
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Øystein Olsen",
       "slug": "oystein-olsen",
       "total_appointments": 21,
@@ -2755,7 +2692,7 @@
       ]
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Hans Haga",
       "slug": "hans-haga",
       "total_appointments": 21,
@@ -2814,7 +2751,128 @@
       ]
     },
     {
+      "rank": 36,
+      "name": "Marius Ryel",
+      "slug": "marius-ryel",
+      "total_appointments": 21,
+      "total_nous": 21,
+      "chair_count": 1,
+      "leader_count": 1,
+      "member_count": 19,
+      "secretariat_count": 1,
+      "primary_role": "Medlem",
+      "primary_roles": [
+        "Utvalsleiar",
+        "Medlem",
+        "Sekretariat"
+      ],
+      "active_years": [
+        1988,
+        2018
+      ],
+      "decades_active": [
+        "1980-talet",
+        "1990-talet",
+        "2000-talet",
+        "2010-talet"
+      ],
+      "active_decades": [
+        "1980-talet",
+        "1990-talet",
+        "2000-talet",
+        "2010-talet"
+      ],
+      "primary_sector": "central_administration",
+      "primary_organization": "Norges Bank",
+      "primary_org": "Norges Bank",
+      "gender": "male",
+      "notable_nous": [
+        {
+          "id": "2587442",
+          "title": "NOU 2018: 3 - Krisehåndtering i forsikrings- og pensjonssektoren",
+          "year": 2018,
+          "role": "Medlem"
+        },
+        {
+          "id": "2558711",
+          "title": "NOU 2017: 13 - Ny sentralbanklov. Organisering av Norges Bank og Statens pensjonsfond utland",
+          "year": 2017,
+          "role": "Medlem"
+        },
+        {
+          "id": "2408385",
+          "title": "NOU 2015: 5 - Pensjonslovene og folketrygdreformen IV",
+          "year": 2015,
+          "role": "Medlem"
+        },
+        {
+          "id": "711626",
+          "title": "NOU 2013: 3 - Pensjonslovene og folketrygdreformen III",
+          "year": 2013,
+          "role": "Medlem"
+        }
+      ]
+    },
+    {
       "rank": 37,
+      "name": "Hans Bjaaland",
+      "slug": "hans-bjaland",
+      "total_appointments": 20,
+      "total_nous": 20,
+      "chair_count": 0,
+      "leader_count": 0,
+      "member_count": 9,
+      "secretariat_count": 11,
+      "primary_role": "Sekretariat",
+      "primary_roles": [
+        "Medlem",
+        "Sekretariat"
+      ],
+      "active_years": [
+        1972,
+        1983
+      ],
+      "decades_active": [
+        "1970-talet",
+        "1980-talet"
+      ],
+      "active_decades": [
+        "1970-talet",
+        "1980-talet"
+      ],
+      "primary_sector": "employer_orgs",
+      "primary_organization": "Næringslivets Hovedorganisasjon (NHO)",
+      "primary_org": "Næringslivets Hovedorganisasjon (NHO)",
+      "gender": "male",
+      "notable_nous": [
+        {
+          "id": "2472668",
+          "title": "NOU 1983: 23 - Om grunnlaget for inntektsoppgjørene 1983",
+          "year": 1983,
+          "role": "Sekretariat"
+        },
+        {
+          "id": "2472591",
+          "title": "NOU 1982: 11 - Om grunnlaget for inntektsoppgjørene 1982",
+          "year": 1982,
+          "role": "Sekretariat"
+        },
+        {
+          "id": "2472995",
+          "title": "NOU 1981: 18 - Om grunnlaget for inntektsoppgjørene 1981",
+          "year": 1981,
+          "role": "Sekretariat"
+        },
+        {
+          "id": "2472972",
+          "title": "NOU 1980: 16 - Om grunnlaget for inntektsoppgjørene 1980",
+          "year": 1980,
+          "role": "Sekretariat"
+        }
+      ]
+    },
+    {
+      "rank": 38,
       "name": "Torill Lødemel",
       "slug": "torill-lodemel",
       "total_appointments": 20,
@@ -2875,120 +2933,61 @@
       ]
     },
     {
-      "rank": 38,
-      "name": "Hans Bjaaland",
-      "slug": "hans-bjaland",
-      "total_appointments": 20,
-      "total_nous": 20,
-      "chair_count": 0,
-      "leader_count": 0,
-      "member_count": 9,
-      "secretariat_count": 11,
-      "primary_role": "Sekretariat",
-      "primary_roles": [
-        "Medlem",
-        "Sekretariat"
-      ],
-      "active_years": [
-        1972,
-        1983
-      ],
-      "decades_active": [
-        "1970-talet",
-        "1980-talet"
-      ],
-      "active_decades": [
-        "1970-talet",
-        "1980-talet"
-      ],
-      "primary_sector": "employer_orgs",
-      "primary_organization": "Næringslivets Hovedorganisasjon (NHO)",
-      "primary_org": "Næringslivets Hovedorganisasjon (NHO)",
-      "gender": "male",
-      "notable_nous": [
-        {
-          "id": "2472668",
-          "title": "NOU 1983: 23 - Om grunnlaget for inntektsoppgjørene 1983",
-          "year": 1983,
-          "role": "Sekretariat"
-        },
-        {
-          "id": "2472591",
-          "title": "NOU 1982: 11 - Om grunnlaget for inntektsoppgjørene 1982",
-          "year": 1982,
-          "role": "Sekretariat"
-        },
-        {
-          "id": "2472995",
-          "title": "NOU 1981: 18 - Om grunnlaget for inntektsoppgjørene 1981",
-          "year": 1981,
-          "role": "Sekretariat"
-        },
-        {
-          "id": "2472972",
-          "title": "NOU 1980: 16 - Om grunnlaget for inntektsoppgjørene 1980",
-          "year": 1980,
-          "role": "Sekretariat"
-        }
-      ]
-    },
-    {
       "rank": 39,
-      "name": "Torstein Slungård",
-      "slug": "torstein-slungard",
+      "name": "Runar Aksnes",
+      "slug": "runar-aksnes",
       "total_appointments": 19,
       "total_nous": 19,
       "chair_count": 0,
       "leader_count": 0,
-      "member_count": 11,
-      "secretariat_count": 8,
-      "primary_role": "Medlem",
+      "member_count": 0,
+      "secretariat_count": 19,
+      "primary_role": "Sekretariat",
       "primary_roles": [
-        "Medlem",
         "Sekretariat"
       ],
       "active_years": [
-        1973,
-        1994
+        2009,
+        2026
       ],
       "decades_active": [
-        "1970-talet",
-        "1980-talet",
-        "1990-talet"
+        "2000-talet",
+        "2010-talet",
+        "2020-talet"
       ],
       "active_decades": [
-        "1970-talet",
-        "1980-talet",
-        "1990-talet"
+        "2000-talet",
+        "2010-talet",
+        "2020-talet"
       ],
       "primary_sector": "central_administration",
-      "primary_organization": "Orkdal 11. Formann i Norsk Kommuneforbund",
-      "primary_org": "Orkdal 11. Formann i Norsk Kommuneforbund",
+      "primary_organization": "Finansdepartementet",
+      "primary_org": "Finansdepartementet",
       "gender": "male",
       "notable_nous": [
         {
-          "id": "115340",
-          "title": "NOU 1994: 6 - Private pensjonsordninger",
-          "year": 1994,
+          "id": "3155079",
+          "title": "NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
+          "year": 2026,
           "role": "Sekretariat"
         },
         {
-          "id": "digibok_2014013008065",
-          "title": "NOU 1985: 25 - Regional fordeling av oljerelatert konsulentvirksomhet",
-          "year": 1985,
-          "role": "Medlem"
+          "id": "3094178",
+          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
+          "year": 2025,
+          "role": "Sekretariat"
         },
         {
-          "id": "digibok_2013061808006",
-          "title": "NOU 1981: 8 - Justisdepartementet – funksjonsfordeling og administrasjonsordninger",
-          "year": 1981,
-          "role": "Medlem"
+          "id": "3031371",
+          "title": "NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
+          "year": 2024,
+          "role": "Sekretariat"
         },
         {
-          "id": "digibok_2008060200024",
-          "title": "NOU 1979: 10 - Helsepolitikken",
-          "year": 1979,
-          "role": "Medlem"
+          "id": "2969960",
+          "title": "NOU 2023: 12 - Grunnlaget for inntektsoppgjørene 2023",
+          "year": 2023,
+          "role": "Sekretariat"
         }
       ]
     },
@@ -3111,65 +3110,6 @@
     },
     {
       "rank": 42,
-      "name": "Runar Aksnes",
-      "slug": "runar-aksnes",
-      "total_appointments": 19,
-      "total_nous": 19,
-      "chair_count": 0,
-      "leader_count": 0,
-      "member_count": 0,
-      "secretariat_count": 19,
-      "primary_role": "Sekretariat",
-      "primary_roles": [
-        "Sekretariat"
-      ],
-      "active_years": [
-        2009,
-        2026
-      ],
-      "decades_active": [
-        "2000-talet",
-        "2010-talet",
-        "2020-talet"
-      ],
-      "active_decades": [
-        "2000-talet",
-        "2010-talet",
-        "2020-talet"
-      ],
-      "primary_sector": "central_administration",
-      "primary_organization": "Finansdepartementet",
-      "primary_org": "Finansdepartementet",
-      "gender": "male",
-      "notable_nous": [
-        {
-          "id": "3155079",
-          "title": "NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
-          "year": 2026,
-          "role": "Sekretariat"
-        },
-        {
-          "id": "3094178",
-          "title": "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025",
-          "year": 2025,
-          "role": "Sekretariat"
-        },
-        {
-          "id": "3031371",
-          "title": "NOU 2024: 6 - Grunnlaget for inntektsoppgjørene 2024",
-          "year": 2024,
-          "role": "Sekretariat"
-        },
-        {
-          "id": "2969960",
-          "title": "NOU 2023: 12 - Grunnlaget for inntektsoppgjørene 2023",
-          "year": 2023,
-          "role": "Sekretariat"
-        }
-      ]
-    },
-    {
-      "rank": 43,
       "name": "Bergfrid Fjose",
       "slug": "bergfrid-fjose",
       "total_appointments": 19,
@@ -3197,7 +3137,7 @@
       "primary_sector": "central_administration",
       "primary_organization": "Orkdal 11. Formann i Norsk Kommuneforbund",
       "primary_org": "Orkdal 11. Formann i Norsk Kommuneforbund",
-      "gender": "unknown",
+      "gender": "female",
       "notable_nous": [
         {
           "id": "digibok_2015051926002",
@@ -3226,23 +3166,23 @@
       ]
     },
     {
-      "rank": 44,
-      "name": "Juul Bjerke",
-      "slug": "juul-bjerke",
-      "total_appointments": 18,
-      "total_nous": 18,
-      "chair_count": 1,
-      "leader_count": 1,
-      "member_count": 17,
-      "secretariat_count": 0,
+      "rank": 43,
+      "name": "Torstein Slungård",
+      "slug": "torstein-slungard",
+      "total_appointments": 19,
+      "total_nous": 19,
+      "chair_count": 0,
+      "leader_count": 0,
+      "member_count": 11,
+      "secretariat_count": 8,
       "primary_role": "Medlem",
       "primary_roles": [
-        "Utvalsleiar",
-        "Medlem"
+        "Medlem",
+        "Sekretariat"
       ],
       "active_years": [
-        1975,
-        1991
+        1973,
+        1994
       ],
       "decades_active": [
         "1970-talet",
@@ -3254,39 +3194,39 @@
         "1980-talet",
         "1990-talet"
       ],
-      "primary_sector": "employer_orgs",
-      "primary_organization": "Norges Bondelag",
-      "primary_org": "Norges Bondelag",
-      "gender": "unknown",
+      "primary_sector": "central_administration",
+      "primary_organization": "Samferdselsdepartementet",
+      "primary_org": "Samferdselsdepartementet",
+      "gender": "male",
       "notable_nous": [
         {
-          "id": "2472777",
-          "title": "NOU 1991: 21 - Om grunnlaget for inntektsoppgjørene 1990",
-          "year": 1991,
+          "id": "115340",
+          "title": "NOU 1994: 6 - Private pensjonsordninger",
+          "year": 1994,
+          "role": "Sekretariat"
+        },
+        {
+          "id": "digibok_2014013008065",
+          "title": "NOU 1985: 25 - Regional fordeling av oljerelatert konsulentvirksomhet",
+          "year": 1985,
           "role": "Medlem"
         },
         {
-          "id": "digibok_2007082304004",
-          "title": "NOU 1991: 2 - B Norsk landbrukspolitikk. Hovedinnstilling",
-          "year": 1991,
+          "id": "digibok_2013061808006",
+          "title": "NOU 1981: 8 - Justisdepartementet – funksjonsfordeling og administrasjonsordninger",
+          "year": 1981,
           "role": "Medlem"
         },
         {
-          "id": "digibok_2007082404052",
-          "title": "NOU 1991: 2 - A Norsk landbrukspolitikk. Sammendrag",
-          "year": 1991,
-          "role": "Medlem"
-        },
-        {
-          "id": "digibok_2007110104083",
-          "title": "NOU 1991: 27 - Konkurranse for effektiv ressursbruk",
-          "year": 1991,
+          "id": "digibok_2012071705198",
+          "title": "NOU 1979: 44 - Nytt inntektssystem for fylkeskommunene",
+          "year": 1979,
           "role": "Medlem"
         }
       ]
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Roger Bjørnstad",
       "slug": "roger-bjornstad",
       "total_appointments": 18,
@@ -3316,7 +3256,7 @@
       "primary_sector": "labor_unions",
       "primary_organization": "Landsorganisasjonen i Norge (LO)",
       "primary_org": "Landsorganisasjonen i Norge (LO)",
-      "gender": "unknown",
+      "gender": "male",
       "notable_nous": [
         {
           "id": "3155079",
@@ -3340,6 +3280,66 @@
           "id": "3045067",
           "title": "NOU 2024: 11 - Lavlønn i Norge",
           "year": 2024,
+          "role": "Medlem"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "name": "Juul Bjerke",
+      "slug": "juul-bjerke",
+      "total_appointments": 18,
+      "total_nous": 18,
+      "chair_count": 1,
+      "leader_count": 1,
+      "member_count": 17,
+      "secretariat_count": 0,
+      "primary_role": "Medlem",
+      "primary_roles": [
+        "Utvalsleiar",
+        "Medlem"
+      ],
+      "active_years": [
+        1975,
+        1991
+      ],
+      "decades_active": [
+        "1970-talet",
+        "1980-talet",
+        "1990-talet"
+      ],
+      "active_decades": [
+        "1970-talet",
+        "1980-talet",
+        "1990-talet"
+      ],
+      "primary_sector": "labor_unions",
+      "primary_organization": "Landsorganisasjonen i Norge (LO)",
+      "primary_org": "Landsorganisasjonen i Norge (LO)",
+      "gender": "male",
+      "notable_nous": [
+        {
+          "id": "2472777",
+          "title": "NOU 1991: 21 - Om grunnlaget for inntektsoppgjørene 1990",
+          "year": 1991,
+          "role": "Medlem"
+        },
+        {
+          "id": "digibok_2007082304004",
+          "title": "NOU 1991: 2 - B Norsk landbrukspolitikk. Hovedinnstilling",
+          "year": 1991,
+          "role": "Medlem"
+        },
+        {
+          "id": "digibok_2007082404052",
+          "title": "NOU 1991: 2 - A Norsk landbrukspolitikk. Sammendrag",
+          "year": 1991,
+          "role": "Medlem"
+        },
+        {
+          "id": "digibok_2007110104083",
+          "title": "NOU 1991: 27 - Konkurranse for effektiv ressursbruk",
+          "year": 1991,
           "role": "Medlem"
         }
       ]
@@ -3404,65 +3404,61 @@
     },
     {
       "rank": 47,
-      "name": "Hans Henrik Scheel",
-      "slug": "hans-henrik-scheel",
+      "name": "Kari Lærum",
+      "slug": "kari-laerum",
       "total_appointments": 17,
       "total_nous": 17,
-      "chair_count": 1,
-      "leader_count": 1,
-      "member_count": 16,
-      "secretariat_count": 0,
-      "primary_role": "Medlem",
+      "chair_count": 0,
+      "leader_count": 0,
+      "member_count": 2,
+      "secretariat_count": 15,
+      "primary_role": "Sekretariat",
       "primary_roles": [
-        "Utvalsleiar",
-        "Medlem"
+        "Medlem",
+        "Sekretariat"
       ],
       "active_years": [
-        1989,
-        2025
+        1999,
+        2012
       ],
       "decades_active": [
-        "1980-talet",
         "1990-talet",
         "2000-talet",
-        "2010-talet",
-        "2020-talet"
+        "2010-talet"
       ],
       "active_decades": [
-        "1980-talet",
         "1990-talet",
         "2000-talet",
-        "2010-talet",
-        "2020-talet"
+        "2010-talet"
       ],
       "primary_sector": "central_administration",
-      "primary_organization": "Finansdepartementet",
-      "primary_org": "Finansdepartementet",
-      "gender": "male",
+      "primary_organization": "Norges Bank",
+      "primary_org": "Norges Bank",
+      "gender": "female",
       "notable_nous": [
         {
-          "id": "3141191",
-          "title": "NOU 2025: 11 - Revidert konkurranselov",
-          "year": 2025,
-          "role": "Medlem"
+          "id": "668872",
+          "title": "NOU 2012: 3 - Fripoliser og kapitalkrav",
+          "year": 2012,
+          "role": "Sekretariat"
         },
         {
-          "id": "2342691",
-          "title": "NOU 2014: 13 - Kapitalbeskatning og finansiell stabilitet",
-          "year": 2014,
-          "role": "Utvalsleiar"
+          "id": "696306",
+          "title": "NOU 2012: 13 - Pensjonslovene og folketrygdreformen II",
+          "year": 2012,
+          "role": "Sekretariat"
         },
         {
-          "id": "381734",
-          "title": "NOU 2003: 9 - Skatteutvalget",
-          "year": 2003,
-          "role": "Medlem"
+          "id": "644161",
+          "title": "NOU 2011: 8 - Ny finanslovgivning",
+          "year": 2011,
+          "role": "Sekretariat"
         },
         {
-          "id": "116391",
-          "title": "NOU 1998: 5 - Reform 97 - Investeringer i skolelokaler",
-          "year": 1998,
-          "role": "Medlem"
+          "id": "543313",
+          "title": "NOU 2009: 02 - Kapital- og organisasjonsformer i sparebanksektoren",
+          "year": 2009,
+          "role": "Sekretariat"
         }
       ]
     },
@@ -3530,66 +3526,6 @@
     },
     {
       "rank": 49,
-      "name": "Kari Lærum",
-      "slug": "kari-laerum",
-      "total_appointments": 17,
-      "total_nous": 17,
-      "chair_count": 0,
-      "leader_count": 0,
-      "member_count": 2,
-      "secretariat_count": 15,
-      "primary_role": "Sekretariat",
-      "primary_roles": [
-        "Medlem",
-        "Sekretariat"
-      ],
-      "active_years": [
-        1999,
-        2012
-      ],
-      "decades_active": [
-        "1990-talet",
-        "2000-talet",
-        "2010-talet"
-      ],
-      "active_decades": [
-        "1990-talet",
-        "2000-talet",
-        "2010-talet"
-      ],
-      "primary_sector": "central_administration",
-      "primary_organization": "Norges Bank",
-      "primary_org": "Norges Bank",
-      "gender": "female",
-      "notable_nous": [
-        {
-          "id": "668872",
-          "title": "NOU 2012: 3 - Fripoliser og kapitalkrav",
-          "year": 2012,
-          "role": "Sekretariat"
-        },
-        {
-          "id": "696306",
-          "title": "NOU 2012: 13 - Pensjonslovene og folketrygdreformen II",
-          "year": 2012,
-          "role": "Sekretariat"
-        },
-        {
-          "id": "644161",
-          "title": "NOU 2011: 8 - Ny finanslovgivning",
-          "year": 2011,
-          "role": "Sekretariat"
-        },
-        {
-          "id": "543313",
-          "title": "NOU 2009: 02 - Kapital- og organisasjonsformer i sparebanksektoren",
-          "year": 2009,
-          "role": "Sekretariat"
-        }
-      ]
-    },
-    {
-      "rank": 50,
       "name": "Thorleif Nilsen",
       "slug": "thorleif-nilsen",
       "total_appointments": 17,
@@ -3617,7 +3553,7 @@
       "primary_sector": "central_administration",
       "primary_organization": "Orkdal 11. Formann i Norsk Kommuneforbund",
       "primary_org": "Orkdal 11. Formann i Norsk Kommuneforbund",
-      "gender": "unknown",
+      "gender": "male",
       "notable_nous": [
         {
           "id": "digibok_2013061808006",
@@ -3626,14 +3562,14 @@
           "role": "Medlem"
         },
         {
-          "id": "digibok_2008060200024",
-          "title": "NOU 1979: 10 - Helsepolitikken",
+          "id": "digibok_2012071705198",
+          "title": "NOU 1979: 44 - Nytt inntektssystem for fylkeskommunene",
           "year": 1979,
           "role": "Medlem"
         },
         {
-          "id": "digibok_2012071705198",
-          "title": "NOU 1979: 44 - Nytt inntektssystem for fylkeskommunene",
+          "id": "digibok_2008060200024",
+          "title": "NOU 1979: 10 - Helsepolitikken",
           "year": 1979,
           "role": "Medlem"
         },
@@ -3646,23 +3582,88 @@
       ]
     },
     {
-      "rank": 51,
-      "name": "Randi Wilhelmsen",
-      "slug": "randi-wilhelmsen",
-      "total_appointments": 16,
-      "total_nous": 16,
-      "chair_count": 0,
-      "leader_count": 0,
-      "member_count": 9,
-      "secretariat_count": 7,
+      "rank": 50,
+      "name": "Hans Henrik Scheel",
+      "slug": "hans-henrik-scheel",
+      "total_appointments": 17,
+      "total_nous": 17,
+      "chair_count": 1,
+      "leader_count": 1,
+      "member_count": 16,
+      "secretariat_count": 0,
       "primary_role": "Medlem",
       "primary_roles": [
+        "Utvalsleiar",
+        "Medlem"
+      ],
+      "active_years": [
+        1989,
+        2025
+      ],
+      "decades_active": [
+        "1980-talet",
+        "1990-talet",
+        "2000-talet",
+        "2010-talet",
+        "2020-talet"
+      ],
+      "active_decades": [
+        "1980-talet",
+        "1990-talet",
+        "2000-talet",
+        "2010-talet",
+        "2020-talet"
+      ],
+      "primary_sector": "central_administration",
+      "primary_organization": "Finansdepartementet",
+      "primary_org": "Finansdepartementet",
+      "gender": "male",
+      "notable_nous": [
+        {
+          "id": "3141191",
+          "title": "NOU 2025: 11 - Revidert konkurranselov",
+          "year": 2025,
+          "role": "Medlem"
+        },
+        {
+          "id": "2342691",
+          "title": "NOU 2014: 13 - Kapitalbeskatning og finansiell stabilitet",
+          "year": 2014,
+          "role": "Utvalsleiar"
+        },
+        {
+          "id": "381734",
+          "title": "NOU 2003: 9 - Skatteutvalget",
+          "year": 2003,
+          "role": "Medlem"
+        },
+        {
+          "id": "116391",
+          "title": "NOU 1998: 5 - Reform 97 - Investeringer i skolelokaler",
+          "year": 1998,
+          "role": "Medlem"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "name": "Karin M. Bruzelius",
+      "slug": "karin-m-bruzelius",
+      "total_appointments": 16,
+      "total_nous": 16,
+      "chair_count": 4,
+      "leader_count": 4,
+      "member_count": 11,
+      "secretariat_count": 1,
+      "primary_role": "Medlem",
+      "primary_roles": [
+        "Utvalsleiar",
         "Medlem",
         "Sekretariat"
       ],
       "active_years": [
-        1978,
-        2003
+        1975,
+        2005
       ],
       "decades_active": [
         "1970-talet",
@@ -3677,38 +3678,95 @@
         "2000-talet"
       ],
       "primary_sector": "central_administration",
-      "primary_organization": "Forbruker- og administrasjonsdepartementet",
-      "primary_org": "Forbruker- og administrasjonsdepartementet",
+      "primary_organization": "Samferdselsdepartementet",
+      "primary_org": "Samferdselsdepartementet",
       "gender": "female",
       "notable_nous": [
         {
-          "id": "118861",
-          "title": "NOU 2003: 12 - Ny konkurranselov",
-          "year": 2003,
+          "id": "120053",
+          "title": "NOU 2005: 17 - Om overtakelsestilbud (tilbudsplikt og frivillige tilbud ved oppkjøp av selskaper)",
+          "year": 2005,
+          "role": "Utvalsleiar"
+        },
+        {
+          "id": "387683",
+          "title": "NOU 2004: 21 - Erstatningsansvar ved sjøtransport av farlig gods",
+          "year": 2004,
           "role": "Medlem"
         },
         {
-          "id": "378405",
-          "title": "NOU 2001: 28 - Delinnstilling om endringer i konkurranselovgivningen",
-          "year": 2001,
+          "id": "145599",
+          "title": "NOU 2002: 15 - Ansvar for oppryddingstiltak etter sjøulykker",
+          "year": 2002,
           "role": "Medlem"
         },
         {
-          "id": "117571",
-          "title": "NOU 2000: 21 - En strategi for sysselsetting og verdiskaping",
-          "year": 2000,
-          "role": "Medlem"
-        },
-        {
-          "id": "142327",
-          "title": "NOU 1999: 34 - Nytt millennium – nytt arbeidsliv?",
+          "id": "142106",
+          "title": "NOU 1999: 26 - Konvergens",
           "year": 1999,
-          "role": "Medlem"
+          "role": "Utvalsleiar"
         }
       ]
     },
     {
       "rank": 52,
+      "name": "Sverre Dyrhaug",
+      "slug": "sverre-dyrhaug",
+      "total_appointments": 16,
+      "total_nous": 16,
+      "chair_count": 0,
+      "leader_count": 0,
+      "member_count": 16,
+      "secretariat_count": 0,
+      "primary_role": "Medlem",
+      "primary_roles": [
+        "Medlem"
+      ],
+      "active_years": [
+        2003,
+        2018
+      ],
+      "decades_active": [
+        "2000-talet",
+        "2010-talet"
+      ],
+      "active_decades": [
+        "2000-talet",
+        "2010-talet"
+      ],
+      "primary_sector": "employer_orgs",
+      "primary_organization": "Finans Norge",
+      "primary_org": "Finans Norge",
+      "gender": "male",
+      "notable_nous": [
+        {
+          "id": "2587442",
+          "title": "NOU 2018: 3 - Krisehåndtering i forsikrings- og pensjonssektoren",
+          "year": 2018,
+          "role": "Medlem"
+        },
+        {
+          "id": "668872",
+          "title": "NOU 2012: 3 - Fripoliser og kapitalkrav",
+          "year": 2012,
+          "role": "Medlem"
+        },
+        {
+          "id": "644161",
+          "title": "NOU 2011: 8 - Ny finanslovgivning",
+          "year": 2011,
+          "role": "Medlem"
+        },
+        {
+          "id": "603907",
+          "title": "NOU 2010: 06 - Pensjonslovene og folketrygdreformen I",
+          "year": 2010,
+          "role": "Medlem"
+        }
+      ]
+    },
+    {
+      "rank": 53,
       "name": "Hans Petter Graver",
       "slug": "hans-petter-graver",
       "total_appointments": 16,
@@ -3773,81 +3831,23 @@
       ]
     },
     {
-      "rank": 53,
-      "name": "Sverre Dyrhaug",
-      "slug": "sverre-dyrhaug",
+      "rank": 54,
+      "name": "Randi Wilhelmsen",
+      "slug": "randi-wilhelmsen",
       "total_appointments": 16,
       "total_nous": 16,
       "chair_count": 0,
       "leader_count": 0,
-      "member_count": 16,
-      "secretariat_count": 0,
+      "member_count": 9,
+      "secretariat_count": 7,
       "primary_role": "Medlem",
       "primary_roles": [
-        "Medlem"
-      ],
-      "active_years": [
-        2003,
-        2018
-      ],
-      "decades_active": [
-        "2000-talet",
-        "2010-talet"
-      ],
-      "active_decades": [
-        "2000-talet",
-        "2010-talet"
-      ],
-      "primary_sector": "employer_orgs",
-      "primary_organization": "Finans Norge",
-      "primary_org": "Finans Norge",
-      "gender": "male",
-      "notable_nous": [
-        {
-          "id": "2587442",
-          "title": "NOU 2018: 3 - Krisehåndtering i forsikrings- og pensjonssektoren",
-          "year": 2018,
-          "role": "Medlem"
-        },
-        {
-          "id": "668872",
-          "title": "NOU 2012: 3 - Fripoliser og kapitalkrav",
-          "year": 2012,
-          "role": "Medlem"
-        },
-        {
-          "id": "644161",
-          "title": "NOU 2011: 8 - Ny finanslovgivning",
-          "year": 2011,
-          "role": "Medlem"
-        },
-        {
-          "id": "603907",
-          "title": "NOU 2010: 06 - Pensjonslovene og folketrygdreformen I",
-          "year": 2010,
-          "role": "Medlem"
-        }
-      ]
-    },
-    {
-      "rank": 54,
-      "name": "Karin M. Bruzelius",
-      "slug": "karin-m-bruzelius",
-      "total_appointments": 16,
-      "total_nous": 16,
-      "chair_count": 4,
-      "leader_count": 4,
-      "member_count": 11,
-      "secretariat_count": 1,
-      "primary_role": "Medlem",
-      "primary_roles": [
-        "Utvalsleiar",
         "Medlem",
         "Sekretariat"
       ],
       "active_years": [
-        1975,
-        2005
+        1978,
+        2003
       ],
       "decades_active": [
         "1970-talet",
@@ -3862,38 +3862,98 @@
         "2000-talet"
       ],
       "primary_sector": "central_administration",
-      "primary_organization": "Samferdselsdepartementet",
-      "primary_org": "Samferdselsdepartementet",
+      "primary_organization": "Forbruker- og administrasjonsdepartementet",
+      "primary_org": "Forbruker- og administrasjonsdepartementet",
       "gender": "female",
       "notable_nous": [
         {
-          "id": "120053",
-          "title": "NOU 2005: 17 - Om overtakelsestilbud (tilbudsplikt og frivillige tilbud ved oppkjøp av selskaper)",
-          "year": 2005,
-          "role": "Utvalsleiar"
-        },
-        {
-          "id": "387683",
-          "title": "NOU 2004: 21 - Erstatningsansvar ved sjøtransport av farlig gods",
-          "year": 2004,
+          "id": "118861",
+          "title": "NOU 2003: 12 - Ny konkurranselov",
+          "year": 2003,
           "role": "Medlem"
         },
         {
-          "id": "145599",
-          "title": "NOU 2002: 15 - Ansvar for oppryddingstiltak etter sjøulykker",
-          "year": 2002,
+          "id": "378405",
+          "title": "NOU 2001: 28 - Delinnstilling om endringer i konkurranselovgivningen",
+          "year": 2001,
           "role": "Medlem"
         },
         {
-          "id": "142106",
-          "title": "NOU 1999: 26 - Konvergens",
+          "id": "117571",
+          "title": "NOU 2000: 21 - En strategi for sysselsetting og verdiskaping",
+          "year": 2000,
+          "role": "Medlem"
+        },
+        {
+          "id": "142327",
+          "title": "NOU 1999: 34 - Nytt millennium – nytt arbeidsliv?",
           "year": 1999,
-          "role": "Utvalsleiar"
+          "role": "Medlem"
         }
       ]
     },
     {
       "rank": 55,
+      "name": "Yngvar Tveit",
+      "slug": "yngvar-tveit",
+      "total_appointments": 15,
+      "total_nous": 15,
+      "chair_count": 0,
+      "leader_count": 0,
+      "member_count": 11,
+      "secretariat_count": 4,
+      "primary_role": "Medlem",
+      "primary_roles": [
+        "Medlem",
+        "Sekretariat"
+      ],
+      "active_years": [
+        2003,
+        2026
+      ],
+      "decades_active": [
+        "2000-talet",
+        "2010-talet",
+        "2020-talet"
+      ],
+      "active_decades": [
+        "2000-talet",
+        "2010-talet",
+        "2020-talet"
+      ],
+      "primary_sector": "central_administration",
+      "primary_organization": "Finansdepartementet",
+      "primary_org": "Finansdepartementet",
+      "gender": "male",
+      "notable_nous": [
+        {
+          "id": "3177462",
+          "title": "NOU 2026: 11 - En ansvarlig, finansiell forvaltning",
+          "year": 2026,
+          "role": "Sekretariat"
+        },
+        {
+          "id": "2928618",
+          "title": "NOU 2022: 12 - Fondet i en brytningstid",
+          "year": 2022,
+          "role": "Sekretariat"
+        },
+        {
+          "id": "2706536",
+          "title": "NOU 2020: 7 - Verdier og ansvar",
+          "year": 2020,
+          "role": "Sekretariat"
+        },
+        {
+          "id": "2558711",
+          "title": "NOU 2017: 13 - Ny sentralbanklov. Organisering av Norges Bank og Statens pensjonsfond utland",
+          "year": 2017,
+          "role": "Sekretariat"
+        }
+      ]
+    },
+    {
+      "rank": 56,
       "name": "Arnulf Leirpoll",
       "slug": "arnulf-leirpoll",
       "total_appointments": 15,
@@ -3925,10 +3985,10 @@
         "2000-talet",
         "2010-talet"
       ],
-      "primary_sector": "central_administration",
-      "primary_organization": "Arbeids- og administrasjonsdepartementet",
-      "primary_org": "Arbeids- og administrasjonsdepartementet",
-      "gender": "unknown",
+      "primary_sector": "academia_research",
+      "primary_organization": "Statistisk sentralbyrå (SSB)",
+      "primary_org": "Statistisk sentralbyrå (SSB)",
+      "gender": "male",
       "notable_nous": [
         {
           "id": "603411",
@@ -3957,185 +4017,7 @@
       ]
     },
     {
-      "rank": 56,
-      "name": "Ådne Cappelen",
-      "slug": "adne-cappelen",
-      "total_appointments": 15,
-      "total_nous": 15,
-      "chair_count": 11,
-      "leader_count": 11,
-      "member_count": 4,
-      "secretariat_count": 0,
-      "primary_role": "Utvalsleiar",
-      "primary_roles": [
-        "Utvalsleiar",
-        "Medlem"
-      ],
-      "active_years": [
-        1988,
-        2019
-      ],
-      "decades_active": [
-        "1980-talet",
-        "2000-talet",
-        "2010-talet"
-      ],
-      "active_decades": [
-        "1980-talet",
-        "2000-talet",
-        "2010-talet"
-      ],
-      "primary_sector": "academia_research",
-      "primary_organization": "Statistisk sentralbyrå (SSB)",
-      "primary_org": "Statistisk sentralbyrå (SSB)",
-      "gender": "unknown",
-      "notable_nous": [
-        {
-          "id": "2638735",
-          "title": "NOU 2019: 6 - Grunnlaget for inntektsoppgjørene 2019",
-          "year": 2019,
-          "role": "Utvalsleiar"
-        },
-        {
-          "id": "2595170",
-          "title": "NOU 2018: 8 - Grunnlaget for inntektsoppgjørene 2018",
-          "year": 2018,
-          "role": "Utvalsleiar"
-        },
-        {
-          "id": "2551919",
-          "title": "NOU 2017: 10 - Grunnlaget for inntektsoppgjørene 2017",
-          "year": 2017,
-          "role": "Utvalsleiar"
-        },
-        {
-          "id": "2498351",
-          "title": "NOU 2016: 6 - Grunnlaget for inntektsoppgjørene 2016",
-          "year": 2016,
-          "role": "Utvalsleiar"
-        }
-      ]
-    },
-    {
       "rank": 57,
-      "name": "Per Eggum Mauseth",
-      "slug": "per-eggum-mauseth",
-      "total_appointments": 15,
-      "total_nous": 15,
-      "chair_count": 0,
-      "leader_count": 0,
-      "member_count": 15,
-      "secretariat_count": 0,
-      "primary_role": "Medlem",
-      "primary_roles": [
-        "Medlem"
-      ],
-      "active_years": [
-        1976,
-        2002
-      ],
-      "decades_active": [
-        "1970-talet",
-        "1980-talet",
-        "1990-talet",
-        "2000-talet"
-      ],
-      "active_decades": [
-        "1970-talet",
-        "1980-talet",
-        "1990-talet",
-        "2000-talet"
-      ],
-      "primary_sector": "central_administration",
-      "primary_organization": "Norsk Boligbyggelags Landsforbund",
-      "primary_org": "Norsk Boligbyggelags Landsforbund",
-      "gender": "male",
-      "notable_nous": [
-        {
-          "id": "145338",
-          "title": "NOU 2002: 2 - Boligmarkedene og boligpolitikken",
-          "year": 2002,
-          "role": "Medlem"
-        },
-        {
-          "id": "428252",
-          "title": "NOU 2000: 17 - Burettslovene",
-          "year": 2000,
-          "role": "Medlem"
-        },
-        {
-          "id": "141308",
-          "title": "NOU 1998: 11 - Energi- og kraftbalansen mot 2020",
-          "year": 1998,
-          "role": "Medlem"
-        },
-        {
-          "id": "digibok_2008072400027",
-          "title": "NOU 1988: 38 - Nye mål og retningslinjer for reformer i lokalforvaltningen",
-          "year": 1988,
-          "role": "Medlem"
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "name": "Bente Øverli",
-      "slug": "bente-overli",
-      "total_appointments": 15,
-      "total_nous": 15,
-      "chair_count": 0,
-      "leader_count": 0,
-      "member_count": 15,
-      "secretariat_count": 0,
-      "primary_role": "Medlem",
-      "primary_roles": [
-        "Medlem"
-      ],
-      "active_years": [
-        2007,
-        2018
-      ],
-      "decades_active": [
-        "2000-talet",
-        "2010-talet"
-      ],
-      "active_decades": [
-        "2000-talet",
-        "2010-talet"
-      ],
-      "primary_sector": "central_administration",
-      "primary_organization": "Sentralforvaltning",
-      "primary_org": "Sentralforvaltning",
-      "gender": "female",
-      "notable_nous": [
-        {
-          "id": "2587442",
-          "title": "NOU 2018: 3 - Krisehåndtering i forsikrings- og pensjonssektoren",
-          "year": 2018,
-          "role": "Medlem"
-        },
-        {
-          "id": "2408385",
-          "title": "NOU 2015: 5 - Pensjonslovene og folketrygdreformen IV",
-          "year": 2015,
-          "role": "Medlem"
-        },
-        {
-          "id": "711626",
-          "title": "NOU 2013: 3 - Pensjonslovene og folketrygdreformen III",
-          "year": 2013,
-          "role": "Medlem"
-        },
-        {
-          "id": "747196",
-          "title": "NOU 2013: 12 - Uførepensjon i private tjenestepensjonsordninger",
-          "year": 2013,
-          "role": "Medlem"
-        }
-      ]
-    },
-    {
-      "rank": 59,
       "name": "Øystein Dørum",
       "slug": "oystein-dorum",
       "total_appointments": 15,
@@ -4195,7 +4077,7 @@
       ]
     },
     {
-      "rank": 60,
+      "rank": 58,
       "name": "Dagfin Juel",
       "slug": "dagfin-juel",
       "total_appointments": 15,
@@ -4221,17 +4103,17 @@
       "primary_sector": "central_administration",
       "primary_organization": "Orkdal 11. Formann i Norsk Kommuneforbund",
       "primary_org": "Orkdal 11. Formann i Norsk Kommuneforbund",
-      "gender": "unknown",
+      "gender": "male",
       "notable_nous": [
         {
-          "id": "digibok_2008060200024",
-          "title": "NOU 1979: 10 - Helsepolitikken",
+          "id": "digibok_2012071705198",
+          "title": "NOU 1979: 44 - Nytt inntektssystem for fylkeskommunene",
           "year": 1979,
           "role": "Utvalsleiar"
         },
         {
-          "id": "digibok_2012071705198",
-          "title": "NOU 1979: 44 - Nytt inntektssystem for fylkeskommunene",
+          "id": "digibok_2008060200024",
+          "title": "NOU 1979: 10 - Helsepolitikken",
           "year": 1979,
           "role": "Utvalsleiar"
         },
@@ -4248,6 +4130,127 @@
           "role": "Utvalsleiar"
         }
       ]
+    },
+    {
+      "rank": 59,
+      "name": "Per Eggum Mauseth",
+      "slug": "per-eggum-mauseth",
+      "total_appointments": 15,
+      "total_nous": 15,
+      "chair_count": 0,
+      "leader_count": 0,
+      "member_count": 15,
+      "secretariat_count": 0,
+      "primary_role": "Medlem",
+      "primary_roles": [
+        "Medlem"
+      ],
+      "active_years": [
+        1976,
+        2002
+      ],
+      "decades_active": [
+        "1970-talet",
+        "1980-talet",
+        "1990-talet",
+        "2000-talet"
+      ],
+      "active_decades": [
+        "1970-talet",
+        "1980-talet",
+        "1990-talet",
+        "2000-talet"
+      ],
+      "primary_sector": "labor_unions",
+      "primary_organization": "Landsorganisasjonen i Norge (LO)",
+      "primary_org": "Landsorganisasjonen i Norge (LO)",
+      "gender": "male",
+      "notable_nous": [
+        {
+          "id": "145338",
+          "title": "NOU 2002: 2 - Boligmarkedene og boligpolitikken",
+          "year": 2002,
+          "role": "Medlem"
+        },
+        {
+          "id": "428252",
+          "title": "NOU 2000: 17 - Burettslovene",
+          "year": 2000,
+          "role": "Medlem"
+        },
+        {
+          "id": "141308",
+          "title": "NOU 1998: 11 - Energi- og kraftbalansen mot 2020",
+          "year": 1998,
+          "role": "Medlem"
+        },
+        {
+          "id": "digibok_2008072400027",
+          "title": "NOU 1988: 38 - Nye mål og retningslinjer for reformer i lokalforvaltningen",
+          "year": 1988,
+          "role": "Medlem"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "name": "Ådne Cappelen",
+      "slug": "adne-cappelen",
+      "total_appointments": 15,
+      "total_nous": 15,
+      "chair_count": 11,
+      "leader_count": 11,
+      "member_count": 4,
+      "secretariat_count": 0,
+      "primary_role": "Utvalsleiar",
+      "primary_roles": [
+        "Utvalsleiar",
+        "Medlem"
+      ],
+      "active_years": [
+        1988,
+        2019
+      ],
+      "decades_active": [
+        "1980-talet",
+        "2000-talet",
+        "2010-talet"
+      ],
+      "active_decades": [
+        "1980-talet",
+        "2000-talet",
+        "2010-talet"
+      ],
+      "primary_sector": "academia_research",
+      "primary_organization": "Statistisk sentralbyrå (SSB)",
+      "primary_org": "Statistisk sentralbyrå (SSB)",
+      "gender": "male",
+      "notable_nous": [
+        {
+          "id": "2638735",
+          "title": "NOU 2019: 6 - Grunnlaget for inntektsoppgjørene 2019",
+          "year": 2019,
+          "role": "Utvalsleiar"
+        },
+        {
+          "id": "2595170",
+          "title": "NOU 2018: 8 - Grunnlaget for inntektsoppgjørene 2018",
+          "year": 2018,
+          "role": "Utvalsleiar"
+        },
+        {
+          "id": "2551919",
+          "title": "NOU 2017: 10 - Grunnlaget for inntektsoppgjørene 2017",
+          "year": 2017,
+          "role": "Utvalsleiar"
+        },
+        {
+          "id": "2498351",
+          "title": "NOU 2016: 6 - Grunnlaget for inntektsoppgjørene 2016",
+          "year": 2016,
+          "role": "Utvalsleiar"
+        }
+      ]
     }
   ],
   "ministry_rankings": [
@@ -4257,11 +4260,11 @@
       "total_nous": 158,
       "total_appointees": 1597,
       "total_chairs": 158,
-      "female_chairs": 20,
-      "female_member_ratio": 0.323,
-      "female_chair_ratio": 0.127,
-      "female_ratio_pct": 29.9,
-      "female_chair_ratio_pct": 12.7,
+      "female_chairs": 27,
+      "female_member_ratio": 0.374,
+      "female_chair_ratio": 0.171,
+      "female_ratio_pct": 35.4,
+      "female_chair_ratio_pct": 17.1,
       "dominant_sectors": [
         "academia_research",
         "central_administration"
@@ -4282,24 +4285,24 @@
     {
       "ministry_code": "FIN",
       "ministry_name": "Finansdepartementet",
-      "total_nous": 144,
-      "total_appointees": 2186,
-      "total_chairs": 144,
-      "female_chairs": 8,
-      "female_member_ratio": 0.297,
-      "female_chair_ratio": 0.056,
-      "female_ratio_pct": 29.1,
-      "female_chair_ratio_pct": 5.6,
+      "total_nous": 145,
+      "total_appointees": 2203,
+      "total_chairs": 145,
+      "female_chairs": 9,
+      "female_member_ratio": 0.368,
+      "female_chair_ratio": 0.062,
+      "female_ratio_pct": 35.5,
+      "female_chair_ratio_pct": 6.2,
       "dominant_sectors": [
         "central_administration",
         "academia_research"
       ],
       "top_sectors": {
-        "academia_research": 26.8,
-        "central_administration": 30.1,
+        "academia_research": 27.5,
+        "central_administration": 29.9,
         "industry_business": 5.4,
-        "labor_unions": 18.1,
-        "employer_orgs": 19.3,
+        "labor_unions": 17.9,
+        "employer_orgs": 19.1,
         "civil_society": 0.3
       },
       "most_frequent_appointee": {
@@ -4310,52 +4313,52 @@
     {
       "ministry_code": "HOD",
       "ministry_name": "Helse- og omsorgsdepartementet",
-      "total_nous": 123,
-      "total_appointees": 1567,
-      "total_chairs": 123,
-      "female_chairs": 18,
-      "female_member_ratio": 0.317,
-      "female_chair_ratio": 0.146,
-      "female_ratio_pct": 31.0,
-      "female_chair_ratio_pct": 14.6,
+      "total_nous": 124,
+      "total_appointees": 1592,
+      "total_chairs": 124,
+      "female_chairs": 21,
+      "female_member_ratio": 0.392,
+      "female_chair_ratio": 0.169,
+      "female_ratio_pct": 38.1,
+      "female_chair_ratio_pct": 16.9,
       "dominant_sectors": [
         "academia_research",
         "labor_unions"
       ],
       "top_sectors": {
-        "academia_research": 48.4,
-        "central_administration": 13.0,
-        "industry_business": 1.2,
+        "academia_research": 47.3,
+        "central_administration": 13.8,
+        "industry_business": 1.8,
         "labor_unions": 18.0,
         "employer_orgs": 16.8,
-        "civil_society": 2.5
+        "civil_society": 2.4
       },
       "most_frequent_appointee": {
-        "name": "Årstein Risan",
+        "name": "Lars Fjell Hansson",
         "count": 5
       }
     },
     {
       "ministry_code": "KD",
       "ministry_name": "Kunnskapsdepartementet",
-      "total_nous": 99,
-      "total_appointees": 1327,
-      "total_chairs": 99,
-      "female_chairs": 13,
-      "female_member_ratio": 0.325,
-      "female_chair_ratio": 0.131,
-      "female_ratio_pct": 32.8,
-      "female_chair_ratio_pct": 13.1,
+      "total_nous": 101,
+      "total_appointees": 1366,
+      "total_chairs": 101,
+      "female_chairs": 19,
+      "female_member_ratio": 0.393,
+      "female_chair_ratio": 0.188,
+      "female_ratio_pct": 40.6,
+      "female_chair_ratio_pct": 18.8,
       "dominant_sectors": [
         "academia_research",
         "labor_unions"
       ],
       "top_sectors": {
-        "academia_research": 47.7,
-        "central_administration": 9.3,
+        "academia_research": 49.6,
+        "central_administration": 9.7,
         "industry_business": 0.0,
-        "labor_unions": 26.2,
-        "employer_orgs": 16.8,
+        "labor_unions": 24.8,
+        "employer_orgs": 15.9,
         "civil_society": 0.0
       },
       "most_frequent_appointee": {
@@ -4369,11 +4372,11 @@
       "total_nous": 89,
       "total_appointees": 890,
       "total_chairs": 89,
-      "female_chairs": 16,
-      "female_member_ratio": 0.269,
-      "female_chair_ratio": 0.18,
-      "female_ratio_pct": 27.4,
-      "female_chair_ratio_pct": 18.0,
+      "female_chairs": 20,
+      "female_member_ratio": 0.332,
+      "female_chair_ratio": 0.225,
+      "female_ratio_pct": 33.5,
+      "female_chair_ratio_pct": 22.5,
       "dominant_sectors": [
         "central_administration",
         "academia_research"
@@ -4398,9 +4401,9 @@
       "total_appointees": 996,
       "total_chairs": 88,
       "female_chairs": 6,
-      "female_member_ratio": 0.161,
+      "female_member_ratio": 0.201,
       "female_chair_ratio": 0.068,
-      "female_ratio_pct": 18.3,
+      "female_ratio_pct": 22.8,
       "female_chair_ratio_pct": 6.8,
       "dominant_sectors": [
         "academia_research",
@@ -4425,11 +4428,11 @@
       "total_nous": 77,
       "total_appointees": 888,
       "total_chairs": 77,
-      "female_chairs": 5,
-      "female_member_ratio": 0.28,
-      "female_chair_ratio": 0.065,
-      "female_ratio_pct": 26.0,
-      "female_chair_ratio_pct": 6.5,
+      "female_chairs": 7,
+      "female_member_ratio": 0.347,
+      "female_chair_ratio": 0.091,
+      "female_ratio_pct": 32.2,
+      "female_chair_ratio_pct": 9.1,
       "dominant_sectors": [
         "central_administration",
         "employer_orgs"
@@ -4453,11 +4456,11 @@
       "total_nous": 64,
       "total_appointees": 1219,
       "total_chairs": 64,
-      "female_chairs": 10,
-      "female_member_ratio": 0.361,
-      "female_chair_ratio": 0.156,
-      "female_ratio_pct": 34.5,
-      "female_chair_ratio_pct": 15.6,
+      "female_chairs": 12,
+      "female_member_ratio": 0.397,
+      "female_chair_ratio": 0.188,
+      "female_ratio_pct": 38.9,
+      "female_chair_ratio_pct": 18.8,
       "dominant_sectors": [
         "labor_unions",
         "academia_research"
@@ -4481,11 +4484,11 @@
       "total_nous": 46,
       "total_appointees": 596,
       "total_chairs": 46,
-      "female_chairs": 3,
-      "female_member_ratio": 0.216,
-      "female_chair_ratio": 0.065,
-      "female_ratio_pct": 22.3,
-      "female_chair_ratio_pct": 6.5,
+      "female_chairs": 4,
+      "female_member_ratio": 0.249,
+      "female_chair_ratio": 0.087,
+      "female_ratio_pct": 26.3,
+      "female_chair_ratio_pct": 8.7,
       "dominant_sectors": [
         "academia_research",
         "employer_orgs"
@@ -4507,23 +4510,23 @@
       "ministry_code": "SD",
       "ministry_name": "Samferdselsdepartementet",
       "total_nous": 44,
-      "total_appointees": 415,
+      "total_appointees": 407,
       "total_chairs": 44,
-      "female_chairs": 4,
-      "female_member_ratio": 0.165,
-      "female_chair_ratio": 0.091,
-      "female_ratio_pct": 17.3,
-      "female_chair_ratio_pct": 9.1,
+      "female_chairs": 5,
+      "female_member_ratio": 0.175,
+      "female_chair_ratio": 0.114,
+      "female_ratio_pct": 18.9,
+      "female_chair_ratio_pct": 11.4,
       "dominant_sectors": [
         "central_administration",
         "academia_research"
       ],
       "top_sectors": {
-        "academia_research": 22.9,
-        "central_administration": 45.7,
-        "industry_business": 2.9,
-        "labor_unions": 11.4,
-        "employer_orgs": 17.1,
+        "academia_research": 22.2,
+        "central_administration": 44.4,
+        "industry_business": 2.8,
+        "labor_unions": 11.1,
+        "employer_orgs": 19.4,
         "civil_society": 0.0
       },
       "most_frequent_appointee": {
@@ -4534,17 +4537,17 @@
     {
       "ministry_code": "LMD",
       "ministry_name": "Landbruks- og matdepartementet",
-      "total_nous": 36,
-      "total_appointees": 372,
-      "total_chairs": 36,
+      "total_nous": 37,
+      "total_appointees": 392,
+      "total_chairs": 37,
       "female_chairs": 2,
-      "female_member_ratio": 0.174,
-      "female_chair_ratio": 0.056,
-      "female_ratio_pct": 14.8,
-      "female_chair_ratio_pct": 5.6,
+      "female_member_ratio": 0.223,
+      "female_chair_ratio": 0.054,
+      "female_ratio_pct": 19.1,
+      "female_chair_ratio_pct": 5.4,
       "dominant_sectors": [
         "employer_orgs",
-        "academia_research"
+        "civil_society"
       ],
       "top_sectors": {
         "academia_research": 22.2,
@@ -4565,11 +4568,11 @@
       "total_nous": 35,
       "total_appointees": 465,
       "total_chairs": 35,
-      "female_chairs": 7,
-      "female_member_ratio": 0.323,
-      "female_chair_ratio": 0.2,
-      "female_ratio_pct": 32.0,
-      "female_chair_ratio_pct": 20.0,
+      "female_chairs": 8,
+      "female_member_ratio": 0.415,
+      "female_chair_ratio": 0.229,
+      "female_ratio_pct": 40.2,
+      "female_chair_ratio_pct": 22.9,
       "dominant_sectors": [
         "academia_research",
         "labor_unions"
@@ -4583,7 +4586,7 @@
         "civil_society": 4.8
       },
       "most_frequent_appointee": {
-        "name": "Einar Niemi",
+        "name": "Martin Hill Oppegaard",
         "count": 3
       }
     },
@@ -4591,13 +4594,13 @@
       "ministry_code": "ED",
       "ministry_name": "Energidepartementet",
       "total_nous": 23,
-      "total_appointees": 300,
+      "total_appointees": 278,
       "total_chairs": 22,
-      "female_chairs": 2,
-      "female_member_ratio": 0.196,
-      "female_chair_ratio": 0.091,
-      "female_ratio_pct": 19.7,
-      "female_chair_ratio_pct": 9.1,
+      "female_chairs": 1,
+      "female_member_ratio": 0.209,
+      "female_chair_ratio": 0.045,
+      "female_ratio_pct": 20.9,
+      "female_chair_ratio_pct": 4.5,
       "dominant_sectors": [
         "academia_research",
         "employer_orgs"
@@ -4611,7 +4614,7 @@
         "civil_society": 0.0
       },
       "most_frequent_appointee": {
-        "name": "Per Håkon Høisveen",
+        "name": "Halvor Husaas",
         "count": 3
       }
     },
@@ -4621,14 +4624,14 @@
       "total_nous": 20,
       "total_appointees": 248,
       "total_chairs": 20,
-      "female_chairs": 0,
-      "female_member_ratio": 0.213,
-      "female_chair_ratio": 0.0,
-      "female_ratio_pct": 23.4,
-      "female_chair_ratio_pct": 0.0,
+      "female_chairs": 1,
+      "female_member_ratio": 0.26,
+      "female_chair_ratio": 0.05,
+      "female_ratio_pct": 28.2,
+      "female_chair_ratio_pct": 5.0,
       "dominant_sectors": [
         "academia_research",
-        "labor_unions"
+        "employer_orgs"
       ],
       "top_sectors": {
         "academia_research": 30.0,
@@ -4650,9 +4653,9 @@
       "total_appointees": 232,
       "total_chairs": 17,
       "female_chairs": 1,
-      "female_member_ratio": 0.182,
+      "female_member_ratio": 0.224,
       "female_chair_ratio": 0.059,
-      "female_ratio_pct": 16.4,
+      "female_ratio_pct": 19.8,
       "female_chair_ratio_pct": 5.9,
       "dominant_sectors": [
         "labor_unions",
@@ -4678,9 +4681,9 @@
       "total_appointees": 214,
       "total_chairs": 16,
       "female_chairs": 1,
-      "female_member_ratio": 0.261,
+      "female_member_ratio": 0.351,
       "female_chair_ratio": 0.062,
-      "female_ratio_pct": 26.6,
+      "female_ratio_pct": 32.2,
       "female_chair_ratio_pct": 6.2,
       "dominant_sectors": [
         "academia_research",
@@ -4706,9 +4709,9 @@
       "total_appointees": 153,
       "total_chairs": 11,
       "female_chairs": 1,
-      "female_member_ratio": 0.336,
+      "female_member_ratio": 0.393,
       "female_chair_ratio": 0.091,
-      "female_ratio_pct": 32.7,
+      "female_ratio_pct": 37.3,
       "female_chair_ratio_pct": 9.1,
       "dominant_sectors": [
         "labor_unions",
@@ -4723,7 +4726,7 @@
         "civil_society": 0.0
       },
       "most_frequent_appointee": {
-        "name": "Anne Chr. Lowzow",
+        "name": "Asbjørn Eide",
         "count": 1
       }
     }
@@ -4732,10 +4735,10 @@
     {
       "year": 1972,
       "total": 406,
-      "female_count": 27,
-      "male_count": 278,
-      "unknown_count": 101,
-      "female_pct": 6.7,
+      "female_count": 35,
+      "male_count": 334,
+      "unknown_count": 37,
+      "female_pct": 8.6,
       "chairs_total": 44,
       "chairs_female": 2,
       "chair_female_pct": 4.5
@@ -4743,10 +4746,10 @@
     {
       "year": 1973,
       "total": 539,
-      "female_count": 38,
-      "male_count": 352,
-      "unknown_count": 149,
-      "female_pct": 7.1,
+      "female_count": 53,
+      "male_count": 437,
+      "unknown_count": 49,
+      "female_pct": 9.8,
       "chairs_total": 60,
       "chairs_female": 1,
       "chair_female_pct": 1.7
@@ -4754,10 +4757,10 @@
     {
       "year": 1974,
       "total": 610,
-      "female_count": 47,
-      "male_count": 424,
-      "unknown_count": 139,
-      "female_pct": 7.7,
+      "female_count": 59,
+      "male_count": 492,
+      "unknown_count": 59,
+      "female_pct": 9.7,
       "chairs_total": 63,
       "chairs_female": 2,
       "chair_female_pct": 3.2
@@ -4765,10 +4768,10 @@
     {
       "year": 1975,
       "total": 627,
-      "female_count": 50,
-      "male_count": 436,
-      "unknown_count": 141,
-      "female_pct": 8.0,
+      "female_count": 70,
+      "male_count": 510,
+      "unknown_count": 47,
+      "female_pct": 11.2,
       "chairs_total": 68,
       "chairs_female": 0,
       "chair_female_pct": 0.0
@@ -4776,21 +4779,21 @@
     {
       "year": 1976,
       "total": 515,
-      "female_count": 57,
-      "male_count": 339,
-      "unknown_count": 119,
-      "female_pct": 11.1,
+      "female_count": 73,
+      "male_count": 411,
+      "unknown_count": 31,
+      "female_pct": 14.2,
       "chairs_total": 61,
-      "chairs_female": 3,
-      "chair_female_pct": 4.9
+      "chairs_female": 4,
+      "chair_female_pct": 6.6
     },
     {
       "year": 1977,
       "total": 478,
-      "female_count": 41,
-      "male_count": 309,
-      "unknown_count": 128,
-      "female_pct": 8.6,
+      "female_count": 54,
+      "male_count": 394,
+      "unknown_count": 30,
+      "female_pct": 11.3,
       "chairs_total": 59,
       "chairs_female": 2,
       "chair_female_pct": 3.4
@@ -4798,43 +4801,43 @@
     {
       "year": 1978,
       "total": 527,
-      "female_count": 49,
-      "male_count": 361,
-      "unknown_count": 117,
-      "female_pct": 9.3,
+      "female_count": 71,
+      "male_count": 420,
+      "unknown_count": 36,
+      "female_pct": 13.5,
       "chairs_total": 54,
-      "chairs_female": 1,
-      "chair_female_pct": 1.9
+      "chairs_female": 2,
+      "chair_female_pct": 3.7
     },
     {
       "year": 1979,
       "total": 523,
-      "female_count": 61,
-      "male_count": 339,
-      "unknown_count": 123,
-      "female_pct": 11.7,
+      "female_count": 83,
+      "male_count": 415,
+      "unknown_count": 25,
+      "female_pct": 15.9,
       "chairs_total": 57,
-      "chairs_female": 2,
-      "chair_female_pct": 3.5
+      "chairs_female": 6,
+      "chair_female_pct": 10.5
     },
     {
       "year": 1980,
       "total": 534,
-      "female_count": 71,
-      "male_count": 360,
-      "unknown_count": 103,
-      "female_pct": 13.3,
+      "female_count": 87,
+      "male_count": 417,
+      "unknown_count": 30,
+      "female_pct": 16.3,
       "chairs_total": 60,
-      "chairs_female": 2,
-      "chair_female_pct": 3.3
+      "chairs_female": 5,
+      "chair_female_pct": 8.3
     },
     {
       "year": 1981,
       "total": 476,
-      "female_count": 83,
-      "male_count": 286,
-      "unknown_count": 107,
-      "female_pct": 17.4,
+      "female_count": 101,
+      "male_count": 351,
+      "unknown_count": 24,
+      "female_pct": 21.2,
       "chairs_total": 49,
       "chairs_female": 3,
       "chair_female_pct": 6.1
@@ -4842,10 +4845,10 @@
     {
       "year": 1982,
       "total": 460,
-      "female_count": 87,
-      "male_count": 265,
-      "unknown_count": 108,
-      "female_pct": 18.9,
+      "female_count": 105,
+      "male_count": 325,
+      "unknown_count": 30,
+      "female_pct": 22.8,
       "chairs_total": 44,
       "chairs_female": 3,
       "chair_female_pct": 6.8
@@ -4853,21 +4856,21 @@
     {
       "year": 1983,
       "total": 584,
-      "female_count": 107,
-      "male_count": 357,
-      "unknown_count": 120,
-      "female_pct": 18.3,
+      "female_count": 127,
+      "male_count": 419,
+      "unknown_count": 38,
+      "female_pct": 21.7,
       "chairs_total": 58,
-      "chairs_female": 7,
-      "chair_female_pct": 12.1
+      "chairs_female": 9,
+      "chair_female_pct": 15.5
     },
     {
       "year": 1984,
       "total": 361,
-      "female_count": 67,
-      "male_count": 215,
-      "unknown_count": 79,
-      "female_pct": 18.6,
+      "female_count": 80,
+      "male_count": 257,
+      "unknown_count": 24,
+      "female_pct": 22.2,
       "chairs_total": 35,
       "chairs_female": 1,
       "chair_female_pct": 2.9
@@ -4875,54 +4878,54 @@
     {
       "year": 1985,
       "total": 352,
-      "female_count": 83,
-      "male_count": 207,
-      "unknown_count": 62,
-      "female_pct": 23.6,
+      "female_count": 95,
+      "male_count": 245,
+      "unknown_count": 12,
+      "female_pct": 27.0,
       "chairs_total": 37,
-      "chairs_female": 9,
-      "chair_female_pct": 24.3
+      "chairs_female": 11,
+      "chair_female_pct": 29.7
     },
     {
       "year": 1986,
       "total": 234,
-      "female_count": 43,
-      "male_count": 143,
-      "unknown_count": 48,
-      "female_pct": 18.4,
+      "female_count": 53,
+      "male_count": 176,
+      "unknown_count": 5,
+      "female_pct": 22.6,
       "chairs_total": 25,
-      "chairs_female": 2,
-      "chair_female_pct": 8.0
+      "chairs_female": 4,
+      "chair_female_pct": 16.0
     },
     {
       "year": 1987,
       "total": 416,
-      "female_count": 74,
-      "male_count": 268,
-      "unknown_count": 74,
-      "female_pct": 17.8,
+      "female_count": 92,
+      "male_count": 307,
+      "unknown_count": 17,
+      "female_pct": 22.1,
       "chairs_total": 40,
-      "chairs_female": 2,
-      "chair_female_pct": 5.0
+      "chairs_female": 5,
+      "chair_female_pct": 12.5
     },
     {
       "year": 1988,
       "total": 427,
-      "female_count": 88,
-      "male_count": 244,
-      "unknown_count": 95,
-      "female_pct": 20.6,
+      "female_count": 108,
+      "male_count": 295,
+      "unknown_count": 24,
+      "female_pct": 25.3,
       "chairs_total": 43,
-      "chairs_female": 4,
-      "chair_female_pct": 9.3
+      "chairs_female": 5,
+      "chair_female_pct": 11.6
     },
     {
       "year": 1989,
       "total": 196,
-      "female_count": 49,
-      "male_count": 106,
-      "unknown_count": 41,
-      "female_pct": 25.0,
+      "female_count": 56,
+      "male_count": 126,
+      "unknown_count": 14,
+      "female_pct": 28.6,
       "chairs_total": 17,
       "chairs_female": 1,
       "chair_female_pct": 5.9
@@ -4930,10 +4933,10 @@
     {
       "year": 1990,
       "total": 301,
-      "female_count": 77,
-      "male_count": 177,
-      "unknown_count": 47,
-      "female_pct": 25.6,
+      "female_count": 83,
+      "male_count": 206,
+      "unknown_count": 12,
+      "female_pct": 27.6,
       "chairs_total": 32,
       "chairs_female": 3,
       "chair_female_pct": 9.4
@@ -4941,21 +4944,21 @@
     {
       "year": 1991,
       "total": 363,
-      "female_count": 89,
-      "male_count": 208,
-      "unknown_count": 66,
-      "female_pct": 24.5,
+      "female_count": 99,
+      "male_count": 246,
+      "unknown_count": 18,
+      "female_pct": 27.3,
       "chairs_total": 37,
-      "chairs_female": 6,
-      "chair_female_pct": 16.2
+      "chairs_female": 7,
+      "chair_female_pct": 18.9
     },
     {
       "year": 1992,
       "total": 382,
-      "female_count": 91,
-      "male_count": 212,
-      "unknown_count": 79,
-      "female_pct": 23.8,
+      "female_count": 117,
+      "male_count": 248,
+      "unknown_count": 17,
+      "female_pct": 30.6,
       "chairs_total": 37,
       "chairs_female": 2,
       "chair_female_pct": 5.4
@@ -4963,10 +4966,10 @@
     {
       "year": 1993,
       "total": 285,
-      "female_count": 70,
-      "male_count": 168,
-      "unknown_count": 47,
-      "female_pct": 24.6,
+      "female_count": 82,
+      "male_count": 196,
+      "unknown_count": 7,
+      "female_pct": 28.8,
       "chairs_total": 36,
       "chairs_female": 3,
       "chair_female_pct": 8.3
@@ -4974,32 +4977,32 @@
     {
       "year": 1994,
       "total": 250,
-      "female_count": 63,
-      "male_count": 144,
-      "unknown_count": 43,
-      "female_pct": 25.2,
+      "female_count": 75,
+      "male_count": 168,
+      "unknown_count": 7,
+      "female_pct": 30.0,
       "chairs_total": 23,
-      "chairs_female": 1,
-      "chair_female_pct": 4.3
+      "chairs_female": 2,
+      "chair_female_pct": 8.7
     },
     {
       "year": 1995,
       "total": 371,
-      "female_count": 113,
-      "male_count": 186,
-      "unknown_count": 72,
-      "female_pct": 30.5,
+      "female_count": 129,
+      "male_count": 224,
+      "unknown_count": 18,
+      "female_pct": 34.8,
       "chairs_total": 31,
-      "chairs_female": 4,
-      "chair_female_pct": 12.9
+      "chairs_female": 5,
+      "chair_female_pct": 16.1
     },
     {
       "year": 1996,
       "total": 273,
-      "female_count": 67,
-      "male_count": 144,
-      "unknown_count": 62,
-      "female_pct": 24.5,
+      "female_count": 74,
+      "male_count": 181,
+      "unknown_count": 18,
+      "female_pct": 27.1,
       "chairs_total": 24,
       "chairs_female": 2,
       "chair_female_pct": 8.3
@@ -5007,10 +5010,10 @@
     {
       "year": 1997,
       "total": 375,
-      "female_count": 98,
-      "male_count": 204,
-      "unknown_count": 73,
-      "female_pct": 26.1,
+      "female_count": 117,
+      "male_count": 241,
+      "unknown_count": 17,
+      "female_pct": 31.2,
       "chairs_total": 27,
       "chairs_female": 1,
       "chair_female_pct": 3.7
@@ -5018,10 +5021,10 @@
     {
       "year": 1998,
       "total": 301,
-      "female_count": 101,
-      "male_count": 154,
-      "unknown_count": 46,
-      "female_pct": 33.6,
+      "female_count": 111,
+      "male_count": 179,
+      "unknown_count": 11,
+      "female_pct": 36.9,
       "chairs_total": 21,
       "chairs_female": 1,
       "chair_female_pct": 4.8
@@ -5029,54 +5032,54 @@
     {
       "year": 1999,
       "total": 498,
-      "female_count": 152,
-      "male_count": 240,
-      "unknown_count": 106,
-      "female_pct": 30.5,
+      "female_count": 177,
+      "male_count": 298,
+      "unknown_count": 23,
+      "female_pct": 35.5,
       "chairs_total": 34,
-      "chairs_female": 5,
-      "chair_female_pct": 14.7
+      "chairs_female": 6,
+      "chair_female_pct": 17.6
     },
     {
       "year": 2000,
       "total": 461,
-      "female_count": 145,
-      "male_count": 224,
-      "unknown_count": 92,
-      "female_pct": 31.5,
+      "female_count": 168,
+      "male_count": 263,
+      "unknown_count": 30,
+      "female_pct": 36.4,
       "chairs_total": 33,
-      "chairs_female": 2,
-      "chair_female_pct": 6.1
+      "chairs_female": 4,
+      "chair_female_pct": 12.1
     },
     {
       "year": 2001,
       "total": 446,
-      "female_count": 138,
-      "male_count": 216,
-      "unknown_count": 92,
-      "female_pct": 30.9,
+      "female_count": 160,
+      "male_count": 256,
+      "unknown_count": 30,
+      "female_pct": 35.9,
       "chairs_total": 35,
-      "chairs_female": 4,
-      "chair_female_pct": 11.4
+      "chairs_female": 7,
+      "chair_female_pct": 20.0
     },
     {
       "year": 2002,
       "total": 218,
-      "female_count": 69,
-      "male_count": 112,
-      "unknown_count": 37,
-      "female_pct": 31.7,
+      "female_count": 80,
+      "male_count": 130,
+      "unknown_count": 8,
+      "female_pct": 36.7,
       "chairs_total": 22,
-      "chairs_female": 2,
-      "chair_female_pct": 9.1
+      "chairs_female": 3,
+      "chair_female_pct": 13.6
     },
     {
       "year": 2003,
       "total": 478,
-      "female_count": 159,
-      "male_count": 235,
-      "unknown_count": 84,
-      "female_pct": 33.3,
+      "female_count": 192,
+      "male_count": 273,
+      "unknown_count": 13,
+      "female_pct": 40.2,
       "chairs_total": 34,
       "chairs_female": 6,
       "chair_female_pct": 17.6
@@ -5084,21 +5087,21 @@
     {
       "year": 2004,
       "total": 374,
-      "female_count": 127,
-      "male_count": 174,
-      "unknown_count": 73,
-      "female_pct": 34.0,
+      "female_count": 154,
+      "male_count": 205,
+      "unknown_count": 15,
+      "female_pct": 41.2,
       "chairs_total": 29,
-      "chairs_female": 3,
-      "chair_female_pct": 10.3
+      "chairs_female": 4,
+      "chair_female_pct": 13.8
     },
     {
       "year": 2005,
       "total": 242,
-      "female_count": 96,
-      "male_count": 112,
-      "unknown_count": 34,
-      "female_pct": 39.7,
+      "female_count": 107,
+      "male_count": 128,
+      "unknown_count": 7,
+      "female_pct": 44.2,
       "chairs_total": 19,
       "chairs_female": 2,
       "chair_female_pct": 10.5
@@ -5106,10 +5109,10 @@
     {
       "year": 2006,
       "total": 268,
-      "female_count": 90,
-      "male_count": 130,
-      "unknown_count": 48,
-      "female_pct": 33.6,
+      "female_count": 106,
+      "male_count": 151,
+      "unknown_count": 11,
+      "female_pct": 39.6,
       "chairs_total": 19,
       "chairs_female": 1,
       "chair_female_pct": 5.3
@@ -5117,21 +5120,21 @@
     {
       "year": 2007,
       "total": 271,
-      "female_count": 108,
-      "male_count": 111,
-      "unknown_count": 52,
-      "female_pct": 39.9,
+      "female_count": 122,
+      "male_count": 140,
+      "unknown_count": 9,
+      "female_pct": 45.0,
       "chairs_total": 17,
-      "chairs_female": 4,
-      "chair_female_pct": 23.5
+      "chairs_female": 5,
+      "chair_female_pct": 29.4
     },
     {
       "year": 2008,
       "total": 317,
-      "female_count": 123,
-      "male_count": 140,
-      "unknown_count": 54,
-      "female_pct": 38.8,
+      "female_count": 140,
+      "male_count": 163,
+      "unknown_count": 14,
+      "female_pct": 44.2,
       "chairs_total": 21,
       "chairs_female": 5,
       "chair_female_pct": 23.8
@@ -5139,21 +5142,21 @@
     {
       "year": 2009,
       "total": 278,
-      "female_count": 104,
-      "male_count": 131,
-      "unknown_count": 43,
-      "female_pct": 37.4,
+      "female_count": 117,
+      "male_count": 148,
+      "unknown_count": 13,
+      "female_pct": 42.1,
       "chairs_total": 22,
-      "chairs_female": 4,
-      "chair_female_pct": 18.2
+      "chairs_female": 6,
+      "chair_female_pct": 27.3
     },
     {
       "year": 2010,
       "total": 224,
-      "female_count": 91,
-      "male_count": 91,
-      "unknown_count": 42,
-      "female_pct": 40.6,
+      "female_count": 103,
+      "male_count": 110,
+      "unknown_count": 11,
+      "female_pct": 46.0,
       "chairs_total": 13,
       "chairs_female": 3,
       "chair_female_pct": 23.1
@@ -5161,10 +5164,10 @@
     {
       "year": 2011,
       "total": 335,
-      "female_count": 125,
-      "male_count": 140,
-      "unknown_count": 70,
-      "female_pct": 37.3,
+      "female_count": 144,
+      "male_count": 162,
+      "unknown_count": 29,
+      "female_pct": 43.0,
       "chairs_total": 21,
       "chairs_female": 6,
       "chair_female_pct": 28.6
@@ -5172,21 +5175,21 @@
     {
       "year": 2012,
       "total": 324,
-      "female_count": 120,
-      "male_count": 132,
-      "unknown_count": 72,
-      "female_pct": 37.0,
+      "female_count": 142,
+      "male_count": 168,
+      "unknown_count": 14,
+      "female_pct": 43.8,
       "chairs_total": 18,
-      "chairs_female": 1,
-      "chair_female_pct": 5.6
+      "chairs_female": 2,
+      "chair_female_pct": 11.1
     },
     {
       "year": 2013,
       "total": 217,
-      "female_count": 71,
-      "male_count": 97,
-      "unknown_count": 49,
-      "female_pct": 32.7,
+      "female_count": 81,
+      "male_count": 120,
+      "unknown_count": 16,
+      "female_pct": 37.3,
       "chairs_total": 13,
       "chairs_female": 2,
       "chair_female_pct": 15.4
@@ -5194,10 +5197,10 @@
     {
       "year": 2014,
       "total": 245,
-      "female_count": 91,
-      "male_count": 96,
-      "unknown_count": 58,
-      "female_pct": 37.1,
+      "female_count": 114,
+      "male_count": 114,
+      "unknown_count": 17,
+      "female_pct": 46.5,
       "chairs_total": 17,
       "chairs_female": 5,
       "chair_female_pct": 29.4
@@ -5205,21 +5208,21 @@
     {
       "year": 2015,
       "total": 298,
-      "female_count": 106,
-      "male_count": 121,
-      "unknown_count": 71,
-      "female_pct": 35.6,
+      "female_count": 133,
+      "male_count": 148,
+      "unknown_count": 17,
+      "female_pct": 44.6,
       "chairs_total": 17,
-      "chairs_female": 2,
-      "chair_female_pct": 11.8
+      "chairs_female": 4,
+      "chair_female_pct": 23.5
     },
     {
       "year": 2016,
       "total": 348,
-      "female_count": 120,
-      "male_count": 146,
-      "unknown_count": 82,
-      "female_pct": 34.5,
+      "female_count": 152,
+      "male_count": 179,
+      "unknown_count": 17,
+      "female_pct": 43.7,
       "chairs_total": 27,
       "chairs_female": 2,
       "chair_female_pct": 7.4
@@ -5227,10 +5230,10 @@
     {
       "year": 2017,
       "total": 251,
-      "female_count": 90,
-      "male_count": 102,
-      "unknown_count": 59,
-      "female_pct": 35.9,
+      "female_count": 110,
+      "male_count": 124,
+      "unknown_count": 17,
+      "female_pct": 43.8,
       "chairs_total": 17,
       "chairs_female": 6,
       "chair_female_pct": 35.3
@@ -5238,10 +5241,10 @@
     {
       "year": 2018,
       "total": 291,
-      "female_count": 110,
-      "male_count": 111,
-      "unknown_count": 70,
-      "female_pct": 37.8,
+      "female_count": 142,
+      "male_count": 132,
+      "unknown_count": 17,
+      "female_pct": 48.8,
       "chairs_total": 18,
       "chairs_female": 5,
       "chair_female_pct": 27.8
@@ -5249,21 +5252,21 @@
     {
       "year": 2019,
       "total": 424,
-      "female_count": 152,
-      "male_count": 158,
-      "unknown_count": 114,
-      "female_pct": 35.8,
+      "female_count": 190,
+      "male_count": 196,
+      "unknown_count": 38,
+      "female_pct": 44.8,
       "chairs_total": 26,
-      "chairs_female": 6,
-      "chair_female_pct": 23.1
+      "chairs_female": 7,
+      "chair_female_pct": 26.9
     },
     {
       "year": 2020,
       "total": 282,
-      "female_count": 101,
-      "male_count": 109,
-      "unknown_count": 72,
-      "female_pct": 35.8,
+      "female_count": 129,
+      "male_count": 134,
+      "unknown_count": 19,
+      "female_pct": 45.7,
       "chairs_total": 17,
       "chairs_female": 6,
       "chair_female_pct": 35.3
@@ -5271,10 +5274,10 @@
     {
       "year": 2021,
       "total": 200,
-      "female_count": 71,
-      "male_count": 86,
-      "unknown_count": 43,
-      "female_pct": 35.5,
+      "female_count": 87,
+      "male_count": 98,
+      "unknown_count": 15,
+      "female_pct": 43.5,
       "chairs_total": 11,
       "chairs_female": 1,
       "chair_female_pct": 9.1
@@ -5282,58 +5285,58 @@
     {
       "year": 2022,
       "total": 373,
-      "female_count": 141,
-      "male_count": 144,
-      "unknown_count": 88,
-      "female_pct": 37.8,
+      "female_count": 167,
+      "male_count": 176,
+      "unknown_count": 30,
+      "female_pct": 44.8,
       "chairs_total": 21,
-      "chairs_female": 6,
-      "chair_female_pct": 28.6
+      "chairs_female": 8,
+      "chair_female_pct": 38.1
     },
     {
       "year": 2023,
-      "total": 594,
-      "female_count": 240,
-      "male_count": 196,
-      "unknown_count": 158,
-      "female_pct": 40.4,
+      "total": 589,
+      "female_count": 291,
+      "male_count": 251,
+      "unknown_count": 47,
+      "female_pct": 49.4,
       "chairs_total": 30,
-      "chairs_female": 7,
-      "chair_female_pct": 23.3
+      "chairs_female": 11,
+      "chair_female_pct": 36.7
     },
     {
       "year": 2024,
-      "total": 422,
-      "female_count": 150,
-      "male_count": 131,
-      "unknown_count": 141,
-      "female_pct": 35.5,
-      "chairs_total": 25,
-      "chairs_female": 4,
-      "chair_female_pct": 16.0
+      "total": 392,
+      "female_count": 180,
+      "male_count": 169,
+      "unknown_count": 43,
+      "female_pct": 45.9,
+      "chairs_total": 24,
+      "chairs_female": 6,
+      "chair_female_pct": 25.0
     },
     {
       "year": 2025,
       "total": 242,
-      "female_count": 95,
-      "male_count": 84,
-      "unknown_count": 63,
-      "female_pct": 39.3,
+      "female_count": 115,
+      "male_count": 106,
+      "unknown_count": 21,
+      "female_pct": 47.5,
       "chairs_total": 11,
       "chairs_female": 5,
       "chair_female_pct": 45.5
     },
     {
       "year": 2026,
-      "total": 163,
-      "female_count": 59,
-      "male_count": 62,
-      "unknown_count": 42,
-      "female_pct": 36.2,
-      "chairs_total": 9,
-      "chairs_female": 3,
-      "chair_female_pct": 33.3
+      "total": 242,
+      "female_count": 107,
+      "male_count": 110,
+      "unknown_count": 25,
+      "female_pct": 44.2,
+      "chairs_total": 14,
+      "chairs_female": 2,
+      "chair_female_pct": 14.3
     }
   ],
-  "generated_at": "2026-09-14T22:21:10.931945+00:00"
+  "generated_at": "2026-11-07T16:39:01.255532+00:00"
 }

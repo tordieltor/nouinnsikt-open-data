@@ -27,6 +27,7 @@
         <a class="nav-link" href="#datasett">Rådata-pakkar</a>
         <a class="nav-link" href="#kjeldeoppslag">NOU-kjeldeoppslag</a>
         <a class="nav-link" href="#lisens-og-sitering">Lisens &amp; sitering</a>
+        <a class="nav-link" href="mailto:post@nouinnsikt.no">Kontakt: post@nouinnsikt.no</a>
         <a class="btn-primary" data-gh-root="true" href="https://github.com/tordieltor/nouinnsikt-open-data" target="_blank" rel="noopener noreferrer">
           Opne GitHub-arkivet ↗
         </a>
@@ -66,6 +67,9 @@
             <a class="btn-secondary" href="#kjeldeoppslag">
               Finn offisiell PDF på Regjeringen.no / NB.no ↓
             </a>
+            <a class="btn-secondary" href="mailto:post@nouinnsikt.no">
+              Kontakt: post@nouinnsikt.no ✉️
+            </a>
           </div>
         </div>
       </div>
@@ -83,19 +87,19 @@
 
         <div class="kpi-grid">
           <article class="kpi-card">
-            <div class="kpi-number">1 744</div>
+            <div class="kpi-number">1 746</div>
             <div class="kpi-label">Offisielle NOU-utgreiingar (1972–2026)</div>
-            <p class="kpi-detail">333 på nynorsk og 1 411 på bokmål, med direkte kjeldelenkjer til Regjeringen.no og Nasjonalbiblioteket.</p>
+            <p class="kpi-detail">41 på nynorsk og 1 705 på bokmål, med direkte kjeldelenkjer til Regjeringen.no og Nasjonalbiblioteket.</p>
           </article>
 
           <article class="kpi-card">
             <div class="kpi-number">183 724 190</div>
             <div class="kpi-label">Ord i vaska fulltekstkorpus</div>
-            <p class="kpi-detail">654 934 semantiske tekstbolkar og 9 878 210+ setningar (snittlesbarheit 52,03 LIX).</p>
+            <p class="kpi-detail">659 129 semantiske tekstbolkar og 9 878 210+ setningar (snittlesbarheit 52,03 LIX).</p>
           </article>
 
           <article class="kpi-card">
-            <div class="kpi-number">20 305</div>
+            <div class="kpi-number">20 321</div>
             <div class="kpi-label">Verifiserte utvalsroller</div>
             <p class="kpi-detail">11 806+ unike utvalsleiarar, medlemmar og sekretærar med normaliserte organisasjonskoplingar.</p>
           </article>
@@ -205,25 +209,25 @@
 
           <article class="dataset-card">
             <div class="dataset-card-top">
-              <span class="meta-badge badge-navy">Direkte i Git · 21 JSON-katalogar &amp; 12 Pipelines</span>
-              <h3>4. Analytiske JSON-katalogar &amp; gjenbrukbare Python-pipelines</h3>
+              <span class="meta-badge badge-navy">Direkte i Git · 21 JSON-katalogar</span>
+              <h3>4. Analytiske JSON-katalogar</h3>
               <p>
-                21 ferdigprosesserte katalogar (siteringsgrafar, dissensar, reformkatalog, departementslinjer, LIX-lesbarheit og taksonomi) pluss 12 opne Python-skript (<code>pipelines/</code>) som andre kan byggje vidare på.
+                21 ferdigprosesserte katalogar (siteringsgrafar, dissensar, reformkatalog, departementslinjer, LIX-lesbarheit og taksonomi) klar for direkte bruk i forsking og analyse.
               </p>
               <ul class="file-pill-list" aria-label="Filer i pakken">
                 <li class="file-pill">relations_citations.json</li>
                 <li class="file-pill">dissent_catalog.json</li>
                 <li class="file-pill">reform_catalog.json</li>
                 <li class="file-pill">language_data.json</li>
-                <li class="file-pill">pipelines/*.py (12 skript)</li>
+                <li class="file-pill">ministry_lineage.json</li>
               </ul>
             </div>
             <div class="dataset-actions">
               <a class="btn-secondary" data-gh-path="tree/main/datasets/catalogs" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/datasets/catalogs" target="_blank" rel="noopener noreferrer">
                 Opne datasets/catalogs/ ↗
               </a>
-              <a class="btn-secondary" data-gh-path="tree/main/pipelines" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/pipelines" target="_blank" rel="noopener noreferrer">
-                Opne pipelines/ (kode) ↗
+              <a class="btn-secondary" data-gh-path="blob/main/DATA_DICTIONARY.md" href="https://github.com/tordieltor/nouinnsikt-open-data/blob/main/DATA_DICTIONARY.md" target="_blank" rel="noopener noreferrer">
+                Opne DATA_DICTIONARY.md ↗
               </a>
             </div>
           </article>
@@ -362,8 +366,8 @@ SELECT name, count(*) AS chaired_count
 FROM read_csv_auto('datasets/relational/nou_authors.csv')
 WHERE role = 'leader'
 GROUP BY name ORDER BY chaired_count DESC LIMIT 10;</code></pre>
-            <a class="btn-secondary" data-gh-path="tree/main/examples" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/examples" target="_blank" rel="noopener noreferrer">
-              Sjå Python- og DuckDB-døme i examples/ ↗
+            <a class="btn-secondary" data-gh-path="blob/main/DATA_DICTIONARY.md" href="https://github.com/tordieltor/nouinnsikt-open-data/blob/main/DATA_DICTIONARY.md" target="_blank" rel="noopener noreferrer">
+              Sjå kolonneoversikt i DATA_DICTIONARY.md ↗
             </a>
           </article>
 
@@ -407,6 +411,7 @@ GROUP BY name ORDER BY chaired_count DESC LIMIT 10;</code></pre>
         <a data-gh-path="blob/main/DATA_DICTIONARY.md" href="https://github.com/tordieltor/nouinnsikt-open-data/blob/main/DATA_DICTIONARY.md" target="_blank" rel="noopener noreferrer">Dataordbok</a>
         <a data-gh-path="blob/main/SCHEMA.sql" href="https://github.com/tordieltor/nouinnsikt-open-data/blob/main/SCHEMA.sql" target="_blank" rel="noopener noreferrer">SQL-skjema</a>
         <a href="https://www.regjeringen.no/no/dokument/nou-ar/id1767/" target="_blank" rel="noopener noreferrer">Regjeringen.no (NOU)</a>
+        <a href="mailto:post@nouinnsikt.no">Kontakt: post@nouinnsikt.no</a>
       </div>
     </div>
   </footer>
