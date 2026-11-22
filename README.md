@@ -2,11 +2,11 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/Data%20License-CC%20BY%204.0%20%2F%20NLOD%202.0-1A365D.svg)](LICENSE)
 [![Code License: MIT](https://img.shields.io/badge/Code%20License-MIT-4A7C59.svg)](LICENSE)
-[![Corpus: 1,741 NOUs](https://img.shields.io/badge/NOU%20Corpus-1%2C741%20Reports%20(1972--2026)-2F5039.svg)](datasets/EXPORT_MANIFEST.json)
+[![Corpus: 1,746 NOUs](https://img.shields.io/badge/NOU%20Corpus-1%2C746%20Reports%20(1972--2026)-2F5039.svg)](datasets/EXPORT_MANIFEST.json)
 
-> **Norsk (Nynorsk):** Nettjenesta **NOUinnsikt** (`nouinnsikt.no`) er avvikla som aktiv skybasert plattform og gjort om til dette opne, permanente rådata-arkivet. Her ligg heile det strukturerte kunnskapsgrunnlaget — 54 år med *Noregs offentlege utgreiingar* (1972–2026), utvalsmedlemmar, siteringsgrafar, særmerknader/dissensar, språkmålingar (LIX), lov- og stortingssporingar, fulltekst, vektor-embeddings og KI-genererte lydsamandrag — fritt tilgjengeleg i rå, opne format utan innlogging eller kostnad.
+> **Norsk (Nynorsk):** Nettjenesta **NOUinnsikt** (`nouinnsikt.no`) er avvikla som aktiv skybasert plattform (på grunn av låg faktisk bruk frå menneske, svært mykje automatisert bot-trafikk som dreiv opp ressursbruk og faste driftskostnader, samt avgrensa tid på fritida) og gjort om til dette opne, permanente rådata-arkivet. Her ligg heile det strukturerte kunnskapsgrunnlaget — 54 år med *Noregs offentlege utgreiingar* (1972–2026), utvalsmedlemmar, siteringsgrafar, særmerknader/dissensar, språkmålingar (LIX), lov- og stortingssporingar, fulltekst, vektor-embeddings og KI-genererte lydsamandrag — fritt tilgjengeleg i rå, opne format utan innlogging eller kostnad.
 >
-> **English:** The **NOUinnsikt** public administration intelligence platform has concluded active web hosting and released its complete 54-year empirical dataset of *Official Norwegian Reports* (*Norges offentlige utredninger*, NOU 1972–2026) as an open, self-contained raw-data archive for researchers, journalists, students, civil servants, and AI/NLP developers.
+> **English:** The **NOUinnsikt** public administration intelligence platform has concluded active web hosting (due to low human usage relative to heavy automated bot traffic/cloud infrastructure costs and limited spare-time maintenance capacity) and released its complete 54-year empirical dataset of *Official Norwegian Reports* (*Norges offentlige utredninger*, NOU 1972–2026) as an open, self-contained raw-data archive for researchers, journalists, students, civil servants, and AI/NLP developers.
 
 ---
 
@@ -21,9 +21,9 @@
 | **Kryssiteringar mellom NOU-ar** | **7 878** retta siteringslenkjer | [`datasets/catalogs/relations_citations.json`](datasets/catalogs/relations_citations.json) |
 | **Registrerte særmerknader / dissensar** | **626** dissensar på tvers av **126** NOU-ar | [`datasets/catalogs/dissent_catalog.json`](datasets/catalogs/dissent_catalog.json) |
 | **Departementslinjer (1972–2026)** | **1 091+** NOU-ar koplet mot **42** historiske $\rightarrow$ **17** moderne departement | [`datasets/catalogs/ministry_lineage.json`](datasets/catalogs/ministry_lineage.json) & [`ministry_nou_map.json`](datasets/catalogs/ministry_nou_map.json) |
-| **Lesbarheit (LIX-indeks)** | **52,03 LIX** i snitt (`19,13 %` nynorskandel) | [`datasets/catalogs/language_data.json`](datasets/catalogs/language_data.json) |
-| **Vektor-embeddings (`text-embedding-004`)** | **654 934 × 768-dim** vektorar (`100 %` dekning) | GitHub Release: `nou_chunks_embeddings_768d_float16.npz` |
-| **Syntetiserte to-verts lydsamandrag** | **758** MP3-episodar | GitHub Release: `nou_podcasts_mp3_1972_2026.tar` |
+| **Lesbarheit (LIX-indeks)** | **52,03 LIX** i snitt (`2,35 %` hovudsakleg nynorsk) | [`datasets/catalogs/language_data.json`](datasets/catalogs/language_data.json) |
+| **Vektor-embeddings (`text-embedding-004`)** | **614 643 × 768-dim** vektorar (`100 %` dekning) | GitHub Release: `nou_chunks_embeddings_768d_float16.npz` |
+| **Syntetiserte to-verts lydsamandrag** | **764** MP3-episodar | GitHub Release: `nou_podcasts_mp3_1972_2026.tar` |
 
 ---
 
