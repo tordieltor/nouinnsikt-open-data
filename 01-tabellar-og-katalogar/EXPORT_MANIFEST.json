@@ -24,7 +24,7 @@
     "policy_evolution_cache": 58
   },
   "exported_files_count": 50,
-  "exported_files_total_bytes": 76953609,
+  "exported_files_total_bytes": 77287241,
   "files": [
     {
       "path": "01-tabellar-og-katalogar/relasjonstabellar/nous.jsonl.gz",
@@ -247,8 +247,8 @@
       "table": "nous_lookup_index",
       "format": "json",
       "rows": 1746,
-      "bytes": 760806,
-      "sha256": "8021319c1115e1b6dd1590ee43b2879e75bd0b6f2255c0238079755738f20c26"
+      "bytes": 1056741,
+      "sha256": "c04e632f90350a1b8fc374d0e0ea612f91f106f6eaa5cf82b94b64788c912855"
     },
     {
       "path": "01-tabellar-og-katalogar/analysekatalogar/dissent_catalog.json",
@@ -423,8 +423,8 @@
       "table": "podcasts_index",
       "format": "csv",
       "rows": 780,
-      "bytes": 249934,
-      "sha256": "90deae18e2fec7095e19befe025a03f0993f7674edef768bbb6f6b682879a319"
+      "bytes": 287631,
+      "sha256": "6f409f89e0a9d2ec13368422b994d9ce316c51eac722810a87083ff6470f782c"
     }
   ]
 }
