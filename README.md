@@ -62,9 +62,9 @@ Alle datafiler under `01-tabellar-og-katalogar/` (`73,39 MB` samla på tvers av 
 │       ├── nokkeltematikker_dataset.json & flagship_policy_evolution.json
 │       └── nou_index_map.json, nou_slug_map.json & extracted_artworks.json
 ├── 02-sqlite-og-vektor-db/               # Oversikt og lenkjer til SQLite FTS5-database, vektor-embeddings & SQL-skjema
-├── 03-fulltekst-markdown/                # Oversikt og lenkje til alle 1 746 fulltekst Markdown-utgreiingar
-├── 04-lydpodkastar/                      # Episodekatalog (podcast_catalog.csv) & lenkje til 764 MP3-podkastar
-├── 05-forsidebilete/                     # Oversikt og lenkje til 2 225 forsidebilete og illustrasjonsutsnitt
+├── 03-fulltekst-markdown/                # Alle 1 746 fulltekst Markdown-utgreiingar einskildvis etter år (1972–2026)
+├── 04-lydpodkastar/                      # Episodekatalog (podcast_catalog.csv) & alle 764 MP3-podkastar i lydfiler/<år>/
+├── 05-forsidebilete/                     # Alle 2 225 forsidebilete & illustrasjonar einskildvis i forsider/<år>/ & illustrasjonar/<år>/
 ├── docs/                                 # Statisk arkiv- og oppslagsside for nouinnsikt.no (GitHub Pages)
 ├── DATA_DICTIONARY.md                    # Komplett kolonne- og feltspesifikasjon
 ├── SCHEMA.sql                            # Rein PostgreSQL + pgvector DDL-skjemadefinisjon
