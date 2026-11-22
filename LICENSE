@@ -1,10 +1,25 @@
-# Open Licensing & Attribution Notice — NOUinnsikt Open Raw-Data Archive
+# Open Licensing & Mandatory Attribution Notice — NOUinnsikt Open Raw-Data Archive
 
-This repository and its accompanying GitHub Release archives contain three distinct layers of open public knowledge and software, each licensed permissively for academic, journalistic, public-sector, civic, and commercial reuse:
+This repository and its accompanying GitHub Release archives contain three distinct layers of open public knowledge and software. Any reuse, redistribution, derivative work, or publication using the curated datasets, enrichments, or audio summaries **legally requires attribution (credit) to Tor Sivertsen Prestegard** under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
 ---
 
-## 1. Official Norwegian Public-Sector Documents & Parliamentary Records — NLOD 2.0 / Public Domain
+## 1. NOUinnsikt Curated Datasets, Enrichments & Audio Overviews — CC BY 4.0 (Mandatory Credit Required)
+
+**Creator & Copyright Holder:** **Tor Sivertsen Prestegard** (`post@nouinnsikt.no`)
+
+All value-added structured datasets, OCR-washed text normalizations, scrubbed committee & organizational rosters (`nou_authors`), 2-tier public administration taxonomy classifications, minority dissent catalog (`dissent_catalog.json`), 54-year corporatist & gender diversity metrics (`diversity_catalog.json`), inter-NOU citation graphs (`relations_citations.json`), legislative measure-to-statute alignments (`nou_policy_lifecycle`, `nou_policy_measures`), Nynorsk executive summaries, 768-dimensional vector embeddings, and synthesized dual-host audio overviews (MP3) are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**:
+
+- **Full License Legal Code:** https://creativecommons.org/licenses/by/4.0/legalcode
+- **Mandatory Attribution Condition (CC BY 4.0 Section 3(a)):**
+  You are free to share and adapt the material for any purpose (including academic, journalistic, public-sector, and commercial use), **UNDER THE MANDATORY CONDITION that you give appropriate credit** to the creator:
+  > **Required Credit Line:**
+  > *"Kjelde: Tor Sivertsen Prestegard — NOUinnsikt Open Raw-Data Archive (1972–2026), https://github.com/tordieltor/nouinnsikt-open-data (CC BY 4.0)."*
+  > *(English: "Source: Tor Sivertsen Prestegard — NOUinnsikt Open Raw-Data Archive (1972–2026), https://github.com/tordieltor/nouinnsikt-open-data (CC BY 4.0).")*
+
+---
+
+## 2. Official Norwegian Public-Sector Documents & Parliamentary Records — NLOD 2.0 / Public Domain
 
 All underlying official texts of *Norges offentlige utredninger* (NOUs, 1972–2026), Royal Decree (*Statsråd*) appointment records, public consultation metadata (*høringer*), Government White Papers and Bills (*Meld. St.*, *Prop. L*, *Prop. S*), Stortinget roll-call votes and resolutions (*voteringer* and *stortingsvedtak*), and enacted statutory references originate from official Norwegian public institutions:
 
@@ -13,23 +28,21 @@ All underlying official texts of *Norges offentlige utredninger* (NOUs, 1972–2
 - **Stortinget (`data.stortinget.no`)** (open parliamentary proceedings and voting API)
 - **Lovdata (`lovdata.no`)** (promulgated statutory identifiers and enactment dates)
 
-Under the Norwegian Copyright Act (*Åndsverkloven § 14*), laws, regulations, court decisions, and official public deliberations/commission inquiries published by public authorities are exempt from copyright protection. Re-use of structured public-sector datasets follows the **Norwegian Licence for Open Government Data (NLOD 2.0)** (`https://data.norge.no/nlod/no/2.0`), which is compatible with **CC BY 4.0**. Please attribute the originating official source when quoting verbatim NOU passages.
+Under the Norwegian Copyright Act (*Åndsverkloven § 14*), laws, regulations, court decisions, and official public deliberations/commission inquiries published by public authorities are exempt from copyright protection. Re-use of structured public-sector datasets follows the **Norwegian Licence for Open Government Data (NLOD 2.0)** (`https://data.norge.no/nlod/no/2.0`), which also requires attribution and is compatible with **CC BY 4.0**.
 
 ---
 
-## 2. NOUinnsikt Curated Datasets, Enrichments & Audio Overviews — CC BY 4.0
+## 3. Database Schemas & Static Archive Landing Page — MIT License (With Copyright Notice Preservation)
 
-All value-added structured datasets, OCR-washed text normalizations, scrubbed 20,250-record committee & organizational rosters, 2-tier public administration taxonomy classifications, 626-item minority dissent catalog, 54-year corporatist & gender diversity metrics, inter-NOU citation graphs, legislative measure-to-statute alignments, Nynorsk executive summaries, 768-dimensional vector embeddings, and 758 synthesized dual-host audio overviews (MP3) are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**:
+Copyright (c) 2026 Tor Sivertsen Prestegard (NOUinnsikt)
 
-- License text: https://creativecommons.org/licenses/by/4.0/
-- Required attribution: **"NOUinnsikt Open Archive (1972–2026)"** with a link to this GitHub repository.
+Permission is hereby granted, free of charge, to any person obtaining a copy of the SQL schemas and static HTML/CSS/JS files in this repository, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the above copyright notice (**Copyright (c) 2026 Tor Sivertsen Prestegard**) and this permission notice being included in all copies or substantial portions of the Software.
 
 ---
 
-## 3. Helper Scripts, Schemas & Static Archive Landing Page — MIT License
+## 4. Data Compilation, AI/OCR Editing & Fair Warning Disclaimer
 
-Copyright (c) 2026 NOUinnsikt Contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of the software, SQL schemas, loader examples, and static HTML/CSS/JS files in this repository, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the above copyright notice and this permission notice being included in all copies or substantial portions of the Software.
-
-THE SOFTWARE AND DATASETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. ALWAYS VERIFY STATUTORY OR LEGAL CITATIONS AGAINST PRIMARY OFFICIAL SOURCES AT REGJERINGEN.NO, STORTINGET.NO, AND LOVDATA.NO.
+1. **Automated OCR & Text Conversion (1972–2026):** The 1,746 reports span scanned historical books (`nb.no` / UiO, 1972–1993), early digital PDFs (1994–2013), and modern HTML/EPUB/PDF documents (`regjeringen.no`, 2014–2026). Full-text chunks (`614,643` rows across `1,682` full-text reports, `96.3%` coverage) were extracted and deduplicated programmatically; older scanned documents may contain OCR errors, broken tables, or partial text coverage (~64 reports).
+2. **AI-Generated Enrichments & Audio:** Executive summaries (`summary*`), structured infographics (`infographic`), taxonomy mappings, policy evolution syntheses, and the 764 dual-host MP3 audio summaries were synthesized or structured using Large Language Models (Google Gemini / local LLMs) and neural Text-to-Speech. AI outputs may compress nuances or contain inaccuracies and must never be cited as official commission text.
+3. **Heuristic Metadata & Lifecycle Extraction:** Committee rosters (`nou_authors`, 20,205 records), organization classifications, name-based gender inference, minority dissents, citation graphs, and Stortinget/Lovdata lifecycle mappings were compiled via automated parsing and API matching and may contain omissions or matching artifacts.
+4. **No Warranty & Mandatory Primary Verification:** THE SOFTWARE AND DATASETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. USERS MUST ALWAYS VERIFY QUOTES, COMMITTEE ROSTERS, DISSENTS, AND STATUTORY CITATIONS AGAINST PRIMARY OFFICIAL SOURCES AT REGJERINGEN.NO, NB.NO, STORTINGET.NO, AND LOVDATA.NO.

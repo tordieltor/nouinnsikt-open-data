@@ -1,11 +1,11 @@
 {
   "project": "NOUinnsikt Open Raw-Data Archive (1972-2026)",
-  "exported_at_utc": "2026-11-22T10:12:51.305232+00:00",
+  "exported_at_utc": "2026-11-22T12:27:08.272888+00:00",
   "database_mode": "PostgreSQL READ ONLY (0 mutations)",
   "licenses": {
     "official_government_texts_and_records": "NLOD 2.0 / Public Domain (Regjeringen.no, Stortinget.no, Lovdata.no, NB.no)",
-    "nouinnsikt_curated_datasets_and_audio": "CC BY 4.0 (Attribution: NOUinnsikt)",
-    "scripts_and_static_landing_page": "MIT License"
+    "nouinnsikt_curated_datasets_and_audio": "CC BY 4.0 (Mandatory Attribution: Tor Sivertsen Prestegard — NOUinnsikt Open Archive 1972-2026)",
+    "scripts_and_static_landing_page": "MIT License (Copyright (c) 2026 Tor Sivertsen Prestegard)"
   },
   "corpus_totals": {
     "nou_chunks": 614643,
@@ -24,23 +24,23 @@
     "policy_evolution_cache": 58
   },
   "exported_files_count": 50,
-  "exported_files_total_bytes": 76954132,
+  "exported_files_total_bytes": 76953609,
   "files": [
     {
       "path": "datasets/relational/nous.jsonl.gz",
       "table": "nous",
       "format": "jsonl.gz",
       "rows": 1746,
-      "bytes": 4388032,
-      "sha256": "3b4689684791617d6c491a65d973e26845be2a1bea2560d35d7e6aacf24775ae"
+      "bytes": 4387802,
+      "sha256": "c464dfb16c2a4ffa2b34f8edf7c4e5bb153fba34e6b0715f51abd462aafb544b"
     },
     {
       "path": "datasets/relational/nous_flat.csv",
       "table": "nous",
       "format": "csv",
       "rows": 1746,
-      "bytes": 901868,
-      "sha256": "e3be615cb220bdaac5a45c9cd9880efedc15f051214092c02fdea01c6419906e"
+      "bytes": 901583,
+      "sha256": "fdb4ff5448e216b37aeb4a551c5daadbce14e6da6852f4d5b72f13e595f48612"
     },
     {
       "path": "datasets/relational/nou_authors.jsonl",
@@ -224,7 +224,7 @@
       "format": "jsonl",
       "rows": 58,
       "bytes": 343057,
-      "sha256": "fe690a9832e1b0b0702d2efb3fc41b6077909a1b86dcb994ad4d270d00e45530"
+      "sha256": "548c09a6273398cb60fd6743062e77ea1ac4fce1dac14aaf8cf7cb20200ea32a"
     },
     {
       "path": "datasets/relational/policy_evolution_cache.csv",
@@ -232,15 +232,15 @@
       "format": "csv",
       "rows": 58,
       "bytes": 338603,
-      "sha256": "f6adf20ff62854b58bdac486b79f50105407f50a33ef53cbc818f505ca4b4fff"
+      "sha256": "ba268aa2d809613d4530974a6f58e746e87deaefb6aaac58c3546cb49c34518a"
     },
     {
       "path": "datasets/relational/corpus_statistics.json",
       "table": "system_statistics(fun_facts)",
       "format": "json",
       "rows": 1,
-      "bytes": 53439,
-      "sha256": "e5f7c730b479113377e2701238a721d8b4f6a83e3fe18db16665e342f5212ef9"
+      "bytes": 53431,
+      "sha256": "66ce905c4df6e79d1564df67c1430f192366b3904db9ebf14071a2f069cc701d"
     },
     {
       "path": "docs/nou_lookup.json",

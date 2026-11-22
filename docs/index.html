@@ -380,9 +380,9 @@
     <section id="lisens-og-sitering" class="section-block" aria-labelledby="lisens-heading">
       <div class="container">
         <div class="section-header">
-          <h2 id="lisens-heading" class="section-title">Open lisensiering, sitering og kom-i-gang-kode</h2>
+          <h2 id="lisens-heading" class="section-title">Open lisensiering og krav om kreditering (CC BY 4.0)</h2>
           <p class="section-desc">
-            Offentlege grunnlagsdokument følgjer <strong>Norsk lisens for offentlege data (NLOD 2.0)</strong> / offentleg eigedom. NOUinnsikt sine strukturerte koplingar, katalogar og lydsamandrag er lisensierte under <strong>Creative Commons Navngiving 4.0 (CC BY 4.0)</strong>.
+            NOUinnsikt-datasetta, koplingane, katalogane og lydsamandraga er utvikla og kuraterte av <strong>Tor Sivertsen Prestegard</strong> og lisensierte under <strong>Creative Commons Navngiving 4.0 (CC BY 4.0)</strong>. Dataa kan brukast fritt, men <strong>all gjenbruk krev synleg kreditering av Tor Sivertsen Prestegard (NOUinnsikt)</strong>. Offentlege primærdokument følgjer <strong>NLOD 2.0</strong> / offentleg eigedom.
           </p>
         </div>
 
@@ -405,10 +405,10 @@ GROUP BY name ORDER BY chaired_count DESC LIMIT 10;</code></pre>
           </article>
 
           <article class="code-card">
-            <h3>Akademisk sitering (BibTeX / APA 7)</h3>
-            <p>Ved bruk i oppgåver, artiklar eller journalistikk, oppgje kjelde i tråd med CC BY 4.0 (<code>CITATION.cff</code> ligg i rota av repoet):</p>
-            <pre id="bibtex-snippet" class="code-pre"><code>@dataset{nouinnsikt_open_archive_2026,
-  author    = {{NOUinnsikt}},
+            <h3>Påkrevd kjeldetilvising ved bruk (CC BY 4.0 · BibTeX / APA 7)</h3>
+            <p>Ved bruk i oppgåver, forskingsartiklar, utgreiingar, journalistikk eller kode, oppgje <strong>Tor Sivertsen Prestegard</strong> som kjelde i tråd med CC BY 4.0 (<code>CITATION.cff</code> ligg i rota av repoet):</p>
+            <pre id="bibtex-snippet" class="code-pre"><code>@dataset{prestegard_nouinnsikt_2026,
+  author    = {Prestegard, Tor Sivertsen},
   title     = {NOUinnsikt Open Raw-Data Archive: Official Norwegian Reports (NOU 1972--2026)},
   year      = {2026},
   publisher = {GitHub},
@@ -428,6 +428,37 @@ GROUP BY name ORDER BY chaired_count DESC LIMIT 10;</code></pre>
             </div>
           </article>
         </div>
+
+        <!-- Fair Warning / Methodology & AI Compilation Disclaimer -->
+        <div class="sunset-card" style="margin-top: 1.75rem; background-color: #FFFBEB; border-color: #FCD34D;">
+          <div class="hero-badges">
+            <span class="meta-badge badge-amber">Viktig atterhald om datakvalitet, OCR og KI-bearbeiding</span>
+            <span class="meta-badge badge-navy">Metode &amp; kjeldekritikk</span>
+          </div>
+          <h3 style="margin: 0.35rem 0 0.65rem 0; font-family: 'PT Serif', Georgia, serif; font-size: 1.25rem; color: #1A365D;">
+            Korleis dataa er samla inn, vaska og redigerte — og kva du må sjekke mot primærkjelda
+          </h3>
+          <p style="margin: 0 0 0.75rem 0; font-size: 0.92rem; line-height: 1.6; color: #334155;">
+            Dette arkivet er bygd gjennom automatisert innhausting, tekstkonvertering og KI-støtta strukturering av 54 år med offentlege utgreiingar (1972–2026). Sjølv om korpuset har gjennomgått grundig datavask, deduplisering og kontroll, må brukarar vere merksame på følgjande metodiske avgrensingar:
+          </p>
+          <ul style="margin: 0 0 0.85rem 1.2rem; padding: 0; font-size: 0.9rem; line-height: 1.6; color: #334155;">
+            <li style="margin-bottom: 0.4rem;">
+              <strong>1. OCR-skanning og tekstkonvertering (1972–2026):</strong> Utgreiingane spenner frå skanna bøker hos Nasjonalbiblioteket (<code>nb.no</code>) og UiO (1972–1993) til moderne digitale PDF/HTML/EPUB-filer på <code>regjeringen.no</code>. Av 1 746 NOU-ar har <strong>1 682 (96,3 %)</strong> fullstendig brødtekst (614 643 dedupliserte tekstbolkar), medan rundt 64 eldre eller fleirbinds rapportar har kortare tekstdekning. I eldre skanna dokument kan OCR-feil, spaltekollisjonar og bortfall av tabellar førekome.
+            </li>
+            <li style="margin-bottom: 0.4rem;">
+              <strong>2. KI-genererte samandrag, nøkkelfelt og podkastar:</strong> Samandrag (<code>summary*</code>), strukturerte nøkkelfunn og tilrådingar (<code>infographic</code>), taksonomikategoriar og dei 764 to-verts MP3-lydsamandraga er genererte med store språkmodellar (Google Gemini / lokale LLM-ar) og syntetisk tale (TTS). KI-generert tekst kan forenkle faglege nyansar eller innehalde feiltolkingar, og må <strong>aldri</strong> siterast som utvalet sin offisielle tekst.
+            </li>
+            <li style="margin-bottom: 0.4rem;">
+              <strong>3. Automatisk uttrekk av utvalsmedlemmar, siteringar, dissensar og lovsporing:</strong> Utvalsregisteret (<code>nou_authors</code>, 20 205 roller), kjønns- og sektorfordeling, dissenskatalogen (<code>dissent_catalog.json</code>), siteringsgrafen og koplingane mot høyringsrundar, proposisjonar, stortingsvoteringar og Lovdata er ekstraherte maskinelt. I komplekse utgreiingar og lovløp kan automatiske parsarar oversjå medlemmar på fleirspalta signatursider eller gje ufullstendige sakskoplingar.
+            </li>
+            <li>
+              <strong>4. Alltid kontroller primærkjelda:</strong> Ved akademisk sitering, juridisk arbeid, saksbehandling eller journalistikk må alle sitat, utvalslister, dissensar og lovkoplingar verifiserast direkte mot originaldokumentet hos <strong>Regjeringen.no</strong>, <strong>Nasjonalbiblioteket (NB.no)</strong>, <strong>Stortinget.no</strong> eller <strong>Lovdata.no</strong>.
+            </li>
+          </ul>
+          <p style="margin: 0; font-size: 0.85rem; line-height: 1.55; color: #475569;" lang="en">
+            <strong>Fair Warning (English):</strong> All datasets were compiled programmatically via automated web/archive harvesting, OCR/PDF-to-Markdown conversion (96.3% full-text coverage; historical scanned reports may contain OCR/table artifacts), heuristic entity &amp; lifecycle extraction (committee rosters, name-based gender inference, citations, dissents, and parliamentary links), and LLM/TTS synthesis (summaries, structured profiles, and MP3 podcasts). Always verify quotes, rosters, and statutory references against the official primary sources at Regjeringen.no, NB.no, Stortinget.no, and Lovdata.no.
+          </p>
+        </div>
       </div>
     </section>
   </main>
@@ -435,8 +466,8 @@ GROUP BY name ORDER BY chaired_count DESC LIMIT 10;</code></pre>
   <footer class="site-footer">
     <div class="container footer-inner">
       <div>
-        <strong>NOUinnsikt — Ope rådata-arkiv (1972–2026)</strong><br />
-        Ingen informasjonskapslar (cookies), inga sporing og ingen brukarloggar. Primærkjelder: Regjeringen.no, Stortinget.no, Lovdata.no og Nasjonalbiblioteket (NB.no).
+        <strong>NOUinnsikt — Ope rådata-arkiv (1972–2026) · Utvikla av Tor Sivertsen Prestegard</strong><br />
+        Lisensiert under <strong>CC BY 4.0</strong> (krev namngjeving av <em>Tor Sivertsen Prestegard / NOUinnsikt</em> ved bruk) &amp; NLOD 2.0. Ingen informasjonskapslar (cookies) eller sporing.
       </div>
       <div class="footer-links">
         <a data-gh-root="true" href="https://github.com/tordieltor/nouinnsikt-open-data" target="_blank" rel="noopener noreferrer">GitHub-arkiv</a>

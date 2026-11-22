@@ -1383,7 +1383,11 @@
       11
     ],
     [
-      "Filip Truyen",
+      "Øystein Olsen",
+      10
+    ],
+    [
+      "Steinar Holden",
       10
     ],
     [
@@ -1391,11 +1395,7 @@
       10
     ],
     [
-      "Øystein Olsen",
-      10
-    ],
-    [
-      "Steinar Holden",
+      "Filip Truyen",
       10
     ]
   ],
@@ -1425,7 +1425,11 @@
       11
     ],
     [
-      "Filip Truyen",
+      "Øystein Olsen",
+      10
+    ],
+    [
+      "Steinar Holden",
       10
     ],
     [
@@ -1433,11 +1437,7 @@
       10
     ],
     [
-      "Øystein Olsen",
-      10
-    ],
-    [
-      "Steinar Holden",
+      "Filip Truyen",
       10
     ]
   ],
@@ -1451,11 +1451,7 @@
       11
     ],
     [
-      "Hans Petter Graver",
-      10
-    ],
-    [
-      "Filip Truyen",
+      "Svein Longva",
       10
     ],
     [
@@ -1463,7 +1459,11 @@
       10
     ],
     [
-      "Svein Longva",
+      "Hans Petter Graver",
+      10
+    ],
+    [
+      "Filip Truyen",
       10
     ],
     [
@@ -1479,7 +1479,7 @@
       5
     ],
     [
-      "Ann-Kristin Olsen",
+      "Tore Bråthen",
       4
     ]
   ],
@@ -1505,11 +1505,11 @@
       31
     ],
     [
-      "Erik Orskaug",
+      "Lars Haartveit",
       31
     ],
     [
-      "Lars Haartveit",
+      "Erik Orskaug",
       31
     ],
     [
@@ -1547,11 +1547,11 @@
       31
     ],
     [
-      "Erik Orskaug",
+      "Lars Haartveit",
       31
     ],
     [
-      "Lars Haartveit",
+      "Erik Orskaug",
       31
     ],
     [
@@ -1573,27 +1573,27 @@
       31
     ],
     [
-      "Erik Orskaug",
-      30
-    ],
-    [
       "Stein Reegård",
       30
     ],
     [
-      "Eystein Gjelsvik",
-      25
+      "Erik Orskaug",
+      30
     ],
     [
       "Tove Storrødvann",
       25
     ],
     [
-      "Ellen Horneland",
-      24
+      "Eystein Gjelsvik",
+      25
     ],
     [
       "Stein Gjerding",
+      24
+    ],
+    [
+      "Ellen Horneland",
       24
     ],
     [
@@ -1601,11 +1601,11 @@
       23
     ],
     [
-      "Ann Lisbet Brathaug",
+      "Ottar Dalsøren",
       22
     ],
     [
-      "Ottar Dalsøren",
+      "Ann Lisbet Brathaug",
       22
     ]
   ],
@@ -1623,11 +1623,11 @@
       44
     ],
     [
-      "Bernhard Nestaas",
+      "Erling Selvig",
       43
     ],
     [
-      "Erling Selvig",
+      "Bernhard Nestaas",
       43
     ],
     [
@@ -1643,11 +1643,11 @@
       35
     ],
     [
-      "Erik Orskaug",
+      "Øystein Løining",
       33
     ],
     [
-      "Øystein Løining",
+      "Erik Orskaug",
       33
     ],
     [
@@ -1685,11 +1685,11 @@
       44
     ],
     [
-      "Bernhard Nestaas",
+      "Erling Selvig",
       43
     ],
     [
-      "Erling Selvig",
+      "Bernhard Nestaas",
       43
     ],
     [
@@ -1705,11 +1705,11 @@
       35
     ],
     [
-      "Erik Orskaug",
+      "Øystein Løining",
       33
     ],
     [
-      "Øystein Løining",
+      "Erik Orskaug",
       33
     ],
     [
@@ -1747,11 +1747,11 @@
       31
     ],
     [
-      "Erik Orskaug",
+      "Stein Reegård",
       30
     ],
     [
-      "Stein Reegård",
+      "Erik Orskaug",
       30
     ],
     [
@@ -1759,15 +1759,15 @@
       28
     ],
     [
-      "Eystein Gjelsvik",
-      25
-    ],
-    [
       "Tove Storrødvann",
       25
     ],
     [
-      "Ann Lisbet Brathaug",
+      "Eystein Gjelsvik",
+      25
+    ],
+    [
+      "Stein Gjerding",
       24
     ],
     [
@@ -1775,7 +1775,7 @@
       24
     ],
     [
-      "Stein Gjerding",
+      "Ann Lisbet Brathaug",
       24
     ],
     [
@@ -1787,11 +1787,11 @@
       22
     ],
     [
-      "Erling G. Rikheim",
+      "Tormod Belgum",
       21
     ],
     [
-      "Øystein Løining",
+      "Erling G. Rikheim",
       21
     ]
   ],
@@ -2204,5 +2204,5 @@
   "average_member_count": 8.6,
   "average_page_count": 257.8,
   "average_secretariat_count": 2.8,
-  "updated_at": "2026-11-22T09:59:40.221957+00:00"
+  "updated_at": "2026-11-22T10:44:57.711264+00:00"
 }

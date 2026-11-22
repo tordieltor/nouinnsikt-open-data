@@ -1,14 +1,17 @@
 cff-version: 1.2.0
-message: "If you use the NOUinnsikt Open Raw-Data Archive in academic research, journalism, or software, please cite it using the metadata below."
+message: "Brukar du NOUinnsikt Open Raw-Data Archive i forsking, utgreiing, journalistikk eller programvare, pliktar du å oppgje Tor Sivertsen Prestegard som kjelde i tråd med CC BY 4.0. / If you use this dataset, attribution to Tor Sivertsen Prestegard is required under CC BY 4.0."
 title: "NOUinnsikt Open Raw-Data Archive: Complete Corpus, Committee Rosters, Citations, Dissents, and Legislative Lifecycle of Official Norwegian Reports (NOU 1972–2026)"
 type: dataset
 version: "1.0.0"
-date-released: "2026-10-31"
+date-released: "2026-11-22"
 license: "CC-BY-4.0"
 authors:
-  - name: "NOUinnsikt Project"
+  - family-names: "Prestegard"
+    given-names: "Tor Sivertsen"
+    email: "post@nouinnsikt.no"
 keywords:
   - "Norges offentlige utredninger"
+  - "Noregs offentlege utgreiingar"
   - "NOU"
   - "Norwegian public administration"
   - "corporatism"

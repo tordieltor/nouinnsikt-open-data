@@ -121,25 +121,47 @@ LIMIT 10;
 
 ---
 
+## Metode, KI-bearbeiding og viktig atterhald om datakvalitet / Methodology & Data Quality Disclaimer
+
+> **Viktig å vite før du brukar datasetta (Fair Warning):**
+> Dette arkivet er resultat av eit uavhengig, automatisert innsamlings-, vaske- og struktureringsarbeid over 54 år med offentlege dokument (`1972–2026`). Sjølv om korpuset har vore gjennom omfattande kvalitetskontrollar, deduplisering og feilrettingar, er dataa maskinelt framstilte og **må alltid kontrollerast mot dei offisielle primærkjeldene** før bruk i juridiske, forvaltningsmessige, akademiske eller journalistiske arbeid.
+
+1. **Innhausting, OCR-skanning og tekstkonvertering (1972–2026)**:
+   - Dei **1 746 NOU-ane** spenner frå historiske, skanna trykksaker hos Nasjonalbiblioteket (`nb.no`) og UiO (`1972–1993`), via tidlege digitale PDF-ar (`1994–2013`), til moderne HTML-, EPUB- og PDF-utgåver på `regjeringen.no` (`2014–2026`).
+   - Dokumenta er automatisk konverterte til Markdown (`PyMuPDF`/`markitdown`/OCR), delte opp i **614 643** semantiske tekstbolkar (`nou_chunks`) og rensa for fotnotestøy og dublettar.
+   - **Dekning og kjende OCR-avvik**: `1 682 av 1 746` NOU-ar (`96,3 %`, og `100 %` etter 2010) har fullstendig brødtekst, medan rundt `64` eldre eller fleirbinds utgreiingar har kortare tekstdekning eller samandragsbolkar. I eldre skanna utgreiingar (`1972–1999`) kan det førekome OCR-feil, feiltolka tabellar/spalter eller bortfall av figurtekst.
+2. **KI-genererte samandrag, strukturfelt og lydsamandrag (LLM & TTS)**:
+   - Samandrag (`summary`, `summary_paragraph`, `summary_4_sentences`), strukturerte nøkkelfelt (`infographic`: hovudfunn, tilrådingar, samfunnseffekt), taksonomiklassifiseringar, tematiske politikkutviklingsanalysar og dei **764** to-verts lydsamandraga (`.mp3` + `podcast_script`) er genererte ved hjelp av store språkmodellar (Google Gemini / lokale språkmodellar) og syntetisk tale (Google Cloud TTS).
+   - **KI-atterhald**: Språkmodellar kan forenkle faglege nyansar, omsetje omgrep upresist til nynorsk eller feiltolke einskilde avsnitt. KI-genererte felt og podkastar er meint som **søke- og oversiktsverktøy**, aldri som erstatning for originalteksten i utgreiinga.
+3. **Automatisk uttrekk av utvalsmedlemmar, siteringar, dissensar og lovsporing**:
+   - **Utvalsregisteret (`nou_authors`, 20 205 rader)**: Henta ut automatisk frå mandatsider, oversendingsbrev og fleirspalta signatursider, supplert med regelbasert organisasjonsnormalisering og fornamnsbasert kjønnsklassifisering (`~4 %` ukjent kjønn ved initialar/uvanlege namn). Historisk OCR og ujamn typografi kan gje einskilde manglande medlemmar eller ufullstendige organisasjonsnamn.
+   - **Dissensar (`dissent_catalog.json`), kryssiteringar (`relations_citations.json`) og politisk etterliv (`nou_policy_lifecycle` m.fl.)**: Kartlagde maskinelt med regulære uttrykk og koplingar mot `regjeringen.no`, `data.stortinget.no` og `lovdata.no`. Automatisk kopling mellom ei NOU, ein høyringsrunde, ein proposisjon (`Prop. L` / `Meld. St.`) og eit lovvedtak kan i komplekse lovløp utelate delproposisjonar eller innehalde algoritmiske feilkoplingar.
+4. **English Summary of Methodology & Limitations**:
+   - This corpus was compiled through automated web/archive harvesting, PDF/OCR-to-Markdown conversion (`96.3%` full-text coverage across 1,746 reports; older scanned 1972–1999 reports contain inherent OCR and layout artifacts), regex/heuristic entity extraction (committee rosters, name-based gender inference, citation networks, minority dissents, and parliamentary lifecycle matching), and LLM/TTS synthesis (Nynorsk summaries, structured JSON profiles, and MP3 audio overviews). Always validate quotes, member rosters, and statutory references against the official primary documents at **Regjeringen.no**, **NB.no**, **Stortinget.no**, and **Lovdata.no**.
+
+---
+
 ## Kontakt / Contact
 
 Spørsmål eller førespurnader om rådata-arkivet kan rettast til **post@nouinnsikt.no**.
 
 ---
 
-## Lisens og kjeldetilvising / Licensing & Citation
+## Lisens og krav om kjeldetilvising / Licensing & Mandatory Attribution
 
+- **Krav om namngjeving (CC BY 4.0)**: Alle NOUinnsikt-kuraterte datasett, taksonomi, utvalsregister, dissenskatalog, mangfaldsdata, relasjonsgrafar, lovsporingar, samandrag, vektor-embeddings og lydfiler er utarbeidde av **Tor Sivertsen Prestegard** og lisensierte under **Creative Commons Navngiving 4.0 Internasjonal (CC BY 4.0)**. All bruk, deling eller vidarebygging **krev synleg kreditering**:
+  > *«Kjelde: Tor Sivertsen Prestegard — NOUinnsikt Open Raw-Data Archive (1972–2026), https://github.com/tordieltor/nouinnsikt-open-data (CC BY 4.0).»*
 - **Offentlege primærdokument og stortingsdata**: **NLOD 2.0** / offentleg eigedom jf. *åndsverkloven § 14* (kjelde: Regjeringen.no, Nasjonalbiblioteket, Stortinget, Lovdata).
-- **NOUinnsikt-kuraterte datasett, taksonomi, dissenskatalog, relasjonsgrafar, samandrag og lydfiler**: **CC BY 4.0** (oppgje *«NOUinnsikt Open Archive (1972–2026)»*).
-- **Skript, skjema og statisk landingsside**: **MIT License**.
+- **SQL-skjema og statisk landingsside**: **MIT License** (`Copyright (c) 2026 Tor Sivertsen Prestegard`).
 
 ```bibtex
-@dataset{nouinnsikt_archive_2026,
-  author       = {{NOUinnsikt Project}},
+@dataset{prestegard_nouinnsikt_2026,
+  author       = {Prestegard, Tor Sivertsen},
   title        = {{NOUinnsikt Open Raw-Data Archive: Complete Corpus, Committee Rosters, Citations, Dissents, and Legislative Lifecycle of Official Norwegian Reports (NOU 1972--2026)}},
   year         = {2026},
   version      = {1.0.0},
   publisher    = {GitHub},
+  license      = {CC-BY-4.0},
   url          = {https://github.com/tordieltor/nouinnsikt-open-data}
 }
 ```
