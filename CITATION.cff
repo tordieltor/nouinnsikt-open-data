@@ -5,6 +5,7 @@ type: dataset
 version: "1.0.0"
 date-released: "2026-11-22"
 license: "CC-BY-4.0"
+abstract: "Ope rådata-arkiv for 54 år med Noregs offentlege utgreiingar (1 746 NOU-ar, 1972–2026): relasjonstabellar, 21 analysekatalogar, 20 205 utvalsroller, 614 643 tekstbolkar med 768-dim vektor-embeddings, portabel SQLite FTS5-database, fulltekst Markdown og 764 KI-genererte MP3-lydsamandrag. Utarbeidd av Tor Sivertsen Prestegard under CC BY 4.0."
 authors:
   - family-names: "Prestegard"
     given-names: "Tor Sivertsen"
