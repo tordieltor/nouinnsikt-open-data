@@ -60,13 +60,13 @@
           <a class="btn-secondary" id="matched-dataset-link" href="https://github.com/tordieltor/nouinnsikt-open-data" target="_blank" rel="noopener noreferrer">
             Opne rådata-repoet på GitHub ↗
           </a>
-          <a class="btn-secondary" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/datasets/relational" target="_blank" rel="noopener noreferrer">
-            🗄️ Relasjonsdatabase ↗
+          <a class="btn-secondary" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/01-tabellar-og-katalogar/relasjonstabellar" target="_blank" rel="noopener noreferrer">
+            🗄️ Relasjonstabellar ↗
           </a>
-          <a class="btn-secondary" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/podcasts" target="_blank" rel="noopener noreferrer">
-            🎧 Podkastar ↗
+          <a class="btn-secondary" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/04-lydpodkastar" target="_blank" rel="noopener noreferrer">
+            🎧 Lydpodkastar ↗
           </a>
-          <a class="btn-secondary" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/database" target="_blank" rel="noopener noreferrer">
+          <a class="btn-secondary" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/02-sqlite-og-vektor-db" target="_blank" rel="noopener noreferrer">
             💾 SQLite &amp; Vektor-DB ↗
           </a>
           <a class="btn-secondary" href="mailto:post@nouinnsikt.no">
@@ -87,16 +87,16 @@
       var lastSeg = segments[segments.length - 1] || "";
 
       var routeDatasetMap = {
-        "dissens": { label: "Opne dissent_catalog.json (626 dissensar) ↗", path: "/blob/main/datasets/catalogs/dissent_catalog.json" },
-        "etterliv": { label: "Opne politisk etterliv-tabellar (CSV/JSONL) ↗", path: "/tree/main/datasets/relational" },
-        "relasjoner": { label: "Opne relations_citations.json (7 878 siteringar) ↗", path: "/blob/main/datasets/catalogs/relations_citations.json" },
-        "sprak": { label: "Opne language_data.json (LIX & målform) ↗", path: "/blob/main/datasets/catalogs/language_data.json" },
-        "mangfald": { label: "Opne diversity_catalog.json & nou_authors.csv ↗", path: "/blob/main/datasets/catalogs/diversity_catalog.json" },
-        "utvalgsleder": { label: "Opne nou_authors.csv (20 250 utvalsroller) ↗", path: "/blob/main/datasets/relational/nou_authors.csv" },
-        "kommende": { label: "Opne upcoming_nous.json ↗", path: "/blob/main/datasets/catalogs/upcoming_nous.json" },
-        "departement": { label: "Opne ministry_lineage.json & ministry_nou_map.json ↗", path: "/blob/main/datasets/catalogs/ministry_lineage.json" },
-        "lydarkiv": { label: "Opne MP3-lydarkiv under GitHub Releases ↗", path: "/releases" },
-        "podkast": { label: "Opne MP3-lydarkiv under GitHub Releases ↗", path: "/releases" }
+        "dissens": { label: "Opne dissent_catalog.json (626 dissensar) ↗", path: "/blob/main/01-tabellar-og-katalogar/analysekatalogar/dissent_catalog.json" },
+        "etterliv": { label: "Opne politisk etterliv-tabellar (CSV/JSONL) ↗", path: "/tree/main/01-tabellar-og-katalogar/relasjonstabellar" },
+        "relasjoner": { label: "Opne relations_citations.json (7 878 siteringar) ↗", path: "/blob/main/01-tabellar-og-katalogar/analysekatalogar/relations_citations.json" },
+        "sprak": { label: "Opne language_data.json (LIX & målform) ↗", path: "/blob/main/01-tabellar-og-katalogar/analysekatalogar/language_data.json" },
+        "mangfald": { label: "Opne diversity_catalog.json & nou_authors.csv ↗", path: "/blob/main/01-tabellar-og-katalogar/analysekatalogar/diversity_catalog.json" },
+        "utvalgsleder": { label: "Opne nou_authors.csv (20 205 utvalsroller) ↗", path: "/blob/main/01-tabellar-og-katalogar/relasjonstabellar/nou_authors.csv" },
+        "kommende": { label: "Opne upcoming_nous.json ↗", path: "/blob/main/01-tabellar-og-katalogar/analysekatalogar/upcoming_nous.json" },
+        "departement": { label: "Opne ministry_lineage.json & ministry_nou_map.json ↗", path: "/blob/main/01-tabellar-og-katalogar/analysekatalogar/ministry_lineage.json" },
+        "lydarkiv": { label: "Opne 04-lydpodkastar/ og MP3-arkiv ↗", path: "/tree/main/04-lydpodkastar" },
+        "podkast": { label: "Opne 04-lydpodkastar/ og MP3-arkiv ↗", path: "/tree/main/04-lydpodkastar" }
       };
 
       var datasetLink = document.getElementById("matched-dataset-link");

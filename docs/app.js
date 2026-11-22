@@ -226,7 +226,7 @@
       var slice = filteredItems.slice(0, visibleCount);
 
       if (total === 0) {
-        countText.textContent = "Ingen treff blant 1 741 NOU-ar. Prøv eit anna søkeord eller nullstill filteret.";
+        countText.textContent = "Ingen treff blant 1 746 NOU-ar. Prøv eit anna søkeord eller nullstill filteret.";
         if (moreBtn) {
           moreBtn.hidden = true;
         }
