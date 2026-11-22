@@ -143,6 +143,39 @@
       actions.appendChild(srcLink);
     }
 
+    var ghBase = "https://github.com/" + detectRepoSlug();
+    var rawBase = "https://raw.githubusercontent.com/" + detectRepoSlug() + "/main/";
+
+    if (item.md_path) {
+      var mdLink = document.createElement("a");
+      mdLink.className = "btn-secondary";
+      mdLink.href = ghBase + "/blob/main/" + item.md_path;
+      mdLink.target = "_blank";
+      mdLink.rel = "noopener noreferrer";
+      mdLink.textContent = "Markdown ↗";
+      actions.appendChild(mdLink);
+    }
+
+    if (item.mp3_path) {
+      var mp3Link = document.createElement("a");
+      mp3Link.className = "btn-secondary";
+      mp3Link.href = rawBase + item.mp3_path;
+      mp3Link.target = "_blank";
+      mp3Link.rel = "noopener noreferrer";
+      mp3Link.textContent = "Podkast MP3 ↗";
+      actions.appendChild(mp3Link);
+    }
+
+    if (item.cover_path) {
+      var covLink = document.createElement("a");
+      covLink.className = "btn-secondary";
+      covLink.href = ghBase + "/blob/main/" + item.cover_path;
+      covLink.target = "_blank";
+      covLink.rel = "noopener noreferrer";
+      covLink.textContent = "Omslag ↗";
+      actions.appendChild(covLink);
+    }
+
     row.appendChild(main);
     row.appendChild(actions);
     return row;

@@ -170,6 +170,33 @@
             aSrc.textContent = found.source_url.indexOf("nb.no") !== -1 ? "Opne på NB.no ↗" : "Opne på Regjeringen.no ↗";
             actions.appendChild(aSrc);
           }
+          if (found.md_path) {
+            var aMd = document.createElement("a");
+            aMd.className = "btn-secondary";
+            aMd.href = ghBase + "/blob/main/" + found.md_path;
+            aMd.target = "_blank";
+            aMd.rel = "noopener noreferrer";
+            aMd.textContent = "Markdown ↗";
+            actions.appendChild(aMd);
+          }
+          if (found.mp3_path) {
+            var aMp3 = document.createElement("a");
+            aMp3.className = "btn-secondary";
+            aMp3.href = "https://raw.githubusercontent.com/" + REPO_SLUG + "/main/" + found.mp3_path;
+            aMp3.target = "_blank";
+            aMp3.rel = "noopener noreferrer";
+            aMp3.textContent = "Podkast MP3 ↗";
+            actions.appendChild(aMp3);
+          }
+          if (found.cover_path) {
+            var aCov = document.createElement("a");
+            aCov.className = "btn-secondary";
+            aCov.href = ghBase + "/blob/main/" + found.cover_path;
+            aCov.target = "_blank";
+            aCov.rel = "noopener noreferrer";
+            aCov.textContent = "Omslag ↗";
+            actions.appendChild(aCov);
+          }
 
           card.appendChild(main);
           card.appendChild(actions);

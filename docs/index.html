@@ -160,7 +160,7 @@
         <div class="section-header">
           <h2 id="datasett-heading" class="section-title">Rådata-pakkar og format</h2>
           <p class="section-desc">
-            Arkivet er delt i to lag: lette relasjonstabellar og analysekatalogar direkte i Git-treet (50 datafiler, 73,39 MB samla), og tunge fulltekst-, SQLite-, vektor- og lydpakkar under GitHub Releases (4,17 GB).
+            Alle enkeltfiler (tabellar, 21 analysekatalogar, 1 746 Markdown-utgreiingar, 764 MP3-podkastar og 2 225 omslagsbilete) ligg <strong>direkte tilgjengelege einskildvis i mappene på GitHub</strong>, medan samla bulk-pakkar (inkl. SQLite FTS5-databasen og 768-dim vektor-embeddings, 4,17 GB) ligg under GitHub Releases.
           </p>
         </div>
 
@@ -263,23 +263,23 @@
 
           <article class="dataset-card">
             <div class="dataset-card-top">
-              <span class="meta-badge badge-amber">GitHub Releases · Frittståande SQL &amp; Markdown</span>
+              <span class="meta-badge badge-amber">Enkeltfiler i Git &amp; Releases · SQL &amp; Markdown</span>
               <h3>5. SQLite FTS5-database &amp; 1 746 Markdown-fulltekstar</h3>
               <p>
-                Komplett lokal SQLite-fil (<code>2,61 GB</code> utpakka) med ferdigbygd <code>FTS5</code> fulltekstsøkeindeks over alle 614 643 tekstbolkar (krev ingen server), samt alle 1 746 NOU-ar som individuelle <code>.md</code>-filer med YAML-metadata.
+                Alle 1 746 NOU-ar ligg <strong>einskildvis sortert etter år</strong> i <code>03-fulltekst-markdown/</code> (lesbare rett i nettlesaren), pluss komplett lokal SQLite-fil (<code>2,61 GB</code> utpakka) med <code>FTS5</code>-indeks over alle 614 643 tekstbolkar i Releases.
               </p>
               <ul class="file-pill-list" aria-label="Filer i pakken">
+                <li class="file-pill">03-fulltekst-markdown/1972–2026/</li>
                 <li class="file-pill">nouinnsikt_fts5.sqlite.xz</li>
                 <li class="file-pill">nou_fulltext_markdown_1972_2026.tar.xz</li>
-                <li class="file-pill">SCHEMA.sql</li>
               </ul>
             </div>
             <div class="dataset-actions">
-              <a class="btn-primary" data-gh-path="tree/main/02-sqlite-og-vektor-db" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/02-sqlite-og-vektor-db" target="_blank" rel="noopener noreferrer">
-                Opne 02-sqlite-og-vektor-db/ ↗
-              </a>
-              <a class="btn-secondary" data-gh-path="tree/main/03-fulltekst-markdown" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/03-fulltekst-markdown" target="_blank" rel="noopener noreferrer">
+              <a class="btn-primary" data-gh-path="tree/main/03-fulltekst-markdown" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/03-fulltekst-markdown" target="_blank" rel="noopener noreferrer">
                 Opne 03-fulltekst-markdown/ ↗
+              </a>
+              <a class="btn-secondary" data-gh-path="tree/main/02-sqlite-og-vektor-db" href="https://github.com/tordieltor/nouinnsikt-open-data/tree/main/02-sqlite-og-vektor-db" target="_blank" rel="noopener noreferrer">
+                Opne 02-sqlite-og-vektor-db/ ↗
               </a>
               <a class="btn-secondary" data-gh-releases="true" href="https://github.com/tordieltor/nouinnsikt-open-data/releases" target="_blank" rel="noopener noreferrer">
                 GitHub Releases ↗
@@ -289,16 +289,16 @@
 
           <article class="dataset-card">
             <div class="dataset-card-top">
-              <span class="meta-badge badge-amber">Mappe &amp; Releases · Podkastar, Vektorar &amp; Omslag</span>
+              <span class="meta-badge badge-amber">Enkeltfiler i Git &amp; Releases · Podkastar, Vektorar &amp; Omslag</span>
               <h3>6. 764 MP3-podkastar, 768-dim Embeddings &amp; Forsidebilete</h3>
               <p>
-                Episodekatalog (<code>04-lydpodkastar/podcast_catalog.csv</code>) og alle 764 to-verts lydsamandrag i MP3-format, alle 614 643 tekstbolkar med <code>float16</code> vektor-embeddings, samt 2 225 forsidebilete (<code>05-forsidebilete/</code>).
+                Alle 764 MP3-podkastar ligg <strong>einskildvis etter år</strong> i <code>04-lydpodkastar/lydfiler/</code> (med episodekatalog), alle 2 225 omslagsbilete i <code>05-forsidebilete/</code>, samt samla pakkar og <code>float16</code> vektor-embeddings i Releases.
               </p>
               <ul class="file-pill-list" aria-label="Filer i pakken">
-                <li class="file-pill">04-lydpodkastar/podcast_catalog.csv</li>
+                <li class="file-pill">04-lydpodkastar/lydfiler/</li>
+                <li class="file-pill">05-forsidebilete/forsider/</li>
                 <li class="file-pill">nou_podcasts_mp3_1972_2026.tar</li>
                 <li class="file-pill">nou_chunks_embeddings_768d_float16.npz</li>
-                <li class="file-pill">nou_covers_1972_2026.tar.xz</li>
               </ul>
             </div>
             <div class="dataset-actions">
@@ -321,9 +321,9 @@
     <section id="kjeldeoppslag" class="section-block" aria-labelledby="oppslag-heading">
       <div class="container">
         <div class="section-header">
-          <h2 id="oppslag-heading" class="section-title">Raskt kjelde- og rådata-oppslag (1 746 NOU-ar)</h2>
+          <h2 id="oppslag-heading" class="section-title">Raskt kjelde- og filoppslag for alle 1 746 NOU-ar</h2>
           <p class="section-desc">
-            Finn direkte lenkje til offisiell PDF og kjeldeside hos <strong>Regjeringen.no</strong> eller <strong>Nasjonalbiblioteket (NB.no)</strong>, samt primærnøkkelen (<code>nou_id</code>) som koplar utgreiinga på tvers av CSV-, JSONL-, SQLite- og MP3-filene i rådata-arkivet.
+            Søk opp kvar enkelt utgreiing for direkte 1-klikks lenkjer til <strong>offisiell PDF</strong>, <strong>fulltekst Markdown</strong>, <strong>MP3-podkast</strong> og <strong>forsidebilete</strong> på GitHub, samt primærnøkkelen (<code>nou_id</code>) på tvers av alle datasett.
           </p>
         </div>
 
