@@ -8,6 +8,8 @@ This repository and its accompanying GitHub Release archives contain three disti
 
 **Creator & Copyright Holder:** **Tor Sivertsen Prestegard** (`post@nouinnsikt.no`)
 
+**Scope:** Applies to all curated tables, catalogs, embeddings, and audio bundles organized under `01-tabellar-og-katalogar/`, `02-sqlite-og-vektor-db/`, `03-fulltekst-markdown/`, `04-lydpodkastar/`, `05-forsidebilete/`, and GitHub Release `v1.0.0-data`.
+
 All value-added structured datasets, OCR-washed text normalizations, scrubbed committee & organizational rosters (`nou_authors`), 2-tier public administration taxonomy classifications, minority dissent catalog (`dissent_catalog.json`), 54-year corporatist & gender diversity metrics (`diversity_catalog.json`), inter-NOU citation graphs (`relations_citations.json`), legislative measure-to-statute alignments (`nou_policy_lifecycle`, `nou_policy_measures`), Nynorsk executive summaries, 768-dimensional vector embeddings, and synthesized dual-host audio overviews (MP3) are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**:
 
 - **Full License Legal Code:** https://creativecommons.org/licenses/by/4.0/legalcode
