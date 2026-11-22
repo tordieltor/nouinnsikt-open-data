@@ -1,4 +1,5 @@
-# Heavy GitHub Release staging artifacts (>100 MB archives uploaded via `gh release create`)
+# NOUinnsikt Ope Rådata-arkiv — ignorerte lokale arbeids- og byggfiler
+# Tunge GitHub Release-pakkar (>100 MB arkiv lasta opp via GitHub Releases)
 release-staging/
 
 # Explicitly forbid scripts, pipelines, examples, and environment/secret files in the passive open-data repo
