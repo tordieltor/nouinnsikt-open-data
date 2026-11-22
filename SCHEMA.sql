@@ -1,7 +1,9 @@
 -- =============================================================================
 -- NOUinnsikt Open Raw-Data Archive — Clean Public PostgreSQL + pgvector Schema
 -- =============================================================================
--- Contains ONLY the 13 public empirical research tables (1972–2026).
+-- Contains ONLY the 14 public empirical research tables (1972–2026):
+-- 13 relational tables in `01-tabellar-og-katalogar/relasjonstabellar/` plus
+-- `nou_chunks` (614,643 text chunks & 768d vectors; see `02-sqlite-og-vektor-db/`).
 -- Zero private authentication, user telemetry, or administrative tables exist.
 -- =============================================================================
 
