@@ -1,12 +1,15 @@
 {
-  "total_nous": 1741,
-  "total_documents": 1741,
-  "total_pages_sum": 337285,
-  "total_members_count": 14600,
+  "total_nous": 1743,
+  "total_documents": 1743,
+  "total_pages_sum": 127862,
+  "measured_pages_nou_count": 496,
+  "total_pages_coverage_pct": 28.5,
+  "fulltext_nous_analyzed": 1682,
+  "total_members_count": 14541,
   "total_secretariat_count": 3922,
-  "total_unique_people": 9709,
-  "total_word_count": 183413394,
-  "average_word_count": 105349.45,
+  "total_unique_people": 11771,
+  "total_word_count": 152235282,
+  "average_word_count": 90508.49,
   "top_authors": [
     {
       "name": "Stein Reegård",
@@ -258,8 +261,8 @@
       "sample_nou_titles": [
         "NOU 2026: 12 - Én helsetjeneste",
         "NOU 2026: 5 - Grunnlaget for inntektsoppgjørene 2026",
-        "NOU 2025: 1 - Felles ansvar, felles gevinst",
         "NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+        "NOU 2025: 1 - Felles ansvar, felles gevinst",
         "NOU 2025: 4 - Grunnlaget for inntektsoppgjørene 2025"
       ],
       "sample_nous": [
@@ -274,13 +277,13 @@
           "year": 2026
         },
         {
-          "id": "3083356",
-          "title": "NOU 2025: 1 - Felles ansvar, felles gevinst",
+          "id": "3140593",
+          "title": "NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
           "year": 2025
         },
         {
-          "id": "3140593",
-          "title": "NOU 2025: 10 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+          "id": "3083356",
+          "title": "NOU 2025: 1 - Felles ansvar, felles gevinst",
           "year": 2025
         },
         {
@@ -380,7 +383,7 @@
         "NOU 2025: 6 - Samboerloven",
         "NOU 2024: 11 - Lavlønn i Norge",
         "NOU 2024: 5 - Maktens ansikt",
-        "NOU 2023: 4 - Tid for handling"
+        "NOU 2023: 9 - Generalistkommunesystemet"
       ],
       "sample_nous": [
         {
@@ -404,8 +407,8 @@
           "year": 2024
         },
         {
-          "id": "2961552",
-          "title": "NOU 2023: 4 - Tid for handling",
+          "id": "2968517",
+          "title": "NOU 2023: 9 - Generalistkommunesystemet",
           "year": 2023
         }
       ]
@@ -939,8 +942,8 @@
         "NOU 2026: 11 - En ansvarlig, finansiell forvaltning",
         "NOU 2024: 13 - Lov og frihet",
         "NOU 2024: 20 - Det digitale (i) livet",
-        "NOU 2023: 18 - Genteknologi i en bærekraftig fremtid",
-        "NOU 2023: 23 - Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping"
+        "NOU 2023: 23 - Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping",
+        "NOU 2023: 18 - Genteknologi i en bærekraftig fremtid"
       ],
       "sample_nous": [
         {
@@ -959,13 +962,13 @@
           "year": 2024
         },
         {
-          "id": "2982905",
-          "title": "NOU 2023: 18 - Genteknologi i en bærekraftig fremtid",
+          "id": "2995224",
+          "title": "NOU 2023: 23 - Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping",
           "year": 2023
         },
         {
-          "id": "2995224",
-          "title": "NOU 2023: 23 - Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping",
+          "id": "2982905",
+          "title": "NOU 2023: 18 - Genteknologi i en bærekraftig fremtid",
           "year": 2023
         }
       ]
@@ -1220,7 +1223,7 @@
         "NOU 2003: 3 - Merverdiavgiften og kommunene",
         "NOU 2001: 20 - Lov om introduksjonsordning for nyankomne innvandrere",
         "NOU 2001: 1 - Lov om personnavn",
-        "NOU 2000: 17 - Burettslovene"
+        "NOU 2000: 22 - Om oppgavefordelingen mellom stat, region og kommune"
       ],
       "sample_nous": [
         {
@@ -1244,16 +1247,16 @@
           "year": 2001
         },
         {
-          "id": "428252",
-          "title": "NOU 2000: 17 - Burettslovene",
+          "id": "143239",
+          "title": "NOU 2000: 22 - Om oppgavefordelingen mellom stat, region og kommune",
           "year": 2000
         }
       ]
     }
   ],
-  "total_organizations_count": 481,
-  "total_profiled": 1739,
-  "total_receivers": 1094,
+  "total_organizations_count": 480,
+  "total_profiled": 1741,
+  "total_receivers": 1096,
   "longest_title": {
     "title": "NOU 1990: 27 - Bedrifts- og kapitalbeskatningen. Beskatning av aksjer, obligasjoner, valuta og enkelte finansielle instrumenter",
     "id": "digibok_2007112700009",
@@ -1325,9 +1328,9 @@
     },
     {
       "decade": "1980-talet",
-      "total": 407,
+      "total": 408,
       "years_count": 10,
-      "avg_per_year": 40.7
+      "avg_per_year": 40.8
     },
     {
       "decade": "1990-talet",
@@ -1343,9 +1346,9 @@
     },
     {
       "decade": "2010-talet",
-      "total": 187,
+      "total": 188,
       "years_count": 10,
-      "avg_per_year": 18.7
+      "avg_per_year": 18.8
     },
     {
       "decade": "2020-talet",
@@ -1357,11 +1360,11 @@
   "most_common_leaders": [
     [
       "Erling Selvig",
-      40
+      42
     ],
     [
       "Svein Longva",
-      36
+      37
     ],
     [
       "Odd Aukrust",
@@ -1384,26 +1387,26 @@
       10
     ],
     [
+      "Magnus Aarbakke",
+      10
+    ],
+    [
       "Øystein Olsen",
       10
     ],
     [
       "Steinar Holden",
       10
-    ],
-    [
-      "Magnus Aarbakke",
-      9
     ]
   ],
   "most_common_leaders_all_time": [
     [
       "Erling Selvig",
-      40
+      42
     ],
     [
       "Svein Longva",
-      36
+      37
     ],
     [
       "Odd Aukrust",
@@ -1426,22 +1429,22 @@
       10
     ],
     [
+      "Magnus Aarbakke",
+      10
+    ],
+    [
       "Øystein Olsen",
       10
     ],
     [
       "Steinar Holden",
       10
-    ],
-    [
-      "Magnus Aarbakke",
-      9
     ]
   ],
   "most_common_leaders_modern": [
     [
       "Erling Selvig",
-      26
+      28
     ],
     [
       "Ådne Cappelen",
@@ -1460,16 +1463,12 @@
       10
     ],
     [
+      "Svein Longva",
+      10
+    ],
+    [
       "Øystein Olsen",
       9
-    ],
-    [
-      "Svein Longva",
-      9
-    ],
-    [
-      "Ellen Brandt",
-      8
     ],
     [
       "Geir Axelsen",
@@ -1478,6 +1477,10 @@
     [
       "Jon Magnussen",
       5
+    ],
+    [
+      "Ann-Kristin Olsen",
+      4
     ]
   ],
   "most_common_members": [
@@ -1498,10 +1501,6 @@
       32
     ],
     [
-      "Lars Haartveit",
-      31
-    ],
-    [
       "Arnhild Dordi Gjønnes",
       31
     ],
@@ -1510,15 +1509,19 @@
       31
     ],
     [
+      "Lars Haartveit",
+      31
+    ],
+    [
       "Eystein Gjelsvik",
       29
     ],
     [
-      "Rolf A. Skomsvold",
+      "Per Melsom",
       27
     ],
     [
-      "Per Melsom",
+      "Rolf A. Skomsvold",
       27
     ]
   ],
@@ -1540,10 +1543,6 @@
       32
     ],
     [
-      "Lars Haartveit",
-      31
-    ],
-    [
       "Arnhild Dordi Gjønnes",
       31
     ],
@@ -1552,15 +1551,19 @@
       31
     ],
     [
+      "Lars Haartveit",
+      31
+    ],
+    [
       "Eystein Gjelsvik",
       29
     ],
     [
-      "Rolf A. Skomsvold",
+      "Per Melsom",
       27
     ],
     [
-      "Per Melsom",
+      "Rolf A. Skomsvold",
       27
     ]
   ],
@@ -1586,11 +1589,11 @@
       25
     ],
     [
-      "Stein Gjerding",
+      "Ellen Horneland",
       24
     ],
     [
-      "Ellen Horneland",
+      "Stein Gjerding",
       24
     ],
     [
@@ -1609,31 +1612,43 @@
   "people_most_committees": [
     [
       "Stein Reegård",
-      50
+      56
+    ],
+    [
+      "Torbjørn Eika",
+      45
+    ],
+    [
+      "Olav Magnussen",
+      44
+    ],
+    [
+      "Bernhard Nestaas",
+      43
     ],
     [
       "Erling Selvig",
       43
     ],
     [
-      "Olav Magnussen",
-      43
-    ],
-    [
       "Svein Longva",
-      39
+      41
     ],
     [
-      "Bernhard Nestaas",
-      38
+      "Eystein Gjelsvik",
+      40
+    ],
+    [
+      "Tormod Belgum",
+      35
+    ],
+    [
+      "Erik Orskaug",
+      33
     ],
     [
       "Øystein Løining",
       33
-    ],
-    [
-      "Erik Orskaug",
-      32
     ],
     [
       "Arnhild Dordi Gjønnes",
@@ -1644,8 +1659,8 @@
       31
     ],
     [
-      "Eystein Gjelsvik",
-      29
+      "Ragnhild Nersten",
+      31
     ],
     [
       "Per Melsom",
@@ -1654,48 +1669,48 @@
     [
       "Rolf A. Skomsvold",
       27
-    ],
-    [
-      "Hallvard Borgenvik",
-      26
-    ],
-    [
-      "Erling G. Rikheim",
-      25
-    ],
-    [
-      "Ottar Dalsøren",
-      25
     ]
   ],
   "people_most_committees_all_time": [
     [
       "Stein Reegård",
-      50
+      56
+    ],
+    [
+      "Torbjørn Eika",
+      45
+    ],
+    [
+      "Olav Magnussen",
+      44
+    ],
+    [
+      "Bernhard Nestaas",
+      43
     ],
     [
       "Erling Selvig",
       43
     ],
     [
-      "Olav Magnussen",
-      43
-    ],
-    [
       "Svein Longva",
-      39
+      41
     ],
     [
-      "Bernhard Nestaas",
-      38
+      "Eystein Gjelsvik",
+      40
+    ],
+    [
+      "Tormod Belgum",
+      35
+    ],
+    [
+      "Erik Orskaug",
+      33
     ],
     [
       "Øystein Løining",
       33
-    ],
-    [
-      "Erik Orskaug",
-      32
     ],
     [
       "Arnhild Dordi Gjønnes",
@@ -1706,8 +1721,8 @@
       31
     ],
     [
-      "Eystein Gjelsvik",
-      29
+      "Ragnhild Nersten",
+      31
     ],
     [
       "Per Melsom",
@@ -1716,23 +1731,19 @@
     [
       "Rolf A. Skomsvold",
       27
-    ],
-    [
-      "Hallvard Borgenvik",
-      26
-    ],
-    [
-      "Erling G. Rikheim",
-      25
-    ],
-    [
-      "Ottar Dalsøren",
-      25
     ]
   ],
   "people_most_committees_modern": [
     [
+      "Torbjørn Eika",
+      34
+    ],
+    [
       "Lars Haartveit",
+      31
+    ],
+    [
+      "Ragnhild Nersten",
       31
     ],
     [
@@ -1745,7 +1756,7 @@
     ],
     [
       "Erling Selvig",
-      26
+      28
     ],
     [
       "Eystein Gjelsvik",
@@ -1756,7 +1767,7 @@
       25
     ],
     [
-      "Stein Gjerding",
+      "Ann Lisbet Brathaug",
       24
     ],
     [
@@ -1764,32 +1775,24 @@
       24
     ],
     [
-      "Arnhild Dordi Gjønnes",
-      23
+      "Stein Gjerding",
+      24
     ],
     [
-      "Ann Lisbet Brathaug",
-      22
+      "Arnhild Dordi Gjønnes",
+      23
     ],
     [
       "Ottar Dalsøren",
       22
     ],
     [
-      "Øystein Løining",
-      21
-    ],
-    [
       "Erling G. Rikheim",
       21
     ],
     [
-      "Rolf A. Skomsvold",
+      "Øystein Løining",
       21
-    ],
-    [
-      "Torill Lødemel",
-      19
     ]
   ],
   "most_members": {
@@ -1837,11 +1840,11 @@
     ],
     [
       "Kommunal- og distriktsdepartementet",
-      76
+      77
     ],
     [
       "Arbeids- og inkluderingsdepartementet",
-      64
+      65
     ],
     [
       "Klima- og miljødepartementet",
@@ -1907,7 +1910,7 @@
     ],
     [
       "Kommunal- og arbeidsdepartementet",
-      42
+      43
     ],
     [
       "Miljøverndepartementet",
@@ -1961,11 +1964,11 @@
     ],
     [
       "Kommunal- og distriktsdepartementet",
-      76
+      77
     ],
     [
       "Arbeids- og inkluderingsdepartementet",
-      64
+      65
     ],
     [
       "Klima- og miljødepartementet",
@@ -2000,24 +2003,56 @@
     "skatt": 175,
     "klima": 40,
     "skole": 120,
+    "skule": 120,
     "politi": 61,
     "olje": 111,
-    "kvinner": 42,
-    "forsvar": 133,
+    "kvinner": 43,
+    "forsvar": 132,
     "energi": 43,
     "helse": 260,
-    "digital": 67,
-    "arbeid": 897,
-    "pensjon": 108,
+    "digital": 66,
+    "digitalisering": 23,
+    "arbeid": 899,
+    "pensjon": 109,
     "barn": 143
   },
-  "podcasts_ready": 28,
+  "podcasts_ready": 30,
   "longest_nous_by_pages": [
+    [
+      1030,
+      "NOU 2000: 14 - Frihet med ansvar",
+      2000,
+      "142780"
+    ],
     [
       911,
       "NOU 2012: 2 - Utenfor og innenfor",
       2012,
       "669368"
+    ],
+    [
+      908,
+      "NOU 2000: 16 - Tobakksindustriens erstatningsansvar",
+      2000,
+      "143101"
+    ],
+    [
+      886,
+      "NOU 2000: 21 - En strategi for sysselsetting og verdiskaping",
+      2000,
+      "117571"
+    ],
+    [
+      839,
+      "NOU 2004: 28 - Lov om bevaring av natur, landskap og biologisk mangfold",
+      2004,
+      "388846"
+    ],
+    [
+      821,
+      "NOU 2001: 3 - Velgere, valgordning, valgte",
+      2001,
+      "143453"
     ],
     [
       814,
@@ -2030,6 +2065,12 @@
       "NOU 2019: 14 - Tvangsbegrensningsloven",
       2019,
       "2654803"
+    ],
+    [
+      810,
+      "NOU 1999: 13 - Kvinners helse i Norge",
+      1999,
+      "141704"
     ],
     [
       807,
@@ -2056,55 +2097,31 @@
       "584312"
     ],
     [
-      603,
-      "NOU 1998: 11 - Energi- og kraftbalansen mot 2020",
-      1998,
-      "141308"
+      733,
+      "NOU 2000: 22 - Om oppgavefordelingen mellom stat, region og kommune",
+      2000,
+      "143239"
     ],
     [
-      593,
-      "NOU 2017: 13 - Ny sentralbanklov. Organisering av Norges Bank og Statens pensjonsfond utland",
-      2017,
-      "2558711"
-    ],
-    [
-      574,
-      "NOU 2025: 7 - Musikklandet",
-      2025,
-      "3110550"
-    ],
-    [
-      574,
-      "NOU 2008: 5 - Retten til fiske i havet utenfor Finnmark",
-      2008,
-      "499796"
-    ],
-    [
-      572,
-      "NOU 2011: 16 - Standardisert personskadeerstatning",
-      2011,
-      "656208"
-    ],
-    [
-      568,
-      "NOU 2011: 8 - Ny finanslovgivning",
-      2011,
-      "644161"
-    ],
-    [
-      550,
-      "NOU 2023: 7 - Trygg barndom, sikker fremtid",
-      2023,
-      "2966836"
-    ],
-    [
-      540,
-      "NOU 2026: 3 - Straffeforfølgelsen av Viggo Kristiansen",
-      2026,
-      "3149017"
+      699,
+      "NOU 1996: 13 - Offentlige overføringer til barnefamilier",
+      1996,
+      "116070"
     ]
   ],
   "shortest_nous_by_pages": [
+    [
+      20,
+      "NOU 1976: 2 - Utdanning av ambulansepersonell",
+      1976,
+      "624632"
+    ],
+    [
+      36,
+      "NOU 1973: 53 - Foreløpig grunnlag for inntektsoppgjørene 1974",
+      1973,
+      "2472867"
+    ],
     [
       41,
       "NOU 1981: 30 - B Vedlegg til utredning om offentlig støtte til teknisk industriell forskning og utvikling i Norge",
@@ -2118,10 +2135,22 @@
       "2506144"
     ],
     [
+      48,
+      "NOU 1982: 1 - Foreløpig grunnlag for inntektsoppgjørene 1982",
+      1982,
+      "2472645"
+    ],
+    [
       56,
       "NOU 2006: 9 - Kvalitetssikring av sakkyndige i barnevernet",
       2006,
       "158184"
+    ],
+    [
+      56,
+      "NOU 1981: 18 - Om grunnlaget for inntektsoppgjørene 1981",
+      1981,
+      "2472995"
     ],
     [
       64,
@@ -2130,10 +2159,28 @@
       "3048954"
     ],
     [
+      71,
+      "NOU 1999: 16 - Søk etter omkomne",
+      1999,
+      "141754"
+    ],
+    [
       72,
       "NOU 2007: 1 - Forbod mot meglerprovisjon i forsikring",
       2007,
       "443201"
+    ],
+    [
+      72,
+      "NOU 1983: 23 - Om grunnlaget for inntektsoppgjørene 1983",
+      1983,
+      "2472668"
+    ],
+    [
+      75,
+      "NOU 2005: 19 - Lov om DNA-register til bruk i strafferettspleien",
+      2005,
+      "156065"
     ],
     [
       76,
@@ -2152,52 +2199,10 @@
       "NOU 2007: 15 - Et styrket forsvar",
       2007,
       "489383"
-    ],
-    [
-      76,
-      "NOU 2001: 13 - Elektronisk handel i olje- og gass",
-      2001,
-      "143633"
-    ],
-    [
-      77,
-      "NOU 1977: 49 - Prisnivået i forskjellige deler av landet 1976–77",
-      1977,
-      "digibok_2013121106060"
-    ],
-    [
-      78,
-      "NOU 2016: 2 - Endringer i verdipapirhandelloven – flagging og periodisk rapportering",
-      2016,
-      "2473236"
-    ],
-    [
-      79,
-      "NOU 2007: 9 - Rosenborgsaken",
-      2007,
-      "477735"
-    ],
-    [
-      80,
-      "NOU 1980: 15 - Politikk i UNESCO",
-      1980,
-      "digibok_2013011607055"
-    ],
-    [
-      84,
-      "NOU 2008: 1 - Kvinner og homofile i trossamfunn",
-      2008,
-      "496347"
-    ],
-    [
-      87,
-      "NOU 2013: 5 - Når det virkelig gjelder…",
-      2013,
-      "721192"
     ]
   ],
   "average_member_count": 8.6,
-  "average_page_count": 193.7,
+  "average_page_count": 257.8,
   "average_secretariat_count": 2.8,
-  "updated_at": "2026-11-07T11:36:22.899644+00:00"
+  "updated_at": "2026-11-22T09:59:40.221957+00:00"
 }

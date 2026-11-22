@@ -1,25 +1,63 @@
 {
-  "3191187": {
-    "primary_category": "kunnskap-utdanning-forskning",
-    "subcategory": "hoyere-utdanning-forskning",
-    "tags": [
-      "Kunnskap, utdanning & forskning",
-      "Høgare utdanning & forskning",
-      "Digitalisering, personvern & KI",
-      "Utdanning",
-      "Teknologi"
-    ]
-  },
   "3191721": {
     "primary_category": "naring-energi-distrikt",
     "subcategory": "naring-innovasjon-landbruk",
     "tags": [
-      "Næring, energi & distrikt",
-      "Næringsutvikling, innovasjon & landbruk",
-      "Landbruk, skogbruk & distriktspolitikk",
+      "matsystem",
+      "jordbruk og matindustri",
+      "sjømat og havbruk",
+      "folkehelse og kosthold",
+      "klima og natur",
+      "selvforsyning og beredskap",
+      "bærekraft",
+      "verdikjeder for mat"
+    ]
+  },
+  "3191187": {
+    "primary_category": "kunnskap-utdanning-forskning",
+    "subcategory": "hoyere-utdanning-forskning",
+    "tags": [
+      "kunstig intelligens",
+      "høyere utdanning",
+      "universitet og høyskole",
+      "eksamen og vurdering",
+      "akademisk integritet",
+      "kompetanse",
+      "digitalisering",
+      "forskning og utdanning"
+    ]
+  },
+  "3190350": {
+    "primary_category": "helse-omsorg",
+    "subcategory": "spesialisthelseteneste",
+    "tags": [
+      "Helse & omsorg",
+      "Spesialisthelseteneste & sjukehus",
+      "Utdanning",
       "Helse",
-      "Miljø",
-      "Samfunnstryggleik"
+      "Økonomi"
+    ]
+  },
+  "3177462": {
+    "primary_category": "finans-skatt-makrookonomi",
+    "subcategory": "fiskalpolitikk-oljefondet-statsbudsjett",
+    "tags": [
+      "Finans, skatt & makroøkonomi",
+      "Fiskalpolitikk, Statens pensjonsfond & statsbudsjett",
+      "Energi",
+      "Økonomi",
+      "Finans"
+    ]
+  },
+  "3170002": {
+    "primary_category": "kunnskap-utdanning-forskning",
+    "subcategory": "barnehage-oppvekst-grunnskole",
+    "tags": [
+      "Kunnskap, utdanning & forskning",
+      "Barnehage, oppvekst & grunnskole",
+      "Utdanning",
+      "Helse",
+      "Energi"
     ]
   },
   "3167167": {
@@ -487,14 +525,6 @@
       "Økonomi",
       "Finans",
       "Lov og rett"
-    ]
-  },
-  "86008": {
-    "primary_category": "finans-skatt-makrookonomi",
-    "subcategory": "skatt-avgift-formue",
-    "tags": [
-      "Finans, skatt & makroøkonomi",
-      "Skatt, avgift & formue"
     ]
   },
   "3018750": {
@@ -3262,6 +3292,15 @@
       "Lov og rett"
     ]
   },
+  "597723": {
+    "primary_category": "arbeid-velferd-inkludering",
+    "subcategory": "arbeidsmarked-arbeidsrett",
+    "tags": [
+      "Arbeidsliv",
+      "Medbestemmelse",
+      "Arbeidsrett"
+    ]
+  },
   "587673": {
     "primary_category": "helse-omsorg",
     "subcategory": "psykisk-helse-rus",
@@ -5577,6 +5616,17 @@
       "Utdanning",
       "Helse",
       "Miljø"
+    ]
+  },
+  "117809": {
+    "primary_category": "statsforvaltning-demokrati",
+    "subcategory": "digitalisering-personvern-ki",
+    "tags": [
+      "Statsforvaltning & demokrati",
+      "Digitalisering, personvern & KI",
+      "Økonomi",
+      "Finans",
+      "Arbeidsliv"
     ]
   },
   "117575": {
@@ -8710,6 +8760,49 @@
       "Lov og rett"
     ]
   },
+  "digibok_2007090504007": {
+    "primary_category": "justis-rettssikkerhet-samfunnssikkerhet",
+    "subcategory": "politi-samfunnssikkerhet-beredskap",
+    "tags": [
+      "Justis, rettssikkerhet & samfunnssikkerhet",
+      "Politi, samfunnssikkerhet & beredskap",
+      "Samfunnssikkerhet & beredskap",
+      "Samfunnstryggleik"
+    ]
+  },
+  "digibok_2007082704030": {
+    "primary_category": "statsforvaltning-demokrati",
+    "subcategory": "statsorganisering-etikk",
+    "tags": [
+      "Statsforvaltning & demokrati",
+      "Statsorganisering, etikk & tilsyn",
+      "Samfunnssikkerhet & beredskap",
+      "Lov og rett",
+      "Samfunnstryggleik"
+    ]
+  },
+  "digibok_2007082404063": {
+    "primary_category": "klima-miljo-naturressurser",
+    "subcategory": "hav-vassdrag-ressursar",
+    "tags": [
+      "Klima, miljø & naturressursar",
+      "Hav, vassdrag & marine ressursar",
+      "Miljø",
+      "Lov og rett"
+    ]
+  },
+  "digibok_2007082404052": {
+    "primary_category": "naring-energi-distrikt",
+    "subcategory": "naring-innovasjon-landbruk",
+    "tags": [
+      "Næring, energi & distrikt",
+      "Næringsutvikling, innovasjon & landbruk",
+      "Landbruk, skogbruk & distriktspolitikk",
+      "Utdanning",
+      "Miljø",
+      "Økonomi"
+    ]
+  },
   "digibok_2007082400048": {
     "primary_category": "helse-omsorg",
     "subcategory": "spesialisthelseteneste",
@@ -8739,6 +8832,17 @@
       "Folkehelse & førebygging",
       "Helse",
       "Velferd"
+    ]
+  },
+  "digibok_2007082304004": {
+    "primary_category": "naring-energi-distrikt",
+    "subcategory": "naring-innovasjon-landbruk",
+    "tags": [
+      "Næring, energi & distrikt",
+      "Næringsutvikling, innovasjon & landbruk",
+      "Landbruk, skogbruk & distriktspolitikk",
+      "Miljø",
+      "Økonomi"
     ]
   },
   "digibok_2007082300012": {
@@ -9349,6 +9453,15 @@
       "Teknologi"
     ]
   },
+  "digibok_2016080408011": {
+    "primary_category": "statsforvaltning-demokrati",
+    "subcategory": "statsorganisering-etikk",
+    "tags": [
+      "Statsforvaltning & demokrati",
+      "Statsorganisering, etikk & tilsyn",
+      "Samfunn"
+    ]
+  },
   "digibok_2013091106064": {
     "primary_category": "kultur-medier-fritid",
     "subcategory": "kultur-kunst-kulturarv",
@@ -9367,6 +9480,17 @@
       "Domstolar & strafferett",
       "Lov og rett",
       "Samfunnstryggleik"
+    ]
+  },
+  "digibok_2012112606207": {
+    "primary_category": "finans-skatt-makrookonomi",
+    "subcategory": "skatt-avgift-formue",
+    "tags": [
+      "Finans, skatt & makroøkonomi",
+      "Skatt, avgift & formue",
+      "Næringsutvikling & innovasjon",
+      "Næringsutvikling & Innovasjon",
+      "Økonomi"
     ]
   },
   "digibok_2012082309551": {
@@ -9783,16 +9907,6 @@
       "Lov og rett"
     ]
   },
-  "digibok_2017012548030": {
-    "primary_category": "justis-rettssikkerhet-samfunnssikkerhet",
-    "subcategory": "politi-samfunnssikkerhet-beredskap",
-    "tags": [
-      "Justis, rettssikkerhet & samfunnssikkerhet",
-      "Politi, samfunnssikkerhet & beredskap",
-      "Politi & kriminalitetsførebygging",
-      "Lov og rett"
-    ]
-  },
   "digibok_2013102806077": {
     "primary_category": "kunnskap-utdanning-forskning",
     "subcategory": "barnehage-oppvekst-grunnskole",
@@ -10027,6 +10141,17 @@
       "Kommunesektor"
     ]
   },
+  "digibok_2012062706005": {
+    "primary_category": "arbeid-velferd-inkludering",
+    "subcategory": "arbeidsmarked-arbeidsrett",
+    "tags": [
+      "Arbeid, velferd & inkludering",
+      "Arbeidsmarked & arbeidsrett",
+      "Økonomi",
+      "Arbeidsliv",
+      "Velferd"
+    ]
+  },
   "digibok_2012062705059": {
     "primary_category": "kultur-medier-fritid",
     "subcategory": "kultur-kunst-kulturarv",
@@ -10067,6 +10192,15 @@
       "Lov og rett"
     ]
   },
+  "digibok_2012061406000": {
+    "primary_category": "arbeid-velferd-inkludering",
+    "subcategory": "arbeidsmarked-arbeidsrett",
+    "tags": [
+      "Arbeid, velferd & inkludering",
+      "Arbeidsmarked & arbeidsrett",
+      "Arbeidsliv"
+    ]
+  },
   "digibok_2011070606032": {
     "primary_category": "klima-miljo-naturressurser",
     "subcategory": "naturmangfold-arealbruk",
@@ -10085,6 +10219,18 @@
       "Justis, rettssikkerhet & samfunnssikkerhet",
       "Sivilrett, familie, arv & barnevern",
       "Velferd"
+    ]
+  },
+  "digibok_2008060900117": {
+    "primary_category": "justis-rettssikkerhet-samfunnssikkerhet",
+    "subcategory": "politi-samfunnssikkerhet-beredskap",
+    "tags": [
+      "Justis, rettssikkerhet & samfunnssikkerhet",
+      "Politi, samfunnssikkerhet & beredskap",
+      "Politi & kriminalitetsførebygging",
+      "Utdanning",
+      "Miljø",
+      "Lov og rett"
     ]
   },
   "digibok_2007080600001": {
@@ -10921,6 +11067,17 @@
       "Skatt, avgift & formue",
       "Økonomi",
       "Kultur"
+    ]
+  },
+  "digibok_2012072006043": {
+    "primary_category": "naring-energi-distrikt",
+    "subcategory": "naring-innovasjon-landbruk",
+    "tags": [
+      "Næring, energi & distrikt",
+      "Næringsutvikling, innovasjon & landbruk",
+      "Næringsutvikling & innovasjon",
+      "Næringsutvikling & Innovasjon",
+      "Samfunn"
     ]
   },
   "digibok_2012072006042": {
@@ -12675,6 +12832,15 @@
       "Samfunnstryggleik"
     ]
   },
+  "digibok_2007062504048": {
+    "primary_category": "kunnskap-utdanning-forskning",
+    "subcategory": "hoyere-utdanning-forskning",
+    "tags": [
+      "Kunnskap, utdanning & forskning",
+      "Høgare utdanning & forskning",
+      "Samfunn"
+    ]
+  },
   "2472972": {
     "primary_category": "finans-skatt-makrookonomi",
     "subcategory": "makrookonomi-konjunktur",
@@ -12703,6 +12869,17 @@
       "Transport, kommunikasjon & infrastruktur",
       "Ekom & digital infrastruktur",
       "Økonomi",
+      "Teknologi"
+    ]
+  },
+  "digibok_2013120506018": {
+    "primary_category": "transport-kommunikasjon-infrastruktur",
+    "subcategory": "ecom-digital-infrastruktur",
+    "tags": [
+      "Transport, kommunikasjon & infrastruktur",
+      "Ekom & digital infrastruktur",
+      "Økonomi",
+      "Arbeidsliv",
       "Teknologi"
     ]
   },
@@ -13919,6 +14096,17 @@
       "Kultur"
     ]
   },
+  "digibok_2015081948157": {
+    "primary_category": "kultur-medier-fritid",
+    "subcategory": "urfolksrett-samerett-kultur",
+    "tags": [
+      "Kultur, medier & fritid",
+      "Samiske rettar, urfolk & kulturarv",
+      "Demokrati, val & urfolksrett",
+      "Miljø",
+      "Kultur"
+    ]
+  },
   "digibok_2014020408078": {
     "primary_category": "justis-rettssikkerhet-samfunnssikkerhet",
     "subcategory": "strafferett-kriminalomsorg",
@@ -14452,6 +14640,17 @@
       "Kommunesektor"
     ]
   },
+  "digibok_2008052900061": {
+    "primary_category": "naring-energi-distrikt",
+    "subcategory": "energisystem-fornybar",
+    "tags": [
+      "Næring, energi & distrikt",
+      "Energisystem & fornybar energi",
+      "Miljø",
+      "Energi",
+      "Samfunnstryggleik"
+    ]
+  },
   "digibok_2007061804109": {
     "primary_category": "arbeid-velferd-inkludering",
     "subcategory": "likestilling-diskriminering",
@@ -14643,6 +14842,15 @@
       "Arbeidsliv"
     ]
   },
+  "digibok_2011100706110": {
+    "primary_category": "transport-kommunikasjon-infrastruktur",
+    "subcategory": "vei-jernbane-kollektiv",
+    "tags": [
+      "Transport, kommunikasjon & infrastruktur",
+      "Vei, jernbane & kollektivtransport",
+      "Samfunn"
+    ]
+  },
   "digibok_2011100706108": {
     "primary_category": "statsforvaltning-demokrati",
     "subcategory": "digitalisering-personvern-ki",
@@ -14780,6 +14988,15 @@
       "Kultur"
     ]
   },
+  "digibok_2011062106028": {
+    "primary_category": "klima-miljo-naturressurser",
+    "subcategory": "hav-vassdrag-ressursar",
+    "tags": [
+      "Klima, miljø & naturressursar",
+      "Hav, vassdrag & marine ressursar",
+      "Økonomi"
+    ]
+  },
   "digibok_2011062106024": {
     "primary_category": "arbeid-velferd-inkludering",
     "subcategory": "pensjon-trygdeordninger",
@@ -14824,6 +15041,15 @@
       "Transport, kommunikasjon & infrastruktur",
       "Vei, jernbane & kollektivtransport",
       "Samfunn"
+    ]
+  },
+  "digibok_2011062106008": {
+    "primary_category": "transport-kommunikasjon-infrastruktur",
+    "subcategory": "vei-jernbane-kollektiv",
+    "tags": [
+      "Transport, kommunikasjon & infrastruktur",
+      "Vei, jernbane & kollektivtransport",
+      "Kommunesektor"
     ]
   },
   "digibok_2011060906043": {
@@ -16979,6 +17205,16 @@
       "Teknologi"
     ]
   },
+  "digibok_2008052900071": {
+    "primary_category": "klima-miljo-naturressurser",
+    "subcategory": "naturmangfold-arealbruk",
+    "tags": [
+      "Klima, miljø & naturressursar",
+      "Naturmangfald & arealforvaltning",
+      "Miljø",
+      "Kultur"
+    ]
+  },
   "digibok_2008052900069": {
     "primary_category": "statsforvaltning-demokrati",
     "subcategory": "digitalisering-personvern-ki",
@@ -18116,39 +18352,6 @@
       "Utdanning",
       "Helse",
       "Arbeidsliv"
-    ]
-  },
-  "3190350": {
-    "primary_category": "helse-omsorg",
-    "subcategory": "spesialisthelseteneste",
-    "tags": [
-      "Helse & omsorg",
-      "Spesialisthelseteneste & sjukehus",
-      "Utdanning",
-      "Helse",
-      "Økonomi"
-    ]
-  },
-  "3177462": {
-    "primary_category": "finans-skatt-makrookonomi",
-    "subcategory": "fiskalpolitikk-oljefondet-statsbudsjett",
-    "tags": [
-      "Finans, skatt & makroøkonomi",
-      "Fiskalpolitikk, Statens pensjonsfond & statsbudsjett",
-      "Energi",
-      "Økonomi",
-      "Finans"
-    ]
-  },
-  "3170002": {
-    "primary_category": "kunnskap-utdanning-forskning",
-    "subcategory": "barnehage-oppvekst-grunnskole",
-    "tags": [
-      "Kunnskap, utdanning & forskning",
-      "Barnehage, oppvekst & grunnskole",
-      "Utdanning",
-      "Helse",
-      "Energi"
     ]
   }
 }

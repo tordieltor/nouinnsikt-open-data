@@ -1,6 +1,6 @@
 {
   "project": "NOUinnsikt Open Raw-Data Archive (1972-2026)",
-  "exported_at_utc": "2026-11-21T19:04:40.739403+00:00",
+  "exported_at_utc": "2026-11-22T10:12:51.305232+00:00",
   "database_mode": "PostgreSQL READ ONLY (0 mutations)",
   "licenses": {
     "official_government_texts_and_records": "NLOD 2.0 / Public Domain (Regjeringen.no, Stortinget.no, Lovdata.no, NB.no)",
@@ -8,71 +8,71 @@
     "scripts_and_static_landing_page": "MIT License"
   },
   "corpus_totals": {
-    "nou_chunks": 659129,
+    "nou_chunks": 614643,
     "nous": 1746,
-    "nou_authors": 20321,
-    "nou_policy_lifecycle": 277,
+    "nou_authors": 20205,
+    "nou_policy_lifecycle": 276,
     "nou_hearings": 348,
     "nou_government_propositions": 968,
     "nou_parliamentary_cases": 516,
     "nou_parliamentary_votes": 4138,
     "nou_parliamentary_resolutions": 2230,
     "nou_enacted_legislation": 345,
-    "nou_policy_measures": 781,
+    "nou_policy_measures": 690,
     "query_expansions": 434,
     "dagens_nou": 81,
     "policy_evolution_cache": 58
   },
   "exported_files_count": 50,
-  "exported_files_total_bytes": 51525660,
+  "exported_files_total_bytes": 76954132,
   "files": [
     {
       "path": "datasets/relational/nous.jsonl.gz",
       "table": "nous",
       "format": "jsonl.gz",
       "rows": 1746,
-      "bytes": 4365888,
-      "sha256": "ab954404614a803a9e6fbad5d7f5c766b29d0312a003dbb8c5459dc58a8ce34b"
+      "bytes": 4388032,
+      "sha256": "3b4689684791617d6c491a65d973e26845be2a1bea2560d35d7e6aacf24775ae"
     },
     {
       "path": "datasets/relational/nous_flat.csv",
       "table": "nous",
       "format": "csv",
       "rows": 1746,
-      "bytes": 902575,
-      "sha256": "78c1b040f718d65efee3293746ea40a24f9ec3881f799361cbb3e529a1fc6b83"
+      "bytes": 901868,
+      "sha256": "e3be615cb220bdaac5a45c9cd9880efedc15f051214092c02fdea01c6419906e"
     },
     {
       "path": "datasets/relational/nou_authors.jsonl",
       "table": "nou_authors",
       "format": "jsonl",
-      "rows": 20321,
-      "bytes": 2430444,
-      "sha256": "fad446d06f2e7a9b5799136ffbeb283bcbd7fc615b9b09cf40e14029051f1ea7"
+      "rows": 20205,
+      "bytes": 2671268,
+      "sha256": "0561b2ddee3ac030f31554089064cb6fe726635b60a12c1d3cf323011bfb0442"
     },
     {
       "path": "datasets/relational/nou_authors.csv",
       "table": "nou_authors",
       "format": "csv",
-      "rows": 20321,
-      "bytes": 934789,
-      "sha256": "3636b1e2ee174e993021b7c96a11b6d4483c7c2f44caced05c56509e9deab338"
+      "rows": 20205,
+      "bytes": 1224557,
+      "sha256": "7b6baef0910e5df5ff7192ae0ff53c802baca72d96c48ece8773a21a63a50f7e"
     },
     {
       "path": "datasets/relational/nou_policy_lifecycle.jsonl",
       "table": "nou_policy_lifecycle",
       "format": "jsonl",
-      "rows": 277,
-      "bytes": 241817,
-      "sha256": "e03bd3eaa642adf48ee56940538f54c0d9b92601ba5f982c98cfb38094e8c3ce"
+      "rows": 276,
+      "bytes": 241001,
+      "sha256": "922d4611bbe9cd69961ce408222b1892b411bc6e4ad6e795ba18023258d034a5"
     },
     {
       "path": "datasets/relational/nou_policy_lifecycle.csv",
       "table": "nou_policy_lifecycle",
       "format": "csv",
-      "rows": 277,
-      "bytes": 107647,
-      "sha256": "ff4965fdfca6884d1bc5b6bfa28287a1ca562dda777ab69018f97777f90e2133"
+      "rows": 276,
+      "bytes": 107324,
+      "sha256": "67995a8ea49c8bc820d066ba3aaad0188622a02777798d40835fafd03f9b0238"
     },
     {
       "path": "datasets/relational/nou_hearings.jsonl",
@@ -96,7 +96,7 @@
       "format": "jsonl",
       "rows": 968,
       "bytes": 852778,
-      "sha256": "1160565348f4ac9bec7e0ef578b18ac0490dffb8ba3ddfea707e7925e3b865b5"
+      "sha256": "71596c9dbd68eb76a9391dfe71176083605063d3fde377d2dc9f53aff369d2cc"
     },
     {
       "path": "datasets/relational/nou_government_propositions.csv",
@@ -104,7 +104,7 @@
       "format": "csv",
       "rows": 968,
       "bytes": 550697,
-      "sha256": "d0d6bcdb3f10f5a8c0d8a33e1faacaf5caf9f459e058492c81ea0ef15ff1588e"
+      "sha256": "7e0ab09020265e51cb786fae7b4bf8ee777b9f97a1cd359b34529119fad37d49"
     },
     {
       "path": "datasets/relational/nou_parliamentary_cases.jsonl",
@@ -174,17 +174,17 @@
       "path": "datasets/relational/nou_policy_measures.jsonl",
       "table": "nou_policy_measures",
       "format": "jsonl",
-      "rows": 781,
-      "bytes": 551697,
-      "sha256": "a9c5fd2ebfac5f58d7b3c96cc7889bd3b92359f0df565c5af692ea060711e482"
+      "rows": 690,
+      "bytes": 485584,
+      "sha256": "12bacb508d143871f3d389e30d4584a048336bedbf3463e0fd82254f4f654c5e"
     },
     {
       "path": "datasets/relational/nou_policy_measures.csv",
       "table": "nou_policy_measures",
       "format": "csv",
-      "rows": 781,
-      "bytes": 319314,
-      "sha256": "e01a1bc83ff3fbbf9d48102987b88753ae2f99d89c988d4dfc4617526c22a236"
+      "rows": 690,
+      "bytes": 280378,
+      "sha256": "88865948d4d54ae7a8d965f3fed0e7697538df5745b5833daa287b3ac3407edf"
     },
     {
       "path": "datasets/relational/query_expansions.jsonl",
@@ -224,7 +224,7 @@
       "format": "jsonl",
       "rows": 58,
       "bytes": 343057,
-      "sha256": "cf47d8cd098aa4ac70e9961bd9be8366270edca8a41b6b36df266fd147c69199"
+      "sha256": "fe690a9832e1b0b0702d2efb3fc41b6077909a1b86dcb994ad4d270d00e45530"
     },
     {
       "path": "datasets/relational/policy_evolution_cache.csv",
@@ -232,23 +232,23 @@
       "format": "csv",
       "rows": 58,
       "bytes": 338603,
-      "sha256": "d30dac310c1a0f6f7559d849cb0efaee32d8896ccae3f0e3e2e330c6e4c8a12e"
+      "sha256": "f6adf20ff62854b58bdac486b79f50105407f50a33ef53cbc818f505ca4b4fff"
     },
     {
       "path": "datasets/relational/corpus_statistics.json",
       "table": "system_statistics(fun_facts)",
       "format": "json",
       "rows": 1,
-      "bytes": 53182,
-      "sha256": "0b5905747bf8e8f53588f3e96cf14657bfbb1211b3ebf6ab0407f2f5ab81cdd2"
+      "bytes": 53439,
+      "sha256": "e5f7c730b479113377e2701238a721d8b4f6a83e3fe18db16665e342f5212ef9"
     },
     {
       "path": "docs/nou_lookup.json",
       "table": "nous_lookup_index",
       "format": "json",
       "rows": 1746,
-      "bytes": 759440,
-      "sha256": "18610e9b177a5e5c904beddbdca1d9943e0cb4763a75b2a6dc14521b63a2687e"
+      "bytes": 760806,
+      "sha256": "8021319c1115e1b6dd1590ee43b2879e75bd0b6f2255c0238079755738f20c26"
     },
     {
       "path": "datasets/catalogs/dissent_catalog.json",
@@ -263,8 +263,8 @@
       "table": "catalog:diversity_catalog",
       "format": "json",
       "rows": 14,
-      "bytes": 144515,
-      "sha256": "f94ecdcd0a7127aad4649b031b0cd7a4e42be2ded8d1e65eee3088bafdc0e1de"
+      "bytes": 146874,
+      "sha256": "534c40e4bba8ddb3014b95cbd5b3f3840cb6c904ab95b27a4d4309f50180736b"
     },
     {
       "path": "datasets/catalogs/ministry_lineage.json",
@@ -278,9 +278,9 @@
       "path": "datasets/catalogs/upcoming_nous.json",
       "table": "catalog:upcoming_nous",
       "format": "json",
-      "rows": 25,
-      "bytes": 64694,
-      "sha256": "0e57c586634818a06d2cd9b48b662b63e88bbec18935fde15de282f98dc7ab71"
+      "rows": 24,
+      "bytes": 61876,
+      "sha256": "ba2ff05f5f8be80adfdf21ab7603e9c26b8d56d4abde839678713ab6652757b5"
     },
     {
       "path": "datasets/catalogs/reform_catalog.json",
@@ -302,9 +302,9 @@
       "path": "datasets/catalogs/nou_catalog.json",
       "table": "catalog:nou_catalog",
       "format": "json",
-      "rows": 1724,
-      "bytes": 2871970,
-      "sha256": "599661830501201737170b266ced1315b6eb6ad3de6c49a79fac2ca75d895546"
+      "rows": 1743,
+      "bytes": 2880116,
+      "sha256": "c8750da428f8d82d948b9d82fe02f6c0ccb9949da1302654b0b937c052878549"
     },
     {
       "path": "datasets/catalogs/extracted_artworks.json",
@@ -319,24 +319,24 @@
       "table": "catalog:relations_citations",
       "format": "json",
       "rows": 5,
-      "bytes": 3389984,
-      "sha256": "93d9486e3c0aaf0ca59b42b6b68b45403e357141483b6e589f31dbdb2178c20c"
+      "bytes": 20139152,
+      "sha256": "121bfe85fd519a506c24a422166d0668696f319704a01a120fa9d707dc128dc2"
     },
     {
       "path": "datasets/catalogs/relations_co_occurrence.json",
       "table": "catalog:relations_co_occurrence",
       "format": "json",
-      "rows": 5,
-      "bytes": 1037170,
-      "sha256": "804b653b696eec0cc90c8389ff98e56e1c8d3baa6635fbb5d72375b3ec64db73"
+      "rows": 3,
+      "bytes": 9191257,
+      "sha256": "b2cec22bb9aa149640f25b7536eee996902dfffaa12f210bb5d36f828226bc88"
     },
     {
       "path": "datasets/catalogs/relations_thematic.json",
       "table": "catalog:relations_thematic",
       "format": "json",
       "rows": 3,
-      "bytes": 618801,
-      "sha256": "fae8f1ddbd0295d74cd28444d54c48c94a30752cdc7f271c643004572749609b"
+      "bytes": 672996,
+      "sha256": "80cdfe7acdce212444181f35d695fca06432e7af22709e6e2ebf57ea7d8764e8"
     },
     {
       "path": "datasets/catalogs/ministry_nou_map.json",
@@ -358,33 +358,33 @@
       "path": "datasets/catalogs/nou_taxonomy_map.json",
       "table": "catalog:nou_taxonomy_map",
       "format": "json",
-      "rows": 1724,
-      "bytes": 507088,
-      "sha256": "2090dc0e83b9d22bf2244cefe54df7c74317457cb7588221851e05c38c8a5c8a"
+      "rows": 1743,
+      "bytes": 512953,
+      "sha256": "78865ce38743ab3fe2e441fbfbb78e52c6a96e346a652fa8c4750114472d0744"
     },
     {
       "path": "datasets/catalogs/nou_metadata_extra.json",
       "table": "catalog:nou_metadata_extra",
       "format": "json",
-      "rows": 1752,
-      "bytes": 584317,
-      "sha256": "d3afafa2cb490da1c212fca3607c5e1235c9c3283d6da6b6f2c76b77d6196f23"
+      "rows": 1751,
+      "bytes": 584198,
+      "sha256": "93e31b008aac1ba27c4f906ae1417ec9cba3f6680024db52f8aec28983b48984"
     },
     {
       "path": "datasets/catalogs/language_data.json",
       "table": "catalog:language_data",
       "format": "json",
-      "rows": 6,
-      "bytes": 26350,
-      "sha256": "8571ab4cd287f5f809aac49e71de1f0572b8c7a519181683892c8d3a602fe3b9"
+      "rows": 7,
+      "bytes": 43965,
+      "sha256": "411248f5e1a84a25ebb3faf73ae4a573e4a1cb64d775e553bd8dbf790f3e815e"
     },
     {
       "path": "datasets/catalogs/nynorsk_nous_catalog.json",
       "table": "catalog:nynorsk_nous_catalog",
       "format": "json",
       "rows": 41,
-      "bytes": 27760,
-      "sha256": "669a19ff7f9b23f57c006231cedc04769323b15f4646534f7ea0360ed65e7b0b"
+      "bytes": 13449,
+      "sha256": "ab452a482c6a1f3807bfa6d8e9781f3bc3f586d3d791afbe994268add4235743"
     },
     {
       "path": "datasets/catalogs/nokkeltematikker_dataset.json",
@@ -407,24 +407,24 @@
       "table": "catalog:nou_index_map",
       "format": "json",
       "rows": 2,
-      "bytes": 429439,
-      "sha256": "537bb0facb5b6765ffd181e88f05f6d75d92aeb85d0b7a3b5d27a301423c2f55"
+      "bytes": 435016,
+      "sha256": "f6d6220aae404b5b985d9b7f87a8d0522ea74a28bad708ce1cb5e03b0314b07c"
     },
     {
       "path": "datasets/catalogs/nou_slug_map.json",
       "table": "catalog:nou_slug_map",
       "format": "json",
-      "rows": 1726,
-      "bytes": 116843,
-      "sha256": "ced05c520090f088f888e6b7626716c7a90f917ccf12ca7605ba1012739681db"
+      "rows": 1743,
+      "bytes": 118206,
+      "sha256": "a7f0cf658c7661325ca15b499e41241609194a8e2da7c853da69b66295bf598a"
     },
     {
       "path": "podcasts/podcast_catalog.csv",
       "table": "podcasts_index",
       "format": "csv",
-      "rows": 782,
-      "bytes": 250053,
-      "sha256": "5cc775f1eb788f47374faa8ec88a5583e6e49e6f4d683e861cee8ad690d6a91a"
+      "rows": 780,
+      "bytes": 249934,
+      "sha256": "90deae18e2fec7095e19befe025a03f0993f7674edef768bbb6f6b682879a319"
     }
   ]
 }

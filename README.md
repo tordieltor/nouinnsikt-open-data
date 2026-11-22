@@ -15,8 +15,8 @@
 | Måleparameter / Metric | Verifisert tal / Verified Count | Kjelde i arkivet / Archive File |
 | :--- | :---: | :--- |
 | **Offisielle NOU-utgreiingar (1972–2026)** | **1 746** (`41` nynorsk / `1 705` bokmål) | [`datasets/relational/nous_flat.csv`](datasets/relational/nous_flat.csv) & [`nous.jsonl.gz`](datasets/relational/nous.jsonl.gz) |
-| **Fulltekst-ord & tekstbolkar** | **183 724 190+ ord** (`659 129` bolkar / `9 878 210+` setningar) | GitHub Release: `nou_chunks_text.jsonl.gz` & `nou_fulltext_markdown_1972_2026.tar.xz` |
-| **Utvalsleiarar, medlemmar & sekretariat** | **20 321** verifiserte roller (`11 806+` unike personar) | [`datasets/relational/nou_authors.csv`](datasets/relational/nou_authors.csv) |
+| **Fulltekst-ord & tekstbolkar** | **183 724 190+ ord** (`614 643` bolkar / `9 878 210+` setningar) | GitHub Release: `nou_chunks_text.jsonl.gz` & `nou_fulltext_markdown_1972_2026.tar.xz` |
+| **Utvalsleiarar, medlemmar & sekretariat** | **20 205** verifiserte roller (`11 806+` unike personar) | [`datasets/relational/nou_authors.csv`](datasets/relational/nou_authors.csv) |
 | **Politisk etterliv & lovsporing** | **9 603** rader fordelt på **8** relasjonstabellar (*høyringar, prop., voteringar, vedtak, lover*) | [`datasets/relational/nou_policy_lifecycle.csv`](datasets/relational/nou_policy_lifecycle.csv) m.fl. |
 | **Kryssiteringar mellom NOU-ar** | **7 878** retta siteringslenkjer | [`datasets/catalogs/relations_citations.json`](datasets/catalogs/relations_citations.json) |
 | **Registrerte særmerknader / dissensar** | **626** dissensar på tvers av **126** NOU-ar | [`datasets/catalogs/dissent_catalog.json`](datasets/catalogs/dissent_catalog.json) |
